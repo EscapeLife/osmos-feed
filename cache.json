@@ -19,6 +19,15 @@
           "publishedOn": "2021-08-06T00:23:21.000Z",
           "wordCount": 1007,
           "title": "科技爱好者周刊（第 170 期）：软件订阅制的胜利"
+        },
+        {
+          "id": "http://www.ruanyifeng.com/blog/2021/07/weekly-issue-169.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2021/07/weekly-issue-169.html",
+          "publishedOn": "2021-07-30T00:30:01.000Z",
+          "wordCount": 790,
+          "title": "科技爱好者周刊（第 169 期）：五菱汽车的产品设计"
         }
       ]
     },
@@ -63,6 +72,15 @@
           "publishedOn": "2021-08-09T07:43:02.000Z",
           "wordCount": 540,
           "title": "PromQL 使用多个 label 组合过滤"
+        },
+        {
+          "id": "https://www.kawabangga.com/?p=4467",
+          "author": "laixintao",
+          "description": "最近读完了这本讲监控的书：Prometheus Up & Running，学到很多东西，在博客上推荐一 […]\nContinue reading...\nThe post 《Prometheus Up & Running》阅读 first appeared on 卡瓦邦噶！.\n\n相关文章:\n\nP99 是如何计算的\nPromQL 使用多个 label 组合过滤\nPromQL 简明教程\n关于\nGitops 的一些实践经验",
+          "link": "https://www.kawabangga.com/posts/4467",
+          "publishedOn": "2021-08-02T14:45:03.000Z",
+          "wordCount": 554,
+          "title": "《Prometheus Up & Running》阅读"
         }
       ]
     },
@@ -82,7 +100,17 @@
       "title": "The Atom feed of Frost's blog",
       "feedUrl": "https://frostming.com/feed.xml",
       "siteUrl": "https://frostming.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://frostming.com/2021/07-30/python-subclassing-redux-cn/",
+          "author": null,
+          "description": "本文是 Subclassing in Python Redux 的中文版。在阅读的过程中，我发现与我的「友好的 Python」不谋而合，故向作者请求翻译此文。版权归原作者 Hynek Schlawack 所有。除非特别说明，本文所有的「我」均指原作者 Hynek。",
+          "link": "https://frostming.com/2021/07-30/python-subclassing-redux-cn/",
+          "publishedOn": "2021-07-30T17:32:28.000Z",
+          "wordCount": 882,
+          "title": "再谈 Python 中的继承（译）"
+        }
+      ]
     },
     {
       "title": "Posts on Jiayuan Thoughts",

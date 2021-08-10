@@ -16,4 +16,4 @@ sources:
   - href: http://blog.jiayuanzhang.com/post/index.xml # Jiayuan
   - href: https://xiantang.github.io/index.xml # xiantang
 
-cacheMaxDays: 7
+cacheMaxDays: 15

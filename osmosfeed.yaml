@@ -4,9 +4,8 @@ cacheUrl: https://www.escapelife.site/osmos-feed/cache.json
 
 sources:
   - href: https://coolshell.cn/feed # 酷壳
-  - href: http://www.ruanyifeng.com/blog # 阮一峰
+  - href: https://www.ruanyifeng.com/blog/atom.xml # 阮一峰
   - href: http://macshuo.com/?feed=rss2 # 池建强
-  - href: https://codechina.org/blog # Tinyfool
   - href: https://www.dongwm.com/atom.xml # 小明明
   - href: https://greyli.com/feed # 李辉
 
@@ -14,7 +13,7 @@ sources:
   - href: https://manjusaka.itscoder.com/atom.xml # Manjusaka
   - href: https://laike9m.com/blog/rss # laike9m
   - href: https://frostming.com/feed.xml # Frost
-  - href: http://blog.jiayuanzhang.com # Jiayuan
+  - href: http://blog.jiayuanzhang.com/post/index.xml # Jiayuan
   - href: https://xiantang.github.io/index.xml # xiantang
 
 cacheMaxDays: 7

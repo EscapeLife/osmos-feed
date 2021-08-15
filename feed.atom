@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2021-08-14T00:55:42.058Z</updated>
+    <updated>2021-08-15T00:59:33.458Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -74,16 +74,6 @@ PromQL 简明教程
 Gitops 的一些实践经验]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[再谈 Python 中的继承（译）]]></title>
-        <id>https://frostming.com/2021/07-30/python-subclassing-redux-cn/</id>
-        <link href="https://frostming.com/2021/07-30/python-subclassing-redux-cn/"/>
-        <updated>2021-07-30T17:32:28.000Z</updated>
-        <summary type="html"><![CDATA[本文是 Subclassing in Python Redux 的中文版。在阅读的过程中，我发现与我的「友好的 Python」不谋而合，故向作者请求翻译此文。版权归原作者 Hynek Schlawack 所有。除非特别说明，本文所有的「我」均指原作者 Hynek。]]></summary>
-        <author>
-            <name>The Atom feed of Frost's blog</name>
         </author>
     </entry>
 </feed>

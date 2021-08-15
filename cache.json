@@ -100,17 +100,7 @@
       "title": "The Atom feed of Frost's blog",
       "feedUrl": "https://frostming.com/feed.xml",
       "siteUrl": "https://frostming.com",
-      "articles": [
-        {
-          "id": "https://frostming.com/2021/07-30/python-subclassing-redux-cn/",
-          "author": null,
-          "description": "本文是 Subclassing in Python Redux 的中文版。在阅读的过程中，我发现与我的「友好的 Python」不谋而合，故向作者请求翻译此文。版权归原作者 Hynek Schlawack 所有。除非特别说明，本文所有的「我」均指原作者 Hynek。",
-          "link": "https://frostming.com/2021/07-30/python-subclassing-redux-cn/",
-          "publishedOn": "2021-07-30T17:32:28.000Z",
-          "wordCount": 882,
-          "title": "再谈 Python 中的继承（译）"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Posts on Jiayuan Thoughts",

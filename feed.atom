@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2021-08-17T00:58:39.516Z</updated>
+    <updated>2021-08-18T01:00:05.686Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -54,26 +54,6 @@ Linux文件打包和压缩命令总结]]></summary>
         <summary type="html"><![CDATA[真能这样吗？不一定，这是一种信念 上周末过了两天很纯粹的假期，没有看产品数据，也没安排什么任务。只是纯粹的读书、陪娃、逗猫、看奥运比赛，为老将呐喊。很过瘾，很治愈。 大小周是个逆时代潮流的事情，各大公司取消掉这种畸形制度，很好。两天休息可以很好的提升大家的幸福感。周末继续读《人的大地》，这本书有很多译名，比如《风沙星辰》《人类的大地》等等。写的是飞行、飞行员、探索、抗争、人和自然的故事。传奇的是，这本书的作者安托万·德·圣·埃克苏佩里，也就是《小王子》的作者，本身兼具两种职业，写作和飞行。他在写完这本书之后，自己也在一次执行飞行任务中失踪殉难，年仅 44 岁。 传奇人生。 作者在《人的大地》中写道：「我们对自身的了解，来自大地，更多于来自全部的书本。因为大地桀骛不驯。人在跟障碍较量时，才发现自己的价值。但是为了克服障碍，人需要一个工具。需要一把木刨或铁犁。农民在劳动中，逐渐窥探到自然界的一 … Continue reading →]]></summary>
         <author>
             <name>MacTalk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《Prometheus Up & Running》阅读]]></title>
-        <id>https://www.kawabangga.com/?p=4467</id>
-        <link href="https://www.kawabangga.com/posts/4467"/>
-        <updated>2021-08-02T14:45:03.000Z</updated>
-        <summary type="html"><![CDATA[最近读完了这本讲监控的书：Prometheus Up & Running，学到很多东西，在博客上推荐一 […]
-Continue reading...
-The post 《Prometheus Up & Running》阅读 first appeared on 卡瓦邦噶！.
-
-相关文章:
-
-P99 是如何计算的
-PromQL 使用多个 label 组合过滤
-PromQL 简明教程
-关于
-Gitops 的一些实践经验]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
 </feed>

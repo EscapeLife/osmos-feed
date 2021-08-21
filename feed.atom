@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2021-08-20T00:57:48.753Z</updated>
+    <updated>2021-08-21T00:57:17.048Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Django 优化数据库查询的一些经验]]></title>
+        <id>https://www.kawabangga.com/?p=4484</id>
+        <link href="https://www.kawabangga.com/posts/4484"/>
+        <updated>2021-08-20T12:06:12.000Z</updated>
+        <summary type="html"><![CDATA[ORM 帮我们节省了很多工作，基本上不用写 SQL，就可以完成很多 CRUD 操作，而且外键的关联也会自动被  […]
+Continue reading...
+The post Django 优化数据库查询的一些经验 first appeared on 卡瓦邦噶！.
+
+相关文章:
+
+PyCon China 2019演讲Slide: Django Migration Under the Hood
+辅助Django开发的一些隐藏资源（文档）
+Django的信号机制
+上海PyCon见！
+记一个 Python logging 多进程 rotate 问题]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 172 期）：我们会死于气候灾难吗？]]></title>
         <id>http://www.ruanyifeng.com/blog/2021/08/weekly-issue-172.html</id>
@@ -44,16 +64,6 @@ SLIC算法分割超像素原理及Python实现
 Linux文件打包和压缩命令总结]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 170 期）：软件订阅制的胜利]]></title>
-        <id>http://www.ruanyifeng.com/blog/2021/08/weekly-issue-170.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2021/08/weekly-issue-170.html"/>
-        <updated>2021-08-06T00:23:21.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
         </author>
     </entry>
 </feed>

@@ -62,15 +62,6 @@
           "publishedOn": "2021-08-20T12:06:12.000Z",
           "wordCount": 1036,
           "title": "Django 优化数据库查询的一些经验"
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=4476",
-          "author": "laixintao",
-          "description": "继《最近的工作感悟》中提到的大部分问题都解决了之后，有一些错误还是无法避免的，就试图想办法从监控系统中忽略掉。 […]\nContinue reading...\nThe post PromQL 使用多个 label 组合过滤 first appeared on 卡瓦邦噶！.\n\n相关文章:\n\n《Prometheus Up & Running》阅读\nPromQL 简明教程\nJoin Shopee & Work with Me!\nSLIC算法分割超像素原理及Python实现\nLinux文件打包和压缩命令总结",
-          "link": "https://www.kawabangga.com/posts/4476",
-          "publishedOn": "2021-08-09T07:43:02.000Z",
-          "wordCount": 540,
-          "title": "PromQL 使用多个 label 组合过滤"
         }
       ]
     },
@@ -78,7 +69,17 @@
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "http://manjusaka.itscoder.com/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://manjusaka.itscoder.com/posts/2021/08/24/a-little-problem-about-posix-node-js-execsync/",
+          "author": null,
+          "description": "<p>很久没写水文了，昨天帮人查了一个 Node.js 中 <code>execSync</code> 这个函数特殊行为的问题，很有趣，所以大概记录下来水一篇文章</p>",
+          "link": "http://manjusaka.itscoder.com/posts/2021/08/24/a-little-problem-about-posix-node-js-execsync/",
+          "publishedOn": "2021-08-24T21:00:00.000Z",
+          "wordCount": 826,
+          "title": "关于 Node.js 中 execSync 的一点问题"
+        }
+      ]
     },
     {
       "title": "laike9m's blog",

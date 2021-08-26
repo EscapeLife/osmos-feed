@@ -12,6 +12,15 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2021/08/best-note-taking-software-for-programmers.html",
+          "author": null,
+          "description": "程序员的笔记软件，应该满足下面几个条件。...",
+          "link": "http://www.ruanyifeng.com/blog/2021/08/best-note-taking-software-for-programmers.html",
+          "publishedOn": "2021-08-26T00:42:33.000Z",
+          "wordCount": 156,
+          "title": "最适合程序员的笔记软件"
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2021/08/weekly-issue-172.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。...",

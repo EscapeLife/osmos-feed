@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2021-08-25T00:58:55.494Z</updated>
+    <updated>2021-08-26T00:56:46.219Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[最适合程序员的笔记软件]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/08/best-note-taking-software-for-programmers.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/08/best-note-taking-software-for-programmers.html"/>
+        <updated>2021-08-26T00:42:33.000Z</updated>
+        <summary type="html"><![CDATA[程序员的笔记软件，应该满足下面几个条件。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于 Node.js 中 execSync 的一点问题]]></title>
         <id>http://manjusaka.itscoder.com/posts/2021/08/24/a-little-problem-about-posix-node-js-execsync/</id>

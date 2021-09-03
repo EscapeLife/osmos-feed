@@ -12,6 +12,15 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-174.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-174.html",
+          "publishedOn": "2021-09-03T00:30:50.000Z",
+          "wordCount": 524,
+          "title": "科技爱好者周刊（第 174 期）：全能程序员 vs 特长程序员"
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2021/08/weekly-issue-173.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。...",

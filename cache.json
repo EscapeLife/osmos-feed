@@ -37,15 +37,6 @@
           "publishedOn": "2021-08-26T00:42:33.000Z",
           "wordCount": 156,
           "title": "最适合程序员的笔记软件"
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2021/08/weekly-issue-172.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2021/08/weekly-issue-172.html",
-          "publishedOn": "2021-08-20T00:36:06.000Z",
-          "wordCount": 432,
-          "title": "科技爱好者周刊（第 172 期）：我们会死于气候灾难吗？"
         }
       ]
     },
@@ -80,15 +71,6 @@
           "publishedOn": "2021-08-26T11:22:32.000Z",
           "wordCount": 1292,
           "title": "Golang 的一个动态链接依赖问题"
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=4484",
-          "author": "laixintao",
-          "description": "ORM 帮我们节省了很多工作，基本上不用写 SQL，就可以完成很多 CRUD 操作，而且外键的关联也会自动被  […]\nContinue reading...\nThe post Django 优化数据库查询的一些经验 first appeared on 卡瓦邦噶！.\n\n相关文章:\n\nPyCon China 2019演讲Slide: Django Migration Under the Hood\n辅助Django开发的一些隐藏资源（文档）\nDjango的信号机制\n上海PyCon见！\n记一个 Python logging 多进程 rotate 问题",
-          "link": "https://www.kawabangga.com/posts/4484",
-          "publishedOn": "2021-08-20T12:06:12.000Z",
-          "wordCount": 1036,
-          "title": "Django 优化数据库查询的一些经验"
         }
       ]
     },

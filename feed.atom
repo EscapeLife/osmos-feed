@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2021-09-07T00:58:50.844Z</updated>
+    <updated>2021-09-08T00:59:31.214Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[《C 语言入门教程》发布了]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/09/c-language-tutorial.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/09/c-language-tutorial.html"/>
+        <updated>2021-09-07T07:54:29.000Z</updated>
+        <summary type="html"><![CDATA[向大家报告，我写了一本《C 语言入门教程》，已经上线了，欢迎访问。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 174 期）：全能程序员 vs 特长程序员]]></title>
         <id>http://www.ruanyifeng.com/blog/2021/09/weekly-issue-174.html</id>

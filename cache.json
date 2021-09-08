@@ -12,6 +12,15 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2021/09/c-language-tutorial.html",
+          "author": null,
+          "description": "向大家报告，我写了一本《C 语言入门教程》，已经上线了，欢迎访问。...",
+          "link": "http://www.ruanyifeng.com/blog/2021/09/c-language-tutorial.html",
+          "publishedOn": "2021-09-07T07:54:29.000Z",
+          "wordCount": 210,
+          "title": "《C 语言入门教程》发布了"
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-174.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。...",

@@ -3,6 +3,8 @@ siteTitle: "escapelife::feed"
 cacheUrl: https://www.escapelife.site/osmos-feed/cache.json
 
 sources:
+  - href: https://www.escapelife.site/atom.xml # Escape
+
   - href: https://coolshell.cn/feed # 酷壳
   - href: https://www.ruanyifeng.com/blog/atom.xml # 阮一峰
   - href: http://macshuo.com/?feed=rss2 # 池建强

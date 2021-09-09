@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2021-09-08T01:33:55.708Z</updated>
+    <updated>2021-09-09T01:04:00.585Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -37,6 +37,19 @@
         <summary type="html"><![CDATA[向大家报告，我写了一本《C 语言入门教程》，已经上线了，欢迎访问。...]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Appwrite后端开发神器]]></title>
+        <id>https://www.escapelife.site/posts/f7f63b46.html</id>
+        <link href="https://www.escapelife.site/posts/f7f63b46.html"/>
+        <updated>2021-09-03T10:27:11.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p><strong>面向移动和 Web 开发人员的开源后端服务器</strong></p>
+</blockquote>
+<p><code>Appwrite</code>]]></summary>
+        <author>
+            <name>Escape</name>
         </author>
     </entry>
     <entry>
@@ -101,16 +114,6 @@ Tmux内部分享slides]]></summary>
         <summary type="html"><![CDATA[程序员的笔记软件，应该满足下面几个条件。...]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于 Node.js 中 execSync 的一点问题]]></title>
-        <id>http://manjusaka.itscoder.com/posts/2021/08/24/a-little-problem-about-posix-node-js-execsync/</id>
-        <link href="http://manjusaka.itscoder.com/posts/2021/08/24/a-little-problem-about-posix-node-js-execsync/"/>
-        <updated>2021-08-24T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>很久没写水文了，昨天帮人查了一个 Node.js 中 <code>execSync</code> 这个函数特殊行为的问题，很有趣，所以大概记录下来水一篇文章</p>]]></summary>
-        <author>
-            <name>Manjusaka</name>
         </author>
     </entry>
 </feed>

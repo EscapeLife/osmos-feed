@@ -24,6 +24,15 @@
           "title": "Nginx缓存机制详解"
         },
         {
+          "id": "https://www.escapelife.site/posts/f7f63b46.html",
+          "author": null,
+          "description": "<blockquote>\n<p><strong>面向移动和 Web 开发人员的开源后端服务器</strong></p>\n</blockquote>\n<p><code>Appwrite</code>",
+          "link": "https://www.escapelife.site/posts/f7f63b46.html",
+          "publishedOn": "2021-09-03T10:27:11.000Z",
+          "wordCount": 395,
+          "title": "Appwrite后端开发神器"
+        },
+        {
           "id": "https://www.escapelife.site/posts/b7a3f647.html",
           "author": null,
           "description": "<blockquote>\n<p><strong>Kubernetes 支持对节点上的 AMD 和 NVIDIA 的 GPU 进行管理，目前处于实验状态。</strong></p>\n</blockquote>\n<ul>\n<li>用户如何在不同的",
@@ -121,17 +130,7 @@
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "http://manjusaka.itscoder.com/atom.xml",
-      "articles": [
-        {
-          "id": "http://manjusaka.itscoder.com/posts/2021/08/24/a-little-problem-about-posix-node-js-execsync/",
-          "author": null,
-          "description": "<p>很久没写水文了，昨天帮人查了一个 Node.js 中 <code>execSync</code> 这个函数特殊行为的问题，很有趣，所以大概记录下来水一篇文章</p>",
-          "link": "http://manjusaka.itscoder.com/posts/2021/08/24/a-little-problem-about-posix-node-js-execsync/",
-          "publishedOn": "2021-08-24T21:00:00.000Z",
-          "wordCount": 826,
-          "title": "关于 Node.js 中 execSync 的一点问题"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "laike9m's blog",

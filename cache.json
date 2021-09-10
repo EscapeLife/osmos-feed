@@ -55,6 +55,15 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-175.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-175.html",
+          "publishedOn": "2021-09-10T00:26:54.000Z",
+          "wordCount": 438,
+          "title": "科技爱好者周刊（第 175 期）：知识广度 vs 知识深度"
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2021/09/c-language-tutorial.html",
           "author": null,
           "description": "向大家报告，我写了一本《C 语言入门教程》，已经上线了，欢迎访问。...",
@@ -80,15 +89,6 @@
           "publishedOn": "2021-08-27T00:36:29.000Z",
           "wordCount": 444,
           "title": "科技爱好者周刊（第 173 期）：网络收音机的设计"
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2021/08/best-note-taking-software-for-programmers.html",
-          "author": null,
-          "description": "程序员的笔记软件，应该满足下面几个条件。...",
-          "link": "http://www.ruanyifeng.com/blog/2021/08/best-note-taking-software-for-programmers.html",
-          "publishedOn": "2021-08-26T00:42:33.000Z",
-          "wordCount": 156,
-          "title": "最适合程序员的笔记软件"
         }
       ]
     },
@@ -114,17 +114,7 @@
       "title": "卡瓦邦噶！",
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
-      "articles": [
-        {
-          "id": "https://www.kawabangga.com/?p=4495",
-          "author": "laixintao",
-          "description": "最近在重构一个非常古老的 build 流程（太多 bash script 了，准备重构到基于 golang:l […]\nContinue reading...\nThe post Golang 的一个动态链接依赖问题 first appeared on 卡瓦邦噶！.\n\n相关文章:\n\nSRE&Devops 每周分享 Issue #6 Closing\nGitlab自动部署方案（Systemd+nc）\n坑爹的部署脚本\nBuild 一个最小的 Redis Docker Image\nTmux内部分享slides",
-          "link": "https://www.kawabangga.com/posts/4495",
-          "publishedOn": "2021-08-26T11:22:32.000Z",
-          "wordCount": 1292,
-          "title": "Golang 的一个动态链接依赖问题"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Manjusaka",

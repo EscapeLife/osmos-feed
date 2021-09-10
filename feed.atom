@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2021-09-09T01:04:00.585Z</updated>
+    <updated>2021-09-10T01:04:49.748Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[<h1 id="2021-年第三季度总结"><a href="#2021-年第三季度总结" class="headerlink" title="2021 年第三季度总结"></a>2021]]></summary>
         <author>
             <name>Escape</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 175 期）：知识广度 vs 知识深度]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/09/weekly-issue-175.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/09/weekly-issue-175.html"/>
+        <updated>2021-09-10T00:26:54.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
         </author>
     </entry>
     <entry>
@@ -82,36 +92,6 @@
         <link href="http://www.ruanyifeng.com/blog/2021/08/weekly-issue-173.html"/>
         <updated>2021-08-27T00:36:29.000Z</updated>
         <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Golang 的一个动态链接依赖问题]]></title>
-        <id>https://www.kawabangga.com/?p=4495</id>
-        <link href="https://www.kawabangga.com/posts/4495"/>
-        <updated>2021-08-26T11:22:32.000Z</updated>
-        <summary type="html"><![CDATA[最近在重构一个非常古老的 build 流程（太多 bash script 了，准备重构到基于 golang:l […]
-Continue reading...
-The post Golang 的一个动态链接依赖问题 first appeared on 卡瓦邦噶！.
-
-相关文章:
-
-SRE&Devops 每周分享 Issue #6 Closing
-Gitlab自动部署方案（Systemd+nc）
-坑爹的部署脚本
-Build 一个最小的 Redis Docker Image
-Tmux内部分享slides]]></summary>
-        <author>
-            <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最适合程序员的笔记软件]]></title>
-        <id>http://www.ruanyifeng.com/blog/2021/08/best-note-taking-software-for-programmers.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2021/08/best-note-taking-software-for-programmers.html"/>
-        <updated>2021-08-26T00:42:33.000Z</updated>
-        <summary type="html"><![CDATA[程序员的笔记软件，应该满足下面几个条件。...]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
         </author>

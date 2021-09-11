@@ -31,15 +31,6 @@
           "publishedOn": "2021-09-03T10:27:11.000Z",
           "wordCount": 395,
           "title": "Appwrite后端开发神器"
-        },
-        {
-          "id": "https://www.escapelife.site/posts/b7a3f647.html",
-          "author": null,
-          "description": "<blockquote>\n<p><strong>Kubernetes 支持对节点上的 AMD 和 NVIDIA 的 GPU 进行管理，目前处于实验状态。</strong></p>\n</blockquote>\n<ul>\n<li>用户如何在不同的",
-          "link": "https://www.escapelife.site/posts/b7a3f647.html",
-          "publishedOn": "2021-08-27T06:35:12.000Z",
-          "wordCount": 372,
-          "title": "在K8S上调度GPU资源"
         }
       ]
     },
@@ -80,15 +71,6 @@
           "publishedOn": "2021-09-03T00:30:50.000Z",
           "wordCount": 524,
           "title": "科技爱好者周刊（第 174 期）：全能程序员 vs 特长程序员"
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2021/08/weekly-issue-173.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2021/08/weekly-issue-173.html",
-          "publishedOn": "2021-08-27T00:36:29.000Z",
-          "wordCount": 444,
-          "title": "科技爱好者周刊（第 173 期）：网络收音机的设计"
         }
       ]
     },

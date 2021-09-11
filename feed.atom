@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2021-09-10T01:04:49.748Z</updated>
+    <updated>2021-09-11T01:00:26.574Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -67,30 +67,6 @@
         <id>http://www.ruanyifeng.com/blog/2021/09/weekly-issue-174.html</id>
         <link href="http://www.ruanyifeng.com/blog/2021/09/weekly-issue-174.html"/>
         <updated>2021-09-03T00:30:50.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在K8S上调度GPU资源]]></title>
-        <id>https://www.escapelife.site/posts/b7a3f647.html</id>
-        <link href="https://www.escapelife.site/posts/b7a3f647.html"/>
-        <updated>2021-08-27T06:35:12.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p><strong>Kubernetes 支持对节点上的 AMD 和 NVIDIA 的 GPU 进行管理，目前处于实验状态。</strong></p>
-</blockquote>
-<ul>
-<li>用户如何在不同的]]></summary>
-        <author>
-            <name>Escape</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 173 期）：网络收音机的设计]]></title>
-        <id>http://www.ruanyifeng.com/blog/2021/08/weekly-issue-173.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2021/08/weekly-issue-173.html"/>
-        <updated>2021-08-27T00:36:29.000Z</updated>
         <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
         <author>
             <name>阮一峰的网络日志</name>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2021-09-11T01:00:26.574Z</updated>
+    <updated>2021-09-12T01:03:59.049Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -12,6 +12,19 @@
         <link href="https://www.escapelife.site/posts/6cc0b7a.html"/>
         <updated>2021-09-30T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h1 id="2021-年第三季度总结"><a href="#2021-年第三季度总结" class="headerlink" title="2021 年第三季度总结"></a>2021]]></summary>
+        <author>
+            <name>Escape</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 Snat 实现内网代理上网]]></title>
+        <id>https://www.escapelife.site/posts/31d11c32.html</id>
+        <link href="https://www.escapelife.site/posts/31d11c32.html"/>
+        <updated>2021-09-11T13:49:23.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p><strong>书上有路勤为径，学海无涯苦作舟！</strong></p>
+</blockquote>
+<p><code>NAT</code> 全名是 <code>Network Address]]></summary>
         <author>
             <name>Escape</name>
         </author>

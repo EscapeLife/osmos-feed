@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2021-09-12T01:03:59.049Z</updated>
+    <updated>2021-09-13T01:03:49.222Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -12,6 +12,20 @@
         <link href="https://www.escapelife.site/posts/6cc0b7a.html"/>
         <updated>2021-09-30T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h1 id="2021-年第三季度总结"><a href="#2021-年第三季度总结" class="headerlink" title="2021 年第三季度总结"></a>2021]]></summary>
+        <author>
+            <name>Escape</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitOps体系学习和理解]]></title>
+        <id>https://www.escapelife.site/posts/117cbee7.html</id>
+        <link href="https://www.escapelife.site/posts/117cbee7.html"/>
+        <updated>2021-09-12T09:53:10.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p><strong>什么是 GitOps 呢？</strong></p>
+</blockquote>
+<ol>
+<li><code>GitOps</code> 是一套使用 <code>Git</code> 来管理基础架构和应用配置的实践，而]]></summary>
         <author>
             <name>Escape</name>
         </author>
@@ -60,6 +74,18 @@
         <summary type="html"><![CDATA[向大家报告，我写了一本《C 语言入门教程》，已经上线了，欢迎访问。...]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go编程模式 ： 泛型编程]]></title>
+        <id>https://coolshell.cn/?p=21615</id>
+        <link href="https://coolshell.cn/articles/21615.html"/>
+        <updated>2021-09-04T05:44:02.000Z</updated>
+        <summary type="html"><![CDATA[Go语言的1.17版本发布了，其中开始正式支持泛型了。虽然还有一些限制（比如，不能把泛型函数export），但是，可以体验了。我的这个《Go编程模式》的系列终于...
+ Read More  Read More
+Go编程模式 ： 泛型编程 first appeared on 酷 壳 - CoolShell.]]></summary>
+        <author>
+            <name>陈皓</name>
         </author>
     </entry>
     <entry>

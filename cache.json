@@ -74,6 +74,15 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-176.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-176.html",
+          "publishedOn": "2021-09-17T00:34:58.000Z",
+          "wordCount": 459,
+          "title": "科技爱好者周刊（第 176 期）：中国法院承认 GPL 吗？"
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-175.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
@@ -157,5 +166,5 @@
       "articles": []
     }
   ],
-  "cliVersion": "1.11.0"
+  "cliVersion": "1.11.1"
 }

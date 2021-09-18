@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2021-09-17T01:08:20.185Z</updated>
+    <updated>2021-09-18T01:00:41.345Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -96,29 +96,6 @@
 Go编程模式 ： 泛型编程 first appeared on 酷 壳 - CoolShell.]]></summary>
         <author>
             <name>陈皓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Appwrite后端开发神器]]></title>
-        <id>https://www.escapelife.site/posts/f7f63b46.html</id>
-        <link href="https://www.escapelife.site/posts/f7f63b46.html"/>
-        <updated>2021-09-03T10:27:11.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p><strong>面向移动和 Web 开发人员的开源后端服务器</strong></p>
-</blockquote>
-<p><code>Appwrite</code>]]></summary>
-        <author>
-            <name>Escape</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 174 期）：全能程序员 vs 特长程序员]]></title>
-        <id>http://www.ruanyifeng.com/blog/2021/09/weekly-issue-174.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2021/09/weekly-issue-174.html"/>
-        <updated>2021-09-03T00:30:50.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
         </author>
     </entry>
 </feed>

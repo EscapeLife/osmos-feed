@@ -47,17 +47,7 @@
       "title": "酷 壳 – CoolShell",
       "feedUrl": "https://coolshell.cn/feed",
       "siteUrl": "https://coolshell.cn",
-      "articles": [
-        {
-          "id": "https://coolshell.cn/?p=21615",
-          "author": "陈皓",
-          "description": "Go语言的1.17版本发布了，其中开始正式支持泛型了。虽然还有一些限制（比如，不能把泛型函数export），但是，可以体验了。我的这个《Go编程模式》的系列终于...\n Read More  Read More\nGo编程模式 ： 泛型编程 first appeared on 酷 壳 - CoolShell.",
-          "link": "https://coolshell.cn/articles/21615.html",
-          "publishedOn": "2021-09-04T05:44:02.000Z",
-          "wordCount": 1860,
-          "title": "Go编程模式 ： 泛型编程"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "阮一峰的网络日志",

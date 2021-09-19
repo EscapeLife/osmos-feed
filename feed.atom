@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2021-09-18T01:00:41.345Z</updated>
+    <updated>2021-09-19T01:03:08.704Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -84,18 +84,6 @@
         <summary type="html"><![CDATA[向大家报告，我写了一本《C 语言入门教程》，已经上线了，欢迎访问。...]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go编程模式 ： 泛型编程]]></title>
-        <id>https://coolshell.cn/?p=21615</id>
-        <link href="https://coolshell.cn/articles/21615.html"/>
-        <updated>2021-09-04T05:44:02.000Z</updated>
-        <summary type="html"><![CDATA[Go语言的1.17版本发布了，其中开始正式支持泛型了。虽然还有一些限制（比如，不能把泛型函数export），但是，可以体验了。我的这个《Go编程模式》的系列终于...
- Read More  Read More
-Go编程模式 ： 泛型编程 first appeared on 酷 壳 - CoolShell.]]></summary>
-        <author>
-            <name>陈皓</name>
         </author>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2021-09-21T01:03:20.328Z</updated>
+    <updated>2021-09-22T01:04:22.887Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[<h1 id="2021-年第三季度总结"><a href="#2021-年第三季度总结" class="headerlink" title="2021 年第三季度总结"></a>2021]]></summary>
         <author>
             <name>Escape</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯总理的几何题]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/09/geometry-puzzle.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/09/geometry-puzzle.html"/>
+        <updated>2021-09-22T00:16:25.000Z</updated>
+        <summary type="html"><![CDATA[9月1日是俄罗斯的知识节，因为这一天是各级学校的开学日，象征进入知识宝库的日子。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
         </author>
     </entry>
     <entry>
@@ -74,16 +84,6 @@
 <p><code>Nginx</code> 缓存作为性能优化的一个重要手段，可以极大减轻后端服务器的负载。下面我们将介绍]]></summary>
         <author>
             <name>Escape</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《C 语言入门教程》发布了]]></title>
-        <id>http://www.ruanyifeng.com/blog/2021/09/c-language-tutorial.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2021/09/c-language-tutorial.html"/>
-        <updated>2021-09-07T07:54:29.000Z</updated>
-        <summary type="html"><![CDATA[向大家报告，我写了一本《C 语言入门教程》，已经上线了，欢迎访问。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
         </author>
     </entry>
 </feed>

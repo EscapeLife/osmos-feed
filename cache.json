@@ -55,6 +55,15 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2021/09/geometry-puzzle.html",
+          "author": null,
+          "description": "9月1日是俄罗斯的知识节，因为这一天是各级学校的开学日，象征进入知识宝库的日子。...",
+          "link": "http://www.ruanyifeng.com/blog/2021/09/geometry-puzzle.html",
+          "publishedOn": "2021-09-22T00:16:25.000Z",
+          "wordCount": 101,
+          "title": "俄罗斯总理的几何题"
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-176.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
@@ -71,15 +80,6 @@
           "publishedOn": "2021-09-10T00:26:54.000Z",
           "wordCount": 438,
           "title": "科技爱好者周刊（第 175 期）：知识广度 vs 知识深度"
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2021/09/c-language-tutorial.html",
-          "author": null,
-          "description": "向大家报告，我写了一本《C 语言入门教程》，已经上线了，欢迎访问。...",
-          "link": "http://www.ruanyifeng.com/blog/2021/09/c-language-tutorial.html",
-          "publishedOn": "2021-09-07T07:54:29.000Z",
-          "wordCount": 210,
-          "title": "《C 语言入门教程》发布了"
         }
       ]
     },

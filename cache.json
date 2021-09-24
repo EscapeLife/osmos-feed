@@ -46,6 +46,15 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-177.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。（[通知] 下周五是十一假期，周刊会提前一天，9月30日周四发布。）...",
+          "link": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-177.html",
+          "publishedOn": "2021-09-24T00:31:18.000Z",
+          "wordCount": 469,
+          "title": "科技爱好者周刊（第 177 期）：iPad 的真正用途"
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2021/09/geometry-puzzle.html",
           "author": null,
           "description": "9月1日是俄罗斯的知识节，因为这一天是各级学校的开学日，象征进入知识宝库的日子。...",

@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2021-09-26T01:04:29.287Z</updated>
-    <generator>osmosfeed 1.11.1</generator>
+    <updated>2021-09-27T01:02:28.338Z</updated>
+    <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
     <entry>
@@ -44,33 +44,6 @@
         <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitOps体系学习和理解]]></title>
-        <id>https://www.escapelife.site/posts/117cbee7.html</id>
-        <link href="https://www.escapelife.site/posts/117cbee7.html"/>
-        <updated>2021-09-12T09:53:10.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p><strong>什么是 GitOps 呢？</strong></p>
-</blockquote>
-<ol>
-<li><code>GitOps</code> 是一套使用 <code>Git</code> 来管理基础架构和应用配置的实践，而]]></summary>
-        <author>
-            <name>Escape</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用 Snat 实现内网代理上网]]></title>
-        <id>https://www.escapelife.site/posts/31d11c32.html</id>
-        <link href="https://www.escapelife.site/posts/31d11c32.html"/>
-        <updated>2021-09-11T13:49:23.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p><strong>书上有路勤为径，学海无涯苦作舟！</strong></p>
-</blockquote>
-<p><code>NAT</code> 全名是 <code>Network Address]]></summary>
-        <author>
-            <name>Escape</name>
         </author>
     </entry>
 </feed>

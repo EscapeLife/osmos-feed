@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2021-09-28T01:03:25.359Z</updated>
+    <updated>2021-09-29T01:00:38.783Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -12,6 +12,19 @@
         <link href="https://www.escapelife.site/posts/6cc0b7a.html"/>
         <updated>2021-09-30T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h1 id="2021-年第三季度总结"><a href="#2021-年第三季度总结" class="headerlink" title="2021 年第三季度总结"></a>2021]]></summary>
+        <author>
+            <name>Escape</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes之再识新版HELM]]></title>
+        <id>https://www.escapelife.site/posts/eb8ef4fd.html</id>
+        <link href="https://www.escapelife.site/posts/eb8ef4fd.html"/>
+        <updated>2021-09-25T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p><strong>Helm 是查找、分享和使用软件构建 Kubernetes 的最优方式！</strong></p>
+</blockquote>
+<p><code>Helm</code> 帮助您管理 <code>Kubernetes</code>]]></summary>
         <author>
             <name>Escape</name>
         </author>

@@ -13,6 +13,15 @@
           "publishedOn": "2021-09-30T12:00:00.000Z",
           "wordCount": 229,
           "title": "2021年第三季度总结"
+        },
+        {
+          "id": "https://www.escapelife.site/posts/eb8ef4fd.html",
+          "author": null,
+          "description": "<blockquote>\n<p><strong>Helm 是查找、分享和使用软件构建 Kubernetes 的最优方式！</strong></p>\n</blockquote>\n<p><code>Helm</code> 帮助您管理 <code>Kubernetes</code>",
+          "link": "https://www.escapelife.site/posts/eb8ef4fd.html",
+          "publishedOn": "2021-09-25T04:00:00.000Z",
+          "wordCount": 794,
+          "title": "Kubernetes之再识新版HELM"
         }
       ]
     },

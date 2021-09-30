@@ -37,6 +37,15 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2021/09/detecting-mobile-browser.html",
+          "author": null,
+          "description": "有时候，前端网页需要知道，用户使用的是手机浏览器还是桌面浏览器。...",
+          "link": "http://www.ruanyifeng.com/blog/2021/09/detecting-mobile-browser.html",
+          "publishedOn": "2021-09-29T01:19:08.000Z",
+          "wordCount": 335,
+          "title": "JavaScript 侦测手机浏览器的五种方法"
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-177.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。（[通知] 下周五是十一假期，周刊会提前一天，9月30日周四发布。）...",

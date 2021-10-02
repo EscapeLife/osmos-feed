@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2021-10-01T01:07:26.226Z</updated>
+    <updated>2021-10-02T01:02:05.393Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -68,16 +68,6 @@
 <p><strong>出自腾讯 Github 仓库的 <a]]></summary>
         <author>
             <name>Escape</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 176 期）：中国法院承认 GPL 吗？]]></title>
-        <id>http://www.ruanyifeng.com/blog/2021/09/weekly-issue-176.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2021/09/weekly-issue-176.html"/>
-        <updated>2021-09-17T00:34:58.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
         </author>
     </entry>
 </feed>

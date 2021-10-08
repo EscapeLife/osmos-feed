@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2021-10-07T01:06:12.889Z</updated>
+    <updated>2021-10-08T01:07:28.656Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 178 期）：家庭太阳能发电的春天]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html"/>
+        <updated>2021-10-08T00:38:02.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 年 Flask 用户调查报告]]></title>
+        <id>https://greyli.com/?p=3985</id>
+        <link href="https://greyli.com/flask-report-2021/"/>
+        <updated>2021-10-07T10:06:23.000Z</updated>
+        <summary type="html"><![CDATA[七月份创建了一个 Flask 用户调查问卷，到目前为止一共收集到 104 份提交，感谢各位的参与！这篇文章会对 […]]]></summary>
+        <author>
+            <name>李辉</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021年第三季度总结]]></title>
         <id>https://www.escapelife.site/posts/6cc0b7a.html</id>

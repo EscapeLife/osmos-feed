@@ -37,6 +37,15 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html",
+          "publishedOn": "2021-10-08T00:38:02.000Z",
+          "wordCount": 416,
+          "title": "科技爱好者周刊（第 178 期）：家庭太阳能发电的春天"
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2021/09/detecting-mobile-browser.html",
           "author": null,
           "description": "有时候，前端网页需要知道，用户使用的是手机浏览器还是桌面浏览器。...",
@@ -72,7 +81,17 @@
       "title": "李辉",
       "feedUrl": "https://greyli.com/feed",
       "siteUrl": "https://greyli.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://greyli.com/?p=3985",
+          "author": "李辉",
+          "description": "七月份创建了一个 Flask 用户调查问卷，到目前为止一共收集到 104 份提交，感谢各位的参与！这篇文章会对 […]",
+          "link": "https://greyli.com/flask-report-2021/",
+          "publishedOn": "2021-10-07T10:06:23.000Z",
+          "wordCount": 272,
+          "title": "2021 年 Flask 用户调查报告"
+        }
+      ]
     },
     {
       "title": "卡瓦邦噶！",

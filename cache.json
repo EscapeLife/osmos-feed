@@ -53,15 +53,6 @@
           "publishedOn": "2021-09-29T01:19:08.000Z",
           "wordCount": 335,
           "title": "JavaScript 侦测手机浏览器的五种方法"
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-177.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。（[通知] 下周五是十一假期，周刊会提前一天，9月30日周四发布。）...",
-          "link": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-177.html",
-          "publishedOn": "2021-09-24T00:31:18.000Z",
-          "wordCount": 469,
-          "title": "科技爱好者周刊（第 177 期）：iPad 的真正用途"
         }
       ]
     },
@@ -82,6 +73,15 @@
       "feedUrl": "https://greyli.com/feed",
       "siteUrl": "https://greyli.com",
       "articles": [
+        {
+          "id": "https://greyli.com/?p=4002",
+          "author": "李辉",
+          "description": "上一次参加捕蛇者说播客不仅聊了 Flask 和开源（见《和捕蛇者说聊聊 Flask 2.0》），也聊了自由职业 […]",
+          "link": "https://greyli.com/freelance-talk/",
+          "publishedOn": "2021-10-08T07:15:53.000Z",
+          "wordCount": 78,
+          "title": "和捕蛇者说聊聊自由职业"
+        },
         {
           "id": "https://greyli.com/?p=3985",
           "author": "李辉",

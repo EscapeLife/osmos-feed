@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2021-10-13T01:05:59.948Z</updated>
+    <updated>2021-10-14T01:03:34.764Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -44,16 +44,6 @@
         <summary type="html"><![CDATA[<h1 id="2021-年第三季度总结"><a href="#2021-年第三季度总结" class="headerlink" title="2021 年第三季度总结"></a>2021]]></summary>
         <author>
             <name>Escape</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript 侦测手机浏览器的五种方法]]></title>
-        <id>http://www.ruanyifeng.com/blog/2021/09/detecting-mobile-browser.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2021/09/detecting-mobile-browser.html"/>
-        <updated>2021-09-29T01:19:08.000Z</updated>
-        <summary type="html"><![CDATA[有时候，前端网页需要知道，用户使用的是手机浏览器还是桌面浏览器。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
         </author>
     </entry>
 </feed>

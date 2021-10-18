@@ -16,6 +16,5 @@ sources:
   - href: https://laike9m.com/blog/rss # laike9m
   - href: https://frostming.com/feed.xml # Frost
   - href: http://blog.jiayuanzhang.com/post/index.xml # Jiayuan
-  - href: https://xiantang.github.io/index.xml # xiantang
 
 cacheMaxDays: 15

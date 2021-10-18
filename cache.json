@@ -1,0 +1,119 @@
+{
+  "sources": [
+    {
+      "title": "Escape",
+      "feedUrl": "https://www.escapelife.site/atom.xml",
+      "siteUrl": "https://www.escapelife.site/atom.xml",
+      "articles": []
+    },
+    {
+      "title": "酷 壳 – CoolShell",
+      "feedUrl": "https://coolshell.cn/feed",
+      "siteUrl": "https://coolshell.cn",
+      "articles": []
+    },
+    {
+      "title": "阮一峰的网络日志",
+      "feedUrl": "https://www.ruanyifeng.com/blog/atom.xml",
+      "siteUrl": "http://www.ruanyifeng.com/blog/",
+      "articles": [
+        {
+          "id": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-179.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-179.html",
+          "publishedOn": "2021-10-15T00:37:00.000Z",
+          "wordCount": 1014,
+          "title": "科技爱好者周刊（第 179 期）：AR 技术的打开方式"
+        },
+        {
+          "id": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html",
+          "publishedOn": "2021-10-08T00:38:02.000Z",
+          "wordCount": 1056,
+          "title": "科技爱好者周刊（第 178 期）：家庭太阳能发电的春天"
+        }
+      ]
+    },
+    {
+      "title": "MacTalk-池建强的随想录",
+      "feedUrl": "http://macshuo.com/?feed=rss2",
+      "siteUrl": "http://macshuo.com",
+      "articles": []
+    },
+    {
+      "title": "小明明s à domicile",
+      "feedUrl": "https://www.dongwm.com/atom.xml",
+      "siteUrl": "www.dongwm.com",
+      "articles": [
+        {
+          "id": "https://www.dongwm.com/post/talk-about-writebook-and-something/",
+          "author": null,
+          "description": "闲来无事，写一篇关于写书、演讲、做网红以及技术变现等相关的内容。这里面有我这几年对这些内容的观察、理解和经验，希望对大家能有一点启发。",
+          "link": "https://www.dongwm.com/post/talk-about-writebook-and-something/",
+          "publishedOn": "2021-10-14T13:26:18.130Z",
+          "wordCount": 217,
+          "title": "聊聊写书、技术会议、知名度和变现"
+        }
+      ]
+    },
+    {
+      "title": "李辉",
+      "feedUrl": "https://greyli.com/feed",
+      "siteUrl": "https://greyli.com",
+      "articles": [
+        {
+          "id": "https://greyli.com/?p=4002",
+          "author": "李辉",
+          "description": "上一次参加捕蛇者说播客不仅聊了 Flask 和开源（见《和捕蛇者说聊聊 Flask 2.0》），也聊了自由职业 […]",
+          "link": "https://greyli.com/freelance-talk/",
+          "publishedOn": "2021-10-08T07:15:53.000Z",
+          "wordCount": 78,
+          "title": "和捕蛇者说聊聊自由职业"
+        },
+        {
+          "id": "https://greyli.com/?p=3985",
+          "author": "李辉",
+          "description": "七月份创建了一个 Flask 用户调查问卷，到目前为止一共收集到 104 份提交，感谢各位的参与！这篇文章会对 […]",
+          "link": "https://greyli.com/flask-report-2021/",
+          "publishedOn": "2021-10-07T10:06:23.000Z",
+          "wordCount": 278,
+          "title": "2021 年 Flask 用户调查报告"
+        }
+      ]
+    },
+    {
+      "title": "卡瓦邦噶！",
+      "feedUrl": "https://www.kawabangga.com/feed",
+      "siteUrl": "https://www.kawabangga.com",
+      "articles": []
+    },
+    {
+      "title": "Manjusaka",
+      "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
+      "siteUrl": "http://manjusaka.itscoder.com/atom.xml",
+      "articles": []
+    },
+    {
+      "title": "laike9m's blog",
+      "feedUrl": "https://laike9m.com/blog/rss",
+      "siteUrl": "https://laike9m.com/blog/rss",
+      "articles": []
+    },
+    {
+      "title": "The Atom feed of Frost's blog",
+      "feedUrl": "https://frostming.com/feed.xml",
+      "siteUrl": "https://frostming.com",
+      "articles": []
+    },
+    {
+      "title": "Posts on Jiayuan Thoughts",
+      "feedUrl": "http://blog.jiayuanzhang.com/post/index.xml",
+      "siteUrl": "http://blog.jiayuanzhang.com/post/",
+      "articles": []
+    }
+  ],
+  "cliVersion": "1.11.3"
+}

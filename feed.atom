@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2021-10-14T01:03:34.764Z</updated>
-    <generator>osmosfeed 1.11.2</generator>
+    <updated>2021-10-18T12:55:57.828Z</updated>
+    <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 179 期）：AR 技术的打开方式]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/10/weekly-issue-179.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/10/weekly-issue-179.html"/>
+        <updated>2021-10-15T00:37:00.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聊聊写书、技术会议、知名度和变现]]></title>
+        <id>https://www.dongwm.com/post/talk-about-writebook-and-something/</id>
+        <link href="https://www.dongwm.com/post/talk-about-writebook-and-something/"/>
+        <updated>2021-10-14T13:26:18.130Z</updated>
+        <summary type="html"><![CDATA[闲来无事，写一篇关于写书、演讲、做网红以及技术变现等相关的内容。这里面有我这几年对这些内容的观察、理解和经验，希望对大家能有一点启发。]]></summary>
+        <author>
+            <name>小明明s à domicile</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[和捕蛇者说聊聊自由职业]]></title>
         <id>https://greyli.com/?p=4002</id>
@@ -34,16 +54,6 @@
         <summary type="html"><![CDATA[七月份创建了一个 Flask 用户调查问卷，到目前为止一共收集到 104 份提交，感谢各位的参与！这篇文章会对 […]]]></summary>
         <author>
             <name>李辉</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年第三季度总结]]></title>
-        <id>https://www.escapelife.site/posts/6cc0b7a.html</id>
-        <link href="https://www.escapelife.site/posts/6cc0b7a.html"/>
-        <updated>2021-09-30T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<h1 id="2021-年第三季度总结"><a href="#2021-年第三季度总结" class="headerlink" title="2021 年第三季度总结"></a>2021]]></summary>
-        <author>
-            <name>Escape</name>
         </author>
     </entry>
 </feed>

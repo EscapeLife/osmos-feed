@@ -28,6 +28,15 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-180.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-180.html",
+          "publishedOn": "2021-10-22T00:35:24.000Z",
+          "wordCount": 461,
+          "title": "科技爱好者周刊（第 180 期）：你想住在中国哪里？"
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-179.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
@@ -82,15 +91,6 @@
           "publishedOn": "2021-10-08T07:15:53.000Z",
           "wordCount": 78,
           "title": "和捕蛇者说聊聊自由职业"
-        },
-        {
-          "id": "https://greyli.com/?p=3985",
-          "author": "李辉",
-          "description": "七月份创建了一个 Flask 用户调查问卷，到目前为止一共收集到 104 份提交，感谢各位的参与！这篇文章会对 […]",
-          "link": "https://greyli.com/flask-report-2021/",
-          "publishedOn": "2021-10-07T10:06:23.000Z",
-          "wordCount": 278,
-          "title": "2021 年 Flask 用户调查报告"
         }
       ]
     },
@@ -99,6 +99,15 @@
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
+        {
+          "id": "https://www.kawabangga.com/?p=4558",
+          "author": "laixintao",
+          "description": "今天花了很长的时间在排查一个诡异的问题，值得记录一下。 本来是想写一个 HTTP 的服务，你告诉这个 HTTP […]\nContinue reading...\nThe post Debug 一个在 uWSGI 下使用 subprocess 卡住的问题 first appeared on 卡瓦邦噶！.\n\n相关文章:\n\nuWSGI socket 队列被占满的问题\n部署 Django 项目背后的原理：为什么需要 Nginx 和 Gunicron这些东西？\n我的线程池怎么没了？\n使用uWSGI的spooler做异步任务\nDjango的日志配置",
+          "link": "https://www.kawabangga.com/posts/4558",
+          "publishedOn": "2021-10-21T17:52:43.000Z",
+          "wordCount": 1822,
+          "title": "Debug 一个在 uWSGI 下使用 subprocess 卡住的问题"
+        },
         {
           "id": "https://www.kawabangga.com/?p=4515",
           "author": "laixintao",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2021-10-21T01:13:30.676Z</updated>
+    <updated>2021-10-22T01:14:22.961Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -14,6 +14,36 @@
         <summary type="html"><![CDATA[<h1 id="2021-年第四季度总结"><a href="#2021-年第四季度总结" class="headerlink" title="2021 年第四季度总结"></a>2021]]></summary>
         <author>
             <name>Escape</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 180 期）：你想住在中国哪里？]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/10/weekly-issue-180.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/10/weekly-issue-180.html"/>
+        <updated>2021-10-22T00:35:24.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debug 一个在 uWSGI 下使用 subprocess 卡住的问题]]></title>
+        <id>https://www.kawabangga.com/?p=4558</id>
+        <link href="https://www.kawabangga.com/posts/4558"/>
+        <updated>2021-10-21T17:52:43.000Z</updated>
+        <summary type="html"><![CDATA[今天花了很长的时间在排查一个诡异的问题，值得记录一下。 本来是想写一个 HTTP 的服务，你告诉这个 HTTP […]
+Continue reading...
+The post Debug 一个在 uWSGI 下使用 subprocess 卡住的问题 first appeared on 卡瓦邦噶！.
+
+相关文章:
+
+uWSGI socket 队列被占满的问题
+部署 Django 项目背后的原理：为什么需要 Nginx 和 Gunicron这些东西？
+我的线程池怎么没了？
+使用uWSGI的spooler做异步任务
+Django的日志配置]]></summary>
+        <author>
+            <name>laixintao</name>
         </author>
     </entry>
     <entry>
@@ -84,16 +114,6 @@ Vim LSP 配置]]></summary>
         <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 年 Flask 用户调查报告]]></title>
-        <id>https://greyli.com/?p=3985</id>
-        <link href="https://greyli.com/flask-report-2021/"/>
-        <updated>2021-10-07T10:06:23.000Z</updated>
-        <summary type="html"><![CDATA[七月份创建了一个 Flask 用户调查问卷，到目前为止一共收集到 104 份提交，感谢各位的参与！这篇文章会对 […]]]></summary>
-        <author>
-            <name>李辉</name>
         </author>
     </entry>
 </feed>

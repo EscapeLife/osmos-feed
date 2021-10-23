@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2021-10-22T01:14:22.961Z</updated>
+    <updated>2021-10-23T01:06:04.581Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[<h1 id="2021-年第四季度总结"><a href="#2021-年第四季度总结" class="headerlink" title="2021 年第四季度总结"></a>2021]]></summary>
         <author>
             <name>Escape</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[和中学生们聊聊学习和使用 Python 的趣事]]></title>
+        <id>https://greyli.com/?p=4043</id>
+        <link href="https://greyli.com/pycon-china-2021-young-pythonistas/"/>
+        <updated>2021-10-22T14:49:09.000Z</updated>
+        <summary type="html"><![CDATA[录像：bilibili ｜ YouTube 嘉宾：王俊杰 / 胡博文 / Andy Zhou / Rice Z […]]]></summary>
+        <author>
+            <name>李辉</name>
         </author>
     </entry>
     <entry>
@@ -77,6 +87,19 @@ Vim LSP 配置]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Python调用系统命令卡住]]></title>
+        <id>https://www.escapelife.site/posts/3aa0befe.html</id>
+        <link href="https://www.escapelife.site/posts/3aa0befe.html"/>
+        <updated>2021-10-16T04:22:33.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p><strong>简单记录一下问题的排除过程，和对应的处理方式！</strong></p>
+</blockquote>
+<p><img src="../images/python-subprocess-pipe-stdout.jpg"]]></summary>
+        <author>
+            <name>Escape</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 179 期）：AR 技术的打开方式]]></title>
         <id>http://www.ruanyifeng.com/blog/2021/10/weekly-issue-179.html</id>
         <link href="http://www.ruanyifeng.com/blog/2021/10/weekly-issue-179.html"/>
@@ -94,26 +117,6 @@ Vim LSP 配置]]></summary>
         <summary type="html"><![CDATA[闲来无事，写一篇关于写书、演讲、做网红以及技术变现等相关的内容。这里面有我这几年对这些内容的观察、理解和经验，希望对大家能有一点启发。]]></summary>
         <author>
             <name>小明明s à domicile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[和捕蛇者说聊聊自由职业]]></title>
-        <id>https://greyli.com/?p=4002</id>
-        <link href="https://greyli.com/freelance-talk/"/>
-        <updated>2021-10-08T07:15:53.000Z</updated>
-        <summary type="html"><![CDATA[上一次参加捕蛇者说播客不仅聊了 Flask 和开源（见《和捕蛇者说聊聊 Flask 2.0》），也聊了自由职业 […]]]></summary>
-        <author>
-            <name>李辉</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 178 期）：家庭太阳能发电的春天]]></title>
-        <id>http://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html"/>
-        <updated>2021-10-08T00:38:02.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
         </author>
     </entry>
 </feed>

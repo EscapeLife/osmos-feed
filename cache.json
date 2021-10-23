@@ -13,6 +13,15 @@
           "publishedOn": "2021-12-31T12:00:00.000Z",
           "wordCount": 120,
           "title": "2021年第四季度总结"
+        },
+        {
+          "id": "https://www.escapelife.site/posts/3aa0befe.html",
+          "author": null,
+          "description": "<blockquote>\n<p><strong>简单记录一下问题的排除过程，和对应的处理方式！</strong></p>\n</blockquote>\n<p><img src=\"../images/python-subprocess-pipe-stdout.jpg\"",
+          "link": "https://www.escapelife.site/posts/3aa0befe.html",
+          "publishedOn": "2021-10-16T04:22:33.000Z",
+          "wordCount": 575,
+          "title": "Python调用系统命令卡住"
         }
       ]
     },
@@ -44,15 +53,6 @@
           "publishedOn": "2021-10-15T00:37:00.000Z",
           "wordCount": 1014,
           "title": "科技爱好者周刊（第 179 期）：AR 技术的打开方式"
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html",
-          "publishedOn": "2021-10-08T00:38:02.000Z",
-          "wordCount": 1056,
-          "title": "科技爱好者周刊（第 178 期）：家庭太阳能发电的春天"
         }
       ]
     },
@@ -84,13 +84,13 @@
       "siteUrl": "https://greyli.com",
       "articles": [
         {
-          "id": "https://greyli.com/?p=4002",
+          "id": "https://greyli.com/?p=4043",
           "author": "李辉",
-          "description": "上一次参加捕蛇者说播客不仅聊了 Flask 和开源（见《和捕蛇者说聊聊 Flask 2.0》），也聊了自由职业 […]",
-          "link": "https://greyli.com/freelance-talk/",
-          "publishedOn": "2021-10-08T07:15:53.000Z",
-          "wordCount": 78,
-          "title": "和捕蛇者说聊聊自由职业"
+          "description": "录像：bilibili ｜ YouTube 嘉宾：王俊杰 / 胡博文 / Andy Zhou / Rice Z […]",
+          "link": "https://greyli.com/pycon-china-2021-young-pythonistas/",
+          "publishedOn": "2021-10-22T14:49:09.000Z",
+          "wordCount": 125,
+          "title": "和中学生们聊聊学习和使用 Python 的趣事"
         }
       ]
     },

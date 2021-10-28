@@ -100,6 +100,15 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=4576",
+          "author": "laixintao",
+          "description": "上周末写了一个小工具，叫做 Lobbyboy（源代码：https://github.com/laixintao […]\nContinue reading...\nThe post 介绍 Lobbyboy 项目 first appeared on 卡瓦邦噶！.\n\n相关文章:\n\nPyCon China 2019演讲Slide: Django Migration Under the Hood\n杭州PyCon 2019 Slide: 《做Side Project的几个建议》\nPython 文化中的接口和协议 Slides\nTmux内部分享slides\nZoom 直播分享 Awesome Commandline 录像和资料下载",
+          "link": "https://www.kawabangga.com/posts/4576",
+          "publishedOn": "2021-10-27T10:00:07.000Z",
+          "wordCount": 646,
+          "title": "介绍 Lobbyboy 项目"
+        },
+        {
           "id": "https://www.kawabangga.com/?p=4558",
           "author": "laixintao",
           "description": "今天花了很长的时间在排查一个诡异的问题，值得记录一下。 本来是想写一个 HTTP 的服务，你告诉这个 HTTP […]\nContinue reading...\nThe post Debug 一个在 uWSGI 下使用 subprocess 卡住的问题 first appeared on 卡瓦邦噶！.\n\n相关文章:\n\nuWSGI socket 队列被占满的问题\n部署 Django 项目背后的原理：为什么需要 Nginx 和 Gunicron这些东西？\n我的线程池怎么没了？\n使用uWSGI的spooler做异步任务\nDjango的日志配置",

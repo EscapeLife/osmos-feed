@@ -37,6 +37,15 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-181.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-181.html",
+          "publishedOn": "2021-10-29T01:02:26.000Z",
+          "wordCount": 1031,
+          "title": "科技爱好者周刊（第 181 期）：移动支付应该怎么设计？"
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-180.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
@@ -44,15 +53,6 @@
           "publishedOn": "2021-10-22T00:35:24.000Z",
           "wordCount": 461,
           "title": "科技爱好者周刊（第 180 期）：你想住在中国哪里？"
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-179.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-179.html",
-          "publishedOn": "2021-10-15T00:37:00.000Z",
-          "wordCount": 1014,
-          "title": "科技爱好者周刊（第 179 期）：AR 技术的打开方式"
         }
       ]
     },
@@ -66,17 +66,7 @@
       "title": "小明明s à domicile",
       "feedUrl": "https://www.dongwm.com/atom.xml",
       "siteUrl": "www.dongwm.com",
-      "articles": [
-        {
-          "id": "https://www.dongwm.com/post/talk-about-writebook-and-something/",
-          "author": null,
-          "description": "闲来无事，写一篇关于写书、演讲、做网红以及技术变现等相关的内容。这里面有我这几年对这些内容的观察、理解和经验，希望对大家能有一点启发。",
-          "link": "https://www.dongwm.com/post/talk-about-writebook-and-something/",
-          "publishedOn": "2021-10-14T13:26:18.130Z",
-          "wordCount": 217,
-          "title": "聊聊写书、技术会议、知名度和变现"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "李辉",

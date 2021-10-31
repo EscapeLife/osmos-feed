@@ -13,15 +13,6 @@
           "publishedOn": "2021-12-31T12:00:00.000Z",
           "wordCount": 120,
           "title": "2021年第四季度总结"
-        },
-        {
-          "id": "https://www.escapelife.site/posts/3aa0befe.html",
-          "author": null,
-          "description": "<blockquote>\n<p><strong>简单记录一下问题的排除过程，和对应的处理方式！</strong></p>\n</blockquote>\n<p><img src=\"../images/python-subprocess-pipe-stdout.jpg\"",
-          "link": "https://www.escapelife.site/posts/3aa0befe.html",
-          "publishedOn": "2021-10-16T04:22:33.000Z",
-          "wordCount": 575,
-          "title": "Python调用系统命令卡住"
         }
       ]
     },
@@ -74,6 +65,15 @@
       "siteUrl": "https://greyli.com",
       "articles": [
         {
+          "id": "https://greyli.com/?p=4076",
+          "author": "李辉",
+          "description": "《Flask Web 开发实战》第二版已经开始写作，计划在今年完成这本书。那本《Python Web API  […]",
+          "link": "https://greyli.com/new-flask-book-plan/",
+          "publishedOn": "2021-10-30T11:57:38.000Z",
+          "wordCount": 216,
+          "title": "开始写作《Flask Web 开发实战》第二版"
+        },
+        {
           "id": "https://greyli.com/?p=4043",
           "author": "李辉",
           "description": "录像：bilibili ｜ YouTube 嘉宾：王俊杰 / 胡博文 / Andy Zhou / Rice Z […]",
@@ -89,6 +89,15 @@
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
+        {
+          "id": "https://www.kawabangga.com/?p=4594",
+          "author": "laixintao",
+          "description": "我们有个服务以类似 SideCar 的方式和应用一起运行，SideCar 和应用通过 Unix Domain  […]\nContinue reading...\nThe post 多租户环境中的 TCP 限速（基于 iptables） first appeared on 卡瓦邦噶！.\n\n相关文章:\n\nuWSGI socket 队列被占满的问题\nApache2 “AH00558: apache2: Could not reliably…\nDNS 解析的原理\nHTTP连接池（基于Python的requests和urllib3）\n做一件事，做好它。——苹果",
+          "link": "https://www.kawabangga.com/posts/4594",
+          "publishedOn": "2021-10-30T08:19:15.000Z",
+          "wordCount": 623,
+          "title": "多租户环境中的 TCP 限速（基于 iptables）"
+        },
         {
           "id": "https://www.kawabangga.com/?p=4576",
           "author": "laixintao",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2021-10-30T01:00:36.751Z</updated>
+    <updated>2021-10-31T01:05:12.921Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -14,6 +14,36 @@
         <summary type="html"><![CDATA[<h1 id="2021-年第四季度总结"><a href="#2021-年第四季度总结" class="headerlink" title="2021 年第四季度总结"></a>2021]]></summary>
         <author>
             <name>Escape</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开始写作《Flask Web 开发实战》第二版]]></title>
+        <id>https://greyli.com/?p=4076</id>
+        <link href="https://greyli.com/new-flask-book-plan/"/>
+        <updated>2021-10-30T11:57:38.000Z</updated>
+        <summary type="html"><![CDATA[《Flask Web 开发实战》第二版已经开始写作，计划在今年完成这本书。那本《Python Web API  […]]]></summary>
+        <author>
+            <name>李辉</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多租户环境中的 TCP 限速（基于 iptables）]]></title>
+        <id>https://www.kawabangga.com/?p=4594</id>
+        <link href="https://www.kawabangga.com/posts/4594"/>
+        <updated>2021-10-30T08:19:15.000Z</updated>
+        <summary type="html"><![CDATA[我们有个服务以类似 SideCar 的方式和应用一起运行，SideCar 和应用通过 Unix Domain  […]
+Continue reading...
+The post 多租户环境中的 TCP 限速（基于 iptables） first appeared on 卡瓦邦噶！.
+
+相关文章:
+
+uWSGI socket 队列被占满的问题
+Apache2 “AH00558: apache2: Could not reliably…
+DNS 解析的原理
+HTTP连接池（基于Python的requests和urllib3）
+做一件事，做好它。——苹果]]></summary>
+        <author>
+            <name>laixintao</name>
         </author>
     </entry>
     <entry>
@@ -114,19 +144,6 @@ Vim:快速复制和替换
 Vim LSP 配置]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python调用系统命令卡住]]></title>
-        <id>https://www.escapelife.site/posts/3aa0befe.html</id>
-        <link href="https://www.escapelife.site/posts/3aa0befe.html"/>
-        <updated>2021-10-16T04:22:33.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p><strong>简单记录一下问题的排除过程，和对应的处理方式！</strong></p>
-</blockquote>
-<p><img src="../images/python-subprocess-pipe-stdout.jpg"]]></summary>
-        <author>
-            <name>Escape</name>
         </author>
     </entry>
 </feed>

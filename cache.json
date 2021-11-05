@@ -28,6 +28,15 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2021/11/weekly-issue-182.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2021/11/weekly-issue-182.html",
+          "publishedOn": "2021-11-05T00:31:34.000Z",
+          "wordCount": 379,
+          "title": "科技爱好者周刊（第 182 期）：新人优惠的风险"
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-181.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
@@ -134,17 +143,7 @@
       "title": "The Atom feed of Frost's blog",
       "feedUrl": "https://frostming.com/feed.xml",
       "siteUrl": "https://frostming.com",
-      "articles": [
-        {
-          "id": "https://frostming.com/2021/10-20/pycon-china-2021/",
-          "author": null,
-          "description": "我在今年的PyCon China 2021上在线做了一个演讲，题目是「Python 打包 101」。Python 打包是个每个 Python 开发都可能用到并且需要了解的知识。演讲试图从 Python 打包的历史进程开始，阐述 pip install…",
-          "link": "https://frostming.com/2021/10-20/pycon-china-2021/",
-          "publishedOn": "2021-10-20T14:43:07.000Z",
-          "wordCount": 106,
-          "title": "PyCon China 2021 演讲——Python 打包 101"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Posts on Jiayuan Thoughts",

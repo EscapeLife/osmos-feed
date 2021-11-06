@@ -44,15 +44,6 @@
           "publishedOn": "2021-10-29T01:02:26.000Z",
           "wordCount": 1031,
           "title": "科技爱好者周刊（第 181 期）：移动支付应该怎么设计？"
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-180.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-180.html",
-          "publishedOn": "2021-10-22T00:35:24.000Z",
-          "wordCount": 461,
-          "title": "科技爱好者周刊（第 180 期）：你想住在中国哪里？"
         }
       ]
     },
@@ -115,15 +106,6 @@
           "publishedOn": "2021-10-27T10:00:07.000Z",
           "wordCount": 646,
           "title": "介绍 Lobbyboy 项目"
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=4558",
-          "author": "laixintao",
-          "description": "今天花了很长的时间在排查一个诡异的问题，值得记录一下。 本来是想写一个 HTTP 的服务，你告诉这个 HTTP […]\nContinue reading...\nThe post Debug 一个在 uWSGI 下使用 subprocess 卡住的问题 first appeared on 卡瓦邦噶！.\n\n相关文章:\n\nuWSGI socket 队列被占满的问题\n部署 Django 项目背后的原理：为什么需要 Nginx 和 Gunicron这些东西？\n我的线程池怎么没了？\n使用uWSGI的spooler做异步任务\nDjango的日志配置",
-          "link": "https://www.kawabangga.com/posts/4558",
-          "publishedOn": "2021-10-21T17:52:43.000Z",
-          "wordCount": 1822,
-          "title": "Debug 一个在 uWSGI 下使用 subprocess 卡住的问题"
         }
       ]
     },

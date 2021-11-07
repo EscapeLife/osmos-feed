@@ -72,15 +72,6 @@
           "publishedOn": "2021-10-30T11:57:38.000Z",
           "wordCount": 216,
           "title": "开始写作《Flask Web 开发实战》第二版"
-        },
-        {
-          "id": "https://greyli.com/?p=4043",
-          "author": "李辉",
-          "description": "录像：bilibili ｜ YouTube 嘉宾：王俊杰 / 胡博文 / Andy Zhou / Rice Z […]",
-          "link": "https://greyli.com/pycon-china-2021-young-pythonistas/",
-          "publishedOn": "2021-10-22T14:49:09.000Z",
-          "wordCount": 125,
-          "title": "和中学生们聊聊学习和使用 Python 的趣事"
         }
       ]
     },
@@ -89,6 +80,15 @@
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
+        {
+          "id": "https://www.kawabangga.com/?p=4481",
+          "author": "laixintao",
+          "description": "有很多人问过我想了解一下 SRE 这个岗位，这是个很大的话题，在这篇博客中把想到的一些介绍一下吧。 SRE 到 […]\nContinue reading...\nThe post SRE 的工作介绍 first appeared on 卡瓦邦噶！.\n\n相关文章:\n\n构建大型Cron系统的思考\n博客维护：速度优化，嵌入instagram\nPython正则表达式解惑\n申请友链\nDB资料集",
+          "link": "https://www.kawabangga.com/posts/4481",
+          "publishedOn": "2021-11-06T15:23:03.000Z",
+          "wordCount": 762,
+          "title": "SRE 的工作介绍"
+        },
         {
           "id": "https://www.kawabangga.com/?p=4594",
           "author": "laixintao",

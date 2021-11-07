@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2021-11-06T01:00:42.600Z</updated>
+    <updated>2021-11-07T01:04:58.857Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -14,6 +14,26 @@
         <summary type="html"><![CDATA[<h1 id="2021-年第四季度总结"><a href="#2021-年第四季度总结" class="headerlink" title="2021 年第四季度总结"></a>2021]]></summary>
         <author>
             <name>Escape</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SRE 的工作介绍]]></title>
+        <id>https://www.kawabangga.com/?p=4481</id>
+        <link href="https://www.kawabangga.com/posts/4481"/>
+        <updated>2021-11-06T15:23:03.000Z</updated>
+        <summary type="html"><![CDATA[有很多人问过我想了解一下 SRE 这个岗位，这是个很大的话题，在这篇博客中把想到的一些介绍一下吧。 SRE 到 […]
+Continue reading...
+The post SRE 的工作介绍 first appeared on 卡瓦邦噶！.
+
+相关文章:
+
+构建大型Cron系统的思考
+博客维护：速度优化，嵌入instagram
+Python正则表达式解惑
+申请友链
+DB资料集]]></summary>
+        <author>
+            <name>laixintao</name>
         </author>
     </entry>
     <entry>
@@ -84,16 +104,6 @@ Tmux内部分享slides
 Zoom 直播分享 Awesome Commandline 录像和资料下载]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[和中学生们聊聊学习和使用 Python 的趣事]]></title>
-        <id>https://greyli.com/?p=4043</id>
-        <link href="https://greyli.com/pycon-china-2021-young-pythonistas/"/>
-        <updated>2021-10-22T14:49:09.000Z</updated>
-        <summary type="html"><![CDATA[录像：bilibili ｜ YouTube 嘉宾：王俊杰 / 胡博文 / Andy Zhou / Rice Z […]]]></summary>
-        <author>
-            <name>李辉</name>
         </author>
     </entry>
 </feed>

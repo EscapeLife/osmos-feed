@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2021-11-12T01:04:24.321Z</updated>
+    <updated>2021-11-13T01:01:46.346Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -84,16 +84,6 @@ HTTP连接池（基于Python的requests和urllib3）
 做一件事，做好它。——苹果]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 181 期）：移动支付应该怎么设计？]]></title>
-        <id>http://www.ruanyifeng.com/blog/2021/10/weekly-issue-181.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2021/10/weekly-issue-181.html"/>
-        <updated>2021-10-29T01:02:26.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
         </author>
     </entry>
 </feed>

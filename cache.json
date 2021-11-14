@@ -63,17 +63,7 @@
       "title": "李辉",
       "feedUrl": "https://greyli.com/feed",
       "siteUrl": "https://greyli.com",
-      "articles": [
-        {
-          "id": "https://greyli.com/?p=4076",
-          "author": "李辉",
-          "description": "《Flask Web 开发实战》第二版已经开始写作，计划在今年完成这本书。那本《Python Web API  […]",
-          "link": "https://greyli.com/new-flask-book-plan/",
-          "publishedOn": "2021-10-30T11:57:38.000Z",
-          "wordCount": 216,
-          "title": "开始写作《Flask Web 开发实战》第二版"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "卡瓦邦噶！",
@@ -88,15 +78,6 @@
           "publishedOn": "2021-11-06T15:23:03.000Z",
           "wordCount": 762,
           "title": "SRE 的工作介绍"
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=4594",
-          "author": "laixintao",
-          "description": "我们有个服务以类似 SideCar 的方式和应用一起运行，SideCar 和应用通过 Unix Domain  […]\nContinue reading...\nThe post 多租户环境中的 TCP 限速（基于 iptables） first appeared on 卡瓦邦噶！.\n\n相关文章:\n\nuWSGI socket 队列被占满的问题\nApache2 “AH00558: apache2: Could not reliably…\nDNS 解析的原理\nHTTP连接池（基于Python的requests和urllib3）\n做一件事，做好它。——苹果",
-          "link": "https://www.kawabangga.com/posts/4594",
-          "publishedOn": "2021-10-30T08:19:15.000Z",
-          "wordCount": 623,
-          "title": "多租户环境中的 TCP 限速（基于 iptables）"
         }
       ]
     },

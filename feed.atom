@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2021-11-13T01:01:46.346Z</updated>
+    <updated>2021-11-14T01:05:17.328Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -54,36 +54,6 @@ DB资料集]]></summary>
         <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开始写作《Flask Web 开发实战》第二版]]></title>
-        <id>https://greyli.com/?p=4076</id>
-        <link href="https://greyli.com/new-flask-book-plan/"/>
-        <updated>2021-10-30T11:57:38.000Z</updated>
-        <summary type="html"><![CDATA[《Flask Web 开发实战》第二版已经开始写作，计划在今年完成这本书。那本《Python Web API  […]]]></summary>
-        <author>
-            <name>李辉</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多租户环境中的 TCP 限速（基于 iptables）]]></title>
-        <id>https://www.kawabangga.com/?p=4594</id>
-        <link href="https://www.kawabangga.com/posts/4594"/>
-        <updated>2021-10-30T08:19:15.000Z</updated>
-        <summary type="html"><![CDATA[我们有个服务以类似 SideCar 的方式和应用一起运行，SideCar 和应用通过 Unix Domain  […]
-Continue reading...
-The post 多租户环境中的 TCP 限速（基于 iptables） first appeared on 卡瓦邦噶！.
-
-相关文章:
-
-uWSGI socket 队列被占满的问题
-Apache2 “AH00558: apache2: Could not reliably…
-DNS 解析的原理
-HTTP连接池（基于Python的requests和urllib3）
-做一件事，做好它。——苹果]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
 </feed>

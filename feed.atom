@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2021-11-14T01:05:17.328Z</updated>
+    <updated>2021-11-15T01:03:01.796Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -14,6 +14,25 @@
         <summary type="html"><![CDATA[<h1 id="2021-年第四季度总结"><a href="#2021-年第四季度总结" class="headerlink" title="2021 年第四季度总结"></a>2021]]></summary>
         <author>
             <name>Escape</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coredns 源码阅读（导读）]]></title>
+        <id>https://www.kawabangga.com/?p=4607</id>
+        <link href="https://www.kawabangga.com/posts/4607"/>
+        <updated>2021-11-14T10:43:09.000Z</updated>
+        <summary type="html"><![CDATA[周末看了一下 coredns 的源代码，目前为止只是差不多搞清楚了这个代码库的逻辑。写篇博客记录一下，如果你也 […]
+Continue reading...
+The post Coredns 源码阅读（导读） first appeared on 卡瓦邦噶！.
+
+相关文章:
+
+Join Shopee & Work with Me!
+辅助Django开发的一些隐藏资源（文档）
+一些命令行工具的增强版
+实时上传数据备份文件到S3]]></summary>
+        <author>
+            <name>laixintao</name>
         </author>
     </entry>
     <entry>

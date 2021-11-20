@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2021-11-19T01:03:43.143Z</updated>
+    <updated>2021-11-20T01:02:13.522Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -14,6 +14,18 @@
         <summary type="html"><![CDATA[<h1 id="2021-年第四季度总结"><a href="#2021-年第四季度总结" class="headerlink" title="2021 年第四季度总结"></a>2021]]></summary>
         <author>
             <name>Escape</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[源代码特洛伊木马攻击]]></title>
+        <id>https://coolshell.cn/?p=21649</id>
+        <link href="https://coolshell.cn/articles/21649.html"/>
+        <updated>2021-11-19T09:02:46.000Z</updated>
+        <summary type="html"><![CDATA[最近，我们在 Github 的 Code Review 中看到 Github 开始出现下面这个 Warning 信息—— “This file contains...
+ Read More  Read More
+源代码特洛伊木马攻击 first appeared on 酷 壳 - CoolShell.]]></summary>
+        <author>
+            <name>陈皓</name>
         </author>
     </entry>
     <entry>
@@ -73,16 +85,6 @@ Python正则表达式解惑
 DB资料集]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 182 期）：新人优惠的风险]]></title>
-        <id>http://www.ruanyifeng.com/blog/2021/11/weekly-issue-182.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2021/11/weekly-issue-182.html"/>
-        <updated>2021-11-05T00:31:34.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
         </author>
     </entry>
 </feed>

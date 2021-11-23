@@ -8,7 +8,7 @@ sources:
   - href: https://coolshell.cn/feed # 酷壳
   - href: https://www.ruanyifeng.com/blog/atom.xml # 阮一峰
   - href: http://macshuo.com/?feed=rss2 # 池建强
-  - href: https://www.dongwm.com/atom.xml # 小明明
+  # - href: https://www.dongwm.com/atom.xml # 小明明
   - href: https://greyli.com/feed # 李辉
 
   - href: https://www.kawabangga.com/feed # 卡瓦邦噶

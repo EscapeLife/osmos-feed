@@ -54,15 +54,6 @@
           "publishedOn": "2021-11-19T00:39:35.000Z",
           "wordCount": 532,
           "title": "科技爱好者周刊（第 184 期）：政府的存储需求有多大？"
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2021/11/weekly-issue-183.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2021/11/weekly-issue-183.html",
-          "publishedOn": "2021-11-12T00:40:13.000Z",
-          "wordCount": 427,
-          "title": "科技爱好者周刊（第 183 期）：腾讯的员工退休福利"
         }
       ]
     },
@@ -76,13 +67,41 @@
       "title": "李辉",
       "feedUrl": "https://greyli.com/feed",
       "siteUrl": "https://greyli.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://greyli.com/?p=4223",
+          "author": "李辉",
+          "description": "在过去的几年里，虽然也有过几次找工作经历，但都是被别人推荐后去试一试，结果无一例外全失败。不过，除了学历、英语 […]",
+          "link": "https://greyli.com/job-search/",
+          "publishedOn": "2021-11-26T10:13:23.000Z",
+          "wordCount": 68,
+          "title": "开始找工作"
+        },
+        {
+          "id": "https://greyli.com/?p=4217",
+          "author": "李辉",
+          "description": "今晚出去散步，火车经过的时候我举起手机录像。身边有几个路人走过来，这让我感觉尴尬，像是手机烫手。但是当走过的大 […]",
+          "link": "https://greyli.com/embarrassed/",
+          "publishedOn": "2021-11-25T10:11:26.000Z",
+          "wordCount": 71,
+          "title": "拍抖音不尴尬"
+        }
+      ]
     },
     {
       "title": "卡瓦邦噶！",
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
+        {
+          "id": "https://www.kawabangga.com/?p=4617",
+          "author": "laixintao",
+          "description": "记录一个今天遇到的小问题。这是继 Debug 一个在 uWSGI 下使用 subprocess 卡住的问题 之 […]\nContinue reading...\nThe post 寻找丢失的信号 first appeared on 卡瓦邦噶！.\n\n相关文章:\n\nuWSGI socket 队列被占满的问题\nDebug 一个在 uWSGI 下使用 subprocess 卡住的问题\n如何杀死一个进程？\nSRE&Devops 每周分享 Issue #3\n我的线程池怎么没了？",
+          "link": "https://www.kawabangga.com/posts/4617",
+          "publishedOn": "2021-11-26T14:25:38.000Z",
+          "wordCount": 890,
+          "title": "寻找丢失的信号"
+        },
         {
           "id": "https://www.kawabangga.com/?p=4607",
           "author": "laixintao",

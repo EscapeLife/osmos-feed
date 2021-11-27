@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2021-11-26T01:02:39.261Z</updated>
+    <updated>2021-11-27T01:02:01.970Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -17,6 +17,36 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[寻找丢失的信号]]></title>
+        <id>https://www.kawabangga.com/?p=4617</id>
+        <link href="https://www.kawabangga.com/posts/4617"/>
+        <updated>2021-11-26T14:25:38.000Z</updated>
+        <summary type="html"><![CDATA[记录一个今天遇到的小问题。这是继 Debug 一个在 uWSGI 下使用 subprocess 卡住的问题 之 […]
+Continue reading...
+The post 寻找丢失的信号 first appeared on 卡瓦邦噶！.
+
+相关文章:
+
+uWSGI socket 队列被占满的问题
+Debug 一个在 uWSGI 下使用 subprocess 卡住的问题
+如何杀死一个进程？
+SRE&Devops 每周分享 Issue #3
+我的线程池怎么没了？]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开始找工作]]></title>
+        <id>https://greyli.com/?p=4223</id>
+        <link href="https://greyli.com/job-search/"/>
+        <updated>2021-11-26T10:13:23.000Z</updated>
+        <summary type="html"><![CDATA[在过去的几年里，虽然也有过几次找工作经历，但都是被别人推荐后去试一试，结果无一例外全失败。不过，除了学历、英语 […]]]></summary>
+        <author>
+            <name>李辉</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 185 期）：美国宪法拍卖，一个区块链案例]]></title>
         <id>http://www.ruanyifeng.com/blog/2021/11/weekly-issue-185.html</id>
         <link href="http://www.ruanyifeng.com/blog/2021/11/weekly-issue-185.html"/>
@@ -24,6 +54,16 @@
         <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拍抖音不尴尬]]></title>
+        <id>https://greyli.com/?p=4217</id>
+        <link href="https://greyli.com/embarrassed/"/>
+        <updated>2021-11-25T10:11:26.000Z</updated>
+        <summary type="html"><![CDATA[今晚出去散步，火车经过的时候我举起手机录像。身边有几个路人走过来，这让我感觉尴尬，像是手机烫手。但是当走过的大 […]]]></summary>
+        <author>
+            <name>李辉</name>
         </author>
     </entry>
     <entry>
@@ -86,16 +126,6 @@ Join Shopee & Work with Me!
 实时上传数据备份文件到S3]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 183 期）：腾讯的员工退休福利]]></title>
-        <id>http://www.ruanyifeng.com/blog/2021/11/weekly-issue-183.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2021/11/weekly-issue-183.html"/>
-        <updated>2021-11-12T00:40:13.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
         </author>
     </entry>
 </feed>

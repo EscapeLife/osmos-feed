@@ -13,6 +13,15 @@
           "publishedOn": "2021-12-31T12:00:00.000Z",
           "wordCount": 120,
           "title": "2021年第四季度总结"
+        },
+        {
+          "id": "https://www.escapelife.site/posts/919f2125.html",
+          "author": null,
+          "description": "<blockquote>\n<p><strong>MinIO - 构建高性能的云原生数据的多云对象存储</strong></p>\n</blockquote>\n<p><code>MinIO</code> 提供开源、高性能、兼容 <code>s3</code>",
+          "link": "https://www.escapelife.site/posts/919f2125.html",
+          "publishedOn": "2021-11-27T04:00:00.000Z",
+          "wordCount": 1276,
+          "title": "MinIO 分布式文件存储"
         }
       ]
     },

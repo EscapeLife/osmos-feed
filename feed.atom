@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2021-11-30T01:03:33.983Z</updated>
+    <updated>2021-12-01T01:08:04.759Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -12,6 +12,19 @@
         <link href="https://www.escapelife.site/posts/da699e00.html"/>
         <updated>2021-12-31T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h1 id="2021-年第四季度总结"><a href="#2021-年第四季度总结" class="headerlink" title="2021 年第四季度总结"></a>2021]]></summary>
+        <author>
+            <name>Escape</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MinIO 分布式文件存储]]></title>
+        <id>https://www.escapelife.site/posts/919f2125.html</id>
+        <link href="https://www.escapelife.site/posts/919f2125.html"/>
+        <updated>2021-11-27T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p><strong>MinIO - 构建高性能的云原生数据的多云对象存储</strong></p>
+</blockquote>
+<p><code>MinIO</code> 提供开源、高性能、兼容 <code>s3</code>]]></summary>
         <author>
             <name>Escape</name>
         </author>

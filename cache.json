@@ -29,17 +29,7 @@
       "title": "酷 壳 – CoolShell",
       "feedUrl": "https://coolshell.cn/feed",
       "siteUrl": "https://coolshell.cn",
-      "articles": [
-        {
-          "id": "https://coolshell.cn/?p=21649",
-          "author": "陈皓",
-          "description": "最近，我们在 Github 的 Code Review 中看到 Github 开始出现下面这个 Warning 信息—— “This file contains...\n Read More  Read More\n源代码特洛伊木马攻击 first appeared on 酷 壳 - CoolShell.",
-          "link": "https://coolshell.cn/articles/21649.html",
-          "publishedOn": "2021-11-19T09:02:46.000Z",
-          "wordCount": 933,
-          "title": "源代码特洛伊木马攻击"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "阮一峰的网络日志",
@@ -63,15 +53,6 @@
           "publishedOn": "2021-11-26T00:31:08.000Z",
           "wordCount": 397,
           "title": "科技爱好者周刊（第 185 期）：美国宪法拍卖，一个区块链案例"
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2021/11/weekly-issue-184.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2021/11/weekly-issue-184.html",
-          "publishedOn": "2021-11-19T00:39:35.000Z",
-          "wordCount": 532,
-          "title": "科技爱好者周刊（第 184 期）：政府的存储需求有多大？"
         }
       ]
     },
@@ -127,6 +108,15 @@
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "http://manjusaka.itscoder.com/atom.xml",
       "articles": [
+        {
+          "id": "http://manjusaka.itscoder.com/posts/2021/12/03/a-simple-introduction-about-uid-docker/",
+          "author": null,
+          "description": "<p>今天不太舒服，在家请假了一天。突然想起最近因为一些小问题，看了下关于容器中 UID 的东西。所以简单来聊聊这方面的东西。算个新手向的文章</p>",
+          "link": "http://manjusaka.itscoder.com/posts/2021/12/03/a-simple-introduction-about-uid-docker/",
+          "publishedOn": "2021-12-03T21:00:00.000Z",
+          "wordCount": 1433,
+          "title": "简单聊聊容器中的 UID 中的一点小坑"
+        },
         {
           "id": "http://manjusaka.itscoder.com/posts/2021/11/22/a-litte-introduction-about-nohdr-filed-in-skbuff/",
           "author": null,

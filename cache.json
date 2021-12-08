@@ -15,6 +15,15 @@
           "title": "2021年第四季度总结"
         },
         {
+          "id": "https://www.escapelife.site/posts/157bb208.html",
+          "author": null,
+          "description": "<blockquote>\n<p><strong>阅读《Python 核心编程》第二版和第三版，总结和归纳了掐中比较有趣的内容和知识点，以备后续整理 <code>Anki</code> 知识库。</strong></p>\n</blockquote>\n<p><img",
+          "link": "https://www.escapelife.site/posts/157bb208.html",
+          "publishedOn": "2021-11-28T02:00:01.000Z",
+          "wordCount": 212,
+          "title": "《Python核心编程》摘录"
+        },
+        {
           "id": "https://www.escapelife.site/posts/919f2125.html",
           "author": null,
           "description": "<blockquote>\n<p><strong>MinIO - 构建高性能的云原生数据的多云对象存储</strong></p>\n</blockquote>\n<p><code>MinIO</code> 提供开源、高性能、兼容 <code>s3</code>",
@@ -36,6 +45,15 @@
       "feedUrl": "https://www.ruanyifeng.com/blog/atom.xml",
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
+        {
+          "id": "http://www.ruanyifeng.com/blog/2021/12/web3.html",
+          "author": null,
+          "description": "互联网迄今有两个阶段：Web 1.0 和 Web 2.0。...",
+          "link": "http://www.ruanyifeng.com/blog/2021/12/web3.html",
+          "publishedOn": "2021-12-07T04:09:22.000Z",
+          "wordCount": 329,
+          "title": "为什么 Web3 与区块链有关"
+        },
         {
           "id": "http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html",
           "author": null,
@@ -116,15 +134,6 @@
           "publishedOn": "2021-12-03T21:00:00.000Z",
           "wordCount": 1433,
           "title": "简单聊聊容器中的 UID 中的一点小坑"
-        },
-        {
-          "id": "http://manjusaka.itscoder.com/posts/2021/11/22/a-litte-introduction-about-nohdr-filed-in-skbuff/",
-          "author": null,
-          "description": "<p>今天遇到一个很有意思的问题，“nohdr 字段到底有什么用”，在这里写个水文简单记录一下</p>",
-          "link": "http://manjusaka.itscoder.com/posts/2021/11/22/a-litte-introduction-about-nohdr-filed-in-skbuff/",
-          "publishedOn": "2021-11-22T21:00:00.000Z",
-          "wordCount": 483,
-          "title": "聊聊 sk_buff 中一个冷门字段: nohdr"
         }
       ]
     },

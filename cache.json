@@ -86,6 +86,15 @@
       "siteUrl": "https://greyli.com",
       "articles": [
         {
+          "id": "https://greyli.com/?p=4232",
+          "author": "李辉",
+          "description": "最近在找工作，发现了一些和 Flask 相关的工作机会。因为目前并没有一个收集 Flask 相关职位的平台，所 […]",
+          "link": "https://greyli.com/flask-jobs/",
+          "publishedOn": "2021-12-08T08:40:43.000Z",
+          "wordCount": 110,
+          "title": "Flask 工作机会"
+        },
+        {
           "id": "https://greyli.com/?p=4223",
           "author": "李辉",
           "description": "在过去的几年里，虽然也有过几次找工作经历，但都是被别人推荐后去试一试，结果无一例外全失败。不过，除了学历、英语 […]",
@@ -147,17 +156,7 @@
       "title": "The RSS feed of Frost's blog",
       "feedUrl": "https://frostming.com/feed.xml",
       "siteUrl": "http://github.com/dylang/node-rss",
-      "articles": [
-        {
-          "id": "https://frostming.com/2021/11-23/advanced-argparse/",
-          "author": null,
-          "description": "Python 里的  大家都不陌生，是用来解析命令行参数的标准库，它的用法大致是这样： 这非常地平凡，如果用  的话，可以更快地写出来相同的功能： 两者的区别在于  是统一解析得到参数值再自己处理，而  可以直接把参数值传给装饰的函数。后者的方式更有利于代码解耦，更容易维护。 我在做 PDM 的时候最初也是选择的，PDM 的命令行有一系列的子命令，而  的嵌套命令组（）也提供了强大的支持，帮助我很好地完成了这个工作。\n然而当我更深入地写下去，试图加一些更复杂的功能时，我发现了  的不足之处，并促使我最终选择了 ，到目前看来  提供的能力能很好地胜任工作。",
-          "link": "https://frostming.com/2021/11-23/advanced-argparse/",
-          "publishedOn": "2021-11-23T15:44:57.000Z",
-          "wordCount": 606,
-          "title": "argparse 的高级用法"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Posts on Jiayuan Thoughts",

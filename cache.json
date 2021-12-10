@@ -46,6 +46,15 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html",
+          "publishedOn": "2021-12-10T00:21:40.000Z",
+          "wordCount": 426,
+          "title": "科技爱好者周刊（第 187 期）：元宇宙会成功吗"
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2021/12/web3.html",
           "author": null,
           "description": "互联网迄今有两个阶段：Web 1.0 和 Web 2.0。...",
@@ -102,15 +111,6 @@
           "publishedOn": "2021-11-26T10:13:23.000Z",
           "wordCount": 68,
           "title": "开始找工作"
-        },
-        {
-          "id": "https://greyli.com/?p=4217",
-          "author": "李辉",
-          "description": "今晚出去散步，火车经过的时候我举起手机录像。身边有几个路人走过来，这让我感觉尴尬，像是手机烫手。但是当走过的大 […]",
-          "link": "https://greyli.com/embarrassed/",
-          "publishedOn": "2021-11-25T10:11:26.000Z",
-          "wordCount": 71,
-          "title": "拍抖音不尴尬"
         }
       ]
     },

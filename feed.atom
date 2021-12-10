@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2021-12-09T01:06:00.427Z</updated>
+    <updated>2021-12-10T01:06:20.670Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[<h1 id="2021-年第四季度总结"><a href="#2021-年第四季度总结" class="headerlink" title="2021 年第四季度总结"></a>2021]]></summary>
         <author>
             <name>Escape</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 187 期）：元宇宙会成功吗]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html"/>
+        <updated>2021-12-10T00:21:40.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
         </author>
     </entry>
     <entry>
@@ -120,16 +130,6 @@ SRE&Devops 每周分享 Issue #3
         <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拍抖音不尴尬]]></title>
-        <id>https://greyli.com/?p=4217</id>
-        <link href="https://greyli.com/embarrassed/"/>
-        <updated>2021-11-25T10:11:26.000Z</updated>
-        <summary type="html"><![CDATA[今晚出去散步，火车经过的时候我举起手机录像。身边有几个路人走过来，这让我感觉尴尬，像是手机烫手。但是当走过的大 […]]]></summary>
-        <author>
-            <name>李辉</name>
         </author>
     </entry>
 </feed>

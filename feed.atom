@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2021-12-10T01:06:20.670Z</updated>
+    <updated>2021-12-11T01:04:59.504Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -110,26 +110,6 @@ SRE&Devops 每周分享 Issue #3
 我的线程池怎么没了？]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开始找工作]]></title>
-        <id>https://greyli.com/?p=4223</id>
-        <link href="https://greyli.com/job-search/"/>
-        <updated>2021-11-26T10:13:23.000Z</updated>
-        <summary type="html"><![CDATA[在过去的几年里，虽然也有过几次找工作经历，但都是被别人推荐后去试一试，结果无一例外全失败。不过，除了学历、英语 […]]]></summary>
-        <author>
-            <name>李辉</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 185 期）：美国宪法拍卖，一个区块链案例]]></title>
-        <id>http://www.ruanyifeng.com/blog/2021/11/weekly-issue-185.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2021/11/weekly-issue-185.html"/>
-        <updated>2021-11-26T00:31:08.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
         </author>
     </entry>
 </feed>

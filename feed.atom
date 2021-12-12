@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2021-12-11T01:04:59.504Z</updated>
+    <updated>2021-12-12T01:09:07.752Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -77,39 +77,6 @@
 <p><img]]></summary>
         <author>
             <name>Escape</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MinIO 分布式文件存储]]></title>
-        <id>https://www.escapelife.site/posts/919f2125.html</id>
-        <link href="https://www.escapelife.site/posts/919f2125.html"/>
-        <updated>2021-11-27T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p><strong>MinIO - 构建高性能的云原生数据的多云对象存储</strong></p>
-</blockquote>
-<p><code>MinIO</code> 提供开源、高性能、兼容 <code>s3</code>]]></summary>
-        <author>
-            <name>Escape</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寻找丢失的信号]]></title>
-        <id>https://www.kawabangga.com/?p=4617</id>
-        <link href="https://www.kawabangga.com/posts/4617"/>
-        <updated>2021-11-26T14:25:38.000Z</updated>
-        <summary type="html"><![CDATA[记录一个今天遇到的小问题。这是继 Debug 一个在 uWSGI 下使用 subprocess 卡住的问题 之 […]
-Continue reading...
-The post 寻找丢失的信号 first appeared on 卡瓦邦噶！.
-
-相关文章:
-
-uWSGI socket 队列被占满的问题
-Debug 一个在 uWSGI 下使用 subprocess 卡住的问题
-如何杀死一个进程？
-SRE&Devops 每周分享 Issue #3
-我的线程池怎么没了？]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
 </feed>

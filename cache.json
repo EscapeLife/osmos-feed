@@ -13,15 +13,6 @@
           "publishedOn": "2021-12-31T12:00:00.000Z",
           "wordCount": 120,
           "title": "2021年第四季度总结"
-        },
-        {
-          "id": "https://www.escapelife.site/posts/157bb208.html",
-          "author": null,
-          "description": "<blockquote>\n<p><strong>阅读《Python 核心编程》第二版和第三版，总结和归纳了掐中比较有趣的内容和知识点，以备后续整理 <code>Anki</code> 知识库。</strong></p>\n</blockquote>\n<p><img",
-          "link": "https://www.escapelife.site/posts/157bb208.html",
-          "publishedOn": "2021-11-28T02:00:01.000Z",
-          "wordCount": 212,
-          "title": "《Python核心编程》摘录"
         }
       ]
     },

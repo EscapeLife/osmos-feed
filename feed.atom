@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2021-12-17T01:08:29.201Z</updated>
+    <updated>2021-12-18T01:09:52.778Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -64,16 +64,6 @@
         <summary type="html"><![CDATA[<p>今天不太舒服，在家请假了一天。突然想起最近因为一些小问题，看了下关于容器中 UID 的东西。所以简单来聊聊这方面的东西。算个新手向的文章</p>]]></summary>
         <author>
             <name>Manjusaka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 186 期）：低纬度，高海拔，气候优势]]></title>
-        <id>http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html"/>
-        <updated>2021-12-03T00:40:23.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
         </author>
     </entry>
 </feed>

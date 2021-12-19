@@ -88,17 +88,7 @@
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "http://manjusaka.itscoder.com/atom.xml",
-      "articles": [
-        {
-          "id": "http://manjusaka.itscoder.com/posts/2021/12/03/a-simple-introduction-about-uid-docker/",
-          "author": null,
-          "description": "<p>今天不太舒服，在家请假了一天。突然想起最近因为一些小问题，看了下关于容器中 UID 的东西。所以简单来聊聊这方面的东西。算个新手向的文章</p>",
-          "link": "http://manjusaka.itscoder.com/posts/2021/12/03/a-simple-introduction-about-uid-docker/",
-          "publishedOn": "2021-12-03T21:00:00.000Z",
-          "wordCount": 1433,
-          "title": "简单聊聊容器中的 UID 中的一点小坑"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "laike9m's blog",

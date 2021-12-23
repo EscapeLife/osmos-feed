@@ -67,17 +67,7 @@
       "title": "李辉",
       "feedUrl": "https://greyli.com/feed",
       "siteUrl": "https://greyli.com",
-      "articles": [
-        {
-          "id": "https://greyli.com/?p=4232",
-          "author": "李辉",
-          "description": "最近在找工作，发现了一些和 Flask 相关的工作机会。因为目前并没有一个收集 Flask 相关职位的平台，所 […]",
-          "link": "https://greyli.com/flask-jobs/",
-          "publishedOn": "2021-12-08T08:40:43.000Z",
-          "wordCount": 110,
-          "title": "Flask 工作机会"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "卡瓦邦噶！",

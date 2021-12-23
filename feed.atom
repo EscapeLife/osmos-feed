@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2021-12-22T01:09:12.669Z</updated>
+    <updated>2021-12-23T01:07:37.309Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -57,16 +57,6 @@
         <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flask 工作机会]]></title>
-        <id>https://greyli.com/?p=4232</id>
-        <link href="https://greyli.com/flask-jobs/"/>
-        <updated>2021-12-08T08:40:43.000Z</updated>
-        <summary type="html"><![CDATA[最近在找工作，发现了一些和 Flask 相关的工作机会。因为目前并没有一个收集 Flask 相关职位的平台，所 […]]]></summary>
-        <author>
-            <name>李辉</name>
         </author>
     </entry>
 </feed>

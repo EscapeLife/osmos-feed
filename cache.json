@@ -22,6 +22,15 @@
       "siteUrl": "https://coolshell.cn",
       "articles": [
         {
+          "id": "https://coolshell.cn/?p=21708",
+          "author": "陈皓",
+          "description": "这篇文章是《HTTP API 认证授权术》的姊妹篇，在那篇文章中，主要介绍了 HTTP API 认证和授权技术中用到的 HTTP Basic, Digest A...\n Read More  Read More\n网络数字身份认证术 first appeared on 酷 壳 - CoolShell.",
+          "link": "https://coolshell.cn/articles/21708.html",
+          "publishedOn": "2022-01-02T08:38:13.000Z",
+          "wordCount": 853,
+          "title": "网络数字身份认证术"
+        },
+        {
           "id": "https://coolshell.cn/?p=21672",
           "author": "陈皓",
           "description": "工作 20 多年了，这 20 来年看到了很多公司系统架构，也看到了很多问题，在跟这些公司进行交流和讨论的时候，包括进行实施和方案比较的时候，都有很多各种方案的比...\n Read More  Read More\n我做系统架构的一些原则 first appeared on 酷 壳 - CoolShell.",

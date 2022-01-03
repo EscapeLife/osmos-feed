@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-01-02T01:11:51.868Z</updated>
+    <updated>2022-01-03T01:08:25.288Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[网络数字身份认证术]]></title>
+        <id>https://coolshell.cn/?p=21708</id>
+        <link href="https://coolshell.cn/articles/21708.html"/>
+        <updated>2022-01-02T08:38:13.000Z</updated>
+        <summary type="html"><![CDATA[这篇文章是《HTTP API 认证授权术》的姊妹篇，在那篇文章中，主要介绍了 HTTP API 认证和授权技术中用到的 HTTP Basic, Digest A...
+ Read More  Read More
+网络数字身份认证术 first appeared on 酷 壳 - CoolShell.]]></summary>
+        <author>
+            <name>陈皓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021年第四季度总结]]></title>
         <id>https://www.escapelife.site/posts/da699e00.html</id>

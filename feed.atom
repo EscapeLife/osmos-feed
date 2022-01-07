@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-01-06T01:15:37.158Z</updated>
+    <updated>2022-01-07T01:15:33.434Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 191 期）：一个程序员的财务独立之路]]></title>
+        <id>http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html"/>
+        <updated>2022-01-07T00:34:18.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[网络数字身份认证术]]></title>
         <id>https://coolshell.cn/?p=21708</id>

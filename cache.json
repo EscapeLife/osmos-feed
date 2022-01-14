@@ -47,6 +47,15 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html",
+          "publishedOn": "2022-01-14T00:39:50.000Z",
+          "wordCount": 407,
+          "title": "科技爱好者周刊（第 192 期）：最大的机会来自新技术"
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。...",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-01-13T01:13:03.826Z</updated>
+    <updated>2022-01-14T01:11:46.220Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[<h1 id="2022-年第一季度总结"><a href="#2022-年第一季度总结" class="headerlink" title="2022 年第一季度总结"></a>2022]]></summary>
         <author>
             <name>Escape</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 192 期）：最大的机会来自新技术]]></title>
+        <id>http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html"/>
+        <updated>2022-01-14T00:39:50.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
         </author>
     </entry>
     <entry>

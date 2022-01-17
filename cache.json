@@ -20,17 +20,7 @@
       "title": "酷 壳 – CoolShell",
       "feedUrl": "https://coolshell.cn/feed",
       "siteUrl": "https://coolshell.cn",
-      "articles": [
-        {
-          "id": "https://coolshell.cn/?p=21708",
-          "author": "陈皓",
-          "description": "这篇文章是《HTTP API 认证授权术》的姊妹篇，在那篇文章中，主要介绍了 HTTP API 认证和授权技术中用到的 HTTP Basic, Digest A...\n Read More  Read More\n网络数字身份认证术 first appeared on 酷 壳 - CoolShell.",
-          "link": "https://coolshell.cn/articles/21708.html",
-          "publishedOn": "2022-01-02T08:38:13.000Z",
-          "wordCount": 853,
-          "title": "网络数字身份认证术"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "阮一峰的网络日志",

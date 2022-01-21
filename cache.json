@@ -28,6 +28,15 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。（[通知] 下周欢度春节，周刊暂停，2月11日恢复。）...",
+          "link": "http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html",
+          "publishedOn": "2022-01-21T00:48:38.000Z",
+          "wordCount": 320,
+          "title": "科技爱好者周刊（第 193 期）：前端与后端，谁更难？"
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。...",

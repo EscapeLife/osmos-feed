@@ -44,15 +44,6 @@
           "publishedOn": "2022-01-14T00:39:50.000Z",
           "wordCount": 407,
           "title": "科技爱好者周刊（第 192 期）：最大的机会来自新技术"
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html",
-          "publishedOn": "2022-01-07T00:34:18.000Z",
-          "wordCount": 486,
-          "title": "科技爱好者周刊（第 191 期）：一个程序员的财务独立之路"
         }
       ]
     },
@@ -66,7 +57,17 @@
       "title": "李辉",
       "feedUrl": "https://greyli.com/feed",
       "siteUrl": "https://greyli.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://greyli.com/?p=4262",
+          "author": "李辉",
+          "description": "一周前来到上海，今天顺利入职戴尔 EMC，我的找工历程至此终于完结了。对新工作和新生活充满期待。 来到上海找了 […]",
+          "link": "https://greyli.com/hello-dell/",
+          "publishedOn": "2022-01-21T13:42:36.000Z",
+          "wordCount": 64,
+          "title": "戴尔恶魔城居民+1"
+        }
+      ]
     },
     {
       "title": "卡瓦邦噶！",

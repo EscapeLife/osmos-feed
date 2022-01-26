@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-01-23T01:05:53.026Z</updated>
+    <updated>2022-01-26T02:40:27.542Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -12,6 +12,19 @@
         <link href="https://www.escapelife.site/posts/b821acd2.html"/>
         <updated>2022-03-31T04:00:10.000Z</updated>
         <summary type="html"><![CDATA[<h1 id="2022-年第一季度总结"><a href="#2022-年第一季度总结" class="headerlink" title="2022 年第一季度总结"></a>2022]]></summary>
+        <author>
+            <name>Escape</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[电脑显示器选购指南]]></title>
+        <id>https://www.escapelife.site/posts/5b188df5.html</id>
+        <link href="https://www.escapelife.site/posts/5b188df5.html"/>
+        <updated>2022-01-23T14:54:23.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p><strong>先看评测，再下单！</strong></p>
+</blockquote>
+<p>当我们在千元这个价位段，选购显示器的时候，页面里面通常都是一些无关痛痒的买点，因为它们确实没有什么好吹的。比如不谈显示，吹窄边框，吹全高清的分辨率，说得]]></summary>
         <author>
             <name>Escape</name>
         </author>

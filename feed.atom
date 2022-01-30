@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-01-29T00:30:08.470Z</updated>
+    <updated>2022-01-30T00:33:06.063Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -25,6 +25,19 @@
 <p><strong>先看评测，再下单！</strong></p>
 </blockquote>
 <p>当我们在千元这个价位段，选购显示器的时候，页面里面通常都是一些无关痛痒的买点，因为它们确实没有什么好吹的。比如不谈显示，吹窄边框，吹全高清的分辨率，说得]]></summary>
+        <author>
+            <name>Escape</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CICD疑难杂症汇总]]></title>
+        <id>https://www.escapelife.site/posts/bbe95724.html</id>
+        <link href="https://www.escapelife.site/posts/bbe95724.html"/>
+        <updated>2022-01-22T09:06:28.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p><strong>这里主要是为了记录在使用 CICD 的时候遇到的问题及其处理解决方法。</strong></p>
+</blockquote>
+<p><img src="../images/cicd-have-some-trouble.png"]]></summary>
         <author>
             <name>Escape</name>
         </author>

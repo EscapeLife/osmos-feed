@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-01-31T00:32:16.011Z</updated>
+    <updated>2022-02-01T00:33:54.127Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -14,6 +14,26 @@
         <summary type="html"><![CDATA[<h1 id="2022-年第一季度总结"><a href="#2022-年第一季度总结" class="headerlink" title="2022 年第一季度总结"></a>2022]]></summary>
         <author>
             <name>Escape</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[简单聊聊在 Linux 内核中的网络质量监控]]></title>
+        <id>http://manjusaka.itscoder.com/posts/2022/01/31/a-simple-introduction-about-network-monitoring-in-linux-kernel/</id>
+        <link href="http://manjusaka.itscoder.com/posts/2022/01/31/a-simple-introduction-about-network-monitoring-in-linux-kernel/"/>
+        <updated>2022-01-31T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>这可能是2021年最后一篇文章（农历年），也可能是2022年第一篇文章，不过这完全取决于我什么时候写完。这次来简单聊聊 Linux 中的网络监控</p>]]></summary>
+        <author>
+            <name>Manjusaka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Python Development Setup for 2022 and Beyond]]></title>
+        <id>https://laike9m.com/blog/best-python-development-setup-for-2022-and-beyond,144/</id>
+        <link href="https://laike9m.com/blog/best-python-development-setup-for-2022-and-beyond,144/"/>
+        <updated>2022-01-31T08:34:50.000Z</updated>
+        <summary type="html"><![CDATA[没有简介, 请去看原文吧]]></summary>
+        <author>
+            <name>laike9m's blog</name>
         </author>
     </entry>
     <entry>

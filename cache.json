@@ -22,15 +22,6 @@
           "publishedOn": "2022-01-23T14:54:23.000Z",
           "wordCount": 399,
           "title": "电脑显示器选购指南"
-        },
-        {
-          "id": "https://www.escapelife.site/posts/bbe95724.html",
-          "author": null,
-          "description": "<blockquote>\n<p><strong>这里主要是为了记录在使用 CICD 的时候遇到的问题及其处理解决方法。</strong></p>\n</blockquote>\n<p><img src=\"../images/cicd-have-some-trouble.png\"",
-          "link": "https://www.escapelife.site/posts/bbe95724.html",
-          "publishedOn": "2022-01-22T09:06:28.000Z",
-          "wordCount": 187,
-          "title": "CICD疑难杂症汇总"
         }
       ]
     },
@@ -75,17 +66,7 @@
       "title": "李辉",
       "feedUrl": "https://greyli.com/feed",
       "siteUrl": "https://greyli.com",
-      "articles": [
-        {
-          "id": "https://greyli.com/?p=4262",
-          "author": "李辉",
-          "description": "一周前来到上海，今天顺利入职戴尔 EMC，我的找工历程至此终于完结了。对新工作和新生活充满期待。 来到上海找了 […]",
-          "link": "https://greyli.com/hello-dell/",
-          "publishedOn": "2022-01-21T13:42:36.000Z",
-          "wordCount": 64,
-          "title": "戴尔恶魔城居民+1"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "卡瓦邦噶！",

@@ -2,18 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-02-12T00:37:17.106Z</updated>
-    <generator>osmosfeed 1.12.0</generator>
+    <updated>2022-02-13T00:37:35.085Z</updated>
+    <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[2022年第一季度总结]]></title>
-        <id>https://www.escapelife.site/posts/b821acd2.html</id>
-        <link href="https://www.escapelife.site/posts/b821acd2.html"/>
-        <updated>2022-03-31T04:00:10.000Z</updated>
-        <summary type="html"><![CDATA[<h1 id="2022-年第一季度总结"><a href="#2022-年第一季度总结" class="headerlink" title="2022 年第一季度总结"></a>2022]]></summary>
+        <title type="html"><![CDATA[谈谈公司对员工的监控]]></title>
+        <id>https://coolshell.cn/?p=22157</id>
+        <link href="https://coolshell.cn/articles/22157.html"/>
+        <updated>2022-02-12T07:50:06.000Z</updated>
+        <summary type="html"><![CDATA[今天看到微博上有一个热点事件， 是一个关于某公司做的一个监控员工离职倾向的软件，从截图中可以看到员工访问招聘网站的次数，还有投递的简历以及搜索的关建词等等信息，...
+ Read More  Read More
+谈谈公司对员工的监控 first appeared on 酷 壳 - CoolShell.]]></summary>
         <author>
-            <name>Escape</name>
+            <name>陈皓</name>
         </author>
     </entry>
     <entry>

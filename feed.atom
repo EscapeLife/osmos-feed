@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-02-13T00:37:35.085Z</updated>
-    <generator>osmosfeed 1.12.1</generator>
+    <updated>2022-02-14T00:34:07.412Z</updated>
+    <generator>osmosfeed 1.13.0</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2021 年总结]]></title>
+        <id>https://greyli.com/?p=4277</id>
+        <link href="https://greyli.com/2021-summary/"/>
+        <updated>2022-02-13T06:49:59.000Z</updated>
+        <summary type="html"><![CDATA[今年一整年都呆在家里。书断断续续地写，但一本也没写完。最后两个月，因为钱花光了，终于下定决心开始找工作，最终在 […]]]></summary>
+        <author>
+            <name>李辉</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“一把梭：REST API 全用 POST ”]]></title>
+        <id>https://coolshell.cn/?p=22173</id>
+        <link href="https://coolshell.cn/articles/22173.html"/>
+        <updated>2022-02-13T04:28:47.000Z</updated>
+        <summary type="html"><![CDATA[写这篇文章的原因主要还是因为V2EX上的这个贴子，这个贴子中说—— “对接同事的接口，他定义的所有接口都是 post 请求，理由是 https 用 post 更...
+ Read More  Read More
+“一把梭：REST API 全用 POST ” first appeared on 酷 壳 - CoolShell.]]></summary>
+        <author>
+            <name>陈皓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谈谈公司对员工的监控]]></title>
         <id>https://coolshell.cn/?p=22157</id>

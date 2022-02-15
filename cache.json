@@ -144,17 +144,7 @@
       "title": "laike9m's blog",
       "feedUrl": "https://laike9m.com/blog/rss",
       "siteUrl": "https://laike9m.com/blog/rss",
-      "articles": [
-        {
-          "id": "https://laike9m.com/blog/best-python-development-setup-for-2022-and-beyond,144/",
-          "author": null,
-          "description": "没有简介, 请去看原文吧",
-          "link": "https://laike9m.com/blog/best-python-development-setup-for-2022-and-beyond,144/",
-          "publishedOn": "2022-01-31T08:34:50.000Z",
-          "wordCount": 899,
-          "title": "Best Python Development Setup for 2022 and Beyond"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "The RSS feed of Frost's blog",
@@ -169,5 +159,5 @@
       "articles": []
     }
   ],
-  "cliVersion": "1.13.0"
+  "cliVersion": "1.14.4"
 }

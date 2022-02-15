@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-02-14T00:34:07.412Z</updated>
-    <generator>osmosfeed 1.13.0</generator>
+    <updated>2022-02-15T00:37:47.248Z</updated>
+    <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
     <entry>
@@ -97,16 +97,6 @@
         <summary type="html"><![CDATA[<p>这可能是2021年最后一篇文章（农历年），也可能是2022年第一篇文章，不过这完全取决于我什么时候写完。这次来简单聊聊 Linux 中的网络监控</p>]]></summary>
         <author>
             <name>Manjusaka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Python Development Setup for 2022 and Beyond]]></title>
-        <id>https://laike9m.com/blog/best-python-development-setup-for-2022-and-beyond,144/</id>
-        <link href="https://laike9m.com/blog/best-python-development-setup-for-2022-and-beyond,144/"/>
-        <updated>2022-01-31T08:34:50.000Z</updated>
-        <summary type="html"><![CDATA[没有简介, 请去看原文吧]]></summary>
-        <author>
-            <name>laike9m's blog</name>
         </author>
     </entry>
     <entry>

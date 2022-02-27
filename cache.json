@@ -20,15 +20,6 @@
           "wordCount": 1172,
           "title": "“一把梭：REST API 全用 POST ”",
           "imageUrl": "https://coolshell.cn/wp-content/uploads/2022/02/http_method.png"
-        },
-        {
-          "id": "https://coolshell.cn/?p=22157",
-          "author": "陈皓",
-          "description": "今天看到微博上有一个热点事件， 是一个关于某公司做的一个监控员工离职倾向的软件，从截图中可以看到员工访问招聘网站的次数，还有投递的简历以及搜索的关建词等等信息，...\n Read More  Read More\n谈谈公司对员工的监控 first appeared on 酷 壳 - CoolShell.",
-          "link": "https://coolshell.cn/articles/22157.html",
-          "publishedOn": "2022-02-12T07:50:06.000Z",
-          "wordCount": 607,
-          "title": "谈谈公司对员工的监控"
         }
       ]
     },

@@ -10,18 +10,7 @@
       "title": "酷 壳 – CoolShell",
       "feedUrl": "https://coolshell.cn/feed",
       "siteUrl": "https://coolshell.cn",
-      "articles": [
-        {
-          "id": "https://coolshell.cn/?p=22173",
-          "author": "陈皓",
-          "description": "写这篇文章的原因主要还是因为V2EX上的这个贴子，这个贴子中说—— “对接同事的接口，他定义的所有接口都是 post 请求，理由是 https 用 post 更...\n Read More  Read More\n“一把梭：REST API 全用 POST ” first appeared on 酷 壳 - CoolShell.",
-          "link": "https://coolshell.cn/articles/22173.html",
-          "publishedOn": "2022-02-13T04:28:47.000Z",
-          "wordCount": 1172,
-          "title": "“一把梭：REST API 全用 POST ”",
-          "imageUrl": "https://coolshell.cn/wp-content/uploads/2022/02/http_method.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "阮一峰的网络日志",
@@ -58,18 +47,7 @@
       "title": "李辉",
       "feedUrl": "https://greyli.com/feed",
       "siteUrl": "https://greyli.com",
-      "articles": [
-        {
-          "id": "https://greyli.com/?p=4277",
-          "author": "李辉",
-          "description": "今年一整年都呆在家里。书断断续续地写，但一本也没写完。最后两个月，因为钱花光了，终于下定决心开始找工作，最终在 […]",
-          "link": "https://greyli.com/2021-summary/",
-          "publishedOn": "2022-02-13T06:49:59.000Z",
-          "wordCount": 222,
-          "title": "2021 年总结",
-          "imageUrl": "https://greyli.com/wp-content/uploads/2020/07/avatar.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "卡瓦邦噶！",

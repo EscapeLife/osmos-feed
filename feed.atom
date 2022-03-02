@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-03-01T00:44:05.761Z</updated>
+    <updated>2022-03-02T00:42:20.662Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux常见零碎问题汇总]]></title>
+        <id>https://www.escapelife.site/posts/b9142a78.html</id>
+        <link href="https://www.escapelife.site/posts/b9142a78.html"/>
+        <updated>2022-03-01T04:45:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p><strong>这里主要记录在日常使用 Linux 时，遇到的一些零碎问题。不易写成独立文章，所以统一记录于此。</strong></p>
+</blockquote>
+<p><img]]></summary>
+        <author>
+            <name>Escape</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 年年鉴]]></title>
         <id>https://www.kawabangga.com/?p=4626</id>

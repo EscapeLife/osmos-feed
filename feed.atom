@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-03-11T00:43:43.431Z</updated>
+    <updated>2022-03-12T00:38:17.956Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fire命令行接口工具]]></title>
+        <id>https://www.escapelife.site/posts/58decd40.html</id>
+        <link href="https://www.escapelife.site/posts/58decd40.html"/>
+        <updated>2022-03-12T10:54:11.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="Fire-命令行接口工具"><a href="#Fire-命令行接口工具" class="headerlink" title="Fire 命令行接口工具"></a>Fire]]></summary>
+        <author>
+            <name>Escape</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ToDesk远程控制工具]]></title>
         <id>https://www.escapelife.site/posts/c8684bc1.html</id>

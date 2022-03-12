@@ -6,6 +6,16 @@
       "siteUrl": "https://www.escapelife.site/atom.xml",
       "articles": [
         {
+          "id": "https://www.escapelife.site/posts/58decd40.html",
+          "author": null,
+          "description": "<h1 id=\"Fire-命令行接口工具\"><a href=\"#Fire-命令行接口工具\" class=\"headerlink\" title=\"Fire 命令行接口工具\"></a>Fire",
+          "link": "https://www.escapelife.site/posts/58decd40.html",
+          "publishedOn": "2022-03-12T10:54:11.000Z",
+          "wordCount": 1259,
+          "title": "Fire命令行接口工具",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.escapelife.site/posts/c8684bc1.html",
           "author": null,
           "description": "<blockquote>\n<p><strong>目前来说是跨平台比较好用的远程控制工具了</strong></p>\n</blockquote>\n<p><code>ToDesk</code>",

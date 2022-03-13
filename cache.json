@@ -84,18 +84,7 @@
       "title": "卡瓦邦噶！",
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
-      "articles": [
-        {
-          "id": "https://www.kawabangga.com/?p=4626",
-          "author": "laixintao",
-          "description": "今年没有在跨年的时候及时写完年终总结，是因为那天还在西安隔离。2021 年一整年依然是疫情肆虐，下半年在新加坡 […]\nContinue reading...\nThe post 2021 年年鉴 first appeared on 卡瓦邦噶！.\n\n相关文章:\n\n我在新加坡一个月的生活费明细\n为什么 Cloudflare 提供免费的服务？\nBuild 一个最小的 Redis Docker Image\n《Prometheus Up & Running》阅读\n使用 mtr 检查网络问题，以及注意事项",
-          "link": "https://www.kawabangga.com/posts/4626",
-          "publishedOn": "2022-02-25T16:24:42.000Z",
-          "wordCount": 508,
-          "title": "2021 年年鉴",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Manjusaka",
@@ -113,7 +102,18 @@
       "title": "The RSS feed of Frost's blog",
       "feedUrl": "https://frostming.com/feed.xml",
       "siteUrl": "http://github.com/dylang/node-rss",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://frostming.com/2022/03-12/how-to-vendor-in-python/",
+          "author": null,
+          "description": "Photo by Cam Morin on Unsplash 本文介绍了在 Python 库中 vendor 第三方库的正确方法。我知道这篇文章的受众非常狭窄，大部分 Python 开发者都不会也不需要用到这个技术，\n但是本着分享的精神还是把它总结一二，作为软件的作者更是应该尊重所有其他库的作者的劳动。",
+          "link": "https://frostming.com/2022/03-12/how-to-vendor-in-python/",
+          "publishedOn": "2022-03-12T10:18:49.000Z",
+          "wordCount": 371,
+          "title": "在 Python 中使用 vendor 的方法",
+          "imageUrl": "https://images.unsplash.com/photo-1525562764522-ab2eeb6bc6f6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2049&q=80"
+        }
+      ]
     },
     {
       "title": "Posts on Jiayuan Thoughts",

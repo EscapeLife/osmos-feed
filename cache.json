@@ -74,7 +74,18 @@
       "title": "卡瓦邦噶！",
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.kawabangga.com/?p=4649",
+          "author": "laixintao",
+          "description": "最近在跨机房做一个部署，因为机房之间暂时没有专线，所以流量需要经过公网。对于经过公网的流量，我们一般需要做以下 […]\nContinue reading...\nThe post 用 Nginx 在公网上搭建加密数据通道 first appeared on 卡瓦邦噶！.\n\n相关文章:\n\n部署 Django 项目背后的原理：为什么需要 Nginx 和 Gunicron这些东西？\nNginx if 指令工作原理\n使用 ngx_lua （openresty）正确读取 HTTP 请求 body\n单页应用的登陆验证方式\n如何杀死一个进程？",
+          "link": "https://www.kawabangga.com/posts/4649",
+          "publishedOn": "2022-03-16T11:10:28.000Z",
+          "wordCount": 2014,
+          "title": "用 Nginx 在公网上搭建加密数据通道",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Manjusaka",

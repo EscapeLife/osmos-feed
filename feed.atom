@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-03-20T00:41:35.632Z</updated>
+    <updated>2022-03-21T00:41:28.189Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[利用 GitHub Action 和快捷指令解决 Logseq 的最后一米]]></title>
+        <id>https://frostming.com/2022/03-20/logseq-journal-automation/</id>
+        <link href="https://frostming.com/2022/03-20/logseq-journal-automation/"/>
+        <updated>2022-03-20T21:28:52.000Z</updated>
+        <summary type="html"><![CDATA[我是一个 Logseq 的新手玩家，在使用 Logseq 的时候，有一个最大的痛点，
+就是 Logseq 不能随时随地记日记(Journal)，本地化存储是 Logseq 的优点，但也造成一些不便。比如我躺上床上，在淋浴中，在运动中想到一个点子，
+难道我要记到脑子里，等第二天再记到电脑上，还是我立刻打开电脑记下来呢，这两种方式对中年人都不友好。我把这个问题称作 Logseq 的最后一米问题。]]></summary>
+        <author>
+            <name>The RSS feed of Frost's blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分享一下“稍后阅读”的 random 功能]]></title>
         <id>https://www.kawabangga.com/?p=4663</id>

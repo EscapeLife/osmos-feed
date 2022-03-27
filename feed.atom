@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-03-26T00:42:49.353Z</updated>
+    <updated>2022-03-27T00:47:25.787Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -56,27 +56,6 @@ Nginx if 指令工作原理
 如何杀死一个进程？]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fire命令行接口工具]]></title>
-        <id>https://www.escapelife.site/posts/58decd40.html</id>
-        <link href="https://www.escapelife.site/posts/58decd40.html"/>
-        <updated>2022-03-12T10:54:11.000Z</updated>
-        <summary type="html"><![CDATA[<h1 id="Fire-命令行接口工具"><a href="#Fire-命令行接口工具" class="headerlink" title="Fire 命令行接口工具"></a>Fire]]></summary>
-        <author>
-            <name>Escape</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在 Python 中使用 vendor 的方法]]></title>
-        <id>https://frostming.com/2022/03-12/how-to-vendor-in-python/</id>
-        <link href="https://frostming.com/2022/03-12/how-to-vendor-in-python/"/>
-        <updated>2022-03-12T10:18:49.000Z</updated>
-        <summary type="html"><![CDATA[Photo by Cam Morin on Unsplash 本文介绍了在 Python 库中 vendor 第三方库的正确方法。我知道这篇文章的受众非常狭窄，大部分 Python 开发者都不会也不需要用到这个技术，
-但是本着分享的精神还是把它总结一二，作为软件的作者更是应该尊重所有其他库的作者的劳动。]]></summary>
-        <author>
-            <name>The RSS feed of Frost's blog</name>
         </author>
     </entry>
     <entry>

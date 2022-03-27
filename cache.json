@@ -4,18 +4,7 @@
       "title": "Escape",
       "feedUrl": "https://www.escapelife.site/atom.xml",
       "siteUrl": "https://www.escapelife.site/atom.xml",
-      "articles": [
-        {
-          "id": "https://www.escapelife.site/posts/58decd40.html",
-          "author": null,
-          "description": "<h1 id=\"Fire-命令行接口工具\"><a href=\"#Fire-命令行接口工具\" class=\"headerlink\" title=\"Fire 命令行接口工具\"></a>Fire",
-          "link": "https://www.escapelife.site/posts/58decd40.html",
-          "publishedOn": "2022-03-12T10:54:11.000Z",
-          "wordCount": 1259,
-          "title": "Fire命令行接口工具",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "酷 壳 – CoolShell",
@@ -113,16 +102,6 @@
           "wordCount": 179,
           "title": "利用 GitHub Action 和快捷指令解决 Logseq 的最后一米",
           "imageUrl": null
-        },
-        {
-          "id": "https://frostming.com/2022/03-12/how-to-vendor-in-python/",
-          "author": null,
-          "description": "Photo by Cam Morin on Unsplash 本文介绍了在 Python 库中 vendor 第三方库的正确方法。我知道这篇文章的受众非常狭窄，大部分 Python 开发者都不会也不需要用到这个技术，\n但是本着分享的精神还是把它总结一二，作为软件的作者更是应该尊重所有其他库的作者的劳动。",
-          "link": "https://frostming.com/2022/03-12/how-to-vendor-in-python/",
-          "publishedOn": "2022-03-12T10:18:49.000Z",
-          "wordCount": 371,
-          "title": "在 Python 中使用 vendor 的方法",
-          "imageUrl": "https://images.unsplash.com/photo-1525562764522-ab2eeb6bc6f6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2049&q=80"
         }
       ]
     },

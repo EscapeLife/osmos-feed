@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-03-27T00:47:25.787Z</updated>
+    <updated>2022-03-28T00:44:49.895Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Debian 系统上捉摸不定的 Python]]></title>
+        <id>https://frostming.com/2022/03-27/python-on-debian/</id>
+        <link href="https://frostming.com/2022/03-27/python-on-debian/"/>
+        <updated>2022-03-27T21:46:03.000Z</updated>
+        <summary type="html"><![CDATA[在上周的周记中我记了一句： pdm 提了几个 issue，都和 debian 系统的 python 有关，i hate it 本文是对这句话的一个扩展。作为一个 Python 打包工具的开发者，非常痛恨 Debian 系统，所以我在回复 laixintao 时说道：
+Python 打包系统的混乱，Debian 系统是要居大功的。其实不止 Debian 是如此，下面开始吐槽，非常不严谨，吐槽完我就跑。]]></summary>
+        <author>
+            <name>The RSS feed of Frost's blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[利用 GitHub Action 和快捷指令解决 Logseq 的最后一米]]></title>
         <id>https://frostming.com/2022/03-20/logseq-journal-automation/</id>

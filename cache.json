@@ -94,6 +94,16 @@
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
         {
+          "id": "https://frostming.com/2022/03-27/python-on-debian/",
+          "author": null,
+          "description": "在上周的周记中我记了一句： pdm 提了几个 issue，都和 debian 系统的 python 有关，i hate it 本文是对这句话的一个扩展。作为一个 Python 打包工具的开发者，非常痛恨 Debian 系统，所以我在回复 laixintao 时说道：\nPython 打包系统的混乱，Debian 系统是要居大功的。其实不止 Debian 是如此，下面开始吐槽，非常不严谨，吐槽完我就跑。",
+          "link": "https://frostming.com/2022/03-27/python-on-debian/",
+          "publishedOn": "2022-03-27T21:46:03.000Z",
+          "wordCount": 367,
+          "title": "Debian 系统上捉摸不定的 Python",
+          "imageUrl": "https://static.frostming.com/images/debian.png"
+        },
+        {
           "id": "https://frostming.com/2022/03-20/logseq-journal-automation/",
           "author": null,
           "description": "我是一个 Logseq 的新手玩家，在使用 Logseq 的时候，有一个最大的痛点，\n就是 Logseq 不能随时随地记日记(Journal)，本地化存储是 Logseq 的优点，但也造成一些不便。比如我躺上床上，在淋浴中，在运动中想到一个点子，\n难道我要记到脑子里，等第二天再记到电脑上，还是我立刻打开电脑记下来呢，这两种方式对中年人都不友好。我把这个问题称作 Logseq 的最后一米问题。",

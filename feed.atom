@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-04-02T00:42:32.769Z</updated>
+    <updated>2022-04-03T00:47:27.961Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu系统使用指南]]></title>
+        <id>https://www.escapelife.site/posts/c9e0af36.html</id>
+        <link href="https://www.escapelife.site/posts/c9e0af36.html"/>
+        <updated>2022-04-01T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p><strong>记录 Ubuntu21.04 升级到 Ubuntu22.04 的过程以及相关设置纪要</strong></p>
+</blockquote>
+<p>无论您是想配置一个简单的文件服务器还是构建一个 <code>5</code>]]></summary>
+        <author>
+            <name>Escape</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年第一季度总结]]></title>
         <id>https://www.escapelife.site/posts/b821acd2.html</id>
@@ -37,26 +50,6 @@ Python 打包系统的混乱，Debian 系统是要居大功的。其实不止 De
 难道我要记到脑子里，等第二天再记到电脑上，还是我立刻打开电脑记下来呢，这两种方式对中年人都不友好。我把这个问题称作 Logseq 的最后一米问题。]]></summary>
         <author>
             <name>The RSS feed of Frost's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分享一下“稍后阅读”的 random 功能]]></title>
-        <id>https://www.kawabangga.com/?p=4663</id>
-        <link href="https://www.kawabangga.com/posts/4663"/>
-        <updated>2022-03-18T16:28:45.000Z</updated>
-        <summary type="html"><![CDATA[最近用了 @yiran 转载的一个 pocket 的隐藏功能，发现太好用了。在博客上单独再分享一下。 TL;D […]
-Continue reading...
-The post 分享一下“稍后阅读”的 random 功能 first appeared on 卡瓦邦噶！.
-
-相关文章:
-
-SRE&Devops 每周分享 Issue #1 Opening
-Firefox Setup
-近况
-java问答：终极父类（六）——等待/唤醒和接口
-玩了一下 Github 个人首页的 Profile （使用 Action 自动更新）]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

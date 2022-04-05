@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-04-04T00:45:15.148Z</updated>
+    <updated>2022-04-05T00:43:43.614Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -46,18 +46,6 @@
         <updated>2022-03-27T21:46:03.000Z</updated>
         <summary type="html"><![CDATA[在上周的周记中我记了一句： pdm 提了几个 issue，都和 debian 系统的 python 有关，i hate it 本文是对这句话的一个扩展。作为一个 Python 打包工具的开发者，非常痛恨 Debian 系统，所以我在回复 laixintao 时说道：
 Python 打包系统的混乱，Debian 系统是要居大功的。其实不止 Debian 是如此，下面开始吐槽，非常不严谨，吐槽完我就跑。]]></summary>
-        <author>
-            <name>The RSS feed of Frost's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[利用 GitHub Action 和快捷指令解决 Logseq 的最后一米]]></title>
-        <id>https://frostming.com/2022/03-20/logseq-journal-automation/</id>
-        <link href="https://frostming.com/2022/03-20/logseq-journal-automation/"/>
-        <updated>2022-03-20T21:28:52.000Z</updated>
-        <summary type="html"><![CDATA[我是一个 Logseq 的新手玩家，在使用 Logseq 的时候，有一个最大的痛点，
-就是 Logseq 不能随时随地记日记(Journal)，本地化存储是 Logseq 的优点，但也造成一些不便。比如我躺上床上，在淋浴中，在运动中想到一个点子，
-难道我要记到脑子里，等第二天再记到电脑上，还是我立刻打开电脑记下来呢，这两种方式对中年人都不友好。我把这个问题称作 Logseq 的最后一米问题。]]></summary>
         <author>
             <name>The RSS feed of Frost's blog</name>
         </author>

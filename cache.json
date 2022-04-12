@@ -111,21 +111,10 @@
       "articles": []
     },
     {
-      "title": "The RSS feed of Frost's blog",
+      "title": "Frost's Blog",
       "feedUrl": "https://frostming.com/feed.xml",
-      "siteUrl": "http://github.com/dylang/node-rss",
-      "articles": [
-        {
-          "id": "https://frostming.com/2022/03-27/python-on-debian/",
-          "author": null,
-          "description": "在上周的周记中我记了一句： pdm 提了几个 issue，都和 debian 系统的 python 有关，i hate it 本文是对这句话的一个扩展。作为一个 Python 打包工具的开发者，非常痛恨 Debian 系统，所以我在回复 laixintao 时说道：\nPython 打包系统的混乱，Debian 系统是要居大功的。其实不止 Debian 是如此，下面开始吐槽，非常不严谨，吐槽完我就跑。",
-          "link": "https://frostming.com/2022/03-27/python-on-debian/",
-          "publishedOn": "2022-03-27T21:46:03.000Z",
-          "wordCount": 367,
-          "title": "Debian 系统上捉摸不定的 Python",
-          "imageUrl": "https://static.frostming.com/images/debian.png"
-        }
-      ]
+      "siteUrl": "https://frostming.com/blog",
+      "articles": []
     },
     {
       "title": "Posts on Jiayuan Thoughts",

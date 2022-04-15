@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-04-14T00:53:57.792Z</updated>
+    <updated>2022-04-15T00:48:39.575Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[为了薯条、月亮和六便士]]></title>
+        <id>https://greyli.com/?p=4315</id>
+        <link href="https://greyli.com/for-chips-moon-and-sixpence/"/>
+        <updated>2022-04-14T14:55:13.000Z</updated>
+        <summary type="html"><![CDATA[前两天偶然翻到《月亮和六便士》的豆瓣条目，看到我刚好在十年前的这一天标记了这本书。当时带着愤怒写下了这条短评： […]]]></summary>
+        <author>
+            <name>李辉</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Leetcode Weekly Contest 287 题解]]></title>
         <id>http://manjusaka.itscoder.com/posts/2022/04/05/leetcode-weekly-contest-287/</id>
@@ -35,16 +45,6 @@
 <p><strong>记录 Ubuntu21.04 升级到 Ubuntu22.04 的过程以及相关设置纪要</strong></p>
 </blockquote>
 <p>无论您是想配置一个简单的文件服务器还是构建一个 <code>5</code>]]></summary>
-        <author>
-            <name>Escape</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年第一季度总结]]></title>
-        <id>https://www.escapelife.site/posts/b821acd2.html</id>
-        <link href="https://www.escapelife.site/posts/b821acd2.html"/>
-        <updated>2022-03-31T04:00:10.000Z</updated>
-        <summary type="html"><![CDATA[<h1 id="2022-年第一季度总结"><a href="#2022-年第一季度总结" class="headerlink" title="2022 年第一季度总结"></a>2022]]></summary>
         <author>
             <name>Escape</name>
         </author>

@@ -4,18 +4,7 @@
       "title": "Escape",
       "feedUrl": "https://www.escapelife.site/atom.xml",
       "siteUrl": "https://www.escapelife.site/atom.xml",
-      "articles": [
-        {
-          "id": "https://www.escapelife.site/posts/c9e0af36.html",
-          "author": null,
-          "description": "<blockquote>\n<p><strong>记录 Ubuntu21.04 升级到 Ubuntu22.04 的过程以及相关设置纪要</strong></p>\n</blockquote>\n<p>无论您是想配置一个简单的文件服务器还是构建一个 <code>5</code>",
-          "link": "https://www.escapelife.site/posts/c9e0af36.html",
-          "publishedOn": "2022-04-01T14:45:00.000Z",
-          "wordCount": 1270,
-          "title": "Ubuntu系统使用指南",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "酷 壳 – CoolShell",

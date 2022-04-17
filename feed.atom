@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-04-16T00:47:08.756Z</updated>
+    <updated>2022-04-17T00:49:27.689Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -34,19 +34,6 @@
         <summary type="html"><![CDATA[如果你用 macOS 开发 Flask 时（host 设为 0.0.0.0）无法正常访问程序，或是使用 ngr […]]]></summary>
         <author>
             <name>李辉</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu系统使用指南]]></title>
-        <id>https://www.escapelife.site/posts/c9e0af36.html</id>
-        <link href="https://www.escapelife.site/posts/c9e0af36.html"/>
-        <updated>2022-04-01T14:45:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p><strong>记录 Ubuntu21.04 升级到 Ubuntu22.04 的过程以及相关设置纪要</strong></p>
-</blockquote>
-<p>无论您是想配置一个简单的文件服务器还是构建一个 <code>5</code>]]></summary>
-        <author>
-            <name>Escape</name>
         </author>
     </entry>
     <entry>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-04-17T00:49:27.689Z</updated>
+    <updated>2022-04-18T00:55:56.150Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -24,16 +24,6 @@
         <summary type="html"><![CDATA[<p>好久没打周赛了，打了一次周赛，简单的写个题解</p>]]></summary>
         <author>
             <name>Manjusaka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果你在 macOS 上无法访问 Flask 程序]]></title>
-        <id>https://greyli.com/?p=4298</id>
-        <link href="https://greyli.com/thank-you-apple/"/>
-        <updated>2022-04-03T09:37:51.000Z</updated>
-        <summary type="html"><![CDATA[如果你用 macOS 开发 Flask 时（host 设为 0.0.0.0）无法正常访问程序，或是使用 ngr […]]]></summary>
-        <author>
-            <name>李辉</name>
         </author>
     </entry>
     <entry>

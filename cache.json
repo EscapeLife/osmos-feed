@@ -49,6 +49,16 @@
       "siteUrl": "https://greyli.com",
       "articles": [
         {
+          "id": "https://greyli.com/?p=4330",
+          "author": "李辉",
+          "description": "过完年回到上海的这段时间，陆续凑齐了所有的东西。买了新的床、床垫和衣柜（感谢房东出了 80% 的钱），买了二手 […]",
+          "link": "https://greyli.com/shanghai/",
+          "publishedOn": "2022-04-19T00:37:45.000Z",
+          "wordCount": 73,
+          "title": "回不去的上海",
+          "imageUrl": "https://greyli.com/wp-content/uploads/2020/07/avatar.jpg"
+        },
+        {
           "id": "https://greyli.com/?p=4315",
           "author": "李辉",
           "description": "前两天偶然翻到《月亮和六便士》的豆瓣条目，看到我刚好在十年前的这一天标记了这本书。当时带着愤怒写下了这条短评： […]",

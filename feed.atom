@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-04-20T00:56:38.649Z</updated>
+    <updated>2022-04-21T00:53:37.098Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -24,16 +24,6 @@
         <summary type="html"><![CDATA[前两天偶然翻到《月亮和六便士》的豆瓣条目，看到我刚好在十年前的这一天标记了这本书。当时带着愤怒写下了这条短评： […]]]></summary>
         <author>
             <name>李辉</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leetcode Weekly Contest 287 题解]]></title>
-        <id>http://manjusaka.itscoder.com/posts/2022/04/05/leetcode-weekly-contest-287/</id>
-        <link href="http://manjusaka.itscoder.com/posts/2022/04/05/leetcode-weekly-contest-287/"/>
-        <updated>2022-04-05T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>好久没打周赛了，打了一次周赛，简单的写个题解</p>]]></summary>
-        <author>
-            <name>Manjusaka</name>
         </author>
     </entry>
     <entry>

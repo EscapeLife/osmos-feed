@@ -80,18 +80,7 @@
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "http://manjusaka.itscoder.com/atom.xml",
-      "articles": [
-        {
-          "id": "http://manjusaka.itscoder.com/posts/2022/04/05/leetcode-weekly-contest-287/",
-          "author": null,
-          "description": "<p>好久没打周赛了，打了一次周赛，简单的写个题解</p>",
-          "link": "http://manjusaka.itscoder.com/posts/2022/04/05/leetcode-weekly-contest-287/",
-          "publishedOn": "2022-04-05T13:00:00.000Z",
-          "wordCount": 1238,
-          "title": "Leetcode Weekly Contest 287 题解",
-          "imageUrl": "http://manjusaka.itscoder.com/img/og_image.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "laike9m's blog",

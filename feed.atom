@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-04-22T00:53:44.420Z</updated>
+    <updated>2022-04-23T00:49:09.888Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[再见，极客时间]]></title>
+        <id>https://macshuo.com/?p=1616</id>
+        <link href="https://macshuo.com/?p=1616"/>
+        <updated>2022-04-22T11:41:38.000Z</updated>
+        <summary type="html"><![CDATA[2017 年 3 月，我加入了极客邦科技，任职总裁，开始着手打造极客时间这款产品 … Continue reading →]]></summary>
+        <author>
+            <name>MacTalk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[回不去的上海]]></title>
         <id>https://greyli.com/?p=4330</id>

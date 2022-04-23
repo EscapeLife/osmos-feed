@@ -41,7 +41,18 @@
       "title": "MacTalk-池建强的随想录",
       "feedUrl": "http://macshuo.com/?feed=rss2",
       "siteUrl": "https://macshuo.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://macshuo.com/?p=1616",
+          "author": "MacTalk",
+          "description": "2017 年 3 月，我加入了极客邦科技，任职总裁，开始着手打造极客时间这款产品 … Continue reading →",
+          "link": "https://macshuo.com/?p=1616",
+          "publishedOn": "2022-04-22T11:41:38.000Z",
+          "wordCount": 315,
+          "title": "再见，极客时间",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "李辉",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-04-24T00:46:38.923Z</updated>
+    <updated>2022-04-25T00:44:36.882Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[年薪百万的迷惘]]></title>
+        <id>https://macshuo.com/?p=1652</id>
+        <link href="https://macshuo.com/?p=1652"/>
+        <updated>2022-04-23T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[今天我的星球里收到这样一个提问，猛一看，还以为人家凡尔赛呢： 我今年28岁，在去 … Continue reading →]]></summary>
+        <author>
+            <name>MacTalk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[先做成一件事]]></title>
         <id>https://macshuo.com/?p=1648</id>

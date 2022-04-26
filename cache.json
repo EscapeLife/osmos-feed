@@ -4,7 +4,18 @@
       "title": "Escape",
       "feedUrl": "https://www.escapelife.site/atom.xml",
       "siteUrl": "https://www.escapelife.site/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.escapelife.site/posts/8e342b57.html",
+          "author": null,
+          "description": "<blockquote>\n<p><strong>基于 GPU 的功能强大的终端仿真器(跨平台是王道)</strong></p>\n</blockquote>\n<p>近几年越来越多人喜欢使用 <code>dotfiles</code>",
+          "link": "https://www.escapelife.site/posts/8e342b57.html",
+          "publishedOn": "2022-04-23T11:04:00.000Z",
+          "wordCount": 427,
+          "title": "Kitty基于GPU的终端工具",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "酷 壳 – CoolShell",
@@ -42,6 +53,16 @@
       "feedUrl": "http://macshuo.com/?feed=rss2",
       "siteUrl": "https://macshuo.com",
       "articles": [
+        {
+          "id": "https://macshuo.com/?p=1702",
+          "author": "MacTalk",
+          "description": "在一个剧烈变化的时代，人们的问题总是很多，然而我并没有确切的答案，大部分都没有。 … Continue reading →",
+          "link": "https://macshuo.com/?p=1702",
+          "publishedOn": "2022-04-25T10:55:52.000Z",
+          "wordCount": 253,
+          "title": "谁在制造问题？",
+          "imageUrl": null
+        },
         {
           "id": "https://macshuo.com/?p=1652",
           "author": "MacTalk",

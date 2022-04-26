@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-04-25T00:44:36.882Z</updated>
+    <updated>2022-04-26T00:52:34.208Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[谁在制造问题？]]></title>
+        <id>https://macshuo.com/?p=1702</id>
+        <link href="https://macshuo.com/?p=1702"/>
+        <updated>2022-04-25T10:55:52.000Z</updated>
+        <summary type="html"><![CDATA[在一个剧烈变化的时代，人们的问题总是很多，然而我并没有确切的答案，大部分都没有。 … Continue reading →]]></summary>
+        <author>
+            <name>MacTalk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[年薪百万的迷惘]]></title>
         <id>https://macshuo.com/?p=1652</id>
@@ -14,6 +24,19 @@
         <summary type="html"><![CDATA[今天我的星球里收到这样一个提问，猛一看，还以为人家凡尔赛呢： 我今年28岁，在去 … Continue reading →]]></summary>
         <author>
             <name>MacTalk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kitty基于GPU的终端工具]]></title>
+        <id>https://www.escapelife.site/posts/8e342b57.html</id>
+        <link href="https://www.escapelife.site/posts/8e342b57.html"/>
+        <updated>2022-04-23T11:04:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p><strong>基于 GPU 的功能强大的终端仿真器(跨平台是王道)</strong></p>
+</blockquote>
+<p>近几年越来越多人喜欢使用 <code>dotfiles</code>]]></summary>
+        <author>
+            <name>Escape</name>
         </author>
     </entry>
     <entry>

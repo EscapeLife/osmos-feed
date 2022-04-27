@@ -3,17 +3,32 @@ siteTitle: "escapelife::feed"
 cacheUrl: https://www.escapelife.site/osmos-feed/cache.json
 
 sources:
+  # Me
   - href: https://www.escapelife.site/atom.xml # Escape
 
+  # One
   - href: https://coolshell.cn/feed # 酷壳
   - href: https://www.ruanyifeng.com/blog/atom.xml # 阮一峰
-  - href: http://macshuo.com/?feed=rss2 # 池建强
-  - href: https://greyli.com/feed # 李辉
+  - href: https://macshuo.com/?feed=rss2 # MacTalk
+  - href: http://feeds.feedburner.com/Tinyfoolblog # Tinyfool
+  - href: https://kdr2.com/misc/site-log.xml # kdr2
 
+  # Two
   - href: https://www.kawabangga.com/feed # 卡瓦邦噶
   - href: https://manjusaka.itscoder.com/atom.xml # Manjusaka
   - href: https://laike9m.com/blog/rss # laike9m
   - href: https://frostming.com/feed.xml # Frost
   - href: http://blog.jiayuanzhang.com/post/index.xml # Jiayuan
+  - href: https://www.codedump.info/index.xml # codedump
+
+  # Three
+  - href: https://greyli.com/feed # 李辉
+  - href: https://blog.codingnow.com/atom.xml # 云风
+  - href: https://www.zlovezl.cn/feeds/latest # Piglei
+  - href: https://cuiqingcai.com/atom.xml # 崔庆才
+  - href: https://vim0.com/index.xml # xiantang
+  - href: https://www.leavesongs.com/feed # 离别歌
+  - href: https://zhangge.net/feed # 张戈
+  - href: https://blog.k8s.li/atom.xml # Reimu
 
 cacheMaxDays: 15

@@ -54,6 +54,16 @@
       "siteUrl": "https://macshuo.com",
       "articles": [
         {
+          "id": "https://macshuo.com/?p=1711",
+          "author": "MacTalk",
+          "description": "我不喜欢公司里开座谈会，如果解决问题的话，1 V 1 或者业务会议更好。座谈会更 … Continue reading →",
+          "link": "https://macshuo.com/?p=1711",
+          "publishedOn": "2022-04-26T09:30:35.000Z",
+          "wordCount": 261,
+          "title": "解决问题的三个忠告",
+          "imageUrl": null
+        },
+        {
           "id": "https://macshuo.com/?p=1702",
           "author": "MacTalk",
           "description": "在一个剧烈变化的时代，人们的问题总是很多，然而我并没有确切的答案，大部分都没有。 … Continue reading →",

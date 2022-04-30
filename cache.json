@@ -188,16 +188,6 @@
           "wordCount": 73,
           "title": "回不去的上海",
           "imageUrl": "https://greyli.com/wp-content/uploads/2020/07/avatar.jpg"
-        },
-        {
-          "id": "https://greyli.com/?p=4315",
-          "author": "李辉",
-          "description": "前两天偶然翻到《月亮和六便士》的豆瓣条目，看到我刚好在十年前的这一天标记了这本书。当时带着愤怒写下了这条短评： […]",
-          "link": "https://greyli.com/for-chips-moon-and-sixpence/",
-          "publishedOn": "2022-04-14T14:55:13.000Z",
-          "wordCount": 58,
-          "title": "为了薯条、月亮和六便士",
-          "imageUrl": "https://greyli.com/wp-content/uploads/2020/07/avatar.jpg"
         }
       ]
     },
@@ -415,7 +405,18 @@
       "title": "Reimu's blog",
       "feedUrl": "https://blog.k8s.li/atom.xml",
       "siteUrl": "/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://blog.k8s.li/redfish-esxi-os-installer.html",
+          "author": null,
+          "description": "<p>从去年十一月底到现在一直在做在  <a",
+          "link": "https://blog.k8s.li/redfish-esxi-os-installer.html",
+          "publishedOn": "2022-04-29T16:00:00.000Z",
+          "wordCount": 2990,
+          "title": "使用 Redfish 自动化安装 ESXi OS",
+          "imageUrl": "https://p.k8s.li/2022-04-30-redfish-auto-install-esxi-os-01.png"
+        }
+      ]
     }
   ],
   "cliVersion": "1.14.4"

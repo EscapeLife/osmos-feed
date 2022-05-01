@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-04-30T00:57:58.250Z</updated>
+    <updated>2022-05-01T01:03:03.467Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -391,19 +391,6 @@ To file your Income Tax Return, log in to myTax Portal with Singpass.
 <p>学完之后我特地来记录下，同时分享给大家，以后产品经理再也不敢嘲笑我们不懂反弹 Shell 了！]]></summary>
         <author>
             <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raycast下一代快捷启动器]]></title>
-        <id>https://www.escapelife.site/posts/1fed3cf4.html</id>
-        <link href="https://www.escapelife.site/posts/1fed3cf4.html"/>
-        <updated>2022-04-16T11:04:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p><strong>一款速度极快、完全可扩展的启动器。</strong></p>
-</blockquote>
-<p>今天介绍一个可以帮助我们提升生产力或者改善效率的工具，那就是 <code>Raycast</code>。它的功能和我们知道的]]></summary>
-        <author>
-            <name>Escape</name>
         </author>
     </entry>
     <entry>

@@ -54,6 +54,16 @@
       "siteUrl": "https://macshuo.com",
       "articles": [
         {
+          "id": "https://macshuo.com/?p=1713",
+          "author": "MacTalk",
+          "description": "提问：池大好，一直都有这么一个认知：读书是获取别人经验最简单的途径，可以扩展视野 … Continue reading →",
+          "link": "https://macshuo.com/?p=1713",
+          "publishedOn": "2022-05-01T17:14:53.000Z",
+          "wordCount": 197,
+          "title": "不必读书",
+          "imageUrl": null
+        },
+        {
           "id": "https://macshuo.com/?p=1711",
           "author": "MacTalk",
           "description": "我不喜欢公司里开座谈会，如果解决问题的话，1 V 1 或者业务会议更好。座谈会更 … Continue reading →",
@@ -151,18 +161,7 @@
       "title": "codedump的网络日志",
       "feedUrl": "https://www.codedump.info/index.xml",
       "siteUrl": "https://www.codedump.info/",
-      "articles": [
-        {
-          "id": "https://www.codedump.info/post/20220417-weekly-13/",
-          "author": null,
-          "description": "引言：以前阅读Raft大论文的时候，对“集群变更”这部分内容似懂非懂。于是最近又重读了大论文这部分的内容，以下是重读时做的一些记录。这部分内容打算分为两篇文章，上篇讲解成员变更流程的理论基础，下篇讲解实践中存在的问题。\n重读Raft论文中的集群成员变更算法（一）：理论篇\n“集群成员变更（cluster membership change）”意指一个集群内节点的增、删操作，这在一个分布式系统中是必不可少的操作，因为并不能保证一个集群的所有节点都一直能工作的很好。Raft大论文《Consensus: Bridging Theory and Practice》中有专门的一节来讲解这部分内容。\n安全性\n首先，Raft算法中要求所有操作都需要保证安全性（safety），即：任何时候都不能在集群中同时存在两个leader节点。“集群成员变更”算法也必须保证安全性这个大前提不能被破坏，于是论文中阐述了为什么直接变更多个节点是不被允许的：\n\n在上图的图示中：\n旧集群有1、2、3这三个节点，而需要将这个三节点的集群新增节点4、5变更到5节点集群去。\n如果直接如图中这样变更，由于每个节点的时间窗口并不一致，可能就会出现这种情况：\n\n在某一时刻，节点1、2还使用的是旧集群（只含有{1,2,3}）的成员配置，而3、4、5已经是新集群（含有{1,2,3,4,5}）的成员配置了。\n这样就可能出现还使用旧集群节点配置的1、2选出了一个leader，以及已经使用了新集群配置的节点3、4、5选出了另一个leader的情况，于是违反了上面阐述的“安全性”要求。\n需要说明的是，在上面这个错误的示例中，是由于有两类行为同时出现才导致的错误：\n一次性变更多个节点。在例子中，就是一次性把4、5两个节点加入到集群中。\n直接（directly）变更。直接变更由于集群中不同节点的步子不一样，而不一样的节点如果出现了两个不同…",
-          "link": "https://www.codedump.info/post/20220417-weekly-13/",
-          "publishedOn": "2022-04-17T07:16:30.000Z",
-          "wordCount": 191,
-          "title": "周刊（第13期）：重读Raft论文中的集群成员变更算法（一）：理论篇",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "李辉",
@@ -259,18 +258,7 @@
       "title": "静觅",
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
-      "articles": [
-        {
-          "id": "https://cuiqingcai.com/36056.html",
-          "author": null,
-          "description": "<p>前段时间被一位产品经理嘲笑了，说我居然连反弹 Shell 都不知道！</p>\n<p>说实话当时我还真不知道，但这口气咽不下去啊，得赶紧学来看看，这不，我已经学会了！</p>\n<p>学完之后我特地来记录下，同时分享给大家，以后产品经理再也不敢嘲笑我们不懂反弹 Shell 了！",
-          "link": "https://cuiqingcai.com/36056.html",
-          "publishedOn": "2022-04-17T02:00:22.000Z",
-          "wordCount": 543,
-          "title": "什么是反弹 Shell？",
-          "imageUrl": "https://qiniu.cuiqingcai.com/pa0wf.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "咸糖 - 自律者自由",

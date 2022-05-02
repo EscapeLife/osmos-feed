@@ -82,6 +82,53 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-05-01 datetime="2022-05-01T17:14:53.000Z">2022-05-01</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-05-01 datetime="2022-05-01T17:14:53.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >MacTalk-池建强的随想录</button>
+                  <a class="source-heading__link" href="https://macshuo.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://macshuo.com/?p&#x3D;1713"
+                        open
+                      >
+                        <summary class="article-expander__title">不必读书</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://macshuo.com/?p&#x3D;1713">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>提问：池大好，一直都有这么一个认知：读书是获取别人经验最简单的途径，可以扩展视野 … Continue reading →</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-04-29 datetime="2022-04-29T16:00:00.000Z">2022-04-29</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-04-29 datetime="2022-04-29T16:00:00.000Z"></time>
           </button>
@@ -868,103 +915,6 @@ def main():
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-04-17 datetime="2022-04-17T07:16:30.000Z">2022-04-17</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-04-17 datetime="2022-04-17T07:16:30.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >codedump的网络日志</button>
-                  <a class="source-heading__link" href="https://www.codedump.info/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.codedump.info/post/20220417-weekly-13/"
-                        open
-                      >
-                        <summary class="article-expander__title">周刊（第13期）：重读Raft论文中的集群成员变更算法（一）：理论篇</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.codedump.info/post/20220417-weekly-13/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>引言：以前阅读Raft大论文的时候，对“集群变更”这部分内容似懂非懂。于是最近又重读了大论文这部分的内容，以下是重读时做的一些记录。这部分内容打算分为两篇文章，上篇讲解成员变更流程的理论基础，下篇讲解实践中存在的问题。
-重读Raft论文中的集群成员变更算法（一）：理论篇
-“集群成员变更（cluster membership change）”意指一个集群内节点的增、删操作，这在一个分布式系统中是必不可少的操作，因为并不能保证一个集群的所有节点都一直能工作的很好。Raft大论文《Consensus: Bridging Theory and Practice》中有专门的一节来讲解这部分内容。
-安全性
-首先，Raft算法中要求所有操作都需要保证安全性（safety），即：任何时候都不能在集群中同时存在两个leader节点。“集群成员变更”算法也必须保证安全性这个大前提不能被破坏，于是论文中阐述了为什么直接变更多个节点是不被允许的：
-
-在上图的图示中：
-旧集群有1、2、3这三个节点，而需要将这个三节点的集群新增节点4、5变更到5节点集群去。
-如果直接如图中这样变更，由于每个节点的时间窗口并不一致，可能就会出现这种情况：
-
-在某一时刻，节点1、2还使用的是旧集群（只含有{1,2,3}）的成员配置，而3、4、5已经是新集群（含有{1,2,3,4,5}）的成员配置了。
-这样就可能出现还使用旧集群节点配置的1、2选出了一个leader，以及已经使用了新集群配置的节点3、4、5选出了另一个leader的情况，于是违反了上面阐述的“安全性”要求。
-需要说明的是，在上面这个错误的示例中，是由于有两类行为同时出现才导致的错误：
-一次性变更多个节点。在例子中，就是一次性把4、5两个节点加入到集群中。
-直接（directly）变更。直接变更由于集群中不同节点的步子不一样，而不一样的节点如果出现了两个不同…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >静觅</button>
-                  <a class="source-heading__link" href="/atom.xml">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://cuiqingcai.com/36056.html"
-                        open
-                      >
-                        <summary class="article-expander__title">什么是反弹 Shell？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://cuiqingcai.com/36056.html">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://qiniu.cuiqingcai.com/pa0wf.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>前段时间被一位产品经理嘲笑了，说我居然连反弹 Shell 都不知道！
-说实话当时我还真不知道，但这口气咽不下去啊，得赶紧学来看看，这不，我已经学会了！
-学完之后我特地来记录下，同时分享给大家，以后产品经理再也不敢嘲笑我们不懂反弹 Shell 了！</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-01-21 datetime="2022-01-21T00:48:38.000Z">2022-01-21</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-01-21 datetime="2022-01-21T00:48:38.000Z"></time>
           </button>
@@ -1054,8 +1004,8 @@ def main():
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/EscapeLife/osmos-feed/actions/runs/2251738665">
-        <time id="build-timestamp" datetime="2022-05-01T01:03:03.433Z">2022-05-01T01:03:03.433Z</time>
+      <a class="footer-link" href="https://github.com/EscapeLife/osmos-feed/actions/runs/2255449035">
+        <time id="build-timestamp" datetime="2022-05-02T00:52:02.603Z">2022-05-02T00:52:02.603Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.14.4</a>
     </footer>

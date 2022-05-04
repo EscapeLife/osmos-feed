@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-05-03T00:53:54.417Z</updated>
+    <updated>2022-05-04T00:54:35.236Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -345,26 +345,6 @@ To file your Income Tax Return, log in to myTax Portal with Singpass.
         <summary type="html"><![CDATA[2017 年 3 月，我加入了极客邦科技，任职总裁，开始着手打造极客时间这款产品 … Continue reading →]]></summary>
         <author>
             <name>MacTalk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[��Ƥ���ݵ�ѹ��]]></title>
-        <id>https://blog.codingnow.com/2022/04/vertex_blend_attribute_compression.html</id>
-        <link href="https://blog.codingnow.com/2022/04/vertex_blend_attribute_compression.html"/>
-        <updated>2022-04-19T04:38:40.000Z</updated>
-        <summary type="html"><![CDATA[��ͳ����Ƥ������Ҫ��ģ�Ͷ����ϴ��������ݣ���һΪ�ö�������Щ��ͷ��Ӱ�죬���Ϊ����Щ��ͷӰ���Ȩ�ء���Ϊ GPU �Ķ���Ӱ�죬ͨ����Ϸ�лὫͬһ������Ӱ��Ĺ�ͷ����������Ϊ 4 ����������κ��Ż�����ͷ������ 256 ����ʱ��ÿ��������Ҫ 4 ���ֽڱ����ͷ��ţ����� 4 �� float ��ʾ�ֱ��Ȩ�ء� ��ΪȨ��֮������Ϊ 1 �����ԣ�ֻ�� 3 �� float Ҳ�ǿ��Եģ����ĸ�Ȩ��ͨ���򵥵ļ���Ϳ��Եõ����� ��ΪȨ������ 0-1 ֮������֣����� 32bits float �ľ���Զ�����裬����Ҳ������Ҫ�������������� 16bits [0,65535) ���� 8bits (0,255] ����ʾ 0-1 ��Ȩ��Ҳ���ˡ� ���ԣ���Ƥһ������ռ�� 64bit �Ķ������� ��4+4 bytes) ��...]]></summary>
-        <author>
-            <name>�Ʒ�� BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[回不去的上海]]></title>
-        <id>https://greyli.com/?p=4330</id>
-        <link href="https://greyli.com/shanghai/"/>
-        <updated>2022-04-19T00:37:45.000Z</updated>
-        <summary type="html"><![CDATA[过完年回到上海的这段时间，陆续凑齐了所有的东西。买了新的床、床垫和衣柜（感谢房东出了 80% 的钱），买了二手 […]]]></summary>
-        <author>
-            <name>李辉</name>
         </author>
     </entry>
     <entry>

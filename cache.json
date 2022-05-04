@@ -167,35 +167,13 @@
       "title": "李辉",
       "feedUrl": "https://greyli.com/feed",
       "siteUrl": "https://greyli.com",
-      "articles": [
-        {
-          "id": "https://greyli.com/?p=4330",
-          "author": "李辉",
-          "description": "过完年回到上海的这段时间，陆续凑齐了所有的东西。买了新的床、床垫和衣柜（感谢房东出了 80% 的钱），买了二手 […]",
-          "link": "https://greyli.com/shanghai/",
-          "publishedOn": "2022-04-19T00:37:45.000Z",
-          "wordCount": 73,
-          "title": "回不去的上海",
-          "imageUrl": "https://greyli.com/wp-content/uploads/2020/07/avatar.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "�Ʒ�� BLOG",
       "feedUrl": "https://blog.codingnow.com/atom.xml",
       "siteUrl": "https://blog.codingnow.com/",
-      "articles": [
-        {
-          "id": "https://blog.codingnow.com/2022/04/vertex_blend_attribute_compression.html",
-          "author": null,
-          "description": "��ͳ����Ƥ������Ҫ��ģ�Ͷ����ϴ��������ݣ���һΪ�ö�������Щ��ͷ��Ӱ�죬���Ϊ����Щ��ͷӰ���Ȩ�ء���Ϊ GPU �Ķ���Ӱ�죬ͨ����Ϸ�лὫͬһ������Ӱ��Ĺ�ͷ����������Ϊ 4 ����������κ��Ż�����ͷ������ 256 ����ʱ��ÿ��������Ҫ 4 ���ֽڱ����ͷ��ţ����� 4 �� float ��ʾ�ֱ��Ȩ�ء� ��ΪȨ��֮������Ϊ 1 �����ԣ�ֻ�� 3 �� float Ҳ�ǿ��Եģ����ĸ�Ȩ��ͨ���򵥵ļ���Ϳ��Եõ����� ��ΪȨ������ 0-1 ֮������֣����� 32bits float �ľ���Զ�����裬����Ҳ������Ҫ�������������� 16bits [0,65535) ���� 8bits (0,255] ����ʾ 0-1 ��Ȩ��Ҳ���ˡ� ���ԣ���Ƥһ������ռ�� 64bit �Ķ������� ��4+4 bytes) ��...",
-          "link": "https://blog.codingnow.com/2022/04/vertex_blend_attribute_compression.html",
-          "publishedOn": "2022-04-19T04:38:40.000Z",
-          "wordCount": 144,
-          "title": "��Ƥ���ݵ�ѹ��",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "piglei",

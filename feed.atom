@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-05-06T00:46:42.186Z</updated>
+    <updated>2022-05-07T00:48:43.154Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[重申常识]]></title>
+        <id>https://macshuo.com/?p=1743</id>
+        <link href="https://macshuo.com/?p=1743"/>
+        <updated>2022-05-06T09:48:12.000Z</updated>
+        <summary type="html"><![CDATA[提问：池建强老师，想请教一个比较宽泛的问题，如何积累认识常识与规律。经常会听到说 … Continue reading →]]></summary>
+        <author>
+            <name>MacTalk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ETCD的内存问题]]></title>
         <id>https://coolshell.cn/?p=22242</id>
@@ -26,6 +36,19 @@ ETCD的内存问题 first appeared on 酷 壳 - CoolShell.]]></summary>
         <summary type="html"><![CDATA[提问：池大好，一直都有这么一个认知：读书是获取别人经验最简单的途径，可以扩展视野 … Continue reading →]]></summary>
         <author>
             <name>MacTalk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用worktree来维护多分支]]></title>
+        <id>https://www.escapelife.site/posts/108b302e.html</id>
+        <link href="https://www.escapelife.site/posts/108b302e.html"/>
+        <updated>2022-05-01T04:44:12.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p><strong>学会之后，发现 git worktree 很好用，赞 👍</strong></p>
+</blockquote>
+<p><code>git worktree</code>]]></summary>
+        <author>
+            <name>Escape</name>
         </author>
     </entry>
     <entry>
@@ -345,16 +368,6 @@ To file your Income Tax Return, log in to myTax Portal with Singpass.
         <link href="https://macshuo.com/?p=1648"/>
         <updated>2022-04-23T03:15:18.000Z</updated>
         <summary type="html"><![CDATA[马上就五一了，这周日是工作日，周六要出去走走。昨晚做了一场直播，4 月23 号是 … Continue reading →]]></summary>
-        <author>
-            <name>MacTalk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[再见，极客时间]]></title>
-        <id>https://macshuo.com/?p=1616</id>
-        <link href="https://macshuo.com/?p=1616"/>
-        <updated>2022-04-22T11:41:38.000Z</updated>
-        <summary type="html"><![CDATA[2017 年 3 月，我加入了极客邦科技，任职总裁，开始着手打造极客时间这款产品 … Continue reading →]]></summary>
         <author>
             <name>MacTalk</name>
         </author>

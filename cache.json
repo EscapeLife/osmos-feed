@@ -14,16 +14,6 @@
           "wordCount": 418,
           "title": "使用worktree来维护多分支",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.escapelife.site/posts/8e342b57.html",
-          "author": null,
-          "description": "<blockquote>\n<p><strong>基于 GPU 的功能强大的终端仿真器(跨平台是王道)</strong></p>\n</blockquote>\n<p>近几年越来越多人喜欢使用 <code>dotfiles</code>",
-          "link": "https://www.escapelife.site/posts/8e342b57.html",
-          "publishedOn": "2022-04-23T11:04:00.000Z",
-          "wordCount": 427,
-          "title": "Kitty基于GPU的终端工具",
-          "imageUrl": null
         }
       ]
     },
@@ -123,16 +113,6 @@
           "wordCount": 340,
           "title": "年薪百万的迷惘",
           "imageUrl": null
-        },
-        {
-          "id": "https://macshuo.com/?p=1648",
-          "author": "MacTalk",
-          "description": "马上就五一了，这周日是工作日，周六要出去走走。昨晚做了一场直播，4 月23 号是 … Continue reading →",
-          "link": "https://macshuo.com/?p=1648",
-          "publishedOn": "2022-04-23T03:15:18.000Z",
-          "wordCount": 269,
-          "title": "先做成一件事",
-          "imageUrl": null
         }
       ]
     },
@@ -194,7 +174,18 @@
       "title": "�Ʒ�� BLOG",
       "feedUrl": "https://blog.codingnow.com/atom.xml",
       "siteUrl": "https://blog.codingnow.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://blog.codingnow.com/2022/05/gameplay_viewport.html",
+          "author": null,
+          "description": "��Ϸ��ҵ���߼���������ֵĹ��̺� GUI ϵͳ�ڽṹ��������֮��������һЩ��ͬ�㡣 ���������ʱ������ͨ������������ݺ�չʾ���롣�� GUI ϵͳ�У�����ͨ������Ϊ Model ��չʾ����Ϊ View �����͵� MVC ����������Ʒ MVP/MVVM �ȣ�ģʽ���ǽ����ڴ˻����ϡ�ҵ���߼��޸� Model ������չʾģ�飬�� Model ӳ�䵽 View �г��ָ��û��� ��ͳ�������������У��ܶ��������ڰ����󻮷֣�ÿ�����������ݲ��ֺ�չʾ���֡�������Ϸ���Ҳ�ϲ��������ơ��Ҹ������ڰ����ݺ�չʾ��ȫ���룬���� id ��ͬһ���������������ģ���չʾģ���з����ʵ�塣������Ϊ����Ϸ���������������������Ϸ����Ļչʾ�Ľ��������������С��һ���֡���ͬһʱ�䣬�󲿷ֵ����ݶ�����չʾ����������Ҳδ�ش����ڱ��ص��ڴ��С� �������ڰ���Ϸ�����з�Ϊ gameplay �� view ������ȫ�����ģ�飬�����ж��������ݽṹ����ơ�gameplay Ӧ�ÿ�����ȫ������ view ��ת������ͼ�����������ֻ���� view ���֡���������Ϸ����ʱ����ν���� gameplay ����Ϣ����� view ģ����չʾ�������ͳ��˱��뿼�ǵ���Ƶ㡣...",
+          "link": "https://blog.codingnow.com/2022/05/gameplay_viewport.html",
+          "publishedOn": "2022-05-07T11:09:39.000Z",
+          "wordCount": 204,
+          "title": "��Ϸ���ݵ�չʾ",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "piglei",
@@ -263,7 +254,18 @@
       "title": "咸糖 - 自律者自由",
       "feedUrl": "https://vim0.com/index.xml",
       "siteUrl": "https://vim0.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://vim0.com/post/docker-compose-dev/",
+          "author": null,
+          "description": "Docker 其实并不是一种新技术，而是一个新瓶装旧酒的工具。 其实我在大学上学的时候就用过 Docker，那个时候还是 17 年左右，Docker 还是如日中天的",
+          "link": "https://vim0.com/post/docker-compose-dev/",
+          "publishedOn": "2022-05-05T14:08:34.000Z",
+          "wordCount": 549,
+          "title": "使用 Docker Compose 建立你自己的开发环境",
+          "imageUrl": "https://vim0.com/post/docker-compose-dev.png"
+        }
+      ]
     },
     {
       "title": "离别歌",

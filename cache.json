@@ -103,16 +103,6 @@
           "wordCount": 255,
           "title": "谁在制造问题？",
           "imageUrl": null
-        },
-        {
-          "id": "https://macshuo.com/?p=1652",
-          "author": "MacTalk",
-          "description": "今天我的星球里收到这样一个提问，猛一看，还以为人家凡尔赛呢： 我今年28岁，在去 … Continue reading →",
-          "link": "https://macshuo.com/?p=1652",
-          "publishedOn": "2022-04-23T16:30:00.000Z",
-          "wordCount": 340,
-          "title": "年薪百万的迷惘",
-          "imageUrl": null
         }
       ]
     },
@@ -132,7 +122,18 @@
       "title": "卡瓦邦噶！",
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.kawabangga.com/?p=4676",
+          "author": "laixintao",
+          "description": "最近做了一个好玩的工具，叫 xbin.io 。其中有一项工作是为不同的工具来构建 Docker 镜像，让他们都 […]\nContinue reading...\nThe post Docker 镜像构建的一些技巧 first appeared on 卡瓦邦噶！.\n\n相关文章:\n\nSRE&Devops 每周分享 Issue #5\nBuild 一个最小的 Redis Docker Image\n健康茁壮成长的Python项目需要什么？\nShell单引号、双引号和反引号的区别\nDjango 项目使用 CircleCI",
+          "link": "https://www.kawabangga.com/posts/4676",
+          "publishedOn": "2022-05-08T07:37:24.000Z",
+          "wordCount": 1014,
+          "title": "Docker 镜像构建的一些技巧",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Manjusaka",
@@ -162,7 +163,18 @@
       "title": "codedump的网络日志",
       "feedUrl": "https://www.codedump.info/index.xml",
       "siteUrl": "https://www.codedump.info/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.codedump.info/post/20220507-weekly-14/",
+          "author": null,
+          "description": "引言：以前阅读Raft大论文的时候，对“集群变更”这部分内容似懂非懂。于是最近又重读了大论文这部分的内容，以下是重读时做的一些记录。这部分内容打算分为两篇文章，上篇讲解成员变更流程的理论基础，下篇讲解实践中存在的问题。\n重读Raft论文中的集群成员变更算法（二）：实践篇\n单步成员变更存在的问题\n正确性问题\n单步变更成员时，可能出现正确性问题。如下面的例子所示，最开始时，系统的成员是{a,b,c,d}这四个节点的集合，要将节点u和v加入集群，按照单步变更成员的做法，依次会经历：{a,b,c,d}->{a,b,c,d,u}->{a,b,c,d,u,v}的变化，每次将一个节点加入到集群里。\n上面的步骤看起来很美好，但是考虑下面的例子，在变更过程中leader节点发生了变化的情况：\nC₀ = {a, b, c, d}\nCᵤ = C₁ ∪ {u}\nCᵥ = C₁ ∪ {v}\n\nLᵢ: Leader in term `i`\nFᵢ: Follower in term `i`\n☒ : crash\n\n    |\n u  |         Cᵤ                  F₂  Cᵤ\n--- | ----------------------------------\n a  | C₀  L₀  Cᵤ  ☒               L₂  Cᵤ\n b  | C₀  F₀          F₁          F₂  Cᵤ\n c  | C₀  F₀          F₁  Cᵥ          Cᵤ\n d  | C₀              L₁  Cᵥ  ☒       Cᵤ\n--- | ----------------------------------\n v  |                     Cᵥ                  time\n    +---…",
+          "link": "https://www.codedump.info/post/20220507-weekly-14/",
+          "publishedOn": "2022-05-07T09:57:08.000Z",
+          "wordCount": 320,
+          "title": "周刊（第14期）：重读Raft论文中的集群成员变更算法（二）：实践篇",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "李辉",

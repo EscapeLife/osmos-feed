@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-05-10T00:50:32.408Z</updated>
+    <updated>2022-05-11T00:58:30.566Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -390,16 +390,6 @@ To file your Income Tax Return, log in to myTax Portal with Singpass.
 这里面有说到一个东西叫Singpass，在我来新加坡的这几个月里，几乎可以把Singpass看成新加坡政府数字化建设的]]></summary>
         <author>
             <name>phithon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解决问题的三个忠告]]></title>
-        <id>https://macshuo.com/?p=1711</id>
-        <link href="https://macshuo.com/?p=1711"/>
-        <updated>2022-04-26T09:30:35.000Z</updated>
-        <summary type="html"><![CDATA[我不喜欢公司里开座谈会，如果解决问题的话，1 V 1 或者业务会议更好。座谈会更 … Continue reading →]]></summary>
-        <author>
-            <name>MacTalk</name>
         </author>
     </entry>
     <entry>

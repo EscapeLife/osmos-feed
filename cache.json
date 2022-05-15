@@ -6,6 +6,16 @@
       "siteUrl": "https://www.escapelife.site/atom.xml",
       "articles": [
         {
+          "id": "https://www.escapelife.site/posts/c4b42099.html",
+          "author": null,
+          "description": "<blockquote>\n<p><strong>每个人都在努力的生活，每一种生活都值得被看见和记录！</strong></p>\n</blockquote>\n<p>多彩的生活，需要我自己去选择，到底什么才是适合我，我不知道。但是我会努力去尝试，直到我找到它并抓住它。</p>\n<p>",
+          "link": "https://www.escapelife.site/posts/c4b42099.html",
+          "publishedOn": "2022-05-14T16:36:23.000Z",
+          "wordCount": 104,
+          "title": "如何幸福的生活",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.escapelife.site/posts/108b302e.html",
           "author": null,
           "description": "<blockquote>\n<p><strong>学会之后，发现 git worktree 很好用，赞 👍</strong></p>\n</blockquote>\n<p><code>git worktree</code>",
@@ -386,18 +396,7 @@
       "title": "Reimu's blog",
       "feedUrl": "https://blog.k8s.li/atom.xml",
       "siteUrl": "/atom.xml",
-      "articles": [
-        {
-          "id": "https://blog.k8s.li/redfish-esxi-os-installer.html",
-          "author": null,
-          "description": "<p>从去年十一月底到现在一直在做在  <a",
-          "link": "https://blog.k8s.li/redfish-esxi-os-installer.html",
-          "publishedOn": "2022-04-29T16:00:00.000Z",
-          "wordCount": 2990,
-          "title": "使用 Redfish 自动化安装 ESXi OS",
-          "imageUrl": "https://p.k8s.li/2022-04-30-redfish-auto-install-esxi-os-01.png"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.14.4"

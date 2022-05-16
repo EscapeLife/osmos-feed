@@ -14,16 +14,6 @@
           "wordCount": 104,
           "title": "如何幸福的生活",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.escapelife.site/posts/108b302e.html",
-          "author": null,
-          "description": "<blockquote>\n<p><strong>学会之后，发现 git worktree 很好用，赞 👍</strong></p>\n</blockquote>\n<p><code>git worktree</code>",
-          "link": "https://www.escapelife.site/posts/108b302e.html",
-          "publishedOn": "2022-05-01T04:44:12.000Z",
-          "wordCount": 418,
-          "title": "使用worktree来维护多分支",
-          "imageUrl": null
         }
       ]
     },
@@ -154,6 +144,16 @@
       "feedUrl": "https://www.codedump.info/index.xml",
       "siteUrl": "https://www.codedump.info/",
       "articles": [
+        {
+          "id": "https://www.codedump.info/post/20220514-weekly-15/",
+          "author": null,
+          "description": "引言：ARIES(Algorithm for Recovery and Isolation Exploiting Semantics的简称）是论文《ARIES: A Transaction Recovery Method Supporting Fine-Franularity Locking and Partial Rollbacks Using Write-Ahead Logging》中提到的一种存储引擎中数据恢复的算法。这篇论文可以说是存储引擎数据恢复领域必读的一篇论文，这两期的周刊就是对这篇论文的图解，这是其中的上篇。\n图解ARIES论文（上）\n在展开解释ARIES算法原理之前，需要对Page oriented类存储引擎的日志系统有一定的了解，才能继续解释基于这个日志系统之上做的恢复算法。\n问题\n在一个存储系统中，出错是非常常见的情况的，这就涉及到出错了之后系统恢复时还需要能继续工作，即数据不能发生破坏导致整个系统跑不起来。\n于是，当系统出错需要重启恢复时，就涉及到以下两个动作：\n撤销（Undo）：未完成或者由于各种原因发生的事务，其修改需要被撤销，即回滚为事务之前的旧值。\n重做（Redo）：已经提交的事务，其修改操作的效果需要体现为新值。\n来看下图中提出的问题：\n\n在上图中：\n存在事务T1和T2在同时执行：\n\n事务T1：修改A值为3，但是在事务还未提交前，事务T2开始执行。\n事务T2：修改B值为8，并且成功提交。\n事务T1终止：在事务T2成功提交之后，事务T1终止。\n这个事务调度的执行顺序引发了以下几个问题：\n回滚未提交的事务T1需要做什么？\n对于未提交的事务T1，是否允许其修改操作在持久化存储上生效（即将A修改为3）？\n在磁盘的数据库文件中，已成功提交的事务T2，其修改操作是否应该立即落盘（即从buffer pool中同步修改的内容到硬盘）。\n第一个问题当前暂且放…",
+          "link": "https://www.codedump.info/post/20220514-weekly-15/",
+          "publishedOn": "2022-05-13T22:33:26.000Z",
+          "wordCount": 424,
+          "title": "周刊（第15期）：图解ARIES论文（上）",
+          "imageUrl": null
+        },
         {
           "id": "https://www.codedump.info/post/20220507-weekly-14/",
           "author": null,

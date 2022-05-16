@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-05-15T01:05:32.752Z</updated>
+    <updated>2022-05-16T00:55:09.756Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -44,6 +44,36 @@
 举个例子，假如你的软件…]]></summary>
         <author>
             <name>piglei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[周刊（第15期）：图解ARIES论文（上）]]></title>
+        <id>https://www.codedump.info/post/20220514-weekly-15/</id>
+        <link href="https://www.codedump.info/post/20220514-weekly-15/"/>
+        <updated>2022-05-13T22:33:26.000Z</updated>
+        <summary type="html"><![CDATA[引言：ARIES(Algorithm for Recovery and Isolation Exploiting Semantics的简称）是论文《ARIES: A Transaction Recovery Method Supporting Fine-Franularity Locking and Partial Rollbacks Using Write-Ahead Logging》中提到的一种存储引擎中数据恢复的算法。这篇论文可以说是存储引擎数据恢复领域必读的一篇论文，这两期的周刊就是对这篇论文的图解，这是其中的上篇。
+图解ARIES论文（上）
+在展开解释ARIES算法原理之前，需要对Page oriented类存储引擎的日志系统有一定的了解，才能继续解释基于这个日志系统之上做的恢复算法。
+问题
+在一个存储系统中，出错是非常常见的情况的，这就涉及到出错了之后系统恢复时还需要能继续工作，即数据不能发生破坏导致整个系统跑不起来。
+于是，当系统出错需要重启恢复时，就涉及到以下两个动作：
+撤销（Undo）：未完成或者由于各种原因发生的事务，其修改需要被撤销，即回滚为事务之前的旧值。
+重做（Redo）：已经提交的事务，其修改操作的效果需要体现为新值。
+来看下图中提出的问题：
+
+在上图中：
+存在事务T1和T2在同时执行：
+
+事务T1：修改A值为3，但是在事务还未提交前，事务T2开始执行。
+事务T2：修改B值为8，并且成功提交。
+事务T1终止：在事务T2成功提交之后，事务T1终止。
+这个事务调度的执行顺序引发了以下几个问题：
+回滚未提交的事务T1需要做什么？
+对于未提交的事务T1，是否允许其修改操作在持久化存储上生效（即将A修改为3）？
+在磁盘的数据库文件中，已成功提交的事务T2，其修改操作是否应该立即落盘（即从buffer pool中同步修改的内容到硬盘）。
+第一个问题当前暂且放…]]></summary>
+        <author>
+            <name>codedump的网络日志</name>
         </author>
     </entry>
     <entry>
@@ -407,19 +437,6 @@ ETCD的内存问题 first appeared on 酷 壳 - CoolShell.]]></summary>
         <summary type="html"><![CDATA[提问：池大好，一直都有这么一个认知：读书是获取别人经验最简单的途径，可以扩展视野 … Continue reading →]]></summary>
         <author>
             <name>MacTalk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用worktree来维护多分支]]></title>
-        <id>https://www.escapelife.site/posts/108b302e.html</id>
-        <link href="https://www.escapelife.site/posts/108b302e.html"/>
-        <updated>2022-05-01T04:44:12.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p><strong>学会之后，发现 git worktree 很好用，赞 👍</strong></p>
-</blockquote>
-<p><code>git worktree</code>]]></summary>
-        <author>
-            <name>Escape</name>
         </author>
     </entry>
     <entry>

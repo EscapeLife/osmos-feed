@@ -177,11 +177,64 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-05-13 datetime="2022-05-13T01:01:12.295Z">2022-05-13</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-05-13 datetime="2022-05-13T01:01:12.295Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-05-13 datetime="2022-05-13T22:33:26.000Z">2022-05-13</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-05-13 datetime="2022-05-13T22:33:26.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >codedump的网络日志</button>
+                  <a class="source-heading__link" href="https://www.codedump.info/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.codedump.info/post/20220514-weekly-15/"
+                        open
+                      >
+                        <summary class="article-expander__title">周刊（第15期）：图解ARIES论文（上）</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.codedump.info/post/20220514-weekly-15/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>引言：ARIES(Algorithm for Recovery and Isolation Exploiting Semantics的简称）是论文《ARIES: A Transaction Recovery Method Supporting Fine-Franularity Locking and Partial Rollbacks Using Write-Ahead Logging》中提到的一种存储引擎中数据恢复的算法。这篇论文可以说是存储引擎数据恢复领域必读的一篇论文，这两期的周刊就是对这篇论文的图解，这是其中的上篇。
+图解ARIES论文（上）
+在展开解释ARIES算法原理之前，需要对Page oriented类存储引擎的日志系统有一定的了解，才能继续解释基于这个日志系统之上做的恢复算法。
+问题
+在一个存储系统中，出错是非常常见的情况的，这就涉及到出错了之后系统恢复时还需要能继续工作，即数据不能发生破坏导致整个系统跑不起来。
+于是，当系统出错需要重启恢复时，就涉及到以下两个动作：
+撤销（Undo）：未完成或者由于各种原因发生的事务，其修改需要被撤销，即回滚为事务之前的旧值。
+重做（Redo）：已经提交的事务，其修改操作的效果需要体现为新值。
+来看下图中提出的问题：
+
+在上图中：
+存在事务T1和T2在同时执行：
+
+事务T1：修改A值为3，但是在事务还未提交前，事务T2开始执行。
+事务T2：修改B值为8，并且成功提交。
+事务T1终止：在事务T2成功提交之后，事务T1终止。
+这个事务调度的执行顺序引发了以下几个问题：
+回滚未提交的事务T1需要做什么？
+对于未提交的事务T1，是否允许其修改操作在持久化存储上生效（即将A修改为3）？
+在磁盘的数据库文件中，已成功提交的事务T2，其修改操作是否应该立即落盘（即从buffer pool中同步修改的内容到硬盘）。
+第一个问题当前暂且放…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -926,40 +979,6 @@ ETCD的内存问题 first appeared on 酷 壳 - CoolShell.</span>
                 </section>
               </section>
             </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Escape</button>
-                  <a class="source-heading__link" href="https://www.escapelife.site/atom.xml">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.escapelife.site/posts/108b302e.html"
-                        open
-                      >
-                        <summary class="article-expander__title">使用worktree来维护多分支</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.escapelife.site/posts/108b302e.html">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>学会之后，发现 git worktree 很好用，赞 👍
-git worktree</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
         </ul>
       </section>
       <section class="daily-content js-toggle-accordions-scope">
@@ -1058,8 +1077,8 @@ git worktree</span>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/EscapeLife/osmos-feed/actions/runs/2325687644">
-        <time id="build-timestamp" datetime="2022-05-15T01:05:32.730Z">2022-05-15T01:05:32.730Z</time>
+      <a class="footer-link" href="https://github.com/EscapeLife/osmos-feed/actions/runs/2329065538">
+        <time id="build-timestamp" datetime="2022-05-16T00:55:09.735Z">2022-05-16T00:55:09.735Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.14.4</a>
     </footer>

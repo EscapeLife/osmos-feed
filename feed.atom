@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-05-16T00:55:09.756Z</updated>
+    <updated>2022-05-17T00:53:15.121Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -427,16 +427,6 @@ Fᵢ: Follower in term `i`
 ETCD的内存问题 first appeared on 酷 壳 - CoolShell.]]></summary>
         <author>
             <name>陈皓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不必读书]]></title>
-        <id>https://macshuo.com/?p=1713</id>
-        <link href="https://macshuo.com/?p=1713"/>
-        <updated>2022-05-01T17:14:53.000Z</updated>
-        <summary type="html"><![CDATA[提问：池大好，一直都有这么一个认知：读书是获取别人经验最简单的途径，可以扩展视野 … Continue reading →]]></summary>
-        <author>
-            <name>MacTalk</name>
         </author>
     </entry>
     <entry>

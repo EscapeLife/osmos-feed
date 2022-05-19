@@ -4,6 +4,8 @@
 
 - `https://www.escapelife.site/osmos-feed`
 
+![Osmos Feed](./images/osmos-feed.png)
+
 ## Configure Subscription
 
 > **project configuration and usage instructions**

@@ -1,3 +1,10 @@
+# Frontend
 public
 node_modules
 package-lock.json
+
+# Vscode dot dir
+.vscode/
+
+# Mac dot file
+.DS_Store

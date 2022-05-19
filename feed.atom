@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-05-18T00:43:31.148Z</updated>
+    <updated>2022-05-19T01:01:14.398Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -332,6 +332,19 @@ GitHub 个人页面访问显示 404
 但是我创建的 Group 还是好的，没有受]]></summary>
         <author>
             <name>phithon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[K3S工具进阶完全指南]]></title>
+        <id>https://www.escapelife.site/posts/754ba85c.html</id>
+        <link href="https://www.escapelife.site/posts/754ba85c.html"/>
+        <updated>2022-05-10T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p><strong>深入理解官方文档，轻松学会使用 K3S 工具！</strong></p>
+</blockquote>
+<p><code>K3s</code> 是一个轻量级的 <code>Kubernetes</code>]]></summary>
+        <author>
+            <name>Escape</name>
         </author>
     </entry>
     <entry>

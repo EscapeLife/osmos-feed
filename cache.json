@@ -142,16 +142,6 @@
           "wordCount": 424,
           "title": "周刊（第15期）：图解ARIES论文（上）",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.codedump.info/post/20220507-weekly-14/",
-          "author": null,
-          "description": "引言：以前阅读Raft大论文的时候，对“集群变更”这部分内容似懂非懂。于是最近又重读了大论文这部分的内容，以下是重读时做的一些记录。这部分内容打算分为两篇文章，上篇讲解成员变更流程的理论基础，下篇讲解实践中存在的问题。\n重读Raft论文中的集群成员变更算法（二）：实践篇\n单步成员变更存在的问题\n正确性问题\n单步变更成员时，可能出现正确性问题。如下面的例子所示，最开始时，系统的成员是{a,b,c,d}这四个节点的集合，要将节点u和v加入集群，按照单步变更成员的做法，依次会经历：{a,b,c,d}->{a,b,c,d,u}->{a,b,c,d,u,v}的变化，每次将一个节点加入到集群里。\n上面的步骤看起来很美好，但是考虑下面的例子，在变更过程中leader节点发生了变化的情况：\nC₀ = {a, b, c, d}\nCᵤ = C₁ ∪ {u}\nCᵥ = C₁ ∪ {v}\n\nLᵢ: Leader in term `i`\nFᵢ: Follower in term `i`\n☒ : crash\n\n    |\n u  |         Cᵤ                  F₂  Cᵤ\n--- | ----------------------------------\n a  | C₀  L₀  Cᵤ  ☒               L₂  Cᵤ\n b  | C₀  F₀          F₁          F₂  Cᵤ\n c  | C₀  F₀          F₁  Cᵥ          Cᵤ\n d  | C₀              L₁  Cᵥ  ☒       Cᵤ\n--- | ----------------------------------\n v  |                     Cᵥ                  time\n    +---…",
-          "link": "https://www.codedump.info/post/20220507-weekly-14/",
-          "publishedOn": "2022-05-07T09:57:08.000Z",
-          "wordCount": 320,
-          "title": "周刊（第14期）：重读Raft论文中的集群成员变更算法（二）：实践篇",
-          "imageUrl": null
         }
       ]
     },
@@ -159,7 +149,18 @@
       "title": "李辉",
       "feedUrl": "https://greyli.com/feed",
       "siteUrl": "https://greyli.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://greyli.com/?p=4350",
+          "author": "李辉",
+          "description": "APIFlask 是一个基于 Flask 和 marshmallow 实现的 API 框架（详细介绍见这篇文章 […]",
+          "link": "https://greyli.com/apiflask1/",
+          "publishedOn": "2022-05-21T13:51:56.000Z",
+          "wordCount": 101,
+          "title": "APIFlask 1.0 版本发布",
+          "imageUrl": "https://greyli.com/wp-content/uploads/2020/07/avatar.jpg"
+        }
+      ]
     },
     {
       "title": "�Ʒ�� BLOG",
@@ -174,16 +175,6 @@
           "publishedOn": "2022-05-19T06:05:39.000Z",
           "wordCount": 159,
           "title": "RogueLike ԭ�Ϳ�������",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.codingnow.com/2022/05/gameplay_viewport.html",
-          "author": null,
-          "description": "��Ϸ��ҵ���߼���������ֵĹ��̺� GUI ϵͳ�ڽṹ��������֮��������һЩ��ͬ�㡣 ���������ʱ������ͨ������������ݺ�չʾ���롣�� GUI ϵͳ�У�����ͨ������Ϊ Model ��չʾ����Ϊ View �����͵� MVC ����������Ʒ MVP/MVVM �ȣ�ģʽ���ǽ����ڴ˻����ϡ�ҵ���߼��޸� Model ������չʾģ�飬�� Model ӳ�䵽 View �г��ָ��û��� ��ͳ�������������У��ܶ��������ڰ����󻮷֣�ÿ�����������ݲ��ֺ�չʾ���֡�������Ϸ���Ҳ�ϲ��������ơ��Ҹ������ڰ����ݺ�չʾ��ȫ���룬���� id ��ͬһ���������������ģ���չʾģ���з����ʵ�塣������Ϊ����Ϸ���������������������Ϸ����Ļչʾ�Ľ��������������С��һ���֡���ͬһʱ�䣬�󲿷ֵ����ݶ�����չʾ����������Ҳδ�ش����ڱ��ص��ڴ��С� �������ڰ���Ϸ�����з�Ϊ gameplay �� view ������ȫ�����ģ�飬�����ж��������ݽṹ����ơ�gameplay Ӧ�ÿ�����ȫ������ view ��ת������ͼ�����������ֻ���� view ���֡���������Ϸ����ʱ����ν���� gameplay ����Ϣ����� view ģ����չʾ�������ͳ��˱��뿼�ǵ���Ƶ㡣...",
-          "link": "https://blog.codingnow.com/2022/05/gameplay_viewport.html",
-          "publishedOn": "2022-05-07T11:09:39.000Z",
-          "wordCount": 204,
-          "title": "��Ϸ���ݵ�չʾ",
           "imageUrl": null
         }
       ]

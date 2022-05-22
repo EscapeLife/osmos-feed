@@ -82,6 +82,52 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-05-21 datetime="2022-05-21T13:51:56.000Z">2022-05-21</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-05-21 datetime="2022-05-21T13:51:56.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >李辉</button>
+                  <a class="source-heading__link" href="https://greyli.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://greyli.com/?p&#x3D;4350"
+                        open
+                      >
+                        <summary class="article-expander__title">APIFlask 1.0 版本发布</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://greyli.com/apiflask1/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://greyli.com/wp-content/uploads/2020/07/avatar.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>APIFlask 是一个基于 Flask 和 marshmallow 实现的 API 框架（详细介绍见这篇文章 […]</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-05-20 datetime="2022-05-20T07:46:33.000Z">2022-05-20</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-05-20 datetime="2022-05-20T07:46:33.000Z"></time>
           </button>
@@ -849,109 +895,6 @@ Django 项目使用 CircleCI</span>
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-05-07 datetime="2022-05-07T11:09:39.000Z">2022-05-07</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-05-07 datetime="2022-05-07T11:09:39.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >�Ʒ�� BLOG</button>
-                  <a class="source-heading__link" href="https://blog.codingnow.com/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://blog.codingnow.com/2022/05/gameplay_viewport.html"
-                        open
-                      >
-                        <summary class="article-expander__title">��Ϸ���ݵ�չʾ</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://blog.codingnow.com/2022/05/gameplay_viewport.html">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>��Ϸ��ҵ���߼���������ֵĹ��̺� GUI ϵͳ�ڽṹ��������֮��������һЩ��ͬ�㡣 ���������ʱ������ͨ������������ݺ�չʾ���롣�� GUI ϵͳ�У�����ͨ������Ϊ Model ��չʾ����Ϊ View �����͵� MVC ����������Ʒ MVP/MVVM �ȣ�ģʽ���ǽ����ڴ˻����ϡ�ҵ���߼��޸� Model ������չʾģ�飬�� Model ӳ�䵽 View �г��ָ��û��� ��ͳ�������������У��ܶ��������ڰ����󻮷֣�ÿ�����������ݲ��ֺ�չʾ���֡�������Ϸ���Ҳ�ϲ��������ơ��Ҹ������ڰ����ݺ�չʾ��ȫ���룬���� id ��ͬһ���������������ģ���չʾģ���з����ʵ�塣������Ϊ����Ϸ���������������������Ϸ����Ļչʾ�Ľ��������������С��һ���֡���ͬһʱ�䣬�󲿷ֵ����ݶ�����չʾ����������Ҳδ�ش����ڱ��ص��ڴ��С� �������ڰ���Ϸ�����з�Ϊ gameplay �� view ������ȫ�����ģ�飬�����ж��������ݽṹ����ơ�gameplay Ӧ�ÿ�����ȫ������ view ��ת������ͼ�����������ֻ���� view ���֡���������Ϸ����ʱ����ν���� gameplay ����Ϣ����� view ģ����չʾ�������ͳ��˱��뿼�ǵ���Ƶ㡣...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >codedump的网络日志</button>
-                  <a class="source-heading__link" href="https://www.codedump.info/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.codedump.info/post/20220507-weekly-14/"
-                        open
-                      >
-                        <summary class="article-expander__title">周刊（第14期）：重读Raft论文中的集群成员变更算法（二）：实践篇</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.codedump.info/post/20220507-weekly-14/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>引言：以前阅读Raft大论文的时候，对“集群变更”这部分内容似懂非懂。于是最近又重读了大论文这部分的内容，以下是重读时做的一些记录。这部分内容打算分为两篇文章，上篇讲解成员变更流程的理论基础，下篇讲解实践中存在的问题。
-重读Raft论文中的集群成员变更算法（二）：实践篇
-单步成员变更存在的问题
-正确性问题
-单步变更成员时，可能出现正确性问题。如下面的例子所示，最开始时，系统的成员是{a,b,c,d}这四个节点的集合，要将节点u和v加入集群，按照单步变更成员的做法，依次会经历：{a,b,c,d}-&gt;{a,b,c,d,u}-&gt;{a,b,c,d,u,v}的变化，每次将一个节点加入到集群里。
-上面的步骤看起来很美好，但是考虑下面的例子，在变更过程中leader节点发生了变化的情况：
-C₀ &#x3D; {a, b, c, d}
-Cᵤ &#x3D; C₁ ∪ {u}
-Cᵥ &#x3D; C₁ ∪ {v}
-
-Lᵢ: Leader in term &#x60;i&#x60;
-Fᵢ: Follower in term &#x60;i&#x60;
-☒ : crash
-
-    |
- u  |         Cᵤ                  F₂  Cᵤ
---- | ----------------------------------
- a  | C₀  L₀  Cᵤ  ☒               L₂  Cᵤ
- b  | C₀  F₀          F₁          F₂  Cᵤ
- c  | C₀  F₀          F₁  Cᵥ          Cᵤ
- d  | C₀              L₁  Cᵥ  ☒       Cᵤ
---- | ----------------------------------
- v  |                     Cᵥ                  time
-    +---…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-01-21 datetime="2022-01-21T00:48:38.000Z">2022-01-21</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-01-21 datetime="2022-01-21T00:48:38.000Z"></time>
           </button>
@@ -1041,8 +984,8 @@ Fᵢ: Follower in term &#x60;i&#x60;
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/EscapeLife/osmos-feed/actions/runs/2361391084">
-        <time id="build-timestamp" datetime="2022-05-21T00:49:15.537Z">2022-05-21T00:49:15.537Z</time>
+      <a class="footer-link" href="https://github.com/EscapeLife/osmos-feed/actions/runs/2364804485">
+        <time id="build-timestamp" datetime="2022-05-22T00:51:17.884Z">2022-05-22T00:51:17.884Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.14.4</a>
     </footer>

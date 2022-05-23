@@ -91,18 +91,7 @@
       "title": "卡瓦邦噶！",
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
-      "articles": [
-        {
-          "id": "https://www.kawabangga.com/?p=4676",
-          "author": "laixintao",
-          "description": "最近做了一个好玩的工具，叫 xbin.io 。其中有一项工作是为不同的工具来构建 Docker 镜像，让他们都 […]\nContinue reading...\nThe post Docker 镜像构建的一些技巧 first appeared on 卡瓦邦噶！.\n\n相关文章:\n\nSRE&Devops 每周分享 Issue #5\nBuild 一个最小的 Redis Docker Image\n健康茁壮成长的Python项目需要什么？\nShell单引号、双引号和反引号的区别\nDjango 项目使用 CircleCI",
-          "link": "https://www.kawabangga.com/posts/4676",
-          "publishedOn": "2022-05-08T07:37:24.000Z",
-          "wordCount": 1014,
-          "title": "Docker 镜像构建的一些技巧",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Manjusaka",
@@ -126,13 +115,34 @@
       "title": "Posts on Jiayuan Thoughts",
       "feedUrl": "http://blog.jiayuanzhang.com/post/index.xml",
       "siteUrl": "http://blog.jiayuanzhang.com/post/",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://blog.jiayuanzhang.com/post/naval-reading/",
+          "author": null,
+          "description": "Hello，大家周日好，这是 Jiayuan Thoughts 的第 3 期，感谢 134 位新读者订阅支持。 今天发现 The Almanack of Naval Ravikant 的中文版《纳瓦尔宝典》已经在 Kindle 上架了。去年年初时在 Amazon 的每日推荐中看到这本书，毫不犹豫地买下，几乎是一口气读完，并摘录了大量的笔记到 Roam 中，今年年初的时候又重读了一遍，依然收获很多。等到微信读书上架中",
+          "link": "http://blog.jiayuanzhang.com/post/naval-reading/",
+          "publishedOn": "2022-05-22T19:26:55.000Z",
+          "wordCount": 892,
+          "title": "Naval Ravikant 的 9 个阅读原则",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "codedump的网络日志",
       "feedUrl": "https://www.codedump.info/index.xml",
       "siteUrl": "https://www.codedump.info/",
       "articles": [
+        {
+          "id": "https://www.codedump.info/post/20220521-weekly-16/",
+          "author": null,
+          "description": "引言：ARIES(Algorithm for Recovery and Isolation Exploiting Semantics的简称）是论文《ARIES: A Transaction Recovery Method Supporting Fine-Franularity Locking and Partial Rollbacks Using Write-Ahead Logging》中提到的一种存储引",
+          "link": "https://www.codedump.info/post/20220521-weekly-16/",
+          "publishedOn": "2022-05-21T03:46:44.000Z",
+          "wordCount": 418,
+          "title": "周刊（第16期）：图解ARIES论文（下）",
+          "imageUrl": "https://www.codedump.info/images/icon.png"
+        },
         {
           "id": "https://www.codedump.info/post/20220514-weekly-15/",
           "author": null,

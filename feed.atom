@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-05-23T00:50:54.384Z</updated>
+    <updated>2022-05-24T01:00:33.392Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Naval Ravikant 的 9 个阅读原则]]></title>
+        <id>https://blog.jiayuanzhang.com/post/naval-reading/</id>
+        <link href="https://blog.jiayuanzhang.com/post/naval-reading/"/>
+        <updated>2022-05-22T19:26:55.000Z</updated>
+        <summary type="html"><![CDATA[Hello，大家周日好，这是 Jiayuan Thoughts 的第 3 期，感谢 134 位新读者订阅支持。 今天发现 The Almanack of Naval Ravikant 的中文版《纳瓦尔宝典》已经在 Kindle 上架了。去年年初时在 Amazon 的每日推荐中看到这本书，毫不犹豫地买下，几乎是一口气读完，并摘录了大量的笔记到 Roam 中，今年年初的时候又重读了一遍，依然收获很多。等到微信读书上架中]]></summary>
+        <author>
+            <name>Posts on Jiayuan Thoughts</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Naval Ravikant 的 9 个阅读原则]]></title>
         <id>http://blog.jiayuanzhang.com/post/naval-reading/</id>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-05-24T01:00:33.392Z</updated>
+    <updated>2022-05-25T00:55:44.585Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[创业就是你和身边的人一起织个背心]]></title>
+        <id>https://macshuo.com/?p=1772</id>
+        <link href="https://macshuo.com/?p=1772"/>
+        <updated>2022-05-24T05:14:06.000Z</updated>
+        <summary type="html"><![CDATA[晚上回到家吃了点夜宵，本来打算直播一会——基本上直播就能带来星球转化——转念一想 … Continue reading →]]></summary>
+        <author>
+            <name>MacTalk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Naval Ravikant 的 9 个阅读原则]]></title>
         <id>https://blog.jiayuanzhang.com/post/naval-reading/</id>
@@ -392,19 +402,6 @@ GitHub 个人页面访问显示 404
 但是我创建的 Group 还是好的，没有受]]></summary>
         <author>
             <name>phithon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K3S工具进阶完全指南]]></title>
-        <id>https://www.escapelife.site/posts/754ba85c.html</id>
-        <link href="https://www.escapelife.site/posts/754ba85c.html"/>
-        <updated>2022-05-10T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p><strong>深入理解官方文档，轻松学会使用 K3S 工具！</strong></p>
-</blockquote>
-<p><code>K3s</code> 是一个轻量级的 <code>Kubernetes</code>]]></summary>
-        <author>
-            <name>Escape</name>
         </author>
     </entry>
     <entry>

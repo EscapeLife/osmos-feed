@@ -395,7 +395,18 @@
       "title": "Reimu's blog",
       "feedUrl": "https://blog.k8s.li/atom.xml",
       "siteUrl": "/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://blog.k8s.li/packer-vsphere-example.html",
+          "author": null,
+          "description": "<p>不久前写过一篇博客《<a",
+          "link": "https://blog.k8s.li/packer-vsphere-example.html",
+          "publishedOn": "2022-05-24T16:00:00.000Z",
+          "wordCount": 4359,
+          "title": "使用 Packer 构建虚拟机镜像踩的坑",
+          "imageUrl": "https://p.k8s.li/2022-05-23-packer-vsphere-example-01.png"
+        }
+      ]
     }
   ],
   "cliVersion": "1.14.4"

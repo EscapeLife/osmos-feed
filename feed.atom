@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-05-25T00:55:44.585Z</updated>
+    <updated>2022-05-26T00:57:19.407Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[使用 Packer 构建虚拟机镜像踩的坑]]></title>
+        <id>https://blog.k8s.li/packer-vsphere-example.html</id>
+        <link href="https://blog.k8s.li/packer-vsphere-example.html"/>
+        <updated>2022-05-24T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>不久前写过一篇博客《<a]]></summary>
+        <author>
+            <name>Reimu's blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[创业就是你和身边的人一起织个背心]]></title>
         <id>https://macshuo.com/?p=1772</id>

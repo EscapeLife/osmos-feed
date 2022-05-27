@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-05-26T00:57:19.407Z</updated>
+    <updated>2022-05-27T00:53:16.672Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[谷歌验证码 ReCAPTCHA 的模拟点击破解方案来了！]]></title>
+        <id>https://cuiqingcai.com/36057.html</id>
+        <link href="https://cuiqingcai.com/36057.html"/>
+        <updated>2022-05-26T10:00:22.000Z</updated>
+        <summary type="html"><![CDATA[<p>大家好，我是崔庆才。</p>
+<p>之前的时候我分享过 ReCAPTCHA 的破解方案，那种方案是获取到 ReCAPTCHA 其中的一个 siteKey，然后将 siteKey 直接提交给 ReCAPTCHA 相关的破解服务来实现破解。</p>
+<p>这次，我们再来介绍一种]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用 Packer 构建虚拟机镜像踩的坑]]></title>
         <id>https://blog.k8s.li/packer-vsphere-example.html</id>

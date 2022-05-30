@@ -4,18 +4,7 @@
       "title": "Escape",
       "feedUrl": "https://www.escapelife.site/atom.xml",
       "siteUrl": "https://www.escapelife.site/atom.xml",
-      "articles": [
-        {
-          "id": "https://www.escapelife.site/posts/c4b42099.html",
-          "author": null,
-          "description": "<blockquote>\n<p><strong>每个人都在努力的生活，每一种生活都值得被看见和记录！</strong></p>\n</blockquote>\n<p>多彩的生活，需要我自己去选择，到底什么才是适合我，我不知道。但是我会努力去尝试，直到我找到它并抓住它。</p>\n<p>",
-          "link": "https://www.escapelife.site/posts/c4b42099.html",
-          "publishedOn": "2022-05-14T16:36:23.000Z",
-          "wordCount": 104,
-          "title": "如何幸福的生活",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "酷 壳 – CoolShell",
@@ -91,7 +80,18 @@
       "title": "卡瓦邦噶！",
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.kawabangga.com/?p=4689",
+          "author": "laixintao",
+          "description": "本文所谈到的过载，容易和雪崩混淆。雪崩指的是在分布式系统中，某一个依赖无法正常提供服务，但是系统无法屏蔽掉这个 […]\nContinue reading...\nThe post 系统的过载（Overload）以及处理思路 first appeared on 卡瓦邦噶！.\n\n相关文章:\n\nSRE&Devops 每周分享 Issue #2",
+          "link": "https://www.kawabangga.com/posts/4689",
+          "publishedOn": "2022-05-29T15:48:19.000Z",
+          "wordCount": 523,
+          "title": "系统的过载（Overload）以及处理思路",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Manjusaka",
@@ -144,6 +144,16 @@
       "siteUrl": "https://www.codedump.info/",
       "articles": [
         {
+          "id": "https://www.codedump.info/post/20220528-weekly-17/",
+          "author": null,
+          "description": "引言：在Paxos、Raft这类一致性算法的描述里，经常会看到Majority、Quorum这两个词，在以前我以为都是表达“半数以上”的含义，最近才发",
+          "link": "https://www.codedump.info/post/20220528-weekly-17/",
+          "publishedOn": "2022-05-28T08:16:57.000Z",
+          "wordCount": 285,
+          "title": "周刊（第17期）：Read-Write Quorum System及在Raft中的实践",
+          "imageUrl": "https://www.codedump.info/images/dog.png"
+        },
+        {
           "id": "https://www.codedump.info/post/20220521-weekly-16/",
           "author": null,
           "description": "引言：ARIES(Algorithm for Recovery and Isolation Exploiting Semantics的简称）是论文《ARIES: A Transaction Recovery Method Supporting Fine-Franularity Locking and Partial Rollbacks Using Write-Ahead Logging》中提到的一种存储引",
@@ -195,6 +205,16 @@
       "siteUrl": "http://www.zlovezl.cn/",
       "articles": [
         {
+          "id": "https://www.zlovezl.cn/articles/how-to-design-config-file-for-software/",
+          "author": null,
+          "description": "在设计和开发服务端（后端）软件时，配置文件是一个绕不开的话题。\n配置文件是一种用于存放各类可配置项的特殊文件。每个软件都会预设一些默认配置，但这些默认值不可能适用于所有情况。因此，到了不同的环境中，我们常常需要用配置文件对其进行扩展和修改。\n拿版本控制软件 git 举例。大部分用户的 home 目录（~）都存放着一份 .gitconfig 配置文件，里面写着自己的用户名和邮箱地址：\n[user]\n    name = piglei\n    email = piglei2007@gmail.com\n\n就像软件的任何一个主要功能一样，配置文件也会极大的影响软件的使用体验。良好的设计能让软件变得更易用，糟糕的设计则会带来许多意想不到的问题，将用户拒之门外。\n在这篇文章中，我整理了 4 条关于“软件配置文件”的设计建议，希望能对你有所帮助。\n1. 最好不给配置也能用\n在网络世界里，每过一天，人们的耐心似乎就又比前一天减少了一丁点。一个制作精良的短视频，如果 3 秒钟之内无法抓住你，你的右手拇指就会条件反射般将它划走。\n现在，假设你开发了一个非常有用的工具软件，并发布到了网上。软件的功能非常全面，所有人在使用它之前，需要编辑一份包含 20 项配置的配置文件。你猜，有多大比例的潜在用户会直接掉头走掉？\n当我们想要一件东西时，总是一刻也不想等。因此，初始的配置过程麻烦与否，会强烈影响人们尝试软件的决心。在这方面，我认为最好的体验是：无需提供任何配置，便能直接使用软件 80% 以上的功能。\n假如无法做到这一点，我们也应该试着从以下几个方面着手，尽量降低用户的配置成本，压缩从“开始安装”到“可使用”之间的等待时间。\n1.1 预设合理的默认值\n为了将必须由用户提供的配置项，压缩到最少。你得给软件的所有配置项预设一个足够合理的默认值。这些默认值应当能让尽可能多的用户满意。\n举个例子，假如你的软件…",
+          "link": "https://www.zlovezl.cn/articles/how-to-design-config-file-for-software/",
+          "publishedOn": "2022-05-30T01:01:01.562Z",
+          "wordCount": 212,
+          "title": "设计服务端软件配置的 4 条建议",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zlovezl.cn/articles/embrace-the-grind-cn-translation/",
           "author": null,
           "description": "原文：\"Embrace the Grind\" by Jacob\n原文链接：https://jacobian.org/2021/apr/7/embrace-the-grind/\n我以前见过一种纸牌魔术，至今仍念念不忘。那魔术简单来说是这样的（为了清楚起见，我在这做了进一步的简化）：找一位志愿者，让他挑选一张扑克牌放进信封并封好。然后魔术师会邀请志愿者挑选茶叶。茶叶共有好几十箱，全被塑料膜密封了起来。志愿者选定一个箱子后，撕掉包装膜，从里面挑一个同样密封着的装着茶包的袋子。而当他撕开袋子时……他选的那张牌就在里面。\n⚠️ 如果你不想知道魔术背后的秘密，马上停止阅读。\n这魔术的秘密平淡无奇，却令我兴奋不已。首先，志愿者选牌的过程运用了迫牌技巧（force）  （译注：指魔术师运用特殊手法，让选择看似随机，但最终指向同一个结果）。但从那几打箱子里选一个，则是实打实的自由选择，从箱子里挑茶包也是一样。这一步没有任何花招：魔术师不会碰到志愿者选的箱子或茶包。那张扑克牌是确确实实的躺在被密封的茶叶袋里。\n技巧全在准备工作里。在表演这个魔术前，魔术师会购买好几十箱茶叶并全部打开，拆开里面的每一袋茶叶。然后，再往每个袋子里放入一张梅花 ♣️3 并重新封上，再放回箱子里。这个过程要重复好几百遍，准备工作一共得花上许多个小时——甚至许多天。\n这魔术里唯一的“诡计”，在于它所需要的准备工作实在太无聊，太令人乏味了，以至于我们观看到表演效果时，根本想象不到会有人会为了这个简单的效果，完成那么无聊的工作。\n魔术师 Teller 写过一篇文章 “seven secrets of magic”，专门讲了这个事情。\n如果某个魔术所需的时间、金钱或练习的次数，比你（或任何一个普通人）所愿意付出的更多，那你就会被骗到。我和我的搭档 Penn，曾经从脱口秀主持人大卫莱特曼的桌子上的一顶绅士帽里，变出过 500 只活蟑螂。准备这个魔术得花上许多周。我们聘请了一位昆虫学家，他给了我们一批行动迟缓、不怕摄影镜头的蟑螂（你家橱柜下的那种在特写镜头下可待不住），还教会我们如何抓起这些虫子（不至于像小姑娘们那样尖叫）。然后我们用泡沫塑料（蟑螂无法附着的少数几种材料之一）做了一个小隔间，并想了个狡猾的办法把隔间偷偷放进了那个帽子里。为这戏法搞得这么麻烦是不是不值？对你来说，也许是，但对魔术师们来说不是。\n经常有一些做技术的新人问我成功的秘诀。其实没多少秘诀，真的，但这个秘诀——愿意做一些乏味透顶的事情，以至于看起来像魔术一样——在信息技术行业一样适用。\n我们身处一个痴迷于自动化、精简和效率的行业。Larry Wall （译注：Perl 编程语言的作者）写的“程序员的美德”，是一段有关我们的工程师文化的奠基性文字，它里面这么描述“懒惰（Laziness）”：\n懒惰：这种品质让你费尽心思降低整体能量消耗。它驱使你写出别人觉得有用的省力程序。也驱使你为你的东西编写文档，那样你就不用回答太多有关它的问题。\n我并非不同意：让程序搞定重复性的工作，是懂得编程后能做的最棒的事情之一。但是，有时候问题是没法被自动化解决的。而如果你愿意拥抱这种苦差事，那你看起来就会像一位魔术师一样。\n举个例子，我以前加入过一个团队，团队负责维护一个被太多缺陷（bug）淹没了的系统。那时，一共有大约 2000 条处于开放状态的缺陷报告，它们没有标签，没有分类，也没有排任何优先级。对于应该处理哪些问题，团队成员根本无法达成共识。他们基本上被困于随机处理 bug 的过程中——而根本弄不清楚那个 bug 是否重要……新来的缺陷报告也无法被有效分流，因为查找重复报告几乎没法做。所以，开放状态的单据总数越来越高，整个团队好几个月都停滞不前。我的任务是解决这个问题：让团队恢复运作，降低开放状态的单据数量，并找到最终将其降低为零的办法。\n于是，我用了和魔术师一样的技巧，也就是没有任何技巧：我就是把活干了。我把所有的缺陷报告打印了出来——一个议题一页纸。我把每张纸都读了一遍，找了个大房间开始叠放在地板上。我在便签纸写上标签，然后把它贴在纸堆上。我把那些纸在不同纸堆间移来移去，把议题编号写在白板上，变成长长一列；我把自己想象成了电影《会计刺客》里的主角本·阿弗莱克。我在那个房间了待了约三个星期，出来的时候，每个缺陷报告都被重新审阅、打了标签、分了类，以及定好了优先级。\n做完这件事情后，形势马上发生了逆转：我们能够立即关闭好几百张重复了的单据，新议题只需几分钟就可以完成分流，而不是一天。我记得缺陷议题的总数降到 0 花了大约一年时间，但整个过程相当顺利。大家都说，我完成了不可能完成的任务，但那么说并不对：我仅仅只是做了一些过于乏味，其他人根本不愿意做的事。\n有时，编程就像魔法一样：你念出一些神秘的咒语，一队机器人就会听命于你。但也有时候，魔法其实平凡而乏味。如果你愿意拥抱苦差事，你就可以完成不可能完成的任务。",
@@ -241,6 +261,26 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/36059.html",
+          "author": null,
+          "description": "<p>你有没有过这样的经历：现在自媒体、短视频兴起的时代，我们有时候听到好像两种完全的对立的观点，但我们有时候可能觉得这也对，那也对，但我们就没能力去反驳和佐证某个观点。听风就是雨，觉得自己没有能力去分辨哪些是对的，哪些是错的。我们的大脑好像就像别人观点的跑马场，听到这个观点，脑",
+          "link": "https://cuiqingcai.com/36059.html",
+          "publishedOn": "2022-05-29T04:03:12.000Z",
+          "wordCount": 289,
+          "title": "怎样才是有效阅读",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cuiqingcai.com/36058.html",
+          "author": null,
+          "description": "<p>我想多数人应该会对很多事情有所挑剔吧，比如买一件衣服的时候挑挑选选、货比三家最后才定下一件衣服，比如点餐的时候也挑挑选选找出想吃的一家。但有时候大家在看书的时候可能就没有那么“挑剔”，可能心想，这是本书，然后我花时间看书了，好像就可以了，就以为自己学会了，自己用功了，自己进",
+          "link": "https://cuiqingcai.com/36058.html",
+          "publishedOn": "2022-05-28T15:00:22.000Z",
+          "wordCount": 302,
+          "title": "看书也要挑剔点",
+          "imageUrl": null
+        },
         {
           "id": "https://cuiqingcai.com/36057.html",
           "author": null,

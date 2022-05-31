@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-05-30T01:01:04.909Z</updated>
+    <updated>2022-05-31T00:56:10.137Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HCaptcha的模拟点击破解教程来了！]]></title>
+        <id>https://cuiqingcai.com/36060.html</id>
+        <link href="https://cuiqingcai.com/36060.html"/>
+        <updated>2022-05-30T10:03:12.000Z</updated>
+        <summary type="html"><![CDATA[<p>前面的文章我们介绍过 ReCaptcha 的模拟点击破解教程，但除了 ReCaptcha，还有另外和 ReCapacha 验证流程很相似的验证码，叫做 HCaptcha。</p>
+<p>ReCaptcha 是谷歌家的，因为某些原因，咱们国内是无法使用 ReCaptcha 的]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[设计服务端软件配置的 4 条建议]]></title>
         <id>https://www.zlovezl.cn/articles/how-to-design-config-file-for-software/</id>

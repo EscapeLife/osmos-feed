@@ -262,6 +262,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/36060.html",
+          "author": null,
+          "description": "<p>前面的文章我们介绍过 ReCaptcha 的模拟点击破解教程，但除了 ReCaptcha，还有另外和 ReCapacha 验证流程很相似的验证码，叫做 HCaptcha。</p>\n<p>ReCaptcha 是谷歌家的，因为某些原因，咱们国内是无法使用 ReCaptcha 的",
+          "link": "https://cuiqingcai.com/36060.html",
+          "publishedOn": "2022-05-30T10:03:12.000Z",
+          "wordCount": 1155,
+          "title": "HCaptcha的模拟点击破解教程来了！",
+          "imageUrl": "https://qiniu.cuiqingcai.com/i3g6q.png"
+        },
+        {
           "id": "https://cuiqingcai.com/36059.html",
           "author": null,
           "description": "<p>你有没有过这样的经历：现在自媒体、短视频兴起的时代，我们有时候听到好像两种完全的对立的观点，但我们有时候可能觉得这也对，那也对，但我们就没能力去反驳和佐证某个观点。听风就是雨，觉得自己没有能力去分辨哪些是对的，哪些是错的。我们的大脑好像就像别人观点的跑马场，听到这个观点，脑",

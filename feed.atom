@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-05-31T00:56:10.137Z</updated>
+    <updated>2022-06-01T01:02:16.155Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[徕卡自由列车，一段隐秘历史]]></title>
+        <id>https://macshuo.com/?p=1782</id>
+        <link href="https://macshuo.com/?p=1782"/>
+        <updated>2022-05-31T05:33:58.000Z</updated>
+        <summary type="html"><![CDATA[最近在家时间比较多，没地方拍照片，于是看了不少摄影相关的资料，比如《一生的凝视》 … Continue reading →]]></summary>
+        <author>
+            <name>MacTalk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HCaptcha的模拟点击破解教程来了！]]></title>
         <id>https://cuiqingcai.com/36060.html</id>

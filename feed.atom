@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-06-01T01:02:16.155Z</updated>
+    <updated>2022-06-02T00:59:48.129Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[纯手工不是工匠精神，追求效率更好，效果更好，更美观才是工匠精神]]></title>
+        <id>https://codechina.org/?p=19242</id>
+        <link href="https://codechina.org/2022/06/artisan/"/>
+        <updated>2022-06-01T09:21:44.000Z</updated>
+        <summary type="html"><![CDATA[Image by Martin Rehrl from Pixabay 国内木工视频，一般会喜欢渲染全手工，而美 […]]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[һ�� VLA ����̬�������飩��ʵ��]]></title>
+        <id>https://blog.codingnow.com/2022/06/vla.html</id>
+        <link href="https://blog.codingnow.com/2022/06/vla.html"/>
+        <updated>2022-06-01T06:53:25.000Z</updated>
+        <summary type="html"><![CDATA[VLA ����̬�������飩 �� C ������ C99 ֮������һ���ܷ�����������ԣ����� MSVC �Ѿ���ȷ��֧�� VLA �ˡ����� Linux ���ں˴���������ʹ�ù� VLA ���������Ѿ��Ƴ��� VLA ����������VLA �����İ�ȫ��������ı�����Ҫ�ࡣ ���ǣ��ճ��� C ����������ʱ������������Ҫ�䳤����ġ���Ȼֱ���� C ���Ե� VLA ��������⣬��ô������Ҫ����ʵ��һ���ȽϺá�C û�� C++ ������ģ��֧�֣�һ���ͨ�� VLA ʵ�ֺ����������Ͱ�ȫ����ʹ�� C++ ��STL �е� vector �������õ� VLA ʵ�֣�Ҳ�������к�Ӧ�ó����ġ����磬std::vector ��������һ�㻹�Ƿ����ڶ��ϣ�������ջ�ϡ����ԭ��������ջ�ϵ����飬������������Ӱ�����п����������Ķ��ڴ���Ƭ�� ����Ϊһ��ͨ�õ� VLA...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[徕卡自由列车，一段隐秘历史]]></title>
         <id>https://macshuo.com/?p=1782</id>

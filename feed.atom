@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-06-02T00:59:48.129Z</updated>
+    <updated>2022-06-03T00:45:56.242Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[���ڽӱ�ʵ������ͼ]]></title>
+        <id>https://blog.codingnow.com/2022/06/ajdjacency_list.html</id>
+        <link href="https://blog.codingnow.com/2022/06/ajdjacency_list.html"/>
+        <updated>2022-06-02T13:48:20.000Z</updated>
+        <summary type="html"><![CDATA[��������չ������Ϸ�еĹܵ�ϵͳʱ����������ʵ��һ������ͼ�����⡣ ֮ǰ�Ĺܵ�ϵͳ��ÿ�ڹܵ����ڽӹ��������ޣ������������������ķ�ʽ���棬��ÿ�ڹܵ���ֱ�ӷ���һ���̶���С�����飬����ýڹܵ��������νڵ㡣����Һ��ܵ�ϵͳ���������ݽṹ�����ĺܺá� ���죬���ǵ���һ��ϵͳ��Ҫһ���е㲻һ���Ĺܵ�����û�з���ÿ���ڵ�����кܶ���ڽӵ㡣����������ɵ����硢���ȹܹ��ɵ����磬���������ġ����ǵ��͵�����ͼ�ṹ�� �����¿��������ݽṹ�����ڽӱ�ʵ����һ�档...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[飘在大城市的小张]]></title>
+        <id>https://codechina.org/?p=19317</id>
+        <link href="https://codechina.org/2022/06/xiaozhang/"/>
+        <updated>2022-06-02T01:42:39.000Z</updated>
+        <summary type="html"><![CDATA[小张觉得他的生活很失败。他自己一个人住在一个小的公寓里面，每天下班回家，他都打不起精神。衣服堆了一堆，懒得洗， […]]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[纯手工不是工匠精神，追求效率更好，效果更好，更美观才是工匠精神]]></title>
         <id>https://codechina.org/?p=19242</id>
@@ -437,16 +457,6 @@ def main():
         <summary type="html"><![CDATA[有用户在认识到自己是普通人之后，挺苦恼，怎么努力，也是中上水准，问我咋办。 在回 … Continue reading →]]></summary>
         <author>
             <name>MacTalk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RogueLike ԭ�Ϳ�������]]></title>
-        <id>https://blog.codingnow.com/2022/05/roguelike_lua.html</id>
-        <link href="https://blog.codingnow.com/2022/05/roguelike_lua.html"/>
-        <updated>2022-05-19T06:05:39.000Z</updated>
-        <summary type="html"><![CDATA[�Һ�ϲ�� RogueLike ��Ϸ������˵���������ϵ��� Rogue ��������Ϸ ����������Ϸ�У����������Ҫ�Ĳ��֣�ֻҪ�������������Ϸ��Ҫ�Ľ�������͹��ˡ� �Ҷ����ַ�ƴ�ճ�������Ϸ���������ر�İ��ã�Сʱ��������Ϸ���Ǵ� text mode ��ʼ�ġ� �ڽ��죬���ֻ������֤һ��ĳ����Ϸ��ԭ�ͣ�һ�� Rogue �磬text mode �Ľ������棬���ܻ�����ʡ�µġ���Ϊ�㲻�ؿ����ȥ׼�������زģ�������Щ�ز���κʹ���Эͬ�������ƶ����ӵĹ�������Ϊ��Ϸ����һ����Ȥ�� ascii art ��������̫����ʱ�䣬���ܻ���д��������е�һ����Ȥ�ĵ����� ǰ��ʱ��������Ŀ��һ��������ģ��ʱ���ҳ�������һ���򵥵� Lua �� �������� text mode ����������������һ�������ӵ�����������һ�£����� SDL2 ��һ��������һ��� RogueLike �������һ�����ݡ�...]]></summary>
-        <author>
-            <name>�Ʒ�� BLOG</name>
         </author>
     </entry>
     <entry>

@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-06-03T00:45:56.242Z</updated>
+    <updated>2022-06-04T00:50:47.513Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[推荐一个超强的图片压缩网站！]]></title>
+        <id>https://cuiqingcai.com/36061.html</id>
+        <link href="https://cuiqingcai.com/36061.html"/>
+        <updated>2022-06-03T10:27:13.000Z</updated>
+        <summary type="html"><![CDATA[<p>我们肯定经常跟图片打交道吧，不管是写文章、传图片还是网站开发，我们或多或少都要插图，但有时候图片体积比较大的时候就会带来加载速度慢的一些问题，那么这时候你可能会有这么一个需求：</p>
+<blockquote>
+  <p>有没有什么办法在保证图片清晰度的时候把图片的体积压缩]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[���ڽӱ�ʵ������ͼ]]></title>
         <id>https://blog.codingnow.com/2022/06/ajdjacency_list.html</id>
@@ -447,16 +459,6 @@ def main():
         <summary type="html"><![CDATA[引言：ARIES(Algorithm for Recovery and Isolation Exploiting Semantics的简称）是论文《ARIES: A Transaction Recovery Method Supporting Fine-Franularity Locking and Partial Rollbacks Using Write-Ahead Logging》中提到的一种存储引]]></summary>
         <author>
             <name>codedump的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[老想着成功干嘛？就好像我们的智力不足以应付不追求成功的生活似的]]></title>
-        <id>https://macshuo.com/?p=1752</id>
-        <link href="https://macshuo.com/?p=1752"/>
-        <updated>2022-05-20T07:46:33.000Z</updated>
-        <summary type="html"><![CDATA[有用户在认识到自己是普通人之后，挺苦恼，怎么努力，也是中上水准，问我咋办。 在回 … Continue reading →]]></summary>
-        <author>
-            <name>MacTalk</name>
         </author>
     </entry>
     <entry>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-06-04T00:50:47.513Z</updated>
+    <updated>2022-06-05T00:57:05.433Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -449,16 +449,6 @@ def main():
         <summary type="html"><![CDATA[APIFlask 是一个基于 Flask 和 marshmallow 实现的 API 框架（详细介绍见这篇文章 […]]]></summary>
         <author>
             <name>李辉</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[周刊（第16期）：图解ARIES论文（下）]]></title>
-        <id>https://www.codedump.info/post/20220521-weekly-16/</id>
-        <link href="https://www.codedump.info/post/20220521-weekly-16/"/>
-        <updated>2022-05-21T03:46:44.000Z</updated>
-        <summary type="html"><![CDATA[引言：ARIES(Algorithm for Recovery and Isolation Exploiting Semantics的简称）是论文《ARIES: A Transaction Recovery Method Supporting Fine-Franularity Locking and Partial Rollbacks Using Write-Ahead Logging》中提到的一种存储引]]></summary>
-        <author>
-            <name>codedump的网络日志</name>
         </author>
     </entry>
     <entry>

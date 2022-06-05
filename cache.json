@@ -173,16 +173,6 @@
           "wordCount": 285,
           "title": "周刊（第17期）：Read-Write Quorum System及在Raft中的实践",
           "imageUrl": "https://www.codedump.info/images/dog.png"
-        },
-        {
-          "id": "https://www.codedump.info/post/20220521-weekly-16/",
-          "author": null,
-          "description": "引言：ARIES(Algorithm for Recovery and Isolation Exploiting Semantics的简称）是论文《ARIES: A Transaction Recovery Method Supporting Fine-Franularity Locking and Partial Rollbacks Using Write-Ahead Logging》中提到的一种存储引",
-          "link": "https://www.codedump.info/post/20220521-weekly-16/",
-          "publishedOn": "2022-05-21T03:46:44.000Z",
-          "wordCount": 418,
-          "title": "周刊（第16期）：图解ARIES论文（下）",
-          "imageUrl": "https://www.codedump.info/images/icon.png"
         }
       ]
     },

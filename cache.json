@@ -51,16 +51,6 @@
           "wordCount": 265,
           "title": "徕卡自由列车，一段隐秘历史",
           "imageUrl": null
-        },
-        {
-          "id": "https://macshuo.com/?p=1772",
-          "author": "MacTalk",
-          "description": "晚上回到家吃了点夜宵，本来打算直播一会——基本上直播就能带来星球转化——转念一想 … Continue reading →",
-          "link": "https://macshuo.com/?p=1772",
-          "publishedOn": "2022-05-24T05:14:06.000Z",
-          "wordCount": 247,
-          "title": "创业就是你和身边的人一起织个背心",
-          "imageUrl": null
         }
       ]
     },
@@ -190,7 +180,18 @@
       "title": "李辉",
       "feedUrl": "https://greyli.com/feed",
       "siteUrl": "https://greyli.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://greyli.com/?p=4387",
+          "author": "李辉",
+          "description": "每年临近小满的一周时间里，在凌晨两点的苏北农村，每个村子的村口或是某个地方都会有乌泱泱一群人在等车去各处「出蒜 […]",
+          "link": "https://greyli.com/nine-hundred/",
+          "publishedOn": "2022-06-07T15:03:41.000Z",
+          "wordCount": 56,
+          "title": "累死的人",
+          "imageUrl": "https://greyli.com/wp-content/uploads/2020/07/avatar.jpg"
+        }
+      ]
     },
     {
       "title": "�Ʒ�� BLOG",

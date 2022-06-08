@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-06-07T00:44:44.070Z</updated>
+    <updated>2022-06-08T00:52:11.118Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[累死的人]]></title>
+        <id>https://greyli.com/?p=4387</id>
+        <link href="https://greyli.com/nine-hundred/"/>
+        <updated>2022-06-07T15:03:41.000Z</updated>
+        <summary type="html"><![CDATA[每年临近小满的一周时间里，在凌晨两点的苏北农村，每个村子的村口或是某个地方都会有乌泱泱一群人在等车去各处「出蒜 […]]]></summary>
+        <author>
+            <name>李辉</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的删库经历]]></title>
         <id>https://www.kawabangga.com/?p=4693</id>
@@ -429,16 +439,6 @@ def main():
         <summary type="html"><![CDATA[<p>不久前写过一篇博客《<a]]></summary>
         <author>
             <name>Reimu's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[创业就是你和身边的人一起织个背心]]></title>
-        <id>https://macshuo.com/?p=1772</id>
-        <link href="https://macshuo.com/?p=1772"/>
-        <updated>2022-05-24T05:14:06.000Z</updated>
-        <summary type="html"><![CDATA[晚上回到家吃了点夜宵，本来打算直播一会——基本上直播就能带来星球转化——转念一想 … Continue reading →]]></summary>
-        <author>
-            <name>MacTalk</name>
         </author>
     </entry>
     <entry>

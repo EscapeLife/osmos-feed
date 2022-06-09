@@ -136,28 +136,7 @@
       "title": "Posts on Jiayuan Thoughts",
       "feedUrl": "http://blog.jiayuanzhang.com/post/index.xml",
       "siteUrl": "https://blog.jiayuanzhang.com/post/",
-      "articles": [
-        {
-          "id": "https://blog.jiayuanzhang.com/post/naval-reading/",
-          "author": null,
-          "description": "Hello，大家周日好，这是 Jiayuan Thoughts 的第 3 期，感谢 134 位新读者订阅支持。 今天发现 The Almanack of Naval Ravikant 的中文版《纳瓦尔宝典》已经在 Kindle 上架了。去年年初时在 Amazon 的每日推荐中看到这本书，毫不犹豫地买下，几乎是一口气读完，并摘录了大量的笔记到 Roam 中，今年年初的时候又重读了一遍，依然收获很多。等到微信读书上架中",
-          "link": "https://blog.jiayuanzhang.com/post/naval-reading/",
-          "publishedOn": "2022-05-22T19:26:55.000Z",
-          "wordCount": 892,
-          "title": "Naval Ravikant 的 9 个阅读原则",
-          "imageUrl": null
-        },
-        {
-          "id": "http://blog.jiayuanzhang.com/post/naval-reading/",
-          "author": null,
-          "description": "Hello，大家周日好，这是 Jiayuan Thoughts 的第 3 期，感谢 134 位新读者订阅支持。 今天发现 The Almanack of Naval Ravikant 的中文版《纳瓦尔宝典》已经在 Kindle 上架了。去年年初时在 Amazon 的每日推荐中看到这本书，毫不犹豫地买下，几乎是一口气读完，并摘录了大量的笔记到 Roam 中，今年年初的时候又重读了一遍，依然收获很多。等到微信读书上架中",
-          "link": "http://blog.jiayuanzhang.com/post/naval-reading/",
-          "publishedOn": "2022-05-22T19:26:55.000Z",
-          "wordCount": 892,
-          "title": "Naval Ravikant 的 9 个阅读原则",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "codedump的网络日志",
@@ -457,18 +436,7 @@
       "title": "Reimu's blog",
       "feedUrl": "https://blog.k8s.li/atom.xml",
       "siteUrl": "/atom.xml",
-      "articles": [
-        {
-          "id": "https://blog.k8s.li/packer-vsphere-example.html",
-          "author": null,
-          "description": "<p>不久前写过一篇博客《<a",
-          "link": "https://blog.k8s.li/packer-vsphere-example.html",
-          "publishedOn": "2022-05-24T16:00:00.000Z",
-          "wordCount": 4359,
-          "title": "使用 Packer 构建虚拟机镜像踩的坑",
-          "imageUrl": "https://p.k8s.li/2022-05-23-packer-vsphere-example-01.png"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.14.4"

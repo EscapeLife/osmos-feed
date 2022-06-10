@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-06-09T00:53:33.304Z</updated>
+    <updated>2022-06-10T00:56:40.532Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[为什么放弃创业加入字节跳动]]></title>
+        <id>https://macshuo.com/?p=1791</id>
+        <link href="https://macshuo.com/?p=1791"/>
+        <updated>2022-06-09T08:43:11.000Z</updated>
+        <summary type="html"><![CDATA[今天我和老沈做了一次对谈，后续会放到播客和我的知识星球里，收获还挺多的。老沈是  … Continue reading →]]></summary>
+        <author>
+            <name>MacTalk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[累死的人]]></title>
         <id>https://greyli.com/?p=4387</id>
@@ -417,18 +427,6 @@ def main():
         <summary type="html"><![CDATA[引言：在Paxos、Raft这类一致性算法的描述里，经常会看到Majority、Quorum这两个词，在以前我以为都是表达“半数以上”的含义，最近才发]]></summary>
         <author>
             <name>codedump的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌验证码 ReCAPTCHA 的模拟点击破解方案来了！]]></title>
-        <id>https://cuiqingcai.com/36057.html</id>
-        <link href="https://cuiqingcai.com/36057.html"/>
-        <updated>2022-05-26T10:00:22.000Z</updated>
-        <summary type="html"><![CDATA[<p>大家好，我是崔庆才。</p>
-<p>之前的时候我分享过 ReCAPTCHA 的破解方案，那种方案是获取到 ReCAPTCHA 其中的一个 siteKey，然后将 siteKey 直接提交给 ReCAPTCHA 相关的破解服务来实现破解。</p>
-<p>这次，我们再来介绍一种]]></summary>
-        <author>
-            <name>静觅</name>
         </author>
     </entry>
     <entry>

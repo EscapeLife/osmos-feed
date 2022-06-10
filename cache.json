@@ -43,6 +43,16 @@
       "siteUrl": "https://macshuo.com",
       "articles": [
         {
+          "id": "https://macshuo.com/?p=1791",
+          "author": "MacTalk",
+          "description": "今天我和老沈做了一次对谈，后续会放到播客和我的知识星球里，收获还挺多的。老沈是  … Continue reading →",
+          "link": "https://macshuo.com/?p=1791",
+          "publishedOn": "2022-06-09T08:43:11.000Z",
+          "wordCount": 251,
+          "title": "为什么放弃创业加入字节跳动",
+          "imageUrl": null
+        },
+        {
           "id": "https://macshuo.com/?p=1782",
           "author": "MacTalk",
           "description": "最近在家时间比较多，没地方拍照片，于是看了不少摄影相关的资料，比如《一生的凝视》 … Continue reading →",
@@ -117,7 +127,7 @@
     {
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
-      "siteUrl": "http://manjusaka.itscoder.com/atom.xml",
+      "siteUrl": "https://manjusaka.blog/atom.xml",
       "articles": []
     },
     {
@@ -300,16 +310,6 @@
           "wordCount": 302,
           "title": "看书也要挑剔点",
           "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/36057.html",
-          "author": null,
-          "description": "<p>大家好，我是崔庆才。</p>\n<p>之前的时候我分享过 ReCAPTCHA 的破解方案，那种方案是获取到 ReCAPTCHA 其中的一个 siteKey，然后将 siteKey 直接提交给 ReCAPTCHA 相关的破解服务来实现破解。</p>\n<p>这次，我们再来介绍一种",
-          "link": "https://cuiqingcai.com/36057.html",
-          "publishedOn": "2022-05-26T10:00:22.000Z",
-          "wordCount": 1235,
-          "title": "谷歌验证码 ReCAPTCHA 的模拟点击破解方案来了！",
-          "imageUrl": "https://qiniu.cuiqingcai.com/wvzml.png"
         }
       ]
     },

@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-06-10T00:56:40.532Z</updated>
+    <updated>2022-06-11T00:51:22.902Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[运动跑鞋选购指南]]></title>
+        <id>https://www.escapelife.site/posts/159b9073.html</id>
+        <link href="https://www.escapelife.site/posts/159b9073.html"/>
+        <updated>2022-06-11T07:47:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p><strong>不是用的材质好性能就好，材质+工艺+调教缺一不可！</strong></p>
+</blockquote>
+<p>买过跑鞋的话，肯定知道跑鞋和其他物品是一样的，最高价和最低价存在着 <code>N</code>]]></summary>
+        <author>
+            <name>Escape</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么放弃创业加入字节跳动]]></title>
         <id>https://macshuo.com/?p=1791</id>
@@ -427,6 +440,19 @@ def main():
         <summary type="html"><![CDATA[引言：在Paxos、Raft这类一致性算法的描述里，经常会看到Majority、Quorum这两个词，在以前我以为都是表达“半数以上”的含义，最近才发]]></summary>
         <author>
             <name>codedump的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[羽毛球比赛规则和选购]]></title>
+        <id>https://www.escapelife.site/posts/3c882107.html</id>
+        <link href="https://www.escapelife.site/posts/3c882107.html"/>
+        <updated>2022-05-28T04:45:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p><strong>我悄悄的来，又悄悄的走，挥一挥球拍，不留一个活口！</strong></p>
+</blockquote>
+<p>之前对于羽毛球比赛的规则并不是很明确，所以在网上搜了下，发现了 <a]]></summary>
+        <author>
+            <name>Escape</name>
         </author>
     </entry>
     <entry>

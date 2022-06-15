@@ -54,6 +54,16 @@
       "siteUrl": "https://macshuo.com",
       "articles": [
         {
+          "id": "https://macshuo.com/?p=1804",
+          "author": "MacTalk",
+          "description": "之前我的朋友 Selina 在 InfoQ 的写作平台发布了一篇文章叫做《一个值 … Continue reading →",
+          "link": "https://macshuo.com/?p=1804",
+          "publishedOn": "2022-06-14T10:26:20.000Z",
+          "wordCount": 269,
+          "title": "大厂的人才衡量标准",
+          "imageUrl": null
+        },
+        {
           "id": "https://macshuo.com/?p=1791",
           "author": "MacTalk",
           "description": "今天我和老沈做了一次对谈，后续会放到播客和我的知识星球里，收获还挺多的。老沈是  … Continue reading →",
@@ -61,16 +71,6 @@
           "publishedOn": "2022-06-09T08:43:11.000Z",
           "wordCount": 251,
           "title": "为什么放弃创业加入字节跳动",
-          "imageUrl": null
-        },
-        {
-          "id": "https://macshuo.com/?p=1782",
-          "author": "MacTalk",
-          "description": "最近在家时间比较多，没地方拍照片，于是看了不少摄影相关的资料，比如《一生的凝视》 … Continue reading →",
-          "link": "https://macshuo.com/?p=1782",
-          "publishedOn": "2022-05-31T05:33:58.000Z",
-          "wordCount": 265,
-          "title": "徕卡自由列车，一段隐秘历史",
           "imageUrl": null
         }
       ]
@@ -189,6 +189,16 @@
       "siteUrl": "https://blog.codingnow.com/",
       "articles": [
         {
+          "id": "https://blog.codingnow.com/2022/06/ecs_group.html",
+          "author": null,
+          "description": "Ŀǰ�������� ECS ������Ϸ�����еĶ��󡣵���Ϸ������һ���̶ȣ�����Ҫ��һ������������ɸѡ����Ҫ��Ⱦ�Ķ����Ӽ������仰˵������㴴���� 100K �� Entity ������ֻ�� 1K �� Entity ��Ҫͬʱ��Ⱦ����Ȼ�������п���Ⱦ����ĳɱ���С�� O(n) ������� n �� 100K ��������������� 1K ����������������Ǻܴ�ġ� ���ǵ� ECS ϵͳ�Ѿ�֧���� tag ������ԣ��������� visible tag ���� key ����ɸѡ�ɼ����󡣵�����ͷ�ƶ�ʱ����Ҫ������Щ tag �ֿ������������⡣������Щ visible tags �������ܱ����� 100K ����������� O(n) ���Ӷ��¹�����...",
+          "link": "https://blog.codingnow.com/2022/06/ecs_group.html",
+          "publishedOn": "2022-06-14T01:58:06.000Z",
+          "wordCount": 216,
+          "title": "�� ECS ���ӷ��鹦��",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.codingnow.com/2022/06/ajdjacency_list.html",
           "author": null,
           "description": "��������չ������Ϸ�еĹܵ�ϵͳʱ����������ʵ��һ������ͼ�����⡣ ֮ǰ�Ĺܵ�ϵͳ��ÿ�ڹܵ����ڽӹ��������ޣ������������������ķ�ʽ���棬��ÿ�ڹܵ���ֱ�ӷ���һ���̶���С�����飬����ýڹܵ��������νڵ㡣����Һ��ܵ�ϵͳ���������ݽṹ�����ĺܺá� ���죬���ǵ���һ��ϵͳ��Ҫһ���е㲻һ���Ĺܵ�����û�з���ÿ���ڵ�����кܶ���ڽӵ㡣����������ɵ����硢���ȹܹ��ɵ����磬���������ġ����ǵ��͵�����ͼ�ṹ�� �����¿��������ݽṹ�����ڽӱ�ʵ����һ�档...",
@@ -215,6 +225,16 @@
       "feedUrl": "https://www.zlovezl.cn/feeds/latest",
       "siteUrl": "http://www.zlovezl.cn/",
       "articles": [
+        {
+          "id": "https://www.zlovezl.cn/articles/how-to-design-config-file-for-software/",
+          "author": null,
+          "description": "在设计和开发服务端（后端）软件时，配置文件是一个绕不开的话题。\n配置文件是一种用于存放各类可配置项的特殊文件。每个软件都会预设一些默认配置，但这些默认值不可能适用于所有情况。因此，到了不同的环境中，我们常常需要用配置文件对其进行扩展和修改。\n拿版本控制软件 git 举例。大部分用户的 home 目录（~）都存放着一份 .gitconfig 配置文件，里面写着自己的用户名和邮箱地址：\n[user]\n    name = piglei\n    email = piglei2007@gmail.com\n\n就像软件的任何一个主要功能一样，配置文件也会极大的影响软件的使用体验。良好的设计能让软件变得更易用，糟糕的设计则会带来许多意想不到的问题，将用户拒之门外。\n在这篇文章中，我整理了 4 条关于“软件配置文件”的设计建议，希望能对你有所帮助。\n1. 最好不给配置也能用\n在网络世界里，每过一天，人们的耐心似乎就又比前一天减少了一丁点。一个制作精良的短视频，如果 3 秒钟之内无法抓住你，你的右手拇指就会条件反射般将它划走。\n现在，假设你开发了一个非常有用的工具软件，并发布到了网上。软件的功能非常全面，所有人在使用它之前，需要编辑一份包含 20 项配置的配置文件。你猜，有多大比例的潜在用户会直接掉头走掉？\n当我们想要一件东西时，总是一刻也不想等。因此，初始的配置过程麻烦与否，会强烈影响人们尝试软件的决心。在这方面，我认为最好的体验是：无需提供任何配置，便能直接使用软件 80% 以上的功能。\n假如无法做到这一点，我们也应该试着从以下几个方面着手，尽量降低用户的配置成本，压缩从“开始安装”到“可使用”之间的等待时间。\n1.1 预设合理的默认值\n为了将必须由用户提供的配置项，压缩到最少。你得给软件的所有配置项预设一个足够合理的默认值。这些默认值应当能让尽可能多的用户满意。\n举个例子，假如你的软件…",
+          "link": "https://www.zlovezl.cn/articles/how-to-design-config-file-for-software/",
+          "publishedOn": "2022-06-15T00:56:13.270Z",
+          "wordCount": 212,
+          "title": "设计服务端软件配置的 4 条建议",
+          "imageUrl": null
+        },
         {
           "id": "https://www.zlovezl.cn/articles/embrace-the-grind-cn-translation/",
           "author": null,

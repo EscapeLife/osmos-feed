@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-06-17T00:51:20.866Z</updated>
+    <updated>2022-06-18T00:54:20.661Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Flyer：基于FastAPI的轻量级API开发框架]]></title>
+        <id>https://zhang.ge/?p=6304</id>
+        <link href="https://zhang.ge/5166.html"/>
+        <updated>2022-06-17T02:05:23.000Z</updated>
+        <summary type="html"><![CDATA[概述经常会听到“不会开发的运维不是个好运维”，确实在运维工作当中，娴熟的开发经验能让运维工作如鱼得水，事半功倍！高级的运维除了需要精通Shell脚本编程之外，最好还需要掌握一门高级语言，比如Python、Golang、PHP、Lua等。高级语言除了可以解决一些更复杂的运维场景，还可以帮助我们更好的理解业务，做好业务运维，毕竟知己知彼才能百战不殆。经常看到很多运维同学写接口通常是基于Flask，只用一个脚本一撸到底，完全...…]]></summary>
+        <author>
+            <name>Jager</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[设计服务端软件配置的 4 条建议]]></title>
         <id>https://www.zlovezl.cn/articles/how-to-design-config-file-for-software/</id>
@@ -374,28 +384,6 @@ MIME types 详解
 Use the Index, Luke! 笔记3：避免回表]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推荐一个超强的图片压缩网站！]]></title>
-        <id>https://cuiqingcai.com/36061.html</id>
-        <link href="https://cuiqingcai.com/36061.html"/>
-        <updated>2022-06-03T10:27:13.000Z</updated>
-        <summary type="html"><![CDATA[<p>我们肯定经常跟图片打交道吧，不管是写文章、传图片还是网站开发，我们或多或少都要插图，但有时候图片体积比较大的时候就会带来加载速度慢的一些问题，那么这时候你可能会有这么一个需求：</p>
-<blockquote>
-  <p>有没有什么办法在保证图片清晰度的时候把图片的体积压缩]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[���ڽӱ�ʵ������ͼ]]></title>
-        <id>https://blog.codingnow.com/2022/06/ajdjacency_list.html</id>
-        <link href="https://blog.codingnow.com/2022/06/ajdjacency_list.html"/>
-        <updated>2022-06-02T13:48:20.000Z</updated>
-        <summary type="html"><![CDATA[��������չ������Ϸ�еĹܵ�ϵͳʱ����������ʵ��һ������ͼ�����⡣ ֮ǰ�Ĺܵ�ϵͳ��ÿ�ڹܵ����ڽӹ��������ޣ������������������ķ�ʽ���棬��ÿ�ڹܵ���ֱ�ӷ���һ���̶���С�����飬����ýڹܵ��������νڵ㡣����Һ��ܵ�ϵͳ���������ݽṹ�����ĺܺá� ���죬���ǵ���һ��ϵͳ��Ҫһ���е㲻һ���Ĺܵ�����û�з���ÿ���ڵ�����кܶ���ڽӵ㡣����������ɵ����硢���ȹܹ��ɵ����磬���������ġ����ǵ��͵�����ͼ�ṹ�� �����¿��������ݽṹ�����ڽӱ�ʵ����һ�档...]]></summary>
-        <author>
-            <name>�Ʒ�� BLOG</name>
         </author>
     </entry>
     <entry>

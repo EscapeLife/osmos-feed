@@ -176,16 +176,6 @@
           "wordCount": 216,
           "title": "�� ECS ���ӷ��鹦��",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.codingnow.com/2022/06/ajdjacency_list.html",
-          "author": null,
-          "description": "��������չ������Ϸ�еĹܵ�ϵͳʱ����������ʵ��һ������ͼ�����⡣ ֮ǰ�Ĺܵ�ϵͳ��ÿ�ڹܵ����ڽӹ��������ޣ������������������ķ�ʽ���棬��ÿ�ڹܵ���ֱ�ӷ���һ���̶���С�����飬����ýڹܵ��������νڵ㡣����Һ��ܵ�ϵͳ���������ݽṹ�����ĺܺá� ���죬���ǵ���һ��ϵͳ��Ҫһ���е㲻һ���Ĺܵ�����û�з���ÿ���ڵ�����кܶ���ڽӵ㡣����������ɵ����硢���ȹܹ��ɵ����磬���������ġ����ǵ��͵�����ͼ�ṹ�� �����¿��������ݽṹ�����ڽӱ�ʵ����һ�档...",
-          "link": "https://blog.codingnow.com/2022/06/ajdjacency_list.html",
-          "publishedOn": "2022-06-02T13:48:20.000Z",
-          "wordCount": 234,
-          "title": "���ڽӱ�ʵ������ͼ",
-          "imageUrl": null
         }
       ]
     },
@@ -270,16 +260,6 @@
           "wordCount": 376,
           "title": "学习新知识时的几个技巧",
           "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/36061.html",
-          "author": null,
-          "description": "<p>我们肯定经常跟图片打交道吧，不管是写文章、传图片还是网站开发，我们或多或少都要插图，但有时候图片体积比较大的时候就会带来加载速度慢的一些问题，那么这时候你可能会有这么一个需求：</p>\n<blockquote>\n  <p>有没有什么办法在保证图片清晰度的时候把图片的体积压缩",
-          "link": "https://cuiqingcai.com/36061.html",
-          "publishedOn": "2022-06-03T10:27:13.000Z",
-          "wordCount": 472,
-          "title": "推荐一个超强的图片压缩网站！",
-          "imageUrl": "https://qiniu.cuiqingcai.com/z387a.png"
         }
       ]
     },
@@ -400,7 +380,18 @@
       "title": "张戈博客",
       "feedUrl": "https://zhangge.net/feed",
       "siteUrl": "https://zhang.ge",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://zhang.ge/?p=6304",
+          "author": "Jager",
+          "description": "概述经常会听到“不会开发的运维不是个好运维”，确实在运维工作当中，娴熟的开发经验能让运维工作如鱼得水，事半功倍！高级的运维除了需要精通Shell脚本编程之外，最好还需要掌握一门高级语言，比如Python、Golang、PHP、Lua等。高级语言除了可以解决一些更复杂的运维场景，还可以帮助我们更好的理解业务，做好业务运维，毕竟知己知彼才能百战不殆。经常看到很多运维同学写接口通常是基于Flask，只用一个脚本一撸到底，完全...…",
+          "link": "https://zhang.ge/5166.html",
+          "publishedOn": "2022-06-17T02:05:23.000Z",
+          "wordCount": 823,
+          "title": "Flyer：基于FastAPI的轻量级API开发框架",
+          "imageUrl": "https://res.zgboke.com/wp-content/uploads/2022/04/1650021797-logo.png"
+        }
+      ]
     },
     {
       "title": "Reimu's blog",

@@ -275,6 +275,16 @@
       "siteUrl": "https://www.leavesongs.com",
       "articles": [
         {
+          "id": "https://www.leavesongs.com/PENETRATION/xss-from-my-blog.html",
+          "author": "phithon",
+          "description": "今天晚上收到几个提醒，打开一看是有人在我博客评论区测试XSS：\n\n本来这种测试司空见惯了，而且此人也没成功找到XSS，放以前我多半就关掉页面了。\n不过我今晚不知为何临时起意，就顺势看了一下自己写的代码，居然被我自己找到一个XSS漏洞：\n\n原因是什么呢？\n0x01 开发历史介绍\n我当时在开发这个回复按钮的时候，为了方便，直接用JavaScript伪协议来调用reply_to函数，比如：\n\nreply",
+          "link": "https://www.leavesongs.com/PENETRATION/xss-from-my-blog.html",
+          "publishedOn": "2022-06-19T00:54:43.462Z",
+          "wordCount": 214,
+          "title": "我自己博客的一个XSS的故事",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.leavesongs.com/PENETRATION/docker-php-include-getshell.html",
           "author": "phithon",
           "description": "本文首发在跳跳糖社区。\n2018年『代码审计』星球举办的Code-Breaking Puzzles非常成功，后面我就一直想再做一次类似的活动。Code-Breaking属于极其偏向于trick分享的代码审计谜题，所以要求题目具有一定的独创性，最好是能用10行以内的代码片段，描述一个具有实战价值的场景。\n大概在去年疫情在家办公那段时间，有个同学问过我一个问题，他遇到了一个PHP文件包含漏洞，但找",
@@ -400,5 +410,5 @@
       "articles": []
     }
   ],
-  "cliVersion": "1.14.4"
+  "cliVersion": "1.15.0"
 }

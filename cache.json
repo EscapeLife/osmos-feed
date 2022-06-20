@@ -93,6 +93,26 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=4545",
+          "author": "laixintao",
+          "description": "在蚂蚁金服工作的时候，见到和使用了很多设计糟糕的系统，其中涉及最糟糕的叫做一个  AntX 的东西，现在想起来 […]\nContinue reading...\nThe post 像设计 UI 一样去设计配置项 first appeared on 卡瓦邦噶！.",
+          "link": "https://www.kawabangga.com/posts/4545",
+          "publishedOn": "2022-06-19T07:20:50.000Z",
+          "wordCount": 1058,
+          "title": "像设计 UI 一样去设计配置项",
+          "imageUrl": "https://www.kawabangga.com/wp-content/uploads/2017/04/favicon.png"
+        },
+        {
+          "id": "https://www.kawabangga.com/?p=4697",
+          "author": "laixintao",
+          "description": "心动公司的网站有一段很好看的宣传片，可以在 https://2400.hk/ 观看。这段影片有中文版本，在 h […]\nContinue reading...\nThe post 心动网络宣传片的翻译 first appeared on 卡瓦邦噶！.\n\n相关文章:\n\n爬虫常用的工具\nTTY 到底是什么？",
+          "link": "https://www.kawabangga.com/posts/4697",
+          "publishedOn": "2022-06-19T06:45:02.000Z",
+          "wordCount": 610,
+          "title": "心动网络宣传片的翻译",
+          "imageUrl": "https://www.kawabangga.com/wp-content/uploads/2017/04/favicon.png"
+        },
+        {
           "id": "https://www.kawabangga.com/?p=4693",
           "author": "laixintao",
           "description": "看了一篇文章讲自己删库经历，感同身受的一点是： But, as far as I know, no one e […]\nContinue reading...\nThe post 我的删库经历 first appeared on 卡瓦邦噶！.\n\n相关文章:\n\nFirefox Setup\nYou Should Keep Keep Keep\nUse the Index, Luke! 笔记4：sorting 和 grouping\nMIME types 详解\nUse the Index, Luke! 笔记3：避免回表",
@@ -133,6 +153,16 @@
       "feedUrl": "https://www.codedump.info/index.xml",
       "siteUrl": "https://www.codedump.info/",
       "articles": [
+        {
+          "id": "https://www.codedump.info/post/20220619-weekly-19/",
+          "author": null,
+          "description": "引言：本文介绍Rust并发安全相关的几个概念的几个概念：Send、Sync、Arc，Mutex、RwLock等之间的联系。这是其中的上篇，主要介绍Se",
+          "link": "https://www.codedump.info/post/20220619-weekly-19/",
+          "publishedOn": "2022-06-19T02:42:40.000Z",
+          "wordCount": 775,
+          "title": "周刊（第19期）：Rust并发安全相关的几个概念(上)",
+          "imageUrl": "https://www.codedump.info/images/dog.png"
+        },
         {
           "id": "https://www.codedump.info/post/20220612-weekly-18/",
           "author": null,
@@ -267,7 +297,18 @@
       "title": "咸糖 - 自律者自由",
       "feedUrl": "https://vim0.com/index.xml",
       "siteUrl": "https://vim0.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://vim0.com/post/singapore_3_month/",
+          "author": null,
+          "description": "阅读本文能获得什么 本文主要讲的是如何来到新加坡工作之后，需要做的一些事情。 阅读本文你能获得到在新加坡落地之后，需要做的一些必须的 事项例如租房",
+          "link": "https://vim0.com/post/singapore_3_month/",
+          "publishedOn": "2022-06-12T13:33:31.000Z",
+          "wordCount": 324,
+          "title": "肉身翻墙新加坡安顿指南",
+          "imageUrl": "https://vim0.com/post/singapore_3_month.png"
+        }
+      ]
     },
     {
       "title": "离别歌",

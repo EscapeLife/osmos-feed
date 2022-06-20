@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-06-19T00:54:47.900Z</updated>
+    <updated>2022-06-20T00:55:54.702Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[像设计 UI 一样去设计配置项]]></title>
+        <id>https://www.kawabangga.com/?p=4545</id>
+        <link href="https://www.kawabangga.com/posts/4545"/>
+        <updated>2022-06-19T07:20:50.000Z</updated>
+        <summary type="html"><![CDATA[在蚂蚁金服工作的时候，见到和使用了很多设计糟糕的系统，其中涉及最糟糕的叫做一个  AntX 的东西，现在想起来 […]
+Continue reading...
+The post 像设计 UI 一样去设计配置项 first appeared on 卡瓦邦噶！.]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[心动网络宣传片的翻译]]></title>
+        <id>https://www.kawabangga.com/?p=4697</id>
+        <link href="https://www.kawabangga.com/posts/4697"/>
+        <updated>2022-06-19T06:45:02.000Z</updated>
+        <summary type="html"><![CDATA[心动公司的网站有一段很好看的宣传片，可以在 https://2400.hk/ 观看。这段影片有中文版本，在 h […]
+Continue reading...
+The post 心动网络宣传片的翻译 first appeared on 卡瓦邦噶！.
+
+相关文章:
+
+爬虫常用的工具
+TTY 到底是什么？]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[周刊（第19期）：Rust并发安全相关的几个概念(上)]]></title>
+        <id>https://www.codedump.info/post/20220619-weekly-19/</id>
+        <link href="https://www.codedump.info/post/20220619-weekly-19/"/>
+        <updated>2022-06-19T02:42:40.000Z</updated>
+        <summary type="html"><![CDATA[引言：本文介绍Rust并发安全相关的几个概念的几个概念：Send、Sync、Arc，Mutex、RwLock等之间的联系。这是其中的上篇，主要介绍Se]]></summary>
+        <author>
+            <name>codedump的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我自己博客的一个XSS的故事]]></title>
         <id>https://www.leavesongs.com/PENETRATION/xss-from-my-blog.html</id>
@@ -317,6 +356,16 @@ def main():
 好了，关于《Python 工匠》的预售信息先介绍到这。感谢所有朋友一路以来对“Python 工匠”的支持，期待你拿到书后，第一时间与我分享你的阅读体验。再会！]]></summary>
         <author>
             <name>piglei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[肉身翻墙新加坡安顿指南]]></title>
+        <id>https://vim0.com/post/singapore_3_month/</id>
+        <link href="https://vim0.com/post/singapore_3_month/"/>
+        <updated>2022-06-12T13:33:31.000Z</updated>
+        <summary type="html"><![CDATA[阅读本文能获得什么 本文主要讲的是如何来到新加坡工作之后，需要做的一些事情。 阅读本文你能获得到在新加坡落地之后，需要做的一些必须的 事项例如租房]]></summary>
+        <author>
+            <name>咸糖 - 自律者自由</name>
         </author>
     </entry>
     <entry>

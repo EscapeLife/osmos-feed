@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-06-20T00:55:54.702Z</updated>
+    <updated>2022-06-21T00:55:47.301Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -432,26 +432,6 @@ def main():
         <summary type="html"><![CDATA[每年临近小满的一周时间里，在凌晨两点的苏北农村，每个村子的村口或是某个地方都会有乌泱泱一群人在等车去各处「出蒜 […]]]></summary>
         <author>
             <name>李辉</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的删库经历]]></title>
-        <id>https://www.kawabangga.com/?p=4693</id>
-        <link href="https://www.kawabangga.com/posts/4693"/>
-        <updated>2022-06-05T14:52:17.000Z</updated>
-        <summary type="html"><![CDATA[看了一篇文章讲自己删库经历，感同身受的一点是： But, as far as I know, no one e […]
-Continue reading...
-The post 我的删库经历 first appeared on 卡瓦邦噶！.
-
-相关文章:
-
-Firefox Setup
-You Should Keep Keep Keep
-Use the Index, Luke! 笔记4：sorting 和 grouping
-MIME types 详解
-Use the Index, Luke! 笔记3：避免回表]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-06-22T01:00:19.615Z</updated>
-    <generator>osmosfeed 1.15.0</generator>
+    <updated>2022-06-23T00:51:04.685Z</updated>
+    <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
     <entry>
@@ -422,16 +422,6 @@ def main():
         <summary type="html"><![CDATA[今天我和老沈做了一次对谈，后续会放到播客和我的知识星球里，收获还挺多的。老沈是  … Continue reading →]]></summary>
         <author>
             <name>MacTalk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[累死的人]]></title>
-        <id>https://greyli.com/?p=4387</id>
-        <link href="https://greyli.com/nine-hundred/"/>
-        <updated>2022-06-07T15:03:41.000Z</updated>
-        <summary type="html"><![CDATA[每年临近小满的一周时间里，在凌晨两点的苏北农村，每个村子的村口或是某个地方都会有乌泱泱一群人在等车去各处「出蒜 […]]]></summary>
-        <author>
-            <name>李辉</name>
         </author>
     </entry>
     <entry>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-06-23T00:51:04.685Z</updated>
+    <updated>2022-06-24T00:54:49.728Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -412,16 +412,6 @@ def main():
 <p>买过跑鞋的话，肯定知道跑鞋和其他物品是一样的，最高价和最低价存在着 <code>N</code>]]></summary>
         <author>
             <name>Escape</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么放弃创业加入字节跳动]]></title>
-        <id>https://macshuo.com/?p=1791</id>
-        <link href="https://macshuo.com/?p=1791"/>
-        <updated>2022-06-09T08:43:11.000Z</updated>
-        <summary type="html"><![CDATA[今天我和老沈做了一次对谈，后续会放到播客和我的知识星球里，收获还挺多的。老沈是  … Continue reading →]]></summary>
-        <author>
-            <name>MacTalk</name>
         </author>
     </entry>
     <entry>

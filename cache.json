@@ -144,6 +144,16 @@
       "siteUrl": "https://www.codedump.info/",
       "articles": [
         {
+          "id": "https://www.codedump.info/post/20220625-weekly-20/",
+          "author": null,
+          "description": "引言：本文介绍Rust并发安全相关的几个概念：Send、Sync、Arc，Mutex、RwLock等之间的联系。这是其中的下篇，主要介绍Arc，Mut",
+          "link": "https://www.codedump.info/post/20220625-weekly-20/",
+          "publishedOn": "2022-06-25T02:00:49.000Z",
+          "wordCount": 782,
+          "title": "周刊（第20期）：Rust并发安全相关的几个概念(下)",
+          "imageUrl": "https://www.codedump.info/images/dog.png"
+        },
+        {
           "id": "https://www.codedump.info/post/20220619-weekly-19/",
           "author": null,
           "description": "引言：本文介绍Rust并发安全相关的几个概念的几个概念：Send、Sync、Arc，Mutex、RwLock等之间的联系。这是其中的上篇，主要介绍Se",
@@ -151,16 +161,6 @@
           "publishedOn": "2022-06-19T02:42:40.000Z",
           "wordCount": 775,
           "title": "周刊（第19期）：Rust并发安全相关的几个概念(上)",
-          "imageUrl": "https://www.codedump.info/images/dog.png"
-        },
-        {
-          "id": "https://www.codedump.info/post/20220612-weekly-18/",
-          "author": null,
-          "description": "引言：本文介绍我理解的“卡片式笔记法”，以及我的笔记实践、工具等。 网状的思考，线性的写作 现实世界中的思考 我们的脑子，可能每时每刻都在进行着一些思考：走",
-          "link": "https://www.codedump.info/post/20220612-weekly-18/",
-          "publishedOn": "2022-06-12T02:19:47.000Z",
-          "wordCount": 186,
-          "title": "周刊（第18期）：网状的思考，线性的写作",
           "imageUrl": "https://www.codedump.info/images/dog.png"
         }
       ]
@@ -249,28 +249,7 @@
       "title": "静觅",
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
-      "articles": [
-        {
-          "id": "https://cuiqingcai.com/36063.html",
-          "author": null,
-          "description": "<p><img src=\"https://files.mdnice.com/user/9693/6d24aaa2-ac44-4a5a-a30a-8a2a00b4fe9d.png\" alt=\"img\"></p>\n<p>最近在工作上遇到了一个新词：dummy change，是在邮件沟",
-          "link": "https://cuiqingcai.com/36063.html",
-          "publishedOn": "2022-06-12T12:40:56.000Z",
-          "wordCount": 300,
-          "title": "什么是 dummy change？",
-          "imageUrl": "https://files.mdnice.com/user/9693/6d24aaa2-ac44-4a5a-a30a-8a2a00b4fe9d.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/36062.html",
-          "author": null,
-          "description": "<p>时代在发展，我们也需要不断进步和学习。</p>\n<p>在一生中我们需要学习各种各样的新知识，但有时候我们在学习的时候可能感觉比较茫然，或者无从下手，或者不知道这个知识到底有什么用，或者学的过程中都不知道学到哪里了，还有多少才会学完。</p>\n<p>这里，分享我看《暗时间》书",
-          "link": "https://cuiqingcai.com/36062.html",
-          "publishedOn": "2022-06-12T12:37:13.000Z",
-          "wordCount": 376,
-          "title": "学习新知识时的几个技巧",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "咸糖 - 自律者自由",

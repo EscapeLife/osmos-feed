@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-06-26T00:58:33.266Z</updated>
+    <updated>2022-06-27T00:59:39.266Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -34,6 +34,16 @@ The post 无法 Patch first appeared on 卡瓦邦噶！.
         <summary type="html"><![CDATA[最近刘慈欣后悔辞职的新闻，我很有感触，自由职业虽好，但不是一片坦途，大多数人都需要一份工作才能保证创造力。 今 […]]]></summary>
         <author>
             <name>tinyfool</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[周刊（第20期）：Rust并发安全相关的几个概念(下)]]></title>
+        <id>https://www.codedump.info/post/20220625-weekly-20/</id>
+        <link href="https://www.codedump.info/post/20220625-weekly-20/"/>
+        <updated>2022-06-25T02:00:49.000Z</updated>
+        <summary type="html"><![CDATA[引言：本文介绍Rust并发安全相关的几个概念：Send、Sync、Arc，Mutex、RwLock等之间的联系。这是其中的下篇，主要介绍Arc，Mut]]></summary>
+        <author>
+            <name>codedump的网络日志</name>
         </author>
     </entry>
     <entry>
@@ -396,39 +406,6 @@ def main():
         <summary type="html"><![CDATA[阅读本文能获得什么 本文主要讲的是如何来到新加坡工作之后，需要做的一些事情。 阅读本文你能获得到在新加坡落地之后，需要做的一些必须的 事项例如租房]]></summary>
         <author>
             <name>咸糖 - 自律者自由</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是 dummy change？]]></title>
-        <id>https://cuiqingcai.com/36063.html</id>
-        <link href="https://cuiqingcai.com/36063.html"/>
-        <updated>2022-06-12T12:40:56.000Z</updated>
-        <summary type="html"><![CDATA[<p><img src="https://files.mdnice.com/user/9693/6d24aaa2-ac44-4a5a-a30a-8a2a00b4fe9d.png" alt="img"></p>
-<p>最近在工作上遇到了一个新词：dummy change，是在邮件沟]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学习新知识时的几个技巧]]></title>
-        <id>https://cuiqingcai.com/36062.html</id>
-        <link href="https://cuiqingcai.com/36062.html"/>
-        <updated>2022-06-12T12:37:13.000Z</updated>
-        <summary type="html"><![CDATA[<p>时代在发展，我们也需要不断进步和学习。</p>
-<p>在一生中我们需要学习各种各样的新知识，但有时候我们在学习的时候可能感觉比较茫然，或者无从下手，或者不知道这个知识到底有什么用，或者学的过程中都不知道学到哪里了，还有多少才会学完。</p>
-<p>这里，分享我看《暗时间》书]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[周刊（第18期）：网状的思考，线性的写作]]></title>
-        <id>https://www.codedump.info/post/20220612-weekly-18/</id>
-        <link href="https://www.codedump.info/post/20220612-weekly-18/"/>
-        <updated>2022-06-12T02:19:47.000Z</updated>
-        <summary type="html"><![CDATA[引言：本文介绍我理解的“卡片式笔记法”，以及我的笔记实践、工具等。 网状的思考，线性的写作 现实世界中的思考 我们的脑子，可能每时每刻都在进行着一些思考：走]]></summary>
-        <author>
-            <name>codedump的网络日志</name>
         </author>
     </entry>
     <entry>

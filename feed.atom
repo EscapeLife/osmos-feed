@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-06-27T00:59:39.266Z</updated>
+    <updated>2022-06-28T00:58:17.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CEO 一百天]]></title>
+        <id>https://macshuo.com/?p=1808</id>
+        <link href="https://macshuo.com/?p=1808"/>
+        <updated>2022-06-27T11:43:34.000Z</updated>
+        <summary type="html"><![CDATA[今年开始，我开始像模像样地做 CEO 和公司的创始人，这几个月实践下来，我感觉和 … Continue reading →]]></summary>
+        <author>
+            <name>MacTalk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[无法 Patch]]></title>
         <id>https://www.kawabangga.com/?p=4706</id>
@@ -396,16 +406,6 @@ def main():
 好了，关于《Python 工匠》的预售信息先介绍到这。感谢所有朋友一路以来对“Python 工匠”的支持，期待你拿到书后，第一时间与我分享你的阅读体验。再会！]]></summary>
         <author>
             <name>piglei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[肉身翻墙新加坡安顿指南]]></title>
-        <id>https://vim0.com/post/singapore_3_month/</id>
-        <link href="https://vim0.com/post/singapore_3_month/"/>
-        <updated>2022-06-12T13:33:31.000Z</updated>
-        <summary type="html"><![CDATA[阅读本文能获得什么 本文主要讲的是如何来到新加坡工作之后，需要做的一些事情。 阅读本文你能获得到在新加坡落地之后，需要做的一些必须的 事项例如租房]]></summary>
-        <author>
-            <name>咸糖 - 自律者自由</name>
         </author>
     </entry>
     <entry>

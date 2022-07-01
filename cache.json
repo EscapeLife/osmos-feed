@@ -194,6 +194,16 @@
       "siteUrl": "http://www.zlovezl.cn/",
       "articles": [
         {
+          "id": "https://www.zlovezl.cn/articles/how-to-design-config-file-for-software/",
+          "author": null,
+          "description": "在设计和开发服务端（后端）软件时，配置文件是一个绕不开的话题。\n配置文件是一种用于存放各类可配置项的特殊文件。每个软件都会预设一些默认配置，但这些默认值不可能适用于所有情况。因此，到了不同的环境中，我们常常需要用配置文件对其进行扩展和修改。\n拿版本控制软件 git 举例。大部分用户的 home 目录（~）都存放着一份 .gitconfig 配置文件，里面写着自己的用户名和邮箱地址：\n[user]\n    name = piglei\n    email = piglei2007@gmail.com\n\n就像软件的任何一个主要功能一样，配置文件也会极大的影响软件的使用体验。良好的设计能让软件变得更易用，糟糕的设计则会带来许多意想不到的问题，将用户拒之门外。\n在这篇文章中，我整理了 4 条关于“软件配置文件”的设计建议，希望能对你有所帮助。\n1. 最好不给配置也能用\n在网络世界里，每过一天，人们的耐心似乎就又比前一天减少了一丁点。一个制作精良的短视频，如果 3 秒钟之内无法抓住你，你的右手拇指就会条件反射般将它划走。\n现在，假设你开发了一个非常有用的工具软件，并发布到了网上。软件的功能非常全面，所有人在使用它之前，需要编辑一份包含 20 项配置的配置文件。你猜，有多大比例的潜在用户会直接掉头走掉？\n当我们想要一件东西时，总是一刻也不想等。因此，初始的配置过程麻烦与否，会强烈影响人们尝试软件的决心。在这方面，我认为最好的体验是：无需提供任何配置，便能直接使用软件 80% 以上的功能。\n假如无法做到这一点，我们也应该试着从以下几个方面着手，尽量降低用户的配置成本，压缩从“开始安装”到“可使用”之间的等待时间。\n1.1 预设合理的默认值\n为了将必须由用户提供的配置项，压缩到最少。你得给软件的所有配置项预设一个足够合理的默认值。这些默认值应当能让尽可能多的用户满意。\n举个例子，假如你的软件…",
+          "link": "https://www.zlovezl.cn/articles/how-to-design-config-file-for-software/",
+          "publishedOn": "2022-07-01T01:02:14.286Z",
+          "wordCount": 303,
+          "title": "设计服务端软件配置的 4 条建议",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zlovezl.cn/articles/on-tech-writing-original/",
           "author": null,
           "description": "2019 年的春节假期，我闲在家中，准备一次性刷完攒了大半年的“Python Weekly” 周报。在 6 月份的一封周报里，有一篇名为 “Python Idioms: Multiline Strings” 的文章，内容很精炼。前半部分先描述痛点：在 Python 中写多行字符串字面量，随后演示如何用 textwrap.dedent 函数来优化它。\n部分内容摘录如下：\n... The problem is that it’s just ugly, because indenting the strings actually inserts the indentation into the string. So you have to do this:\ndef create_snippet():\n    code_snippet = \"\"\"\\\nint main(int argc, char* argv[]) {\n    return 0;\n}\"\"\"\n\nWith dedent, we can indent the whole multiline string according to the current scope, so that it looks like a Pythonic code block...\n巧合的是，我两个月前刚在博客上发布了“Python 工匠”的第 3 篇文章：“使用数字与字符串的技巧”。在这篇文章中，同样出现了 textwrap.dedent  函数。\n我写的内容：\n日常编码时，还有一种比较麻烦的情况。就是需要在已经有缩进层级的代码里，插入多行字符串字面量。因为多行字符串不能包含当前的缩进空格，所以，我们需要把代码写成这样：\ndef main():\n    if user.is_active:\n        message = \"\"\"Welcom…",

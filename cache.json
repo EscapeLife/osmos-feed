@@ -368,18 +368,7 @@
       "title": "张戈博客",
       "feedUrl": "https://zhangge.net/feed",
       "siteUrl": "https://zhang.ge",
-      "articles": [
-        {
-          "id": "https://zhang.ge/?p=6304",
-          "author": "Jager",
-          "description": "概述经常会听到“不会开发的运维不是个好运维”，确实在运维工作当中，娴熟的开发经验能让运维工作如鱼得水，事半功倍！高级的运维除了需要精通Shell脚本编程之外，最好还需要掌握一门高级语言，比如Python、Golang、PHP、Lua等。高级语言除了可以解决一些更复杂的运维场景，还可以帮助我们更好的理解业务，做好业务运维，毕竟知己知彼才能百战不殆。经常看到很多运维同学写接口通常是基于Flask，只用一个脚本一撸到底，完全...…",
-          "link": "https://zhang.ge/5166.html",
-          "publishedOn": "2022-06-17T02:05:23.000Z",
-          "wordCount": 823,
-          "title": "Flyer：基于FastAPI的轻量级API开发框架",
-          "imageUrl": "https://res.zgboke.com/wp-content/uploads/2022/04/1650021797-logo.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Reimu's blog",

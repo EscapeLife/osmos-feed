@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-07-01T01:02:19.199Z</updated>
+    <updated>2022-07-02T00:56:54.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -374,16 +374,6 @@ TTY 到底是什么？]]></summary>
 reply]]></summary>
         <author>
             <name>phithon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flyer：基于FastAPI的轻量级API开发框架]]></title>
-        <id>https://zhang.ge/?p=6304</id>
-        <link href="https://zhang.ge/5166.html"/>
-        <updated>2022-06-17T02:05:23.000Z</updated>
-        <summary type="html"><![CDATA[概述经常会听到“不会开发的运维不是个好运维”，确实在运维工作当中，娴熟的开发经验能让运维工作如鱼得水，事半功倍！高级的运维除了需要精通Shell脚本编程之外，最好还需要掌握一门高级语言，比如Python、Golang、PHP、Lua等。高级语言除了可以解决一些更复杂的运维场景，还可以帮助我们更好的理解业务，做好业务运维，毕竟知己知彼才能百战不殆。经常看到很多运维同学写接口通常是基于Flask，只用一个脚本一撸到底，完全...…]]></summary>
-        <author>
-            <name>Jager</name>
         </author>
     </entry>
     <entry>

@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-07-03T00:58:57.611Z</updated>
+    <updated>2022-07-04T01:01:15.683Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What's New In PDM 2.0?]]></title>
+        <id>https://frostming.com/2022/pdm-2-en/</id>
+        <link href="https://frostming.com/2022/pdm-2-en/"/>
+        <updated>2022-07-03T09:49:00.000Z</updated>
+        <author>
+            <name>mianghong@gmail.com (Frost Ming)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PDM 2.0 有什么新特性？]]></title>
+        <id>https://frostming.com/2022/pdm-2/</id>
+        <link href="https://frostming.com/2022/pdm-2/"/>
+        <updated>2022-07-03T09:49:00.000Z</updated>
+        <author>
+            <name>mianghong@gmail.com (Frost Ming)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[周刊（第21期）：Lamport时钟介绍]]></title>
+        <id>https://www.codedump.info/post/20220703-weekly-21/</id>
+        <link href="https://www.codedump.info/post/20220703-weekly-21/"/>
+        <updated>2022-07-03T02:59:09.000Z</updated>
+        <summary type="html"><![CDATA[引言：在分布式系统中，由于有多个机器（进程）在一起协调工作，于是如何定义分布式系统中事件的先后顺序就成了难题，本文介绍论文 《Time, Clocks, and the Ordering of Events in a]]></summary>
+        <author>
+            <name>codedump的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[设计服务端软件配置的 4 条建议]]></title>
         <id>https://www.zlovezl.cn/articles/how-to-design-config-file-for-software/</id>
@@ -269,6 +297,16 @@ def main():
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[使用二八法则省力地学习 awk]]></title>
+        <id>https://vim0.com/post/awk/</id>
+        <link href="https://vim0.com/post/awk/"/>
+        <updated>2022-06-29T14:14:09.000Z</updated>
+        <summary type="html"><![CDATA[篇幅只占20%、然而有效性却达到80% -二八法则 本文你能学到什么？ 在本文中，我们将学习到如何使用二八法则来省力轻松学习 linux 文本处理命令 awk。]]></summary>
+        <author>
+            <name>咸糖 - 自律者自由</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CEO 一百天]]></title>
         <id>https://macshuo.com/?p=1808</id>
         <link href="https://macshuo.com/?p=1808"/>
@@ -316,64 +354,6 @@ The post 无法 Patch first appeared on 卡瓦邦噶！.
         <summary type="html"><![CDATA[引言：本文介绍Rust并发安全相关的几个概念：Send、Sync、Arc，Mutex、RwLock等之间的联系。这是其中的下篇，主要介绍Arc，Mut]]></summary>
         <author>
             <name>codedump的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[像设计 UI 一样去设计配置项]]></title>
-        <id>https://www.kawabangga.com/?p=4545</id>
-        <link href="https://www.kawabangga.com/posts/4545"/>
-        <updated>2022-06-19T07:20:50.000Z</updated>
-        <summary type="html"><![CDATA[在蚂蚁金服工作的时候，见到和使用了很多设计糟糕的系统，其中涉及最糟糕的叫做一个  AntX 的东西，现在想起来 […]
-Continue reading...
-The post 像设计 UI 一样去设计配置项 first appeared on 卡瓦邦噶！.]]></summary>
-        <author>
-            <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[心动网络宣传片的翻译]]></title>
-        <id>https://www.kawabangga.com/?p=4697</id>
-        <link href="https://www.kawabangga.com/posts/4697"/>
-        <updated>2022-06-19T06:45:02.000Z</updated>
-        <summary type="html"><![CDATA[心动公司的网站有一段很好看的宣传片，可以在 https://2400.hk/ 观看。这段影片有中文版本，在 h […]
-Continue reading...
-The post 心动网络宣传片的翻译 first appeared on 卡瓦邦噶！.
-
-相关文章:
-
-爬虫常用的工具
-TTY 到底是什么？]]></summary>
-        <author>
-            <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[周刊（第19期）：Rust并发安全相关的几个概念(上)]]></title>
-        <id>https://www.codedump.info/post/20220619-weekly-19/</id>
-        <link href="https://www.codedump.info/post/20220619-weekly-19/"/>
-        <updated>2022-06-19T02:42:40.000Z</updated>
-        <summary type="html"><![CDATA[引言：本文介绍Rust并发安全相关的几个概念的几个概念：Send、Sync、Arc，Mutex、RwLock等之间的联系。这是其中的上篇，主要介绍Se]]></summary>
-        <author>
-            <name>codedump的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我自己博客的一个XSS的故事]]></title>
-        <id>https://www.leavesongs.com/PENETRATION/xss-from-my-blog.html</id>
-        <link href="https://www.leavesongs.com/PENETRATION/xss-from-my-blog.html"/>
-        <updated>2022-06-19T00:54:43.462Z</updated>
-        <summary type="html"><![CDATA[今天晚上收到几个提醒，打开一看是有人在我博客评论区测试XSS：
-
-本来这种测试司空见惯了，而且此人也没成功找到XSS，放以前我多半就关掉页面了。
-不过我今晚不知为何临时起意，就顺势看了一下自己写的代码，居然被我自己找到一个XSS漏洞：
-
-原因是什么呢？
-0x01 开发历史介绍
-我当时在开发这个回复按钮的时候，为了方便，直接用JavaScript伪协议来调用reply_to函数，比如：
-
-reply]]></summary>
-        <author>
-            <name>phithon</name>
         </author>
     </entry>
     <entry>

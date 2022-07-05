@@ -54,6 +54,16 @@
       "siteUrl": "https://macshuo.com",
       "articles": [
         {
+          "id": "https://macshuo.com/?p=1817",
+          "author": "MacTalk",
+          "description": "设计简单并且具备生命力的产品并不容易。2012 年，龙哥说产品经理是站在上帝身边 … Continue reading →",
+          "link": "https://macshuo.com/?p=1817",
+          "publishedOn": "2022-07-04T09:25:08.000Z",
+          "wordCount": 509,
+          "title": "咔嚓咔嚓，非常棒",
+          "imageUrl": null
+        },
+        {
           "id": "https://macshuo.com/?p=1808",
           "author": "MacTalk",
           "description": "今年开始，我开始像模像样地做 CEO 和公司的创始人，这几个月实践下来，我感觉和 … Continue reading →",
@@ -274,6 +284,16 @@
       "feedUrl": "https://www.leavesongs.com/feed",
       "siteUrl": "https://www.leavesongs.com",
       "articles": [
+        {
+          "id": "https://www.leavesongs.com/PENETRATION/xss-from-my-blog.html",
+          "author": "phithon",
+          "description": "今天晚上收到几个提醒，打开一看是有人在我博客评论区测试XSS：\n\n本来这种测试司空见惯了，而且此人也没成功找到XSS，放以前我多半就关掉页面了。\n不过我今晚不知为何临时起意，就顺势看了一下自己写的代码，居然被我自己找到一个XSS漏洞：\n\n原因是什么呢？\n0x01 开发历史介绍\n我当时在开发这个回复按钮的时候，为了方便，直接用JavaScript伪协议来调用reply_to函数，比如：\n\nreply",
+          "link": "https://www.leavesongs.com/PENETRATION/xss-from-my-blog.html",
+          "publishedOn": "2022-07-05T00:56:38.739Z",
+          "wordCount": 285,
+          "title": "我自己博客的一个XSS的故事",
+          "imageUrl": null
+        },
         {
           "id": "https://www.leavesongs.com/THINK/from-China-to-Singapore-1.html",
           "author": "phithon",

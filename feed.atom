@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-07-06T01:02:43.987Z</updated>
+    <updated>2022-07-07T00:59:54.235Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[���鹦���ڹҽ�ϵͳ�ϵ�ʹ��]]></title>
+        <id>https://blog.codingnow.com/2022/07/group_mount.html</id>
+        <link href="https://blog.codingnow.com/2022/07/group_mount.html"/>
+        <updated>2022-07-06T07:15:11.000Z</updated>
+        <summary type="html"><![CDATA[ǰ��ʱ�����Ǹ����������˶������Ĺ��� ����������ԵĶ����ǵ�������Ϸ�����еĶ�������Զ��ͬʱ��Ҫ��������ʾ���Ķ�������ʱ����һ������ɸѡ�����������뼯�ϵĻ��ơ� ��ʹ�ù����У���½��������������Ե�������;�� ��ȥ��ĳ����Ϸ��Ŀ�У�����������ôһ��������Ϸ����ҪΪ�������һ��ͷ�����ͷ�����ɺܶಿ�ֹ��ɵġ�����ҵ�Ф�����֡��ȼ��������õ�ͼ��ȵȡ����ͷ�����ͬʱ����Ļ�ĺܶ�λ����ʾ�� ���������һ���򵥵����ṹ����ô��ÿ������ͷ��ĵط�������һ������ͷ��Ԫ�ص������������������оͿ��ܳ�����ȫһ���Ķ����������Ȼ���ǿ�����һ��ͨ�ýӿڹ�������������������ǣ�һ�������ҵ����Է����仯������Ҫ������г����г��ֵ�ͬ�����������޸ġ�����ҪΪÿ����Ҷ���ά��һ���б�����������ͷ���ڳ������г��ֵ�λ�á����������������ݽṹ�ĸ����ԡ�...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[陈真是倪匡发明出来的人物，东亚病夫的匾是倪匡设计的。所以，中国没人没看过倪匡的作品，卫斯理、原振侠并不是倪匡的全部￼]]></title>
+        <id>https://codechina.org/?p=21536</id>
+        <link href="https://codechina.org/2022/07/chenzhen-nikuang/"/>
+        <updated>2022-07-06T02:57:18.000Z</updated>
+        <summary type="html"><![CDATA[昨天，倪匡去世了，他是1935年生人，87岁逝世，并不算早夭。而他几年前就已经检测出来有癌症，自行放弃治疗的。 […]]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我自己博客的一个XSS的故事]]></title>
         <id>https://www.leavesongs.com/PENETRATION/xss-from-my-blog.html</id>

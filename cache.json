@@ -114,6 +114,16 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=4714",
+          "author": "laixintao",
+          "description": "在分布式的系统中，如果服务 A 要调用服务 B，并且两个服务都部署了多个实例的话，就要解决负载均衡的问题。即， […]\nContinue reading...\nThe post 长连接负载均衡的问题 first appeared on 卡瓦邦噶！.\n\n相关文章:\n\n可悲的大多数\n推荐音乐专辑《Labor》\n再见，魔兽争霸3！\n六朝古都游记\nVim系列教程",
+          "link": "https://www.kawabangga.com/posts/4714",
+          "publishedOn": "2022-07-07T16:23:24.000Z",
+          "wordCount": 830,
+          "title": "长连接负载均衡的问题",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=4706",
           "author": "laixintao",
           "description": "最近在试图实现 pdir2 彻底 disable color 的 feature, 让它和其他 cli 的做法 […]\nContinue reading...\nThe post 无法 Patch first appeared on 卡瓦邦噶！.\n\n相关文章:\n\n用 ssh 传输文件\n暑假打工记\n实时上传数据备份文件到S3\n你的Linux上有一个超酷的 TCP 代理！\n在终端快速选中上一个命令的输出内容",

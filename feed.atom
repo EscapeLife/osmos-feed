@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-07-08T01:00:51.710Z</updated>
+    <updated>2022-07-09T00:50:43.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ECS ϵͳ�� Entity �������ڹ���]]></title>
+        <id>https://blog.codingnow.com/2022/07/entity_lifespan.html</id>
+        <link href="https://blog.codingnow.com/2022/07/entity_lifespan.html"/>
+        <updated>2022-07-08T07:49:38.000Z</updated>
+        <summary type="html"><![CDATA[���ǵ���Ϸ�����������ɳ����ڵ㹹�ɵģ�ÿ�������ڵ���һ�� Entity �� Component ����һ�����ӵĳ��������ڱ༭��������һ��Ԥ�Ƽ� Prefab�����ָ߻�ľ���������Ѿ����õĲ���������Ԥ�Ƽ�����ƣ�֮ǰ�й���ƪ blog ���ۡ��ֱ��ǣ���Ϸ������Ԥ�Ƽ������ �� Ԥ�Ƽ��Ͷ��󼯵Ĺ��� �� ��Ŀǰ��ʹ�þ�������������������Ϸ�е� Entity ���Ǵ� Prefab ʵ���������ġ�һ�� Prefab ��ʵ������ n �� Entity ������ n �� Entity �������ڹ���ȴ���鷳�� ����Ȼ���뷨�ǣ����е� Entity �������ǳ������ϵĽڵ㣨ӵ�г����������������ɾ��һ�������ڵ�ʱ�������е����ﶼһ���Ƴ���...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为啥唱衰中国的企业软件的未来]]></title>
+        <id>https://macshuo.com/?p=1849</id>
+        <link href="https://macshuo.com/?p=1849"/>
+        <updated>2022-07-08T06:02:23.000Z</updated>
+        <summary type="html"><![CDATA[最近朋友圈看到几篇谈中国 To B 软件产业的，比如中国软件公司为啥做不出产品啊 … Continue reading →]]></summary>
+        <author>
+            <name>MacTalk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[长连接负载均衡的问题]]></title>
         <id>https://www.kawabangga.com/?p=4714</id>

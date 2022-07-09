@@ -54,6 +54,16 @@
       "siteUrl": "https://macshuo.com",
       "articles": [
         {
+          "id": "https://macshuo.com/?p=1849",
+          "author": "MacTalk",
+          "description": "最近朋友圈看到几篇谈中国 To B 软件产业的，比如中国软件公司为啥做不出产品啊 … Continue reading →",
+          "link": "https://macshuo.com/?p=1849",
+          "publishedOn": "2022-07-08T06:02:23.000Z",
+          "wordCount": 643,
+          "title": "为啥唱衰中国的企业软件的未来",
+          "imageUrl": null
+        },
+        {
           "id": "https://macshuo.com/?p=1817",
           "author": "MacTalk",
           "description": "设计简单并且具备生命力的产品并不容易。2012 年，龙哥说产品经理是站在上帝身边 … Continue reading →",
@@ -218,6 +228,16 @@
       "feedUrl": "https://blog.codingnow.com/atom.xml",
       "siteUrl": "https://blog.codingnow.com/",
       "articles": [
+        {
+          "id": "https://blog.codingnow.com/2022/07/entity_lifespan.html",
+          "author": null,
+          "description": "���ǵ���Ϸ�����������ɳ����ڵ㹹�ɵģ�ÿ�������ڵ���һ�� Entity �� Component ����һ�����ӵĳ��������ڱ༭��������һ��Ԥ�Ƽ� Prefab�����ָ߻�ľ���������Ѿ����õĲ���������Ԥ�Ƽ�����ƣ�֮ǰ�й���ƪ blog ���ۡ��ֱ��ǣ���Ϸ������Ԥ�Ƽ������ �� Ԥ�Ƽ��Ͷ��󼯵Ĺ��� �� ��Ŀǰ��ʹ�þ�������������������Ϸ�е� Entity ���Ǵ� Prefab ʵ���������ġ�һ�� Prefab ��ʵ������ n �� Entity ������ n �� Entity �������ڹ���ȴ���鷳�� ����Ȼ���뷨�ǣ����е� Entity �������ǳ������ϵĽڵ㣨ӵ�г����������������ɾ��һ�������ڵ�ʱ�������е����ﶼһ���Ƴ���...",
+          "link": "https://blog.codingnow.com/2022/07/entity_lifespan.html",
+          "publishedOn": "2022-07-08T07:49:38.000Z",
+          "wordCount": 321,
+          "title": "ECS ϵͳ�� Entity �������ڹ���",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.codingnow.com/2022/07/group_mount.html",
           "author": null,

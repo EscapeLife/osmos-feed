@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-07-11T00:57:51.714Z</updated>
+    <updated>2022-07-12T01:00:38.613Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -433,16 +433,6 @@ def main():
         <summary type="html"><![CDATA[篇幅只占20%、然而有效性却达到80% -二八法则 本文你能学到什么？ 在本文中，我们将学习到如何使用二八法则来省力轻松学习 linux 文本处理命令 awk。]]></summary>
         <author>
             <name>咸糖 - 自律者自由</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CEO 一百天]]></title>
-        <id>https://macshuo.com/?p=1808</id>
-        <link href="https://macshuo.com/?p=1808"/>
-        <updated>2022-06-27T11:43:34.000Z</updated>
-        <summary type="html"><![CDATA[今年开始，我开始像模像样地做 CEO 和公司的创始人，这几个月实践下来，我感觉和 … Continue reading →]]></summary>
-        <author>
-            <name>MacTalk</name>
         </author>
     </entry>
     <entry>

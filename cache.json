@@ -103,6 +103,16 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=4728",
+          "author": "laixintao",
+          "description": "Coredns 的启动流程不是很好阅读，因为它本质上是一个 caddy server, 是基于 caddy 开 […]\nContinue reading...\nThe post Coredns 源码解析：启动流程 first appeared on 卡瓦邦噶！.\n\n相关文章:\n\nCoredns 源码阅读（导读）\n部署 Django 项目背后的原理：为什么需要 Nginx 和 Gunicron这些东西？\nDNS 解析的原理\n用 ssh 传输文件\n对PyObject的一点理解",
+          "link": "https://www.kawabangga.com/posts/4728",
+          "publishedOn": "2022-07-17T07:13:09.000Z",
+          "wordCount": 1274,
+          "title": "Coredns 源码解析：启动流程",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=4718",
           "author": "laixintao",
           "description": "有时候，人们会忘了今天的计算机资源已经如此强大，一台 $5/月 的机器可以干多少事情。 之前有人在讨论 red […]\nContinue reading...\nThe post Side Project 成本最小化运维 first appeared on 卡瓦邦噶！.\n\n相关文章:\n\n杭州PyCon 2019 Slide: 《做Side Project的几个建议》\nRedis 的命令设计\nBuild 一个最小的 Redis Docker Image\nRedis RESP3 的一些想法\nRedis客户端缓存设计（In-Process caching）",
@@ -151,28 +161,7 @@
       "title": "Frost's Blog",
       "feedUrl": "https://frostming.com/feed.xml",
       "siteUrl": "https://frostming.com",
-      "articles": [
-        {
-          "id": "https://frostming.com/2022/pdm-2-en/",
-          "author": "mianghong@gmail.com (Frost Ming)",
-          "description": "",
-          "link": "https://frostming.com/2022/pdm-2-en/",
-          "publishedOn": "2022-07-03T09:49:00.000Z",
-          "wordCount": 4572,
-          "title": "What's New In PDM 2.0?",
-          "imageUrl": "https://static.frostming.com/images/pdm-2.0.png"
-        },
-        {
-          "id": "https://frostming.com/2022/pdm-2/",
-          "author": "mianghong@gmail.com (Frost Ming)",
-          "description": "",
-          "link": "https://frostming.com/2022/pdm-2/",
-          "publishedOn": "2022-07-03T09:49:00.000Z",
-          "wordCount": 2075,
-          "title": "PDM 2.0 有什么新特性？",
-          "imageUrl": "https://static.frostming.com/images/pdm-2.0.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Posts on Jiayuan Thoughts",
@@ -186,13 +175,13 @@
       "siteUrl": "https://www.codedump.info/",
       "articles": [
         {
-          "id": "https://www.codedump.info/post/20220703-weekly-21/",
+          "id": "https://www.codedump.info/post/20220710-weekly-22/",
           "author": null,
-          "description": "引言：在分布式系统中，由于有多个机器（进程）在一起协调工作，于是如何定义分布式系统中事件的先后顺序就成了难题，本文介绍论文 《Time, Clocks, and the Ordering of Events in a",
-          "link": "https://www.codedump.info/post/20220703-weekly-21/",
-          "publishedOn": "2022-07-03T02:59:09.000Z",
-          "wordCount": 524,
-          "title": "周刊（第21期）：Lamport时钟介绍",
+          "description": "引言：本文使用大量的图例，同时没有难懂的公式，意图解释清楚一致性模型要解决什么问题，以及三种一致性模型：顺序一致性、线性一致性、因果一致性。 图解一致性",
+          "link": "https://www.codedump.info/post/20220710-weekly-22/",
+          "publishedOn": "2022-07-10T06:41:24.000Z",
+          "wordCount": 618,
+          "title": "周刊（第22期）：图解一致性模型",
           "imageUrl": "https://www.codedump.info/images/dog.png"
         }
       ]
@@ -202,6 +191,16 @@
       "feedUrl": "https://greyli.com/feed",
       "siteUrl": "https://greyli.com",
       "articles": [
+        {
+          "id": "https://greyli.com/?p=4428",
+          "author": "李辉",
+          "description": "最近公司又开放了几个新的 Python 职位空缺，如果感兴趣的话，一起来做同事吧。如果你来上海的话，我们还可以 […]",
+          "link": "https://greyli.com/dell-python-jobs/",
+          "publishedOn": "2022-07-17T05:05:43.000Z",
+          "wordCount": 271,
+          "title": "戴尔 EMC Python 职位内推",
+          "imageUrl": "https://greyli.com/wp-content/uploads/2020/07/avatar.jpg"
+        },
         {
           "id": "https://greyli.com/?p=4416",
           "author": "李辉",
@@ -315,6 +314,16 @@
       "feedUrl": "https://www.leavesongs.com/feed",
       "siteUrl": "https://www.leavesongs.com",
       "articles": [
+        {
+          "id": "https://www.leavesongs.com/THINK/xray-3-years.html",
+          "author": "phithon",
+          "description": "上周XRay做了一次三周年活动，简单写了一段寄语，记录于博客。\n大家好，我是phith0n，安全社区有很多人叫我P师傅，以前很抗拒这个称呼，总是给人一种互相吹捧的感觉，不过后来我换了一个角度理解这个称呼——以前坐公交车不认路的时候，我们上车时总会问司机：师傅，这个车到不到国贸大厦？\n这么多年过去了，大部分人用上智能手机，搜索引擎，很少再有人会再问出这类问题。但是我还是愿意当一个普普通通的司机师傅",
+          "link": "https://www.leavesongs.com/THINK/xray-3-years.html",
+          "publishedOn": "2022-07-18T00:57:51.647Z",
+          "wordCount": 106,
+          "title": "XRay三周年活动寄语",
+          "imageUrl": null
+        },
         {
           "id": "https://www.leavesongs.com/PENETRATION/goahead-en-injection-cve-2021-42342.html",
           "author": "phithon",

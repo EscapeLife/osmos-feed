@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-07-18T00:57:55.379Z</updated>
+    <updated>2022-07-19T01:03:38.279Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -437,16 +437,6 @@ Vim系列教程]]></summary>
 reply]]></summary>
         <author>
             <name>phithon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[咔嚓咔嚓，非常棒]]></title>
-        <id>https://macshuo.com/?p=1817</id>
-        <link href="https://macshuo.com/?p=1817"/>
-        <updated>2022-07-04T09:25:08.000Z</updated>
-        <summary type="html"><![CDATA[设计简单并且具备生命力的产品并不容易。2012 年，龙哥说产品经理是站在上帝身边 … Continue reading →]]></summary>
-        <author>
-            <name>MacTalk</name>
         </author>
     </entry>
     <entry>

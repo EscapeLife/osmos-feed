@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-07-19T01:03:38.279Z</updated>
+    <updated>2022-07-20T00:55:06.402Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -418,25 +418,6 @@ Vim系列教程]]></summary>
         <summary type="html"><![CDATA[昨天，倪匡去世了，他是1935年生人，87岁逝世，并不算早夭。而他几年前就已经检测出来有癌症，自行放弃治疗的。 […]]]></summary>
         <author>
             <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我自己博客的一个XSS的故事]]></title>
-        <id>https://www.leavesongs.com/PENETRATION/xss-from-my-blog.html</id>
-        <link href="https://www.leavesongs.com/PENETRATION/xss-from-my-blog.html"/>
-        <updated>2022-07-05T00:56:38.739Z</updated>
-        <summary type="html"><![CDATA[今天晚上收到几个提醒，打开一看是有人在我博客评论区测试XSS：
-
-本来这种测试司空见惯了，而且此人也没成功找到XSS，放以前我多半就关掉页面了。
-不过我今晚不知为何临时起意，就顺势看了一下自己写的代码，居然被我自己找到一个XSS漏洞：
-
-原因是什么呢？
-0x01 开发历史介绍
-我当时在开发这个回复按钮的时候，为了方便，直接用JavaScript伪协议来调用reply_to函数，比如：
-
-reply]]></summary>
-        <author>
-            <name>phithon</name>
         </author>
     </entry>
     <entry>

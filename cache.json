@@ -141,7 +141,18 @@
       "title": "Frost's Blog",
       "feedUrl": "https://frostming.com/feed.xml",
       "siteUrl": "https://frostming.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://frostming.com/2022/friendly-python-oop/",
+          "author": "mianghong@gmail.com (Frost Ming)",
+          "description": "",
+          "link": "https://frostming.com/2022/friendly-python-oop/",
+          "publishedOn": "2022-07-21T15:04:17.000Z",
+          "wordCount": 1990,
+          "title": "友好的 Python：面向对象接口",
+          "imageUrl": "https://images.unsplash.com/photo-1603468620905-8de7d86b781e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1476&q=80"
+        }
+      ]
     },
     {
       "title": "Posts on Jiayuan Thoughts",

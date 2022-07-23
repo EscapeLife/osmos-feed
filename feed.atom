@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-07-22T01:01:19.515Z</updated>
+    <updated>2022-07-23T00:58:31.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -396,46 +396,6 @@ Redis客户端缓存设计（In-Process caching）]]></summary>
         <summary type="html"><![CDATA[最近国际形势继续风云变幻…… 7月7日，在超过50多名内阁成员和高级官员辞职施压后，英国执政保守党首相鲍里斯· […]]]></summary>
         <author>
             <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ECS ϵͳ�� Entity �������ڹ���]]></title>
-        <id>https://blog.codingnow.com/2022/07/entity_lifespan.html</id>
-        <link href="https://blog.codingnow.com/2022/07/entity_lifespan.html"/>
-        <updated>2022-07-08T07:49:38.000Z</updated>
-        <summary type="html"><![CDATA[���ǵ���Ϸ�����������ɳ����ڵ㹹�ɵģ�ÿ�������ڵ���һ�� Entity �� Component ����һ�����ӵĳ��������ڱ༭��������һ��Ԥ�Ƽ� Prefab�����ָ߻�ľ���������Ѿ����õĲ���������Ԥ�Ƽ�����ƣ�֮ǰ�й���ƪ blog ���ۡ��ֱ��ǣ���Ϸ������Ԥ�Ƽ������ �� Ԥ�Ƽ��Ͷ��󼯵Ĺ��� �� ��Ŀǰ��ʹ�þ�������������������Ϸ�е� Entity ���Ǵ� Prefab ʵ���������ġ�һ�� Prefab ��ʵ������ n �� Entity ������ n �� Entity �������ڹ���ȴ���鷳�� ����Ȼ���뷨�ǣ����е� Entity �������ǳ������ϵĽڵ㣨ӵ�г����������������ɾ��һ�������ڵ�ʱ�������е����ﶼһ���Ƴ���...]]></summary>
-        <author>
-            <name>�Ʒ�� BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为啥唱衰中国的企业软件的未来]]></title>
-        <id>https://macshuo.com/?p=1849</id>
-        <link href="https://macshuo.com/?p=1849"/>
-        <updated>2022-07-08T06:02:23.000Z</updated>
-        <summary type="html"><![CDATA[最近朋友圈看到几篇谈中国 To B 软件产业的，比如中国软件公司为啥做不出产品啊 … Continue reading →]]></summary>
-        <author>
-            <name>MacTalk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[长连接负载均衡的问题]]></title>
-        <id>https://www.kawabangga.com/?p=4714</id>
-        <link href="https://www.kawabangga.com/posts/4714"/>
-        <updated>2022-07-07T16:23:24.000Z</updated>
-        <summary type="html"><![CDATA[在分布式的系统中，如果服务 A 要调用服务 B，并且两个服务都部署了多个实例的话，就要解决负载均衡的问题。即， […]
-Continue reading...
-The post 长连接负载均衡的问题 first appeared on 卡瓦邦噶！.
-
-相关文章:
-
-可悲的大多数
-推荐音乐专辑《Labor》
-再见，魔兽争霸3！
-六朝古都游记
-Vim系列教程]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

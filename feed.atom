@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-07-23T00:58:31.962Z</updated>
+    <updated>2022-07-24T01:02:13.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -386,16 +386,6 @@ Redis客户端缓存设计（In-Process caching）]]></summary>
         <summary type="html"><![CDATA[引言：本文使用大量的图例，同时没有难懂的公式，意图解释清楚一致性模型要解决什么问题，以及三种一致性模型：顺序一致性、线性一致性、因果一致性。 图解一致性]]></summary>
         <author>
             <name>codedump的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国首相约翰逊辞职了，日本前首相安倍晋三被枪击去世…世界风云变幻，只有我们可以岁月静好秩序井然排队做核酸￼]]></title>
-        <id>https://codechina.org/?p=21693</id>
-        <link href="https://codechina.org/2022/07/anbei/"/>
-        <updated>2022-07-09T01:59:22.000Z</updated>
-        <summary type="html"><![CDATA[最近国际形势继续风云变幻…… 7月7日，在超过50多名内阁成员和高级官员辞职施压后，英国执政保守党首相鲍里斯· […]]]></summary>
-        <author>
-            <name>tinyfool</name>
         </author>
     </entry>
     <entry>

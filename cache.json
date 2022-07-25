@@ -132,18 +132,7 @@
       "title": "codedump的网络日志",
       "feedUrl": "https://www.codedump.info/index.xml",
       "siteUrl": "https://www.codedump.info/",
-      "articles": [
-        {
-          "id": "https://www.codedump.info/post/20220710-weekly-22/",
-          "author": null,
-          "description": "引言：本文使用大量的图例，同时没有难懂的公式，意图解释清楚一致性模型要解决什么问题，以及三种一致性模型：顺序一致性、线性一致性、因果一致性。 图解一致性",
-          "link": "https://www.codedump.info/post/20220710-weekly-22/",
-          "publishedOn": "2022-07-10T06:41:24.000Z",
-          "wordCount": 618,
-          "title": "周刊（第22期）：图解一致性模型",
-          "imageUrl": "https://www.codedump.info/images/dog.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "李辉",
@@ -263,6 +252,16 @@
       "feedUrl": "https://www.leavesongs.com/feed",
       "siteUrl": "https://www.leavesongs.com",
       "articles": [
+        {
+          "id": "https://www.leavesongs.com/THINK/um560-two-weeks-using-experience.html",
+          "author": "phithon",
+          "description": "本文推荐的UM560非与厂商合作推广，仅为我自己的使用体验。\n我大四买了人生里第一台Macbook pro，从那会开始Mac卡顿的问题就一直困扰我到现在。当然这也可能是我自己的问题——我没钱买顶配Macbook，以前公司发的也是低配Macbook pro，我甚至用8G内存的13寸Mac直到2018年才换。\n来新公司以后总算摸到了15寸Mac，但还是16G内存Intel芯片的老电脑，被Burps",
+          "link": "https://www.leavesongs.com/THINK/um560-two-weeks-using-experience.html",
+          "publishedOn": "2022-07-25T00:57:28.917Z",
+          "wordCount": 249,
+          "title": "使用Minisforum UM560小主机办公一周体验",
+          "imageUrl": null
+        },
         {
           "id": "https://www.leavesongs.com/PENETRATION/xss-from-my-blog.html",
           "author": "phithon",

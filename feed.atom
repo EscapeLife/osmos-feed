@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-07-25T00:57:33.907Z</updated>
+    <updated>2022-07-26T01:00:38.679Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -358,36 +358,6 @@ GitHub 个人页面访问显示 404
 我就是在走进这个杂物间]]></summary>
         <author>
             <name>phithon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Software Maintainer Commitment]]></title>
-        <id>https://laike9m.com/blog/software-maintainer-commitment,145/</id>
-        <link href="https://laike9m.com/blog/software-maintainer-commitment,145/"/>
-        <updated>2022-07-10T22:46:11.000Z</updated>
-        <summary type="html"><![CDATA[Software-Maintainer-Commitment]]></summary>
-        <author>
-            <name>laike9m's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Side Project 成本最小化运维]]></title>
-        <id>https://www.kawabangga.com/?p=4718</id>
-        <link href="https://www.kawabangga.com/posts/4718"/>
-        <updated>2022-07-10T14:49:05.000Z</updated>
-        <summary type="html"><![CDATA[有时候，人们会忘了今天的计算机资源已经如此强大，一台 $5/月 的机器可以干多少事情。 之前有人在讨论 red […]
-Continue reading...
-The post Side Project 成本最小化运维 first appeared on 卡瓦邦噶！.
-
-相关文章:
-
-杭州PyCon 2019 Slide: 《做Side Project的几个建议》
-Redis 的命令设计
-Build 一个最小的 Redis Docker Image
-Redis RESP3 的一些想法
-Redis客户端缓存设计（In-Process caching）]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

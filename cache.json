@@ -69,16 +69,6 @@
           "wordCount": 1274,
           "title": "Coredns 源码解析：启动流程",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=4718",
-          "author": "laixintao",
-          "description": "有时候，人们会忘了今天的计算机资源已经如此强大，一台 $5/月 的机器可以干多少事情。 之前有人在讨论 red […]\nContinue reading...\nThe post Side Project 成本最小化运维 first appeared on 卡瓦邦噶！.\n\n相关文章:\n\n杭州PyCon 2019 Slide: 《做Side Project的几个建议》\nRedis 的命令设计\nBuild 一个最小的 Redis Docker Image\nRedis RESP3 的一些想法\nRedis客户端缓存设计（In-Process caching）",
-          "link": "https://www.kawabangga.com/posts/4718",
-          "publishedOn": "2022-07-10T14:49:05.000Z",
-          "wordCount": 845,
-          "title": "Side Project 成本最小化运维",
-          "imageUrl": null
         }
       ]
     },
@@ -92,18 +82,7 @@
       "title": "laike9m's blog",
       "feedUrl": "https://laike9m.com/blog/rss",
       "siteUrl": "https://laike9m.com/blog/rss",
-      "articles": [
-        {
-          "id": "https://laike9m.com/blog/software-maintainer-commitment,145/",
-          "author": null,
-          "description": "Software-Maintainer-Commitment",
-          "link": "https://laike9m.com/blog/software-maintainer-commitment,145/",
-          "publishedOn": "2022-07-10T22:46:11.000Z",
-          "wordCount": 1515,
-          "title": "Software Maintainer Commitment",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Frost's Blog",

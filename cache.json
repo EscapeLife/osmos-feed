@@ -242,6 +242,16 @@
       "siteUrl": "https://www.leavesongs.com",
       "articles": [
         {
+          "id": "https://www.leavesongs.com/THINK/xray-3-years.html",
+          "author": "phithon",
+          "description": "上周XRay做了一次三周年活动，简单写了一段寄语，记录于博客。\n大家好，我是phith0n，安全社区有很多人叫我P师傅，以前很抗拒这个称呼，总是给人一种互相吹捧的感觉，不过后来我换了一个角度理解这个称呼——以前坐公交车不认路的时候，我们上车时总会问司机：师傅，这个车到不到国贸大厦？\n这么多年过去了，大部分人用上智能手机，搜索引擎，很少再有人会再问出这类问题。但是我还是愿意当一个普普通通的司机师傅",
+          "link": "https://www.leavesongs.com/THINK/xray-3-years.html",
+          "publishedOn": "2022-08-03T01:01:54.579Z",
+          "wordCount": 120,
+          "title": "XRay三周年活动寄语",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.leavesongs.com/THINK/from-China-to-Singapore-2.html",
           "author": "phithon",
           "description": "这篇文章是出中国记的下半部分。\n继续插播广告：我们团队（Shopee Security Team）正在大力招聘，相关介绍和岗位JD见这里：https://www.leavesongs.com/PENETRATION/singapore-shopee-security-team-recruitment.html\n离我抵达新加坡已经接近两个月了，想一想两个月前的今天我仍然在北京的家里，这一段时间仿",

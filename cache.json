@@ -80,7 +80,18 @@
       "title": "卡瓦邦噶！",
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.kawabangga.com/?p=4756",
+          "author": "laixintao",
+          "description": "有时候一些进程必可避免的有重启代价太大的问题。比如有一些长连接的进程，重启会断开连接，然后所有的客户端都需要重 […]\nContinue reading...\nThe post 程序 Hot reload config 的实现方式 first appeared on 卡瓦邦噶！.\n\n相关文章:\n\nGit 在不同的项目使用不同的author\n无法 Patch\nVagrant入门\ngit-ext：在命令行提交PullRequests的小工具\nCoredns 源码解析：启动流程",
+          "link": "https://www.kawabangga.com/posts/4756",
+          "publishedOn": "2022-08-03T04:37:54.000Z",
+          "wordCount": 809,
+          "title": "程序 Hot reload config 的实现方式",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Manjusaka",
@@ -142,16 +153,6 @@
           "publishedOn": "2022-07-28T06:58:06.000Z",
           "wordCount": 258,
           "title": "RmlUI �� style ����",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.codingnow.com/2022/07/refactor_math3d.html",
-          "author": null,
-          "description": "����������ʹ�õ���ѧ���Ѿ����޲����ܾ��ˡ��ڼ�����˺ܶ��뷨������ڶ������������Ż�����һЩ�ҵ����ȵ�ϵͳ�� C/C++ ��д��˳����ع���һ����ѧ�⣬�������õļ�� Lua API �� C API �� ��һ�ζ���ѧ��ĸĽ�������ǰ�������ˡ��������ʹ�ã����Ƿ��֣�����һ��ջ�� DSL ��Ȼ���Լ��� Lua �� C ֮���ͨѶ�ɱ�������ʹ�������������㡣�󲿷�ʱ�����ǻ����������ͳ�Ľӿڣ�һ����ѧ�������һ�κ��������߸��Ӷȵ���ѧ������ȫ���Է��ڶ����� C ģ������ɡ���� ECS ϵͳ�����ǿ����� C side ��������������ͬ�������޴����ѧ���㡣 �����ں�����ǰ�ͷ�����ԭ����Ƶ� DSL ��ֻʹ����ѧ��Ĳ��ֹ��ܡ�������ع����Ҵ������Щ�Ѿ������Ĳ��ֳ���ɾ������������Ƶײ�����ݽṹ�������ܸ��õ���Ӧ��������ԡ�...",
-          "link": "https://blog.codingnow.com/2022/07/refactor_math3d.html",
-          "publishedOn": "2022-07-20T01:45:59.000Z",
-          "wordCount": 195,
-          "title": "�ع���ѧ��",
           "imageUrl": null
         }
       ]

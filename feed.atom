@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-08-03T01:01:59.156Z</updated>
+    <updated>2022-08-04T01:02:38.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[程序 Hot reload config 的实现方式]]></title>
+        <id>https://www.kawabangga.com/?p=4756</id>
+        <link href="https://www.kawabangga.com/posts/4756"/>
+        <updated>2022-08-03T04:37:54.000Z</updated>
+        <summary type="html"><![CDATA[有时候一些进程必可避免的有重启代价太大的问题。比如有一些长连接的进程，重启会断开连接，然后所有的客户端都需要重 […]
+Continue reading...
+The post 程序 Hot reload config 的实现方式 first appeared on 卡瓦邦噶！.
+
+相关文章:
+
+Git 在不同的项目使用不同的author
+无法 Patch
+Vagrant入门
+git-ext：在命令行提交PullRequests的小工具
+Coredns 源码解析：启动流程]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XRay三周年活动寄语]]></title>
         <id>https://www.leavesongs.com/THINK/xray-3-years.html</id>
@@ -327,16 +347,6 @@ GoAhead曾经出现过一次环境变量注入漏洞，建议]]></summary>
 reply]]></summary>
         <author>
             <name>phithon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[�ع���ѧ��]]></title>
-        <id>https://blog.codingnow.com/2022/07/refactor_math3d.html</id>
-        <link href="https://blog.codingnow.com/2022/07/refactor_math3d.html"/>
-        <updated>2022-07-20T01:45:59.000Z</updated>
-        <summary type="html"><![CDATA[����������ʹ�õ���ѧ���Ѿ����޲����ܾ��ˡ��ڼ�����˺ܶ��뷨������ڶ������������Ż�����һЩ�ҵ����ȵ�ϵͳ�� C/C++ ��д��˳����ع���һ����ѧ�⣬�������õļ�� Lua API �� C API �� ��һ�ζ���ѧ��ĸĽ�������ǰ�������ˡ��������ʹ�ã����Ƿ��֣�����һ��ջ�� DSL ��Ȼ���Լ��� Lua �� C ֮���ͨѶ�ɱ�������ʹ�������������㡣�󲿷�ʱ�����ǻ����������ͳ�Ľӿڣ�һ����ѧ�������һ�κ��������߸��Ӷȵ���ѧ������ȫ���Է��ڶ����� C ģ������ɡ���� ECS ϵͳ�����ǿ����� C side ��������������ͬ�������޴����ѧ���㡣 �����ں�����ǰ�ͷ�����ԭ����Ƶ� DSL ��ֻʹ����ѧ��Ĳ��ֹ��ܡ�������ع����Ҵ������Щ�Ѿ������Ĳ��ֳ���ɾ������������Ƶײ�����ݽṹ�������ܸ��õ���Ӧ��������ԡ�...]]></summary>
-        <author>
-            <name>�Ʒ�� BLOG</name>
         </author>
     </entry>
     <entry>

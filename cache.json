@@ -331,16 +331,6 @@
           "wordCount": 249,
           "title": "使用Minisforum UM560小主机办公一周体验",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.leavesongs.com/PENETRATION/xss-from-my-blog.html",
-          "author": "phithon",
-          "description": "今天晚上收到几个提醒，打开一看是有人在我博客评论区测试XSS：\n\n本来这种测试司空见惯了，而且此人也没成功找到XSS，放以前我多半就关掉页面了。\n不过我今晚不知为何临时起意，就顺势看了一下自己写的代码，居然被我自己找到一个XSS漏洞：\n\n原因是什么呢？\n0x01 开发历史介绍\n我当时在开发这个回复按钮的时候，为了方便，直接用JavaScript伪协议来调用reply_to函数，比如：\n\nreply",
-          "link": "https://www.leavesongs.com/PENETRATION/xss-from-my-blog.html",
-          "publishedOn": "2022-07-21T00:59:49.117Z",
-          "wordCount": 339,
-          "title": "我自己博客的一个XSS的故事",
-          "imageUrl": null
         }
       ]
     },
@@ -348,7 +338,18 @@
       "title": "张戈博客",
       "feedUrl": "https://zhangge.net/feed",
       "siteUrl": "https://zhang.ge",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://zhang.ge/?p=6319",
+          "author": "Jager",
+          "description": "最近新来的实习生小伙子在重构一个我入职时开发的老系统，这个系统之前用的是Python twisted框架开发的，这次重构希望可以换到FastAPI，也就是我上一篇文章分享的Flyer开发框架。小伙子很给力，花了几天自学了下FastAPI和Flyer就开始开发了，结果用Flyer框架的时候，连接MySQL报错如下：sqlalchemy.exc.OperationalError: (pymysql.err.Operatio...…",
+          "link": "https://zhang.ge/5167.html",
+          "publishedOn": "2022-08-03T11:52:26.000Z",
+          "wordCount": 1195,
+          "title": "SQLAlchemy因密码含有@符号连接MySQL失败",
+          "imageUrl": "https://res.zgboke.com/wp-content/uploads/2015/03/python.png"
+        }
+      ]
     },
     {
       "title": "Reimu's blog",

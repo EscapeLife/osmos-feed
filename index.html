@@ -82,11 +82,45 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-08-03 datetime="2022-08-03T04:37:54.000Z">2022-08-03</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-08-03 datetime="2022-08-03T04:37:54.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-08-03 datetime="2022-08-03T11:52:26.000Z">2022-08-03</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-08-03 datetime="2022-08-03T11:52:26.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >张戈博客</button>
+                  <a class="source-heading__link" href="https://zhang.ge">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://zhang.ge/?p&#x3D;6319"
+                        open
+                      >
+                        <summary class="article-expander__title">SQLAlchemy因密码含有@符号连接MySQL失败</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://zhang.ge/5167.html">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.zgboke.com/wp-content/uploads/2015/03/python.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>最近新来的实习生小伙子在重构一个我入职时开发的老系统，这个系统之前用的是Python twisted框架开发的，这次重构希望可以换到FastAPI，也就是我上一篇文章分享的Flyer开发框架。小伙子很给力，花了几天自学了下FastAPI和Flyer就开始开发了，结果用Flyer框架的时候，连接MySQL报错如下：sqlalchemy.exc.OperationalError: (pymysql.err.Operatio...…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -837,48 +871,6 @@ def main():
                 </section>
               </section>
             </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >离别歌</button>
-                  <a class="source-heading__link" href="https://www.leavesongs.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.leavesongs.com/PENETRATION/xss-from-my-blog.html"
-                        open
-                      >
-                        <summary class="article-expander__title">我自己博客的一个XSS的故事</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.leavesongs.com/PENETRATION/xss-from-my-blog.html">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>今天晚上收到几个提醒，打开一看是有人在我博客评论区测试XSS：
-
-本来这种测试司空见惯了，而且此人也没成功找到XSS，放以前我多半就关掉页面了。
-不过我今晚不知为何临时起意，就顺势看了一下自己写的代码，居然被我自己找到一个XSS漏洞：
-
-原因是什么呢？
-0x01 开发历史介绍
-我当时在开发这个回复按钮的时候，为了方便，直接用JavaScript伪协议来调用reply_to函数，比如：
-
-reply</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
         </ul>
       </section>
       <section class="daily-content js-toggle-accordions-scope">
@@ -977,8 +969,8 @@ reply</span>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/EscapeLife/osmos-feed/actions/runs/2793454417">
-        <time id="build-timestamp" datetime="2022-08-04T01:02:38.121Z">2022-08-04T01:02:38.121Z</time>
+      <a class="footer-link" href="https://github.com/EscapeLife/osmos-feed/actions/runs/2800617902">
+        <time id="build-timestamp" datetime="2022-08-05T01:06:54.835Z">2022-08-05T01:06:54.835Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

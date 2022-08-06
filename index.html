@@ -82,6 +82,109 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-08-06 datetime="2022-08-06T00:55:53.321Z">2022-08-06</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-08-06 datetime="2022-08-06T00:55:53.321Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >离别歌</button>
+                  <a class="source-heading__link" href="https://www.leavesongs.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.leavesongs.com/PENETRATION/xss-from-my-blog.html"
+                        open
+                      >
+                        <summary class="article-expander__title">我自己博客的一个XSS的故事</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.leavesongs.com/PENETRATION/xss-from-my-blog.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>今天晚上收到几个提醒，打开一看是有人在我博客评论区测试XSS：
+
+本来这种测试司空见惯了，而且此人也没成功找到XSS，放以前我多半就关掉页面了。
+不过我今晚不知为何临时起意，就顺势看了一下自己写的代码，居然被我自己找到一个XSS漏洞：
+
+原因是什么呢？
+0x01 开发历史介绍
+我当时在开发这个回复按钮的时候，为了方便，直接用JavaScript伪协议来调用reply_to函数，比如：
+
+reply</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-08-05 datetime="2022-08-05T02:07:09.000Z">2022-08-05</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-08-05 datetime="2022-08-05T02:07:09.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >�Ʒ�� BLOG</button>
+                  <a class="source-heading__link" href="https://blog.codingnow.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://blog.codingnow.com/2022/08/luaecs_eid.html"
+                        open
+                      >
+                        <summary class="article-expander__title">Ϊ luaecs �������� 64bit ID</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://blog.codingnow.com/2022/08/luaecs_eid.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>ȥ����� luaecs ʱ������һ�����⣺��������ض� entity��һ��ʼ������Ϊ�������ʹ�� tag ϵͳ������󲿷����⣻�����û��Լ�����һ�� 64bit ID �� component �����ö��ֲ��ҵķ����������ض� Entity �� ��������ҷ������ǵ��Լ���ʹ���ߺ��ⲿʹ���߶��޷����������ض� Entity ������������һ��������ʽ�����÷����� �����Χ��������һЩ���ۣ��������¿�������һ�� Entity ���õķ�����...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-08-03 datetime="2022-08-03T11:52:26.000Z">2022-08-03</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-08-03 datetime="2022-08-03T11:52:26.000Z"></time>
           </button>
@@ -832,54 +935,6 @@ def main():
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-07-21 datetime="2022-07-21T15:04:17.000Z">2022-07-21</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-07-21 datetime="2022-07-21T15:04:17.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Frost&#x27;s Blog</button>
-                  <a class="source-heading__link" href="https://frostming.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://frostming.com/2022/friendly-python-oop/"
-                        open
-                      >
-                        <summary class="article-expander__title">友好的 Python：面向对象接口</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://frostming.com/2022/friendly-python-oop/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://images.unsplash.com/photo-1603468620905-8de7d86b781e?ixlib&#x3D;rb-1.2.1&amp;ixid&#x3D;MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto&#x3D;format&amp;fit&#x3D;crop&amp;w&#x3D;1476&amp;q&#x3D;80" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>No content preview</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;7
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-01-21 datetime="2022-01-21T00:48:38.000Z">2022-01-21</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-01-21 datetime="2022-01-21T00:48:38.000Z"></time>
           </button>
@@ -969,8 +1024,8 @@ def main():
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/EscapeLife/osmos-feed/actions/runs/2800617902">
-        <time id="build-timestamp" datetime="2022-08-05T01:06:54.835Z">2022-08-05T01:06:54.835Z</time>
+      <a class="footer-link" href="https://github.com/EscapeLife/osmos-feed/actions/runs/2807064826">
+        <time id="build-timestamp" datetime="2022-08-06T00:55:59.351Z">2022-08-06T00:55:59.351Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

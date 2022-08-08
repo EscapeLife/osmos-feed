@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-08-07T01:02:45.182Z</updated>
+    <updated>2022-08-08T00:54:41.158Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Prometheus HTTP SD 框架]]></title>
+        <id>https://www.kawabangga.com/?p=4761</id>
+        <link href="https://www.kawabangga.com/posts/4761"/>
+        <updated>2022-08-07T15:45:52.000Z</updated>
+        <summary type="html"><![CDATA[Prometheus 是现在比较流行的监控系统，它的工作模式是拉的模式：要监控的目标要负责把 metris 数 […]
+Continue reading...
+The post Prometheus HTTP SD 框架 first appeared on 卡瓦邦噶！.
+
+相关文章:
+
+《Prometheus Up & Running》阅读
+P99 是如何计算的
+PromQL 简明教程
+PromQL 使用多个 label 组合过滤
+程序 Hot reload config 的实现方式]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[周刊（第23期）：图解Blink-Tree：B+Tree的一种并发优化结构和算法]]></title>
+        <id>https://www.codedump.info/post/20220807-weekly-23/</id>
+        <link href="https://www.codedump.info/post/20220807-weekly-23/"/>
+        <updated>2022-08-07T02:33:38.000Z</updated>
+        <summary type="html"><![CDATA[引言：《Efficient Locking for Concurrent Operations on B-Trees 》论文中提出了一种称为“Blink-Tree”的数据结构，这个数据结构提供了B+Tree并发访问的一些优化方式，]]></summary>
+        <author>
+            <name>codedump的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我自己博客的一个XSS的故事]]></title>
         <id>https://www.leavesongs.com/PENETRATION/xss-from-my-blog.html</id>

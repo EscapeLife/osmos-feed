@@ -57,16 +57,6 @@
           "wordCount": 904,
           "title": "二舅和周衙内，我们生活平时并不稀奇的两面",
           "imageUrl": null
-        },
-        {
-          "id": "https://codechina.org/?p=22410",
-          "author": "tinyfool",
-          "description": "感觉大家都看过一些关于知识改变命运的说法。以前在央视上经常播一些公益广告说“知识改变命运”。 还有一个很有名的 […]",
-          "link": "https://codechina.org/2022/07/zhishi/",
-          "publishedOn": "2022-07-25T01:00:00.000Z",
-          "wordCount": 1007,
-          "title": "知识改变命运只是一个错觉",
-          "imageUrl": null
         }
       ]
     },
@@ -81,6 +71,26 @@
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
+        {
+          "id": "https://www.kawabangga.com/?p=4777",
+          "author": "laixintao",
+          "description": "今天看到一段代码，是用 Prometheus 的 client_go 暴露 metrics 的代码。里面不是简 […]\nContinue reading...\nThe post Golang 的 Channel 是一种免费的无锁实现吗？ first appeared on 卡瓦邦噶！.\n\n相关文章:\n\nPromQL 使用多个 label 组合过滤\nPrometheus HTTP SD 框架\nPromQL 简明教程\n《Prometheus Up & Running》阅读\nPrometheus alert rules 拆分成多个查询表达式",
+          "link": "https://www.kawabangga.com/posts/4777",
+          "publishedOn": "2022-08-08T17:02:59.000Z",
+          "wordCount": 1178,
+          "title": "Golang 的 Channel 是一种免费的无锁实现吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.kawabangga.com/?p=4766",
+          "author": "laixintao",
+          "description": "Alertmanager 发送出来的告警是一条消息，一般我们会用 annotation 来说明发生什么事了。  […]\nContinue reading...\nThe post Prometheus alert rules 拆分成多个查询表达式 first appeared on 卡瓦邦噶！.\n\n相关文章:\n\n《Prometheus Up & Running》阅读\nPromQL 使用多个 label 组合过滤\nPrometheus HTTP SD 框架\nPromQL 简明教程\nJavaScript异步执行的坑",
+          "link": "https://www.kawabangga.com/posts/4766",
+          "publishedOn": "2022-08-08T16:25:53.000Z",
+          "wordCount": 900,
+          "title": "Prometheus alert rules 拆分成多个查询表达式",
+          "imageUrl": null
+        },
         {
           "id": "https://www.kawabangga.com/?p=4761",
           "author": "laixintao",
@@ -350,16 +360,6 @@
           "publishedOn": "2022-08-01T01:07:33.836Z",
           "wordCount": 693,
           "title": "GoAhead环境变量注入复现踩坑记",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.leavesongs.com/THINK/um560-two-weeks-using-experience.html",
-          "author": "phithon",
-          "description": "本文推荐的UM560非与厂商合作推广，仅为我自己的使用体验。\n我大四买了人生里第一台Macbook pro，从那会开始Mac卡顿的问题就一直困扰我到现在。当然这也可能是我自己的问题——我没钱买顶配Macbook，以前公司发的也是低配Macbook pro，我甚至用8G内存的13寸Mac直到2018年才换。\n来新公司以后总算摸到了15寸Mac，但还是16G内存Intel芯片的老电脑，被Burps",
-          "link": "https://www.leavesongs.com/THINK/um560-two-weeks-using-experience.html",
-          "publishedOn": "2022-07-25T00:57:28.917Z",
-          "wordCount": 249,
-          "title": "使用Minisforum UM560小主机办公一周体验",
           "imageUrl": null
         }
       ]

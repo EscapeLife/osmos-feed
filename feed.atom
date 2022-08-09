@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-08-08T00:54:41.158Z</updated>
+    <updated>2022-08-09T01:01:30.033Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Golang 的 Channel 是一种免费的无锁实现吗？]]></title>
+        <id>https://www.kawabangga.com/?p=4777</id>
+        <link href="https://www.kawabangga.com/posts/4777"/>
+        <updated>2022-08-08T17:02:59.000Z</updated>
+        <summary type="html"><![CDATA[今天看到一段代码，是用 Prometheus 的 client_go 暴露 metrics 的代码。里面不是简 […]
+Continue reading...
+The post Golang 的 Channel 是一种免费的无锁实现吗？ first appeared on 卡瓦邦噶！.
+
+相关文章:
+
+PromQL 使用多个 label 组合过滤
+Prometheus HTTP SD 框架
+PromQL 简明教程
+《Prometheus Up & Running》阅读
+Prometheus alert rules 拆分成多个查询表达式]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prometheus alert rules 拆分成多个查询表达式]]></title>
+        <id>https://www.kawabangga.com/?p=4766</id>
+        <link href="https://www.kawabangga.com/posts/4766"/>
+        <updated>2022-08-08T16:25:53.000Z</updated>
+        <summary type="html"><![CDATA[Alertmanager 发送出来的告警是一条消息，一般我们会用 annotation 来说明发生什么事了。  […]
+Continue reading...
+The post Prometheus alert rules 拆分成多个查询表达式 first appeared on 卡瓦邦噶！.
+
+相关文章:
+
+《Prometheus Up & Running》阅读
+PromQL 使用多个 label 组合过滤
+Prometheus HTTP SD 框架
+PromQL 简明教程
+JavaScript异步执行的坑]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Prometheus HTTP SD 框架]]></title>
         <id>https://www.kawabangga.com/?p=4761</id>
@@ -366,28 +406,6 @@ GoAhead曾经出现过一次环境变量注入漏洞，建议]]></summary>
         <summary type="html"><![CDATA[���ǵ���Ϸ����� GameUI ʹ�õ� RmlUI ���ҵ��뷨���ó���� CSS ������ UI �ĳ��֣���� web ǰ�˿����ķ�����������Ϸ�� UI �� ���Ҳ���Ƕ��̫���ӵ� Web ��Ⱦ���棬������Ϸ������Ҳ��������ͬ��������ѡ���������� RmlUI ��ͬʱ��Ϊ�˺���Ϸ�Ŀ�������һ�£�����ʹ�� Lua ������ javascript ������ CSS �� ��ʹ�� RmlUI �Ĺ����У�һ��ʼ���Ǿ��������α���һ�£��޸��˲��� Bug �����ϲ��������Ρ��������������кܶ���������β�ͬ����Ҫ����������һЩ�Ķ������Ծ� fork ��һ���Լ��ķ�֧�� ����Ҫ�������Ķ��ǣ���һ����ȫʵ���� Lua Binding ����Ϊԭ�е�ʵ�ַǳ���Ч�͸��ӣ��ܶ�ӿ���Ʋ������������ģ�Ľӿڱ仯�����ƻ���ǰ���ݣ��������� fork ��֧����Ҫ������ �ڶ��������� RmlUI �Լ�ʵ�ֵ��Ű�ģ�飬������...]]></summary>
         <author>
             <name>�Ʒ�� BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[知识改变命运只是一个错觉]]></title>
-        <id>https://codechina.org/?p=22410</id>
-        <link href="https://codechina.org/2022/07/zhishi/"/>
-        <updated>2022-07-25T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[感觉大家都看过一些关于知识改变命运的说法。以前在央视上经常播一些公益广告说“知识改变命运”。 还有一个很有名的 […]]]></summary>
-        <author>
-            <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Minisforum UM560小主机办公一周体验]]></title>
-        <id>https://www.leavesongs.com/THINK/um560-two-weeks-using-experience.html</id>
-        <link href="https://www.leavesongs.com/THINK/um560-two-weeks-using-experience.html"/>
-        <updated>2022-07-25T00:57:28.917Z</updated>
-        <summary type="html"><![CDATA[本文推荐的UM560非与厂商合作推广，仅为我自己的使用体验。
-我大四买了人生里第一台Macbook pro，从那会开始Mac卡顿的问题就一直困扰我到现在。当然这也可能是我自己的问题——我没钱买顶配Macbook，以前公司发的也是低配Macbook pro，我甚至用8G内存的13寸Mac直到2018年才换。
-来新公司以后总算摸到了15寸Mac，但还是16G内存Intel芯片的老电脑，被Burps]]></summary>
-        <author>
-            <name>phithon</name>
         </author>
     </entry>
     <entry>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-08-12T00:55:46.521Z</updated>
+    <updated>2022-08-13T00:52:35.692Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[�ռ����ȵ� protobuffer / json ������]]></title>
+        <id>https://blog.codingnow.com/2022/08/memory_compat_protobuffer_json_unmarshaling.html</id>
+        <link href="https://blog.codingnow.com/2022/08/memory_compat_protobuffer_json_unmarshaling.html"/>
+        <updated>2022-08-12T03:40:47.000Z</updated>
+        <summary type="html"><![CDATA[����ͬ�¸���ת��һ������ ��˵���� golang �ڴ����������� json / protobuffer unmarshaling ����ʱ�����ܲ��������� (10GB) ��ʱ�ڴ棬�޷���ʱ���յ����⡣ �ҵĹ۵��ǣ����һ��ϵͳ��ĳ��ģ���п���ʹ�� 10G ����������ڴ棬��ô����Ȼ��һ������������Ҫר�ŶԴ�����������Ӧ���к�������Ŀ����������ⲻ�� GC ֮����Ҳ�����ֶ������ڴ�һ�����֮������ʹ�ֹ������ڴ棬Ҳ�޷��ǰ��ڴ��֮����ת�޵�һ����ƽ����̫����ĵġ��ѡ�������ݽṹ�ϣ��ڴ�����ʵ����һ��ͨ�÷��������ܵİ������á��������ʹ�ã�һ���������ڴ���Ƭ�޷��ϲ�֮������⣬�Ե��������ڴ档�������������ĺ���ģ�飬��һ����Ҫ����������...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用Minisforum UM560小主机办公一周体验]]></title>
         <id>https://www.leavesongs.com/THINK/um560-two-weeks-using-experience.html</id>
@@ -452,16 +462,6 @@ GoAhead曾经出现过一次环境变量注入漏洞，建议]]></summary>
 <p>可以是可以，虽然说并不是特别麻烦，但准备数据、编]]></summary>
         <author>
             <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[二舅和周衙内，我们生活平时并不稀奇的两面]]></title>
-        <id>https://codechina.org/?p=22415</id>
-        <link href="https://codechina.org/2022/07/erjiu/"/>
-        <updated>2022-07-29T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[​这两天，我看到最多的就是两个名字，一个是二舅，一个是周劼。二舅是一个自媒体人的二舅，而周劼是江西某个官员家里 […]]]></summary>
-        <author>
-            <name>tinyfool</name>
         </author>
     </entry>
     <entry>

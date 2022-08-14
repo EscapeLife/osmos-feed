@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-08-13T00:52:35.692Z</updated>
+    <updated>2022-08-14T00:58:46.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -450,18 +450,6 @@ CVE-2021-42342 GoAhead 远程命令执行漏洞深入分析与复现
 GoAhead曾经出现过一次环境变量注入漏洞，建议]]></summary>
         <author>
             <name>phithon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推荐一套公开的 API 接口]]></title>
-        <id>https://cuiqingcai.com/36064.html</id>
-        <link href="https://cuiqingcai.com/36064.html"/>
-        <updated>2022-07-30T11:00:13.000Z</updated>
-        <summary type="html"><![CDATA[<p>在某些情况下，我们可能想做一些 Demo 或者写一些测试，比如想做个网站展示一些宠物的图片，或者想实现某个 API 请求的实现逻辑，这时候你会怎么做呢？</p>
-<p>自己找点数据然后搭建一套 API 接口吗？</p>
-<p>可以是可以，虽然说并不是特别麻烦，但准备数据、编]]></summary>
-        <author>
-            <name>静觅</name>
         </author>
     </entry>
     <entry>

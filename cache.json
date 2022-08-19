@@ -6,6 +6,16 @@
       "siteUrl": "https://www.escapelife.site/atom.xml",
       "articles": [
         {
+          "id": "https://www.escapelife.site/posts/584a5e6a.html",
+          "author": null,
+          "description": "<blockquote>\n<p><strong>Python",
+          "link": "https://www.escapelife.site/posts/584a5e6a.html",
+          "publishedOn": "2022-08-18T04:10:00.000Z",
+          "wordCount": 3752,
+          "title": "Python3.10有什么新变化",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.escapelife.site/posts/74caf2e7.html",
           "author": null,
           "description": "<blockquote>\n<p><strong>介绍常见 Linux",
@@ -282,6 +292,16 @@
       "feedUrl": "https://www.leavesongs.com/feed",
       "siteUrl": "https://www.leavesongs.com",
       "articles": [
+        {
+          "id": "https://www.leavesongs.com/THINK/xray-3-years.html",
+          "author": "phithon",
+          "description": "上周XRay做了一次三周年活动，简单写了一段寄语，记录于博客。\n大家好，我是phith0n，安全社区有很多人叫我P师傅，以前很抗拒这个称呼，总是给人一种互相吹捧的感觉，不过后来我换了一个角度理解这个称呼——以前坐公交车不认路的时候，我们上车时总会问司机：师傅，这个车到不到国贸大厦？\n这么多年过去了，大部分人用上智能手机，搜索引擎，很少再有人会再问出这类问题。但是我还是愿意当一个普普通通的司机师傅",
+          "link": "https://www.leavesongs.com/THINK/xray-3-years.html",
+          "publishedOn": "2022-08-19T01:00:36.075Z",
+          "wordCount": 120,
+          "title": "XRay三周年活动寄语",
+          "imageUrl": null
+        },
         {
           "id": "https://www.leavesongs.com/PENETRATION/how-I-hack-bash-through-environment-injection.html",
           "author": "phithon",

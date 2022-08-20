@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-08-19T01:00:40.591Z</updated>
+    <updated>2022-08-20T00:56:06.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[从偶遇Flarum开始的RCE之旅]]></title>
+        <id>https://www.leavesongs.com/PENETRATION/flarum-rce-tour.html</id>
+        <link href="https://www.leavesongs.com/PENETRATION/flarum-rce-tour.html"/>
+        <updated>2022-08-20T00:56:00.861Z</updated>
+        <summary type="html"><![CDATA[跳跳糖 - 安全与分享社区]]></summary>
+        <author>
+            <name>phithon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XRay三周年活动寄语]]></title>
         <id>https://www.leavesongs.com/THINK/xray-3-years.html</id>
@@ -438,16 +448,6 @@ PromQL 使用多个 label 组合过滤
 reply]]></summary>
         <author>
             <name>phithon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ϊ luaecs �������� 64bit ID]]></title>
-        <id>https://blog.codingnow.com/2022/08/luaecs_eid.html</id>
-        <link href="https://blog.codingnow.com/2022/08/luaecs_eid.html"/>
-        <updated>2022-08-05T02:07:09.000Z</updated>
-        <summary type="html"><![CDATA[ȥ����� luaecs ʱ������һ�����⣺��������ض� entity��һ��ʼ������Ϊ�������ʹ�� tag ϵͳ������󲿷����⣻�����û��Լ�����һ�� 64bit ID �� component �����ö��ֲ��ҵķ����������ض� Entity �� ��������ҷ������ǵ��Լ���ʹ���ߺ��ⲿʹ���߶��޷����������ض� Entity ������������һ��������ʽ�����÷����� �����Χ��������һЩ���ۣ��������¿�������һ�� Entity ���õķ�����...]]></summary>
-        <author>
-            <name>�Ʒ�� BLOG</name>
         </author>
     </entry>
     <entry>

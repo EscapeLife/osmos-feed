@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-08-20T00:56:06.519Z</updated>
+    <updated>2022-08-21T00:58:26.389Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[用 PromQL 计算 SLI 和 SLO]]></title>
+        <id>https://www.kawabangga.com/?p=4822</id>
+        <link href="https://www.kawabangga.com/posts/4822"/>
+        <updated>2022-08-20T07:11:36.000Z</updated>
+        <summary type="html"><![CDATA[用 PromQL 查询出来过去一个月中用掉的 Error budget，然后展示当前的 SLI。效果如下图所示 […]
+Continue reading...
+The post 用 PromQL 计算 SLI 和 SLO first appeared on 卡瓦邦噶！.
+
+相关文章:
+
+PromQL 使用多个 label 组合过滤
+《Prometheus Up & Running》阅读
+Prometheus alert rules 拆分成多个查询表达式
+PromQL 简明教程
+程序员应该知道的时间概念]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从偶遇Flarum开始的RCE之旅]]></title>
         <id>https://www.leavesongs.com/PENETRATION/flarum-rce-tour.html</id>
@@ -418,36 +438,6 @@ PromQL 使用多个 label 组合过滤
         <summary type="html"><![CDATA[引言：《Efficient Locking for Concurrent Operations on B-Trees 》论文中提出了一种称为“Blink-Tree”的数据结构，这个数据结构提供了B+Tree并发访问的一些优化方式，]]></summary>
         <author>
             <name>codedump的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[系统安装包管理工具]]></title>
-        <id>https://www.escapelife.site/posts/74caf2e7.html</id>
-        <link href="https://www.escapelife.site/posts/74caf2e7.html"/>
-        <updated>2022-08-06T01:23:11.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p><strong>介绍常见 Linux]]></summary>
-        <author>
-            <name>Escape</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我自己博客的一个XSS的故事]]></title>
-        <id>https://www.leavesongs.com/PENETRATION/xss-from-my-blog.html</id>
-        <link href="https://www.leavesongs.com/PENETRATION/xss-from-my-blog.html"/>
-        <updated>2022-08-06T00:55:53.321Z</updated>
-        <summary type="html"><![CDATA[今天晚上收到几个提醒，打开一看是有人在我博客评论区测试XSS：
-
-本来这种测试司空见惯了，而且此人也没成功找到XSS，放以前我多半就关掉页面了。
-不过我今晚不知为何临时起意，就顺势看了一下自己写的代码，居然被我自己找到一个XSS漏洞：
-
-原因是什么呢？
-0x01 开发历史介绍
-我当时在开发这个回复按钮的时候，为了方便，直接用JavaScript伪协议来调用reply_to函数，比如：
-
-reply]]></summary>
-        <author>
-            <name>phithon</name>
         </author>
     </entry>
     <entry>

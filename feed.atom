@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-08-22T01:00:07.158Z</updated>
+    <updated>2022-08-23T01:07:25.529Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -415,36 +415,6 @@ PromQL 使用多个 label 组合过滤
 Prometheus HTTP SD 框架
 PromQL 简明教程
 JavaScript异步执行的坑]]></summary>
-        <author>
-            <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[容器 CPU 和 Memory 限制行为简述]]></title>
-        <id>https://manjusaka.blog/posts/2022/08/07/A-simple-introduction-about-cpu-and-memory-limit-in-docker/</id>
-        <link href="https://manjusaka.blog/posts/2022/08/07/A-simple-introduction-about-cpu-and-memory-limit-in-docker/"/>
-        <updated>2022-08-07T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>这篇是给之前没啥容器经验的选手准备的一篇文章，主要是讲一下容器的 CPU 和 Memory 限制行为。</p>]]></summary>
-        <author>
-            <name>Manjusaka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prometheus HTTP SD 框架]]></title>
-        <id>https://www.kawabangga.com/?p=4761</id>
-        <link href="https://www.kawabangga.com/posts/4761"/>
-        <updated>2022-08-07T15:45:52.000Z</updated>
-        <summary type="html"><![CDATA[Prometheus 是现在比较流行的监控系统，它的工作模式是拉的模式：要监控的目标要负责把 metris 数 […]
-Continue reading...
-The post Prometheus HTTP SD 框架 first appeared on 卡瓦邦噶！.
-
-相关文章:
-
-《Prometheus Up & Running》阅读
-P99 是如何计算的
-PromQL 简明教程
-PromQL 使用多个 label 组合过滤
-程序 Hot reload config 的实现方式]]></summary>
         <author>
             <name>laixintao</name>
         </author>

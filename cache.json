@@ -120,16 +120,6 @@
           "wordCount": 900,
           "title": "Prometheus alert rules 拆分成多个查询表达式",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=4761",
-          "author": "laixintao",
-          "description": "Prometheus 是现在比较流行的监控系统，它的工作模式是拉的模式：要监控的目标要负责把 metris 数 […]\nContinue reading...\nThe post Prometheus HTTP SD 框架 first appeared on 卡瓦邦噶！.\n\n相关文章:\n\n《Prometheus Up & Running》阅读\nP99 是如何计算的\nPromQL 简明教程\nPromQL 使用多个 label 组合过滤\n程序 Hot reload config 的实现方式",
-          "link": "https://www.kawabangga.com/posts/4761",
-          "publishedOn": "2022-08-07T15:45:52.000Z",
-          "wordCount": 764,
-          "title": "Prometheus HTTP SD 框架",
-          "imageUrl": null
         }
       ]
     },
@@ -137,18 +127,7 @@
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "https://manjusaka.blog/atom.xml",
-      "articles": [
-        {
-          "id": "https://manjusaka.blog/posts/2022/08/07/A-simple-introduction-about-cpu-and-memory-limit-in-docker/",
-          "author": null,
-          "description": "<p>这篇是给之前没啥容器经验的选手准备的一篇文章，主要是讲一下容器的 CPU 和 Memory 限制行为。</p>",
-          "link": "https://manjusaka.blog/posts/2022/08/07/A-simple-introduction-about-cpu-and-memory-limit-in-docker/",
-          "publishedOn": "2022-08-07T16:00:00.000Z",
-          "wordCount": 560,
-          "title": "容器 CPU 和 Memory 限制行为简述",
-          "imageUrl": "https://manjusaka.blog/img/og_image.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "laike9m's blog",

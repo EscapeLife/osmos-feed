@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-08-23T01:07:25.529Z</updated>
+    <updated>2022-08-24T01:00:22.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -375,46 +375,6 @@ IRedis 开发记2：CircleCI workflow 自动发布到 pypi
 IRedis 1.0 发布
 杭州PyCon 2019 Slide: 《做Side Project的几个建议》
 近况更新]]></summary>
-        <author>
-            <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Golang 的 Channel 是一种免费的无锁实现吗？]]></title>
-        <id>https://www.kawabangga.com/?p=4777</id>
-        <link href="https://www.kawabangga.com/posts/4777"/>
-        <updated>2022-08-08T17:02:59.000Z</updated>
-        <summary type="html"><![CDATA[今天看到一段代码，是用 Prometheus 的 client_go 暴露 metrics 的代码。里面不是简 […]
-Continue reading...
-The post Golang 的 Channel 是一种免费的无锁实现吗？ first appeared on 卡瓦邦噶！.
-
-相关文章:
-
-PromQL 使用多个 label 组合过滤
-Prometheus HTTP SD 框架
-PromQL 简明教程
-《Prometheus Up & Running》阅读
-Prometheus alert rules 拆分成多个查询表达式]]></summary>
-        <author>
-            <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prometheus alert rules 拆分成多个查询表达式]]></title>
-        <id>https://www.kawabangga.com/?p=4766</id>
-        <link href="https://www.kawabangga.com/posts/4766"/>
-        <updated>2022-08-08T16:25:53.000Z</updated>
-        <summary type="html"><![CDATA[Alertmanager 发送出来的告警是一条消息，一般我们会用 annotation 来说明发生什么事了。  […]
-Continue reading...
-The post Prometheus alert rules 拆分成多个查询表达式 first appeared on 卡瓦邦噶！.
-
-相关文章:
-
-《Prometheus Up & Running》阅读
-PromQL 使用多个 label 组合过滤
-Prometheus HTTP SD 框架
-PromQL 简明教程
-JavaScript异步执行的坑]]></summary>
         <author>
             <name>laixintao</name>
         </author>

@@ -90,16 +90,6 @@
           "wordCount": 983,
           "title": "用 Wireshark 分析 TCP 吞吐瓶颈",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=4783",
-          "author": "laixintao",
-          "description": "今天想基于前两天有用户提交的 PR 做一下 iredis 的 TLS feature，然后突然发现 iredi […]\nContinue reading...\nThe post 开源的世界如此之小？！ first appeared on 卡瓦邦噶！.\n\n相关文章:\n\nZoom 直播分享 Awesome Commandline 录像和资料下载\nIRedis 开发记2：CircleCI workflow 自动发布到 pypi\nIRedis 1.0 发布\n杭州PyCon 2019 Slide: 《做Side Project的几个建议》\n近况更新",
-          "link": "https://www.kawabangga.com/posts/4783",
-          "publishedOn": "2022-08-09T17:31:56.000Z",
-          "wordCount": 712,
-          "title": "开源的世界如此之小？！",
-          "imageUrl": null
         }
       ]
     },

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-08-24T01:00:22.848Z</updated>
+    <updated>2022-08-25T01:08:01.202Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -357,26 +357,6 @@ def main():
 来新公司以后总算摸到了15寸Mac，但还是16G内存Intel芯片的老电脑，被Burps]]></summary>
         <author>
             <name>phithon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源的世界如此之小？！]]></title>
-        <id>https://www.kawabangga.com/?p=4783</id>
-        <link href="https://www.kawabangga.com/posts/4783"/>
-        <updated>2022-08-09T17:31:56.000Z</updated>
-        <summary type="html"><![CDATA[今天想基于前两天有用户提交的 PR 做一下 iredis 的 TLS feature，然后突然发现 iredi […]
-Continue reading...
-The post 开源的世界如此之小？！ first appeared on 卡瓦邦噶！.
-
-相关文章:
-
-Zoom 直播分享 Awesome Commandline 录像和资料下载
-IRedis 开发记2：CircleCI workflow 自动发布到 pypi
-IRedis 1.0 发布
-杭州PyCon 2019 Slide: 《做Side Project的几个建议》
-近况更新]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

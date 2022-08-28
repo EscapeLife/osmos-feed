@@ -127,7 +127,18 @@
       "title": "李辉",
       "feedUrl": "https://greyli.com/feed",
       "siteUrl": "https://greyli.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://greyli.com/?p=4517",
+          "author": "李辉",
+          "description": "2017 年我从扬州大学对面的大专毕业，在家待业五年后，终于没有钱再支撑下去。于是去年十一月开始正式找工作，十 […]",
+          "link": "https://greyli.com/job-hunting/",
+          "publishedOn": "2022-08-27T04:59:16.000Z",
+          "wordCount": 826,
+          "title": "待业五年后的找工作经历",
+          "imageUrl": "https://greyli.com/wp-content/uploads/2020/07/avatar.jpg"
+        }
+      ]
     },
     {
       "title": "�Ʒ�� BLOG",

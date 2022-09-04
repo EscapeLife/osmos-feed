@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-09-03T00:58:45.353Z</updated>
+    <updated>2022-09-04T01:01:04.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[XRay三周年活动寄语]]></title>
+        <id>https://www.leavesongs.com/THINK/xray-3-years.html</id>
+        <link href="https://www.leavesongs.com/THINK/xray-3-years.html"/>
+        <updated>2022-09-04T01:00:46.437Z</updated>
+        <summary type="html"><![CDATA[上周XRay做了一次三周年活动，简单写了一段寄语，记录于博客。
+大家好，我是phith0n，安全社区有很多人叫我P师傅，以前很抗拒这个称呼，总是给人一种互相吹捧的感觉，不过后来我换了一个角度理解这个称呼——以前坐公交车不认路的时候，我们上车时总会问司机：师傅，这个车到不到国贸大厦？
+这么多年过去了，大部分人用上智能手机，搜索引擎，很少再有人会再问出这类问题。但是我还是愿意当一个普普通通的司机师傅]]></summary>
+        <author>
+            <name>phithon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[设计服务端软件配置的 4 条建议]]></title>
         <id>https://www.zlovezl.cn/articles/how-to-design-config-file-for-software/</id>
@@ -279,36 +291,6 @@ The post 沉浸式工作 first appeared on 卡瓦邦噶！.]]></summary>
 我当时在开发这个回复按钮的时候，为了方便，直接用JavaScript伪协议来调用reply_to函数，比如：
 
 reply]]></summary>
-        <author>
-            <name>phithon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用 PromQL 计算 SLI 和 SLO]]></title>
-        <id>https://www.kawabangga.com/?p=4822</id>
-        <link href="https://www.kawabangga.com/posts/4822"/>
-        <updated>2022-08-20T07:11:36.000Z</updated>
-        <summary type="html"><![CDATA[用 PromQL 查询出来过去一个月中用掉的 Error budget，然后展示当前的 SLI。效果如下图所示 […]
-Continue reading...
-The post 用 PromQL 计算 SLI 和 SLO first appeared on 卡瓦邦噶！.
-
-相关文章:
-
-PromQL 使用多个 label 组合过滤
-《Prometheus Up & Running》阅读
-Prometheus alert rules 拆分成多个查询表达式
-PromQL 简明教程
-程序员应该知道的时间概念]]></summary>
-        <author>
-            <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从偶遇Flarum开始的RCE之旅]]></title>
-        <id>https://www.leavesongs.com/PENETRATION/flarum-rce-tour.html</id>
-        <link href="https://www.leavesongs.com/PENETRATION/flarum-rce-tour.html"/>
-        <updated>2022-08-20T00:56:00.861Z</updated>
-        <summary type="html"><![CDATA[跳跳糖 - 安全与分享社区]]></summary>
         <author>
             <name>phithon</name>
         </author>

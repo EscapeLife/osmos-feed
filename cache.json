@@ -69,16 +69,6 @@
           "wordCount": 644,
           "title": "沉浸式工作",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=4822",
-          "author": "laixintao",
-          "description": "用 PromQL 查询出来过去一个月中用掉的 Error budget，然后展示当前的 SLI。效果如下图所示 […]\nContinue reading...\nThe post 用 PromQL 计算 SLI 和 SLO first appeared on 卡瓦邦噶！.\n\n相关文章:\n\nPromQL 使用多个 label 组合过滤\n《Prometheus Up & Running》阅读\nPrometheus alert rules 拆分成多个查询表达式\nPromQL 简明教程\n程序员应该知道的时间概念",
-          "link": "https://www.kawabangga.com/posts/4822",
-          "publishedOn": "2022-08-20T07:11:36.000Z",
-          "wordCount": 818,
-          "title": "用 PromQL 计算 SLI 和 SLO",
-          "imageUrl": null
         }
       ]
     },
@@ -221,6 +211,16 @@
       "siteUrl": "https://www.leavesongs.com",
       "articles": [
         {
+          "id": "https://www.leavesongs.com/THINK/xray-3-years.html",
+          "author": "phithon",
+          "description": "上周XRay做了一次三周年活动，简单写了一段寄语，记录于博客。\n大家好，我是phith0n，安全社区有很多人叫我P师傅，以前很抗拒这个称呼，总是给人一种互相吹捧的感觉，不过后来我换了一个角度理解这个称呼——以前坐公交车不认路的时候，我们上车时总会问司机：师傅，这个车到不到国贸大厦？\n这么多年过去了，大部分人用上智能手机，搜索引擎，很少再有人会再问出这类问题。但是我还是愿意当一个普普通通的司机师傅",
+          "link": "https://www.leavesongs.com/THINK/xray-3-years.html",
+          "publishedOn": "2022-09-04T01:00:46.437Z",
+          "wordCount": 120,
+          "title": "XRay三周年活动寄语",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.leavesongs.com/THINK/from-China-to-Singapore-2.html",
           "author": "phithon",
           "description": "这篇文章是出中国记的下半部分。\n继续插播广告：我们团队（Shopee Security Team）正在大力招聘，相关介绍和岗位JD见这里：https://www.leavesongs.com/PENETRATION/singapore-shopee-security-team-recruitment.html\n离我抵达新加坡已经接近两个月了，想一想两个月前的今天我仍然在北京的家里，这一段时间仿",
@@ -298,16 +298,6 @@
           "publishedOn": "2022-08-22T00:59:37.609Z",
           "wordCount": 357,
           "title": "我自己博客的一个XSS的故事",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.leavesongs.com/PENETRATION/flarum-rce-tour.html",
-          "author": "phithon",
-          "description": "跳跳糖 - 安全与分享社区",
-          "link": "https://www.leavesongs.com/PENETRATION/flarum-rce-tour.html",
-          "publishedOn": "2022-08-20T00:56:00.861Z",
-          "wordCount": 539,
-          "title": "从偶遇Flarum开始的RCE之旅",
           "imageUrl": null
         }
       ]

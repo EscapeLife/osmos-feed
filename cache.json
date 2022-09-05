@@ -211,6 +211,16 @@
       "siteUrl": "https://www.leavesongs.com",
       "articles": [
         {
+          "id": "https://www.leavesongs.com/PENETRATION/flarum-rce-tour.html",
+          "author": "phithon",
+          "description": "本文首发于跳跳糖，转载请联系站方。\n一次日常测试中，偶然遇到了一个Flarum搭建的论坛，并获得了其管理员账号。本来到这里已经可以算完成了任务，将漏洞报给具体负责的人就结束了，但是既然已经拿到了管理员账号，何不尝试一下RCE呢？\n首先，我在管理员后台看到当前Fla",
+          "link": "https://www.leavesongs.com/PENETRATION/flarum-rce-tour.html",
+          "publishedOn": "2022-09-05T01:13:32.364Z",
+          "wordCount": 536,
+          "title": "从偶遇Flarum开始的RCE之旅",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.leavesongs.com/THINK/xray-3-years.html",
           "author": "phithon",
           "description": "上周XRay做了一次三周年活动，简单写了一段寄语，记录于博客。\n大家好，我是phith0n，安全社区有很多人叫我P师傅，以前很抗拒这个称呼，总是给人一种互相吹捧的感觉，不过后来我换了一个角度理解这个称呼——以前坐公交车不认路的时候，我们上车时总会问司机：师傅，这个车到不到国贸大厦？\n这么多年过去了，大部分人用上智能手机，搜索引擎，很少再有人会再问出这类问题。但是我还是愿意当一个普普通通的司机师傅",

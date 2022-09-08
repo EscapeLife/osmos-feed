@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-09-07T01:09:06.721Z</updated>
+    <updated>2022-09-08T01:04:40.819Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[���̴߳������� Lua �����]]></title>
+        <id>https://blog.codingnow.com/2022/09/multithread_lua_vm.html</id>
+        <link href="https://blog.codingnow.com/2022/09/multithread_lua_vm.html"/>
+        <updated>2022-09-07T04:15:39.000Z</updated>
+        <summary type="html"><![CDATA[ltask ��һ���������� skynet �Ŀ⡣����Ҫ�������ڿͻ��˻��������ڱ� skynet ����ƣ���������������ʵ�����������뷨�� �������һ���������ǵ���Ϸ������Ƕ��ĵ����� C/C++ ģ���� callback ��ʽ�ṩ�����ɽӿڡ��ڰ���Щģ��Ƕ�� ltask �ķ���������ʱ����Щ callback ����������ʹ��ȫ�� ltask �����ԡ����磬���ǵ� IO ����ȫ����һ�����������У������ȡ�ļ�ʱ���ܿ�����ͨ�������첽Զ�̼������ݵġ���Щ������ģ��ͨ��û�п����첽 IO ������������ͬ�� IO ��ʽ����һ�����ļ��� callback ������ʹ������д�� ��ô��������������� C callback �й���ǰ���񣬵ȴ� IO ���첽����أ�...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我自己博客的一个XSS的故事]]></title>
         <id>https://www.leavesongs.com/PENETRATION/xss-from-my-blog.html</id>

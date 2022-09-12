@@ -53,7 +53,18 @@
       "title": "ChangeLog of KDr2.com",
       "feedUrl": "https://kdr2.com/misc/site-log.xml",
       "siteUrl": "http://kdr2.com/misc/",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://kdr2.com/misc/site-log.html#org4b9593d",
+          "author": "zhuo@c123 (KDr2)",
+          "description": "We made force cubes",
+          "link": "http://kdr2.com/misc/site-log.html#org4b9593d",
+          "publishedOn": "2022-09-11T07:06:00.000Z",
+          "wordCount": 481,
+          "title": "We made force cubes",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "卡瓦邦噶！",
@@ -231,6 +242,16 @@
       "feedUrl": "https://www.leavesongs.com/feed",
       "siteUrl": "https://www.leavesongs.com",
       "articles": [
+        {
+          "id": "https://www.leavesongs.com/THINK/um560-two-weeks-using-experience.html",
+          "author": "phithon",
+          "description": "本文推荐的UM560非与厂商合作推广，仅为我自己的使用体验。\n我大四买了人生里第一台Macbook pro，从那会开始Mac卡顿的问题就一直困扰我到现在。当然这也可能是我自己的问题——我没钱买顶配Macbook，以前公司发的也是低配Macbook pro，我甚至用8G内存的13寸Mac直到2018年才换。\n来新公司以后总算摸到了15寸Mac，但还是16G内存Intel芯片的老电脑，被Burps",
+          "link": "https://www.leavesongs.com/THINK/um560-two-weeks-using-experience.html",
+          "publishedOn": "2022-09-12T01:05:04.328Z",
+          "wordCount": 281,
+          "title": "使用Minisforum UM560小主机办公一周体验",
+          "imageUrl": null
+        },
         {
           "id": "https://www.leavesongs.com/PENETRATION/xss-from-my-blog.html",
           "author": "phithon",

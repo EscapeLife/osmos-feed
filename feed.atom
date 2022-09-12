@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-09-11T01:06:05.395Z</updated>
+    <updated>2022-09-12T01:05:11.065Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[使用Minisforum UM560小主机办公一周体验]]></title>
+        <id>https://www.leavesongs.com/THINK/um560-two-weeks-using-experience.html</id>
+        <link href="https://www.leavesongs.com/THINK/um560-two-weeks-using-experience.html"/>
+        <updated>2022-09-12T01:05:04.328Z</updated>
+        <summary type="html"><![CDATA[本文推荐的UM560非与厂商合作推广，仅为我自己的使用体验。
+我大四买了人生里第一台Macbook pro，从那会开始Mac卡顿的问题就一直困扰我到现在。当然这也可能是我自己的问题——我没钱买顶配Macbook，以前公司发的也是低配Macbook pro，我甚至用8G内存的13寸Mac直到2018年才换。
+来新公司以后总算摸到了15寸Mac，但还是16G内存Intel芯片的老电脑，被Burps]]></summary>
+        <author>
+            <name>phithon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We made force cubes]]></title>
+        <id>http://kdr2.com/misc/site-log.html#org4b9593d</id>
+        <link href="http://kdr2.com/misc/site-log.html#org4b9593d"/>
+        <updated>2022-09-11T07:06:00.000Z</updated>
+        <summary type="html"><![CDATA[We made force cubes]]></summary>
+        <author>
+            <name>zhuo@c123 (KDr2)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[���̴߳������� Lua �����]]></title>
         <id>https://blog.codingnow.com/2022/09/multithread_lua_vm.html</id>

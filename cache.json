@@ -235,7 +235,18 @@
       "title": "咸糖 - 自律者自由",
       "feedUrl": "https://vim0.com/index.xml",
       "siteUrl": "https://vim0.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://vim0.com/post/shell_is_useful_tool/",
+          "author": null,
+          "description": "连续三个命令的序列，重复执行了第二次，那么就建议你将它写成一个 Shell 脚本 – blog.fleeto.us 最近越来越发觉 shell 是一门可以代替 python 作为 devops 的工程师的第二门语言. 因为日常",
+          "link": "https://vim0.com/post/shell_is_useful_tool/",
+          "publishedOn": "2022-09-12T06:34:53.000Z",
+          "wordCount": 178,
+          "title": "shell 是一个不错的生产力工具",
+          "imageUrl": "https://vim0.com/post/main_cover.png"
+        }
+      ]
     },
     {
       "title": "离别歌",

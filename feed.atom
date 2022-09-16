@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-09-15T01:08:59.431Z</updated>
+    <updated>2022-09-16T01:10:22.548Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -333,18 +333,6 @@ To file your Income Tax Return, log in to myTax Portal with Singpass.
 用回调函数来形容这件事听起来很独特，但仔细想想确实如此——我会在分析最新漏洞后将其做成Vulhub环境提交到Github，我会在读到不错文章后点击浏览器上的按钮将]]></summary>
         <author>
             <name>phithon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沉浸式工作]]></title>
-        <id>https://www.kawabangga.com/?p=4828</id>
-        <link href="https://www.kawabangga.com/posts/4828"/>
-        <updated>2022-08-31T15:30:54.000Z</updated>
-        <summary type="html"><![CDATA[我发现屏幕上会动的东西都会吸引注意力，现在每天又收到很多消息，只要一个小时不看肯定会上百条。这样的工作状态很糟 […]
-Continue reading...
-The post 沉浸式工作 first appeared on 卡瓦邦噶！.]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

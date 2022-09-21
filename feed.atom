@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-09-20T01:07:35.298Z</updated>
+    <updated>2022-09-21T01:10:13.541Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[从偶遇Flarum开始的RCE之旅]]></title>
+        <id>https://www.leavesongs.com/PENETRATION/flarum-rce-tour.html</id>
+        <link href="https://www.leavesongs.com/PENETRATION/flarum-rce-tour.html"/>
+        <updated>2022-09-21T01:10:08.885Z</updated>
+        <summary type="html"><![CDATA[本文首发于跳跳糖，转载请联系站方。
+一次日常测试中，偶然遇到了一个Flarum搭建的论坛，并获得了其管理员账号。本来到这里已经可以算完成了任务，将漏洞报给具体负责的人就结束了，但是既然已经拿到了管理员账号，何不尝试一下RCE呢？
+首先，我在管理员后台看到当前Fla]]></summary>
+        <author>
+            <name>phithon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[时代的晚上]]></title>
+        <id>https://macshuo.com/?p=1873</id>
+        <link href="https://macshuo.com/?p=1873"/>
+        <updated>2022-09-20T09:56:20.000Z</updated>
+        <summary type="html"><![CDATA[没有新的语言 也没有新的方式没有新的力量 能够表达新的感情不是什么痛苦 也不是天 … Continue reading →]]></summary>
+        <author>
+            <name>MacTalk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XRay三周年活动寄语]]></title>
         <id>https://www.leavesongs.com/THINK/xray-3-years.html</id>
@@ -291,16 +313,6 @@ def main():
 reply]]></summary>
         <author>
             <name>phithon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[皮克斯电箱]]></title>
-        <id>https://greyli.com/?p=4582</id>
-        <link href="https://greyli.com/box-jr/"/>
-        <updated>2022-09-06T10:23:16.000Z</updated>
-        <summary type="html"><![CDATA[在做核酸的地方发现一只很可爱的电箱，感觉它会和皮克斯台灯成为朋友，所以我给它取名「皮克斯电箱」。]]></summary>
-        <author>
-            <name>李辉</name>
         </author>
     </entry>
     <entry>

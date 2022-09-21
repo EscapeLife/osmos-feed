@@ -41,7 +41,18 @@
       "title": "MacTalk-池建强的随想录",
       "feedUrl": "https://macshuo.com/?feed=rss2",
       "siteUrl": "https://macshuo.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://macshuo.com/?p=1873",
+          "author": "MacTalk",
+          "description": "没有新的语言 也没有新的方式没有新的力量 能够表达新的感情不是什么痛苦 也不是天 … Continue reading →",
+          "link": "https://macshuo.com/?p=1873",
+          "publishedOn": "2022-09-20T09:56:20.000Z",
+          "wordCount": 584,
+          "title": "时代的晚上",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Tinyfool的个人网站",
@@ -106,18 +117,7 @@
       "title": "李辉",
       "feedUrl": "https://greyli.com/feed",
       "siteUrl": "https://greyli.com",
-      "articles": [
-        {
-          "id": "https://greyli.com/?p=4582",
-          "author": "李辉",
-          "description": "在做核酸的地方发现一只很可爱的电箱，感觉它会和皮克斯台灯成为朋友，所以我给它取名「皮克斯电箱」。",
-          "link": "https://greyli.com/box-jr/",
-          "publishedOn": "2022-09-06T10:23:16.000Z",
-          "wordCount": 213,
-          "title": "皮克斯电箱",
-          "imageUrl": "https://greyli.com/wp-content/uploads/2020/07/avatar.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "�Ʒ�� BLOG",
@@ -221,6 +221,16 @@
       "feedUrl": "https://www.leavesongs.com/feed",
       "siteUrl": "https://www.leavesongs.com",
       "articles": [
+        {
+          "id": "https://www.leavesongs.com/PENETRATION/flarum-rce-tour.html",
+          "author": "phithon",
+          "description": "本文首发于跳跳糖，转载请联系站方。\n一次日常测试中，偶然遇到了一个Flarum搭建的论坛，并获得了其管理员账号。本来到这里已经可以算完成了任务，将漏洞报给具体负责的人就结束了，但是既然已经拿到了管理员账号，何不尝试一下RCE呢？\n首先，我在管理员后台看到当前Fla",
+          "link": "https://www.leavesongs.com/PENETRATION/flarum-rce-tour.html",
+          "publishedOn": "2022-09-21T01:10:08.885Z",
+          "wordCount": 557,
+          "title": "从偶遇Flarum开始的RCE之旅",
+          "imageUrl": null
+        },
         {
           "id": "https://www.leavesongs.com/THINK/xray-3-years.html",
           "author": "phithon",

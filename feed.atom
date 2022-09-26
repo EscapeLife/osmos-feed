@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-09-25T01:05:51.499Z</updated>
+    <updated>2022-09-26T01:06:53.331Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -293,16 +293,6 @@ def main():
 来新公司以后总算摸到了15寸Mac，但还是16G内存Intel芯片的老电脑，被Burps]]></summary>
         <author>
             <name>phithon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We made force cubes]]></title>
-        <id>http://kdr2.com/misc/site-log.html#org4b9593d</id>
-        <link href="http://kdr2.com/misc/site-log.html#org4b9593d"/>
-        <updated>2022-09-11T07:06:00.000Z</updated>
-        <summary type="html"><![CDATA[We made force cubes]]></summary>
-        <author>
-            <name>zhuo@c123 (KDr2)</name>
         </author>
     </entry>
     <entry>

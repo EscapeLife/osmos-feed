@@ -64,18 +64,7 @@
       "title": "ChangeLog of KDr2.com",
       "feedUrl": "https://kdr2.com/misc/site-log.xml",
       "siteUrl": "http://kdr2.com/misc/",
-      "articles": [
-        {
-          "id": "http://kdr2.com/misc/site-log.html#org4b9593d",
-          "author": "zhuo@c123 (KDr2)",
-          "description": "We made force cubes",
-          "link": "http://kdr2.com/misc/site-log.html#org4b9593d",
-          "publishedOn": "2022-09-11T07:06:00.000Z",
-          "wordCount": 481,
-          "title": "We made force cubes",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "卡瓦邦噶！",

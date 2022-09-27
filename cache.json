@@ -181,18 +181,7 @@
       "title": "咸糖 - 自律者自由",
       "feedUrl": "https://vim0.com/index.xml",
       "siteUrl": "https://vim0.com/",
-      "articles": [
-        {
-          "id": "https://vim0.com/post/shell_is_useful_tool/",
-          "author": null,
-          "description": "连续三个命令的序列，重复执行了第二次，那么就建议你将它写成一个 Shell 脚本 – blog.fleeto.us 最近越来越发觉 shell 是一门可以代替 python 作为 devops 的工程师的第二门语言. 因为日常",
-          "link": "https://vim0.com/post/shell_is_useful_tool/",
-          "publishedOn": "2022-09-12T06:34:53.000Z",
-          "wordCount": 178,
-          "title": "shell 是一个不错的生产力工具",
-          "imageUrl": "https://vim0.com/post/main_cover.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "离别歌",
@@ -287,16 +276,6 @@
           "publishedOn": "2022-09-18T01:09:47.037Z",
           "wordCount": 145,
           "title": "Vulhub万赞纪念与抽奖",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.leavesongs.com/THINK/um560-two-weeks-using-experience.html",
-          "author": "phithon",
-          "description": "本文推荐的UM560非与厂商合作推广，仅为我自己的使用体验。\n我大四买了人生里第一台Macbook pro，从那会开始Mac卡顿的问题就一直困扰我到现在。当然这也可能是我自己的问题——我没钱买顶配Macbook，以前公司发的也是低配Macbook pro，我甚至用8G内存的13寸Mac直到2018年才换。\n来新公司以后总算摸到了15寸Mac，但还是16G内存Intel芯片的老电脑，被Burps",
-          "link": "https://www.leavesongs.com/THINK/um560-two-weeks-using-experience.html",
-          "publishedOn": "2022-09-12T01:05:04.328Z",
-          "wordCount": 281,
-          "title": "使用Minisforum UM560小主机办公一周体验",
           "imageUrl": null
         }
       ]

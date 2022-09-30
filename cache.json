@@ -58,7 +58,18 @@
       "title": "Tinyfool的个人网站",
       "feedUrl": "http://feeds.feedburner.com/Tinyfoolblog",
       "siteUrl": "https://codechina.org",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://codechina.org/?p=24023",
+          "author": "tinyfool",
+          "description": "先说点好消息，我的书《技巧》要出版第二版了。第一版印刷了3万册，已经好多年了，应该是很多地方都没有货了，差不多 […]",
+          "link": "https://codechina.org/2022/09/no-name/",
+          "publishedOn": "2022-09-29T05:38:22.000Z",
+          "wordCount": 922,
+          "title": "无题￼",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "ChangeLog of KDr2.com",

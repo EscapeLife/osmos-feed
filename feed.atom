@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-09-29T01:14:00.232Z</updated>
+    <updated>2022-09-30T01:26:54.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[无题￼]]></title>
+        <id>https://codechina.org/?p=24023</id>
+        <link href="https://codechina.org/2022/09/no-name/"/>
+        <updated>2022-09-29T05:38:22.000Z</updated>
+        <summary type="html"><![CDATA[先说点好消息，我的书《技巧》要出版第二版了。第一版印刷了3万册，已经好多年了，应该是很多地方都没有货了，差不多 […]]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用Minisforum UM560小主机办公一周体验]]></title>
         <id>https://www.leavesongs.com/THINK/um560-two-weeks-using-experience.html</id>

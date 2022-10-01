@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-09-30T01:26:54.149Z</updated>
+    <updated>2022-10-01T01:22:55.152Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[国庆要是不能出去玩，你应该怎么度过？用来提升自己好不好？￼]]></title>
+        <id>https://codechina.org/?p=24082</id>
+        <link href="https://codechina.org/2022/10/guoqing-study/"/>
+        <updated>2022-10-01T00:25:07.000Z</updated>
+        <summary type="html"><![CDATA[最近这半年，不管全国其他地方的疫情如何，滨海新区只有少数的病例，大多数的时候，我居住的区域是完全自由的。但是最 […]]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年第三季度总结]]></title>
+        <id>https://www.escapelife.site/posts/3fb4a63a.html</id>
+        <link href="https://www.escapelife.site/posts/3fb4a63a.html"/>
+        <updated>2022-09-30T15:59:59.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="2022-年第三季度总结"><a href="#2022-年第三季度总结" class="headerlink" title="2022 年第三季度总结"></a>2022]]></summary>
+        <author>
+            <name>Escape</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《脱口秀大会》还能办几期？《一年一度喜剧大赛》更好看么？￼]]></title>
+        <id>https://codechina.org/?p=24049</id>
+        <link href="https://codechina.org/2022/09/stand-up/"/>
+        <updated>2022-09-30T04:53:34.000Z</updated>
+        <summary type="html"><![CDATA[最近《脱口秀大会5》正在更新，我一开始倒是不知道，不过有朋友在社交网络上说正在跟，我才想起来。 说实话，我很喜 […]]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[����ͻ�����ƥ��]]></title>
+        <id>https://blog.codingnow.com/2022/09/cargo_matching.html</id>
+        <link href="https://blog.codingnow.com/2022/09/cargo_matching.html"/>
+        <updated>2022-09-30T01:36:12.000Z</updated>
+        <summary type="html"><![CDATA[����������һ������ Factorio ���Զ���Ϊ�������Ϸ������Ϸ�����������˲����㷨�ϵ����⣬������̶��ǳ���Ȥ������֮ǰ��д��һƪ ����ϵͳ �� �� Factorio ��������ͬ���ڣ����ǲ�ʹ�ô��ʹ�����Ҫ�����ֶΣ�����������·���ͻ�����������ʽ�����£����� 20 ����ǰ�Ŀ���3 ���Լ�ͬϵ�еķ���������˹����֮����ȣ��о��浽������������������ʽ����Ϸһֱ������ϣ��⼸�����������֮�ǡ�ȱ���������硢���긡����Ҳ�����֡� ������Ϸ�Ĺ�������Ҫ��������Դ����һ�����ˣ�Ȼ����Щ���˸ɻ����������У�����һ����Ҫ�Ĺ�������������һ������Դ����Ӱ�죬������̫�๤�ˣ���Ȼ���Ѳ�����ѭ��������������ռ�������������󡣴󲿷ֹ��˵Ĺ����������������У�����������...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[无题￼]]></title>
         <id>https://codechina.org/?p=24023</id>

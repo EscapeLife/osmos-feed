@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-10-04T01:15:48.684Z</updated>
+    <updated>2022-10-05T01:14:02.049Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[设计服务端软件配置的 4 条建议]]></title>
+        <id>https://www.zlovezl.cn/articles/how-to-design-config-file-for-software/</id>
+        <link href="https://www.zlovezl.cn/articles/how-to-design-config-file-for-software/"/>
+        <updated>2022-10-05T01:13:56.388Z</updated>
+        <summary type="html"><![CDATA[在设计和开发服务端（后端）软件时，配置文件是一个绕不开的话题。
+配置文件是一种用于存放各类可配置项的特殊文件。每个软件都会预设一些默认配置，但这些默认值不可能适用于所有情况。因此，到了不同的环境中，我们常常需要用配置文件对其进行扩展和修改。
+拿版本控制软件 git 举例。大部分用户的 home 目录（~）都存放着一份 .gitconfig 配置文件，里面写着自己的用户名和邮箱地址：
+[user]
+    name = piglei
+    email = piglei2007@gmail.com
+
+就像软件的任何一个主要功能一样，配置文件也会极大的影响软件的使用体验。良好的设计能让软件变得更易用，糟糕的设计则会带来许多意想不到的问题，将用户拒之门外。
+在这篇文章中，我整理了 4 条关于“软件配置文件”的设计建议，希望能对你有所帮助。
+1. 最好不给配置也能用
+在网络世界里，每过一天，人们的耐心似乎就又比前一天减少了一丁点。一个制作精良的短视频，如果 3 秒钟之内无法抓住你，你的右手拇指就会条件反射般将它划走。
+现在，假设你开发了一个非常有用的工具软件，并发布到了网上。软件的功能非常全面，所有人在使用它之前，需要编辑一份包含 20 项配置的配置文件。你猜，有多大比例的潜在用户会直接掉头走掉？
+当我们想要一件东西时，总是一刻也不想等。因此，初始的配置过程麻烦与否，会强烈影响人们尝试软件的决心。在这方面，我认为最好的体验是：无需提供任何配置，便能直接使用软件 80% 以上的功能。
+假如无法做到这一点，我们也应该试着从以下几个方面着手，尽量降低用户的配置成本，压缩从“开始安装”到“可使用”之间的等待时间。
+1.1 预设合理的默认值
+为了将必须由用户提供的配置项，压缩到最少。你得给软件的所有配置项预设一个足够合理的默认值。这些默认值应当能让尽可能多的用户满意。
+举个例子，假如你的软件…]]></summary>
+        <author>
+            <name>piglei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[没有人生感悟是因为没有真正的生活￼]]></title>
+        <id>https://codechina.org/?p=24171</id>
+        <link href="https://codechina.org/2022/10/no-life/"/>
+        <updated>2022-10-04T04:38:38.000Z</updated>
+        <summary type="html"><![CDATA[最近很久没更新，前文也讲了很多理由，今天继续讲讲理由。 其实我一直想保持这个公众号的持续更新，大家都知道日更会 […]]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我是如何利用环境变量注入执行任意命令]]></title>
         <id>https://www.leavesongs.com/PENETRATION/how-I-hack-bash-through-environment-injection.html</id>
@@ -195,6 +231,16 @@ def main():
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[日更在国庆里，散步在小区被封时]]></title>
+        <id>https://codechina.org/?p=24132</id>
+        <link href="https://codechina.org/2022/10/guoqing-walking/"/>
+        <updated>2022-10-02T17:03:45.000Z</updated>
+        <summary type="html"><![CDATA[前文其实提到了，最近几个月情绪不好，所以几乎没怎么更新文章。虽然很艰难，但是我经过了一到两个星期的艰苦准备，终 […]]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[代码调试和修下水道的关系￼]]></title>
         <id>https://codechina.org/?p=24119</id>
         <link href="https://codechina.org/2022/10/code-debug-and-fix-sink-pipe/"/>
@@ -293,28 +339,6 @@ reply]]></summary>
         <summary type="html"><![CDATA[本文首发于跳跳糖，转载请联系站方。
 一次日常测试中，偶然遇到了一个Flarum搭建的论坛，并获得了其管理员账号。本来到这里已经可以算完成了任务，将漏洞报给具体负责的人就结束了，但是既然已经拿到了管理员账号，何不尝试一下RCE呢？
 首先，我在管理员后台看到当前Fla]]></summary>
-        <author>
-            <name>phithon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[时代的晚上]]></title>
-        <id>https://macshuo.com/?p=1873</id>
-        <link href="https://macshuo.com/?p=1873"/>
-        <updated>2022-09-20T09:56:20.000Z</updated>
-        <summary type="html"><![CDATA[没有新的语言 也没有新的方式没有新的力量 能够表达新的感情不是什么痛苦 也不是天 … Continue reading →]]></summary>
-        <author>
-            <name>MacTalk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRay三周年活动寄语]]></title>
-        <id>https://www.leavesongs.com/THINK/xray-3-years.html</id>
-        <link href="https://www.leavesongs.com/THINK/xray-3-years.html"/>
-        <updated>2022-09-20T01:07:26.708Z</updated>
-        <summary type="html"><![CDATA[上周XRay做了一次三周年活动，简单写了一段寄语，记录于博客。
-大家好，我是phith0n，安全社区有很多人叫我P师傅，以前很抗拒这个称呼，总是给人一种互相吹捧的感觉，不过后来我换了一个角度理解这个称呼——以前坐公交车不认路的时候，我们上车时总会问司机：师傅，这个车到不到国贸大厦？
-这么多年过去了，大部分人用上智能手机，搜索引擎，很少再有人会再问出这类问题。但是我还是愿意当一个普普通通的司机师傅]]></summary>
         <author>
             <name>phithon</name>
         </author>

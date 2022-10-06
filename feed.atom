@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-10-05T01:14:02.049Z</updated>
+    <updated>2022-10-06T01:08:07.972Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[XRay三周年活动寄语]]></title>
+        <id>https://www.leavesongs.com/THINK/xray-3-years.html</id>
+        <link href="https://www.leavesongs.com/THINK/xray-3-years.html"/>
+        <updated>2022-10-06T01:08:04.056Z</updated>
+        <summary type="html"><![CDATA[上周XRay做了一次三周年活动，简单写了一段寄语，记录于博客。
+大家好，我是phith0n，安全社区有很多人叫我P师傅，以前很抗拒这个称呼，总是给人一种互相吹捧的感觉，不过后来我换了一个角度理解这个称呼——以前坐公交车不认路的时候，我们上车时总会问司机：师傅，这个车到不到国贸大厦？
+这么多年过去了，大部分人用上智能手机，搜索引擎，很少再有人会再问出这类问题。但是我还是愿意当一个普普通通的司机师傅]]></summary>
+        <author>
+            <name>phithon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[下水道的问题终于彻底解决了……不过小区还没通]]></title>
+        <id>https://codechina.org/?p=24206</id>
+        <link href="https://codechina.org/2022/10/sink-pipe/"/>
+        <updated>2022-10-05T01:21:20.000Z</updated>
+        <summary type="html"><![CDATA[前文讲了，我家厨房下水道反水。我和我爹一起诊断了很久，最后觉得问题出在总管上，在楼下总管那里打开检修口，我家的 […]]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[设计服务端软件配置的 4 条建议]]></title>
         <id>https://www.zlovezl.cn/articles/how-to-design-config-file-for-software/</id>
@@ -327,18 +349,6 @@ def main():
 我当时在开发这个回复按钮的时候，为了方便，直接用JavaScript伪协议来调用reply_to函数，比如：
 
 reply]]></summary>
-        <author>
-            <name>phithon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从偶遇Flarum开始的RCE之旅]]></title>
-        <id>https://www.leavesongs.com/PENETRATION/flarum-rce-tour.html</id>
-        <link href="https://www.leavesongs.com/PENETRATION/flarum-rce-tour.html"/>
-        <updated>2022-09-21T01:10:08.885Z</updated>
-        <summary type="html"><![CDATA[本文首发于跳跳糖，转载请联系站方。
-一次日常测试中，偶然遇到了一个Flarum搭建的论坛，并获得了其管理员账号。本来到这里已经可以算完成了任务，将漏洞报给具体负责的人就结束了，但是既然已经拿到了管理员账号，何不尝试一下RCE呢？
-首先，我在管理员后台看到当前Fla]]></summary>
         <author>
             <name>phithon</name>
         </author>

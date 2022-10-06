@@ -60,6 +60,16 @@
       "siteUrl": "https://codechina.org",
       "articles": [
         {
+          "id": "https://codechina.org/?p=24206",
+          "author": "tinyfool",
+          "description": "前文讲了，我家厨房下水道反水。我和我爹一起诊断了很久，最后觉得问题出在总管上，在楼下总管那里打开检修口，我家的 […]",
+          "link": "https://codechina.org/2022/10/sink-pipe/",
+          "publishedOn": "2022-10-05T01:21:20.000Z",
+          "wordCount": 886,
+          "title": "下水道的问题终于彻底解决了……不过小区还没通",
+          "imageUrl": null
+        },
+        {
           "id": "https://codechina.org/?p=24171",
           "author": "tinyfool",
           "description": "最近很久没更新，前文也讲了很多理由，今天继续讲讲理由。 其实我一直想保持这个公众号的持续更新，大家都知道日更会 […]",
@@ -261,6 +271,16 @@
       "siteUrl": "https://www.leavesongs.com",
       "articles": [
         {
+          "id": "https://www.leavesongs.com/THINK/xray-3-years.html",
+          "author": "phithon",
+          "description": "上周XRay做了一次三周年活动，简单写了一段寄语，记录于博客。\n大家好，我是phith0n，安全社区有很多人叫我P师傅，以前很抗拒这个称呼，总是给人一种互相吹捧的感觉，不过后来我换了一个角度理解这个称呼——以前坐公交车不认路的时候，我们上车时总会问司机：师傅，这个车到不到国贸大厦？\n这么多年过去了，大部分人用上智能手机，搜索引擎，很少再有人会再问出这类问题。但是我还是愿意当一个普普通通的司机师傅",
+          "link": "https://www.leavesongs.com/THINK/xray-3-years.html",
+          "publishedOn": "2022-10-06T01:08:04.056Z",
+          "wordCount": 120,
+          "title": "XRay三周年活动寄语",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.leavesongs.com/PENETRATION/how-I-hack-bash-through-environment-injection.html",
           "author": "phithon",
           "description": "本文发表于跳跳糖，转载请联系对方。\n这周三在『代码审计知识星球』中发了一段代码，用户可以控制环境变量，但后面没有太多可控的地方，最后找到了一处执行命令，不过命令用户也不可控。用PHP来演示一下就是下面这7行：\n<?php\nforeach($_REQUEST['envs'] as $key => $val) {\n    putenv(\"{$key}={$va",
@@ -338,16 +358,6 @@
           "publishedOn": "2022-09-23T01:09:45.820Z",
           "wordCount": 329,
           "title": "我自己博客的一个XSS的故事",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.leavesongs.com/PENETRATION/flarum-rce-tour.html",
-          "author": "phithon",
-          "description": "本文首发于跳跳糖，转载请联系站方。\n一次日常测试中，偶然遇到了一个Flarum搭建的论坛，并获得了其管理员账号。本来到这里已经可以算完成了任务，将漏洞报给具体负责的人就结束了，但是既然已经拿到了管理员账号，何不尝试一下RCE呢？\n首先，我在管理员后台看到当前Fla",
-          "link": "https://www.leavesongs.com/PENETRATION/flarum-rce-tour.html",
-          "publishedOn": "2022-09-21T01:10:08.885Z",
-          "wordCount": 557,
-          "title": "从偶遇Flarum开始的RCE之旅",
           "imageUrl": null
         }
       ]

@@ -60,6 +60,16 @@
       "siteUrl": "https://codechina.org",
       "articles": [
         {
+          "id": "https://codechina.org/?p=24246",
+          "author": "tinyfool",
+          "description": "昨天看《脱口秀大赛5》杨波的表演， 他说， 近两年，很多人考公务员我有个Rapper朋友都在考我说，呦，你怎么 […]",
+          "link": "https://codechina.org/2022/10/rapper/",
+          "publishedOn": "2022-10-06T11:24:24.000Z",
+          "wordCount": 895,
+          "title": "Rapper都去考公务员了？未来会怎么样？",
+          "imageUrl": null
+        },
+        {
           "id": "https://codechina.org/?p=24206",
           "author": "tinyfool",
           "description": "前文讲了，我家厨房下水道反水。我和我爹一起诊断了很久，最后觉得问题出在总管上，在楼下总管那里打开检修口，我家的 […]",
@@ -270,6 +280,16 @@
       "feedUrl": "https://www.leavesongs.com/feed",
       "siteUrl": "https://www.leavesongs.com",
       "articles": [
+        {
+          "id": "https://www.leavesongs.com/PENETRATION/flarum-rce-tour.html",
+          "author": "phithon",
+          "description": "本文首发于跳跳糖，转载请联系站方。\n一次日常测试中，偶然遇到了一个Flarum搭建的论坛，并获得了其管理员账号。本来到这里已经可以算完成了任务，将漏洞报给具体负责的人就结束了，但是既然已经拿到了管理员账号，何不尝试一下RCE呢？\n首先，我在管理员后台看到当前Fla",
+          "link": "https://www.leavesongs.com/PENETRATION/flarum-rce-tour.html",
+          "publishedOn": "2022-10-07T01:18:42.926Z",
+          "wordCount": 564,
+          "title": "从偶遇Flarum开始的RCE之旅",
+          "imageUrl": null
+        },
         {
           "id": "https://www.leavesongs.com/THINK/xray-3-years.html",
           "author": "phithon",

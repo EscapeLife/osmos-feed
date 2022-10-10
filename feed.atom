@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-10-09T01:08:02.221Z</updated>
+    <updated>2022-10-10T01:12:57.494Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[保持适当的孤独，有利于提高效率￼]]></title>
+        <id>https://codechina.org/?p=24332</id>
+        <link href="https://codechina.org/2022/10/lonely/"/>
+        <updated>2022-10-09T07:31:42.000Z</updated>
+        <summary type="html"><![CDATA[说到这个话题就不得不提到我一个朋友小A。他是一个社会化学习爱好者。他相信多人一起学习，容易形成一个互相监督互相 […]]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我自己博客的一个XSS的故事]]></title>
         <id>https://www.leavesongs.com/PENETRATION/xss-from-my-blog.html</id>

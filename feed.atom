@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-10-10T01:12:57.494Z</updated>
+    <updated>2022-10-11T01:05:56.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[如何应对内卷，做一个更好的自己￼]]></title>
+        <id>https://codechina.org/?p=24357</id>
+        <link href="https://codechina.org/2022/10/better-self/"/>
+        <updated>2022-10-10T03:37:52.000Z</updated>
+        <summary type="html"><![CDATA[我在公众号上最火的一篇文章叫做《为什么有些人用一年时间获得了你十年的工作经验？》，那篇文章写于2015年。那时 […]]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[保持适当的孤独，有利于提高效率￼]]></title>
         <id>https://codechina.org/?p=24332</id>

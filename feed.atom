@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-10-11T01:05:56.218Z</updated>
+    <updated>2022-10-12T01:20:05.820Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[最好的选择是不做选择，重剑无锋，大巧不工￼]]></title>
+        <id>https://codechina.org/?p=24396</id>
+        <link href="https://codechina.org/2022/10/no-choice/"/>
+        <updated>2022-10-11T13:21:47.000Z</updated>
+        <summary type="html"><![CDATA[很多时候，我们一生中会面临无数的选择，怎么选择，往往是最常见的问题。昨天我写的文章《如何应对内卷，做一个更好的 […]]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何应对内卷，做一个更好的自己￼]]></title>
         <id>https://codechina.org/?p=24357</id>

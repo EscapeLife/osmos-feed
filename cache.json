@@ -60,6 +60,16 @@
       "siteUrl": "https://codechina.org",
       "articles": [
         {
+          "id": "https://codechina.org/?p=24424",
+          "author": "tinyfool",
+          "description": "看小说，看历史书的时候，我们会发现历史的发展进程往往是有决定性时刻的。 比如，曾经有一个有名的笑话叫做，如果丘 […]",
+          "link": "https://codechina.org/2022/10/life/",
+          "publishedOn": "2022-10-12T13:35:22.000Z",
+          "wordCount": 904,
+          "title": "找出你生命中的决定性时刻￼",
+          "imageUrl": null
+        },
+        {
           "id": "https://codechina.org/?p=24396",
           "author": "tinyfool",
           "description": "很多时候，我们一生中会面临无数的选择，怎么选择，往往是最常见的问题。昨天我写的文章《如何应对内卷，做一个更好的 […]",
@@ -439,16 +449,6 @@
           "publishedOn": "2022-10-04T01:15:43.154Z",
           "wordCount": 154,
           "title": "2022年我为什么订报纸",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.leavesongs.com/THINK/um560-two-weeks-using-experience.html",
-          "author": "phithon",
-          "description": "本文推荐的UM560非与厂商合作推广，仅为我自己的使用体验。\n我大四买了人生里第一台Macbook pro，从那会开始Mac卡顿的问题就一直困扰我到现在。当然这也可能是我自己的问题——我没钱买顶配Macbook，以前公司发的也是低配Macbook pro，我甚至用8G内存的13寸Mac直到2018年才换。\n来新公司以后总算摸到了15寸Mac，但还是16G内存Intel芯片的老电脑，被Burps",
-          "link": "https://www.leavesongs.com/THINK/um560-two-weeks-using-experience.html",
-          "publishedOn": "2022-09-28T01:09:30.507Z",
-          "wordCount": 291,
-          "title": "使用Minisforum UM560小主机办公一周体验",
           "imageUrl": null
         }
       ]

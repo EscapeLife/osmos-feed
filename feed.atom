@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-10-21T01:07:15.282Z</updated>
+    <updated>2022-10-22T01:14:54.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[XRay三周年活动寄语]]></title>
+        <id>https://www.leavesongs.com/THINK/xray-3-years.html</id>
+        <link href="https://www.leavesongs.com/THINK/xray-3-years.html"/>
+        <updated>2022-10-22T01:14:50.711Z</updated>
+        <summary type="html"><![CDATA[上周XRay做了一次三周年活动，简单写了一段寄语，记录于博客。
+大家好，我是phith0n，安全社区有很多人叫我P师傅，以前很抗拒这个称呼，总是给人一种互相吹捧的感觉，不过后来我换了一个角度理解这个称呼——以前坐公交车不认路的时候，我们上车时总会问司机：师傅，这个车到不到国贸大厦？
+这么多年过去了，大部分人用上智能手机，搜索引擎，很少再有人会再问出这类问题。但是我还是愿意当一个普普通通的司机师傅]]></summary>
+        <author>
+            <name>phithon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国经济腾飞了？其实消费水平跟发达国家还差得远呢￼]]></title>
+        <id>https://codechina.org/?p=24666</id>
+        <link href="https://codechina.org/2022/10/china/"/>
+        <updated>2022-10-21T02:56:44.000Z</updated>
+        <summary type="html"><![CDATA[最近我在推特上看到有人聊起巴黎的共享洗衣房， 虽然他字里行间的意思是鄙视觉得这种自助洗衣房是比较不卫生的。但是 […]]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[设计服务端软件配置的 4 条建议]]></title>
         <id>https://www.zlovezl.cn/articles/how-to-design-config-file-for-software/</id>
@@ -399,28 +421,6 @@ The post 婚礼回顾和一些经验分享 first appeared on 卡瓦邦噶！.]]>
         <summary type="html"><![CDATA[������Ϸ����� IO ģ����ʵһֱ���޸ġ�����İ汾��������������� �� һֱû�ж����һ����ԭ������Ϊ���Ǹ������趨��һ���Ƚϸߵ��������汾��Ҳ�ǿ��Դ������Ը��µġ����������汾����Ȼ���� IO ������ IO ģ�������������������ֻ���һ�����̰߳汾�� Lua ��� ltask ��ltask ����Ҳ����Ҫ���� IO ģ�������ġ���Щ���������Ҫ������� IO ģ�����ƣ������ع�Ҳ���Ǳ�Ȼ�ˡ�...]]></summary>
         <author>
             <name>�Ʒ�� BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么写作？￼]]></title>
-        <id>https://codechina.org/?p=24279</id>
-        <link href="https://codechina.org/2022/10/writting/"/>
-        <updated>2022-10-07T11:42:24.000Z</updated>
-        <summary type="html"><![CDATA[为什么写作？余华在《活着》的自序里面这么说， 一位真正的作家永远只为内心写作，只有内心オ会真实地告诉他，他的自 […]]]></summary>
-        <author>
-            <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从偶遇Flarum开始的RCE之旅]]></title>
-        <id>https://www.leavesongs.com/PENETRATION/flarum-rce-tour.html</id>
-        <link href="https://www.leavesongs.com/PENETRATION/flarum-rce-tour.html"/>
-        <updated>2022-10-07T01:18:42.926Z</updated>
-        <summary type="html"><![CDATA[本文首发于跳跳糖，转载请联系站方。
-一次日常测试中，偶然遇到了一个Flarum搭建的论坛，并获得了其管理员账号。本来到这里已经可以算完成了任务，将漏洞报给具体负责的人就结束了，但是既然已经拿到了管理员账号，何不尝试一下RCE呢？
-首先，我在管理员后台看到当前Fla]]></summary>
-        <author>
-            <name>phithon</name>
         </author>
     </entry>
     <entry>

@@ -234,16 +234,6 @@
           "wordCount": 244,
           "title": "���ſ��� ipv6 ���ڼ�",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.codingnow.com/2022/10/io.html",
-          "author": null,
-          "description": "������Ϸ����� IO ģ����ʵһֱ���޸ġ�����İ汾��������������� �� һֱû�ж����һ����ԭ������Ϊ���Ǹ������趨��һ���Ƚϸߵ��������汾��Ҳ�ǿ��Դ������Ը��µġ����������汾����Ȼ���� IO ������ IO ģ�������������������ֻ���һ�����̰߳汾�� Lua ��� ltask ��ltask ����Ҳ����Ҫ���� IO ģ�������ġ���Щ���������Ҫ������� IO ģ�����ƣ������ع�Ҳ���Ǳ�Ȼ�ˡ�...",
-          "link": "https://blog.codingnow.com/2022/10/io.html",
-          "publishedOn": "2022-10-08T06:11:14.000Z",
-          "wordCount": 177,
-          "title": "���� IO ģ��ı仯�ͷ�չ",
-          "imageUrl": null
         }
       ]
     },
@@ -321,6 +311,16 @@
       "feedUrl": "https://www.leavesongs.com/feed",
       "siteUrl": "https://www.leavesongs.com",
       "articles": [
+        {
+          "id": "https://www.leavesongs.com/PENETRATION/flarum-rce-tour.html",
+          "author": "phithon",
+          "description": "本文首发于跳跳糖，转载请联系站方。\n一次日常测试中，偶然遇到了一个Flarum搭建的论坛，并获得了其管理员账号。本来到这里已经可以算完成了任务，将漏洞报给具体负责的人就结束了，但是既然已经拿到了管理员账号，何不尝试一下RCE呢？\n首先，我在管理员后台看到当前Fla",
+          "link": "https://www.leavesongs.com/PENETRATION/flarum-rce-tour.html",
+          "publishedOn": "2022-10-23T01:11:36.324Z",
+          "wordCount": 571,
+          "title": "从偶遇Flarum开始的RCE之旅",
+          "imageUrl": null
+        },
         {
           "id": "https://www.leavesongs.com/THINK/xray-3-years.html",
           "author": "phithon",

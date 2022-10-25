@@ -82,6 +82,62 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-10-25 datetime="2022-10-25T01:18:21.840Z">2022-10-25</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-10-25 datetime="2022-10-25T01:18:21.840Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >离别歌</button>
+                  <a class="source-heading__link" href="https://www.leavesongs.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.leavesongs.com/PENETRATION/xss-from-my-blog.html"
+                        open
+                      >
+                        <summary class="article-expander__title">我自己博客的一个XSS的故事</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.leavesongs.com/PENETRATION/xss-from-my-blog.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>今天晚上收到几个提醒，打开一看是有人在我博客评论区测试XSS：
+
+本来这种测试司空见惯了，而且此人也没成功找到XSS，放以前我多半就关掉页面了。
+不过我今晚不知为何临时起意，就顺势看了一下自己写的代码，居然被我自己找到一个XSS漏洞：
+
+原因是什么呢？
+0x01 开发历史介绍
+我当时在开发这个回复按钮的时候，为了方便，直接用JavaScript伪协议来调用reply_to函数，比如：
+
+reply</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-10-24 datetime="2022-10-24T01:21:37.544Z">2022-10-24</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-10-24 datetime="2022-10-24T01:21:37.544Z"></time>
           </button>
@@ -1146,53 +1202,6 @@ type ListAppsOptions struct …</span>
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-10-10 datetime="2022-10-10T03:37:52.000Z">2022-10-10</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-10-10 datetime="2022-10-10T03:37:52.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Tinyfool的个人网站</button>
-                  <a class="source-heading__link" href="https://codechina.org">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://codechina.org/?p&#x3D;24357"
-                        open
-                      >
-                        <summary class="article-expander__title">如何应对内卷，做一个更好的自己￼</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://codechina.org/2022/10/better-self/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>我在公众号上最火的一篇文章叫做《为什么有些人用一年时间获得了你十年的工作经验？》，那篇文章写于2015年。那时 […]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;3
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-01-21 datetime="2022-01-21T00:48:38.000Z">2022-01-21</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-01-21 datetime="2022-01-21T00:48:38.000Z"></time>
           </button>
@@ -1282,8 +1291,8 @@ type ListAppsOptions struct …</span>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/EscapeLife/osmos-feed/actions/runs/3309326344">
-        <time id="build-timestamp" datetime="2022-10-24T01:21:42.502Z">2022-10-24T01:21:42.502Z</time>
+      <a class="footer-link" href="https://github.com/EscapeLife/osmos-feed/actions/runs/3317444773">
+        <time id="build-timestamp" datetime="2022-10-25T01:18:34.578Z">2022-10-25T01:18:34.578Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

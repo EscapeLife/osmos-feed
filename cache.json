@@ -60,6 +60,16 @@
       "siteUrl": "https://codechina.org",
       "articles": [
         {
+          "id": "https://codechina.org/?p=24817",
+          "author": "tinyfool",
+          "description": "现在是凌晨1点钟，我刚洗完澡，正在晾干自己，所以可以写篇文章。今天一早又要做核酸。 最近抖音有一个模版还挺火的 […]",
+          "link": "https://codechina.org/2022/10/life-2/",
+          "publishedOn": "2022-10-26T01:46:55.000Z",
+          "wordCount": 883,
+          "title": "笑对不确定性，坚持自己过好一生￼",
+          "imageUrl": null
+        },
+        {
           "id": "https://codechina.org/?p=24721",
           "author": "tinyfool",
           "description": "​最近刚刚上任的瑞典新首相克里斯特松，最近因为一则新闻频繁的登上中国的媒体和社交网络的版面。 原来他多年以前就 […]",
@@ -128,16 +138,6 @@
           "wordCount": 904,
           "title": "找出你生命中的决定性时刻￼",
           "imageUrl": null
-        },
-        {
-          "id": "https://codechina.org/?p=24396",
-          "author": "tinyfool",
-          "description": "很多时候，我们一生中会面临无数的选择，怎么选择，往往是最常见的问题。昨天我写的文章《如何应对内卷，做一个更好的 […]",
-          "link": "https://codechina.org/2022/10/no-choice/",
-          "publishedOn": "2022-10-11T13:21:47.000Z",
-          "wordCount": 929,
-          "title": "最好的选择是不做选择，重剑无锋，大巧不工￼",
-          "imageUrl": null
         }
       ]
     },
@@ -187,7 +187,18 @@
       "title": "李辉",
       "feedUrl": "https://greyli.com/feed",
       "siteUrl": "https://greyli.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://greyli.com/?p=4602",
+          "author": "李辉",
+          "description": "今年的 COSCon 2022 上海线下会场（10/29）有很多开源相关的活动，其中开源集市会有很多开源社区/ […]",
+          "link": "https://greyli.com/coscon-2022-metaverse/",
+          "publishedOn": "2022-10-26T15:49:20.000Z",
+          "wordCount": 251,
+          "title": "来 COSCon 2022 开源集市一起开发元宇宙",
+          "imageUrl": "https://greyli.com/wp-content/uploads/2020/07/avatar.jpg"
+        }
+      ]
     },
     {
       "title": "�Ʒ�� BLOG",

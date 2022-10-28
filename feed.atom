@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-10-27T01:03:52.789Z</updated>
+    <updated>2022-10-28T01:08:29.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -413,26 +413,6 @@ type ListAppsOptions struct …]]></summary>
 来新公司以后总算摸到了15寸Mac，但还是16G内存Intel芯片的老电脑，被Burps]]></summary>
         <author>
             <name>phithon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[古道西风瘦马，是扬州瘦马么？是讲述老妓的悲惨晚年么？]]></title>
-        <id>https://codechina.org/?p=24458</id>
-        <link href="https://codechina.org/2022/10/horse/"/>
-        <updated>2022-10-13T11:44:54.000Z</updated>
-        <summary type="html"><![CDATA[最近有个朋友问道，天净沙秋思里面那句“古道西风瘦马”是不是扬州瘦马。 我回复说， 当然不是，首先是诗词的气氛， […]]]></summary>
-        <author>
-            <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[找出你生命中的决定性时刻￼]]></title>
-        <id>https://codechina.org/?p=24424</id>
-        <link href="https://codechina.org/2022/10/life/"/>
-        <updated>2022-10-12T13:35:22.000Z</updated>
-        <summary type="html"><![CDATA[看小说，看历史书的时候，我们会发现历史的发展进程往往是有决定性时刻的。 比如，曾经有一个有名的笑话叫做，如果丘 […]]]></summary>
-        <author>
-            <name>tinyfool</name>
         </author>
     </entry>
     <entry>

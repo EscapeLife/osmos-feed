@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-10-30T01:10:15.251Z</updated>
+    <updated>2022-10-31T01:11:29.732Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -387,32 +387,6 @@ def main():
         <summary type="html"><![CDATA[��ĩ�ڼ������� BT ���أ����� UPnP �޷���������ȥ��è���￴����ʲô����� �ҷ������ڵ��ſ���Ĭ���Ѿ����ɹ�è�����ţ����е�·��������Ϊһ������·����ʹ�ã�������� UPnP �� DMZ ������������Ҫ�ڹ�è�����á� �鿴��è�豸��ӡ��Ĭ�Ϲ���Ա�����¼��ȥ��û���ҵ�̫������ѡ�����������һ�£���Ҫһ����������Ա���ݲ��ܿ���ȫ�����ò˵���һ���˵���Ǵ�绰��һ��װ������ʦ��������ɫ�����������鷳�ˡ�ת��һ�룬����ô��ҿ����豸Ҫ����������Ӧ���õ���ͳһ���룬������һЩ���ֶο����õ��������Ŷԡ�������һ���׹���ϵͳ�ɱ�ʵ��̫���ˡ�...]]></summary>
         <author>
             <name>�Ʒ�� BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PaaS服务从Heroku迁移到fly.io小计]]></title>
-        <id>https://www.leavesongs.com/SOFT/paas-service-from-heroku-to-fly-io.html</id>
-        <link href="https://www.leavesongs.com/SOFT/paas-service-from-heroku-to-fly-io.html"/>
-        <updated>2022-10-16T01:16:21.824Z</updated>
-        <summary type="html"><![CDATA[今年8月得知了Heroku将要在今年11月彻底下线免费服务，我只有少量服务放在Heroku上，所以没有太在意，直到10月感觉到不得不开始做迁移相关的工作了，于是开始着手准备，并有了这篇文章。
-这篇文章纯属是事后记录的一些流水账，可能缺少截图和代码片段，全当是作为一个故事看，可能不具备参考性。
-为什么选择PaaS服务
-从很久以前开始接触“虚拟主机”这个行业开始，我经历了虚拟主机、VPS、云主机、Pa]]></summary>
-        <author>
-            <name>phithon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python常用命令汇总]]></title>
-        <id>https://www.escapelife.site/posts/b5b9c29f.html</id>
-        <link href="https://www.escapelife.site/posts/b5b9c29f.html"/>
-        <updated>2022-10-15T14:36:12.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p><strong>本文主要汇总日常使用当中，常用的命令组合方式，来提高查询和系统管理能力！</strong></p>
-</blockquote>
-<p><img]]></summary>
-        <author>
-            <name>Escape</name>
         </author>
     </entry>
     <entry>

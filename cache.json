@@ -49,6 +49,16 @@
       "siteUrl": "https://codechina.org",
       "articles": [
         {
+          "id": "https://codechina.org/?p=24967",
+          "author": "tinyfool",
+          "description": "前两天，我和朋友搞了两次关于如何做自媒体的线上聊天。运气不错，大V云集，讲述了很多技巧和经历，很让人振奋也让人 […]",
+          "link": "https://codechina.org/2022/10/long-term-2/",
+          "publishedOn": "2022-10-31T05:37:36.000Z",
+          "wordCount": 906,
+          "title": "从长期看，我们只能坚持长期主义（聊聊自媒体）￼",
+          "imageUrl": null
+        },
+        {
           "id": "https://codechina.org/?p=24817",
           "author": "tinyfool",
           "description": "现在是凌晨1点钟，我刚洗完澡，正在晾干自己，所以可以写篇文章。今天一早又要做核酸。 最近抖音有一个模版还挺火的 […]",
@@ -173,18 +183,7 @@
       "title": "�Ʒ�� BLOG",
       "feedUrl": "https://blog.codingnow.com/atom.xml",
       "siteUrl": "https://blog.codingnow.com/",
-      "articles": [
-        {
-          "id": "https://blog.codingnow.com/2022/10/telecom_ipv6.html",
-          "author": null,
-          "description": "��ĩ�ڼ������� BT ���أ����� UPnP �޷���������ȥ��è���￴����ʲô����� �ҷ������ڵ��ſ���Ĭ���Ѿ����ɹ�è�����ţ����е�·��������Ϊһ������·����ʹ�ã�������� UPnP �� DMZ ������������Ҫ�ڹ�è�����á� �鿴��è�豸��ӡ��Ĭ�Ϲ���Ա�����¼��ȥ��û���ҵ�̫������ѡ�����������һ�£���Ҫһ����������Ա���ݲ��ܿ���ȫ�����ò˵���һ���˵���Ǵ�绰��һ��װ������ʦ��������ɫ�����������鷳�ˡ�ת��һ�룬����ô��ҿ����豸Ҫ����������Ӧ���õ���ͳһ���룬������һЩ���ֶο����õ��������Ŷԡ�������һ���׹���ϵͳ�ɱ�ʵ��̫���ˡ�...",
-          "link": "https://blog.codingnow.com/2022/10/telecom_ipv6.html",
-          "publishedOn": "2022-10-17T01:49:42.000Z",
-          "wordCount": 244,
-          "title": "���ſ��� ipv6 ���ڼ�",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "piglei",
@@ -270,6 +269,16 @@
       "feedUrl": "https://www.leavesongs.com/feed",
       "siteUrl": "https://www.leavesongs.com",
       "articles": [
+        {
+          "id": "https://www.leavesongs.com/SOFT/paas-service-from-heroku-to-fly-io.html",
+          "author": "phithon",
+          "description": "今年8月得知了Heroku将要在今年11月彻底下线免费服务，我只有少量服务放在Heroku上，所以没有太在意，直到10月感觉到不得不开始做迁移相关的工作了，于是开始着手准备，并有了这篇文章。\n这篇文章纯属是事后记录的一些流水账，可能缺少截图和代码片段，全当是作为一个故事看，可能不具备参考性。\n为什么选择PaaS服务\n从很久以前开始接触“虚拟主机”这个行业开始，我经历了虚拟主机、VPS、云主机、Pa",
+          "link": "https://www.leavesongs.com/SOFT/paas-service-from-heroku-to-fly-io.html",
+          "publishedOn": "2022-11-01T01:14:36.325Z",
+          "wordCount": 223,
+          "title": "PaaS服务从Heroku迁移到fly.io小计",
+          "imageUrl": null
+        },
         {
           "id": "https://www.leavesongs.com/THINK/um560-two-weeks-using-experience.html",
           "author": "phithon",

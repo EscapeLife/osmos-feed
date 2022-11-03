@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-11-02T01:08:48.044Z</updated>
+    <updated>2022-11-03T01:02:33.121Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -405,16 +405,6 @@ def main():
 好了，关于《Python 工匠》的预售信息先介绍到这。感谢所有朋友一路以来对“Python 工匠”的支持，期待你拿到书后，第一时间与我分享你的阅读体验。再会！]]></summary>
         <author>
             <name>piglei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[低欲望社会——我的低欲望生活以及反思￼]]></title>
-        <id>https://codechina.org/?p=24610</id>
-        <link href="https://codechina.org/2022/10/low/"/>
-        <updated>2022-10-19T04:06:41.000Z</updated>
-        <summary type="html"><![CDATA[日本著名作家大前研一在2015年，曾经写了一本《低欲望社会》。 购买链接：https://u.jd.com/k […]]]></summary>
-        <author>
-            <name>tinyfool</name>
         </author>
     </entry>
     <entry>

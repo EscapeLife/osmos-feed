@@ -49,6 +49,16 @@
       "siteUrl": "https://codechina.org",
       "articles": [
         {
+          "id": "https://codechina.org/?p=25104",
+          "author": "tinyfool",
+          "description": "对于很多人来说，做一件事情不难，但是开头很难。古语有云，万事开头难。 我以前写文章讲，当年很多人咨询我做 iO […]",
+          "link": "https://codechina.org/2022/11/fire-and-motion/",
+          "publishedOn": "2022-11-05T05:45:56.000Z",
+          "wordCount": 981,
+          "title": "行进中开火，不开第一枪，一切都不会开始",
+          "imageUrl": null
+        },
+        {
           "id": "https://codechina.org/?p=25072",
           "author": "tinyfool",
           "description": "初一我就开始在学习机上面写代码，那时候写的是某种弱化的BASIC。我当时理论上知道计算机和编程可以做世界上的一 […]",
@@ -180,6 +190,16 @@
       "feedUrl": "https://www.zlovezl.cn/feeds/latest",
       "siteUrl": "http://www.zlovezl.cn/",
       "articles": [
+        {
+          "id": "https://www.zlovezl.cn/articles/how-to-design-config-file-for-software/",
+          "author": null,
+          "description": "在设计和开发服务端（后端）软件时，配置文件是一个绕不开的话题。\n配置文件是一种用于存放各类可配置项的特殊文件。每个软件都会预设一些默认配置，但这些默认值不可能适用于所有情况。因此，到了不同的环境中，我们常常需要用配置文件对其进行扩展和修改。\n拿版本控制软件 git 举例。大部分用户的 home 目录（~）都存放着一份 .gitconfig 配置文件，里面写着自己的用户名和邮箱地址：\n[user]\n    name = piglei\n    email = piglei2007@gmail.com\n\n就像软件的任何一个主要功能一样，配置文件也会极大的影响软件的使用体验。良好的设计能让软件变得更易用，糟糕的设计则会带来许多意想不到的问题，将用户拒之门外。\n在这篇文章中，我整理了 4 条关于“软件配置文件”的设计建议，希望能对你有所帮助。\n1. 最好不给配置也能用\n在网络世界里，每过一天，人们的耐心似乎就又比前一天减少了一丁点。一个制作精良的短视频，如果 3 秒钟之内无法抓住你，你的右手拇指就会条件反射般将它划走。\n现在，假设你开发了一个非常有用的工具软件，并发布到了网上。软件的功能非常全面，所有人在使用它之前，需要编辑一份包含 20 项配置的配置文件。你猜，有多大比例的潜在用户会直接掉头走掉？\n当我们想要一件东西时，总是一刻也不想等。因此，初始的配置过程麻烦与否，会强烈影响人们尝试软件的决心。在这方面，我认为最好的体验是：无需提供任何配置，便能直接使用软件 80% 以上的功能。\n假如无法做到这一点，我们也应该试着从以下几个方面着手，尽量降低用户的配置成本，压缩从“开始安装”到“可使用”之间的等待时间。\n1.1 预设合理的默认值\n为了将必须由用户提供的配置项，压缩到最少。你得给软件的所有配置项预设一个足够合理的默认值。这些默认值应当能让尽可能多的用户满意。\n举个例子，假如你的软件…",
+          "link": "https://www.zlovezl.cn/articles/how-to-design-config-file-for-software/",
+          "publishedOn": "2022-11-06T01:00:30.274Z",
+          "wordCount": 303,
+          "title": "设计服务端软件配置的 4 条建议",
+          "imageUrl": null
+        },
         {
           "id": "https://www.zlovezl.cn/articles/my-book-releases/",
           "author": null,
@@ -327,16 +347,6 @@
           "publishedOn": "2022-10-23T01:11:36.324Z",
           "wordCount": 571,
           "title": "从偶遇Flarum开始的RCE之旅",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.leavesongs.com/THINK/xray-3-years.html",
-          "author": "phithon",
-          "description": "上周XRay做了一次三周年活动，简单写了一段寄语，记录于博客。\n大家好，我是phith0n，安全社区有很多人叫我P师傅，以前很抗拒这个称呼，总是给人一种互相吹捧的感觉，不过后来我换了一个角度理解这个称呼——以前坐公交车不认路的时候，我们上车时总会问司机：师傅，这个车到不到国贸大厦？\n这么多年过去了，大部分人用上智能手机，搜索引擎，很少再有人会再问出这类问题。但是我还是愿意当一个普普通通的司机师傅",
-          "link": "https://www.leavesongs.com/THINK/xray-3-years.html",
-          "publishedOn": "2022-10-22T01:14:50.711Z",
-          "wordCount": 120,
-          "title": "XRay三周年活动寄语",
           "imageUrl": null
         }
       ]

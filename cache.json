@@ -97,16 +97,6 @@
           "wordCount": 883,
           "title": "笑对不确定性，坚持自己过好一生￼",
           "imageUrl": null
-        },
-        {
-          "id": "https://codechina.org/?p=24721",
-          "author": "tinyfool",
-          "description": "​最近刚刚上任的瑞典新首相克里斯特松，最近因为一则新闻频繁的登上中国的媒体和社交网络的版面。 原来他多年以前就 […]",
-          "link": "https://codechina.org/2022/10/chinese-girls/",
-          "publishedOn": "2022-10-23T01:41:11.000Z",
-          "wordCount": 933,
-          "title": "瑞典新首相，三个养女儿都来自中国，聊聊为什么西方名人喜欢收养中国女童",
-          "imageUrl": null
         }
       ]
     },
@@ -157,6 +147,16 @@
       "feedUrl": "https://greyli.com/feed",
       "siteUrl": "https://greyli.com",
       "articles": [
+        {
+          "id": "https://greyli.com/?p=4636",
+          "author": "李辉",
+          "description": "下午突然想出去走走。趁着太阳还没落山（楼），在江湾体育场门前消磨了两个小时。 阳光均匀地洒在广场上，温柔绚烂。 […]",
+          "link": "https://greyli.com/two-hours-in-2022/",
+          "publishedOn": "2022-11-06T11:32:05.000Z",
+          "wordCount": 331,
+          "title": "2022 年的两个小时",
+          "imageUrl": "https://greyli.com/wp-content/uploads/2020/07/avatar.jpg"
+        },
         {
           "id": "https://greyli.com/?p=4621",
           "author": "李辉",
@@ -260,6 +260,16 @@
       "siteUrl": "https://www.leavesongs.com",
       "articles": [
         {
+          "id": "https://www.leavesongs.com/THINK/xray-3-years.html",
+          "author": "phithon",
+          "description": "上周XRay做了一次三周年活动，简单写了一段寄语，记录于博客。\n大家好，我是phith0n，安全社区有很多人叫我P师傅，以前很抗拒这个称呼，总是给人一种互相吹捧的感觉，不过后来我换了一个角度理解这个称呼——以前坐公交车不认路的时候，我们上车时总会问司机：师傅，这个车到不到国贸大厦？\n这么多年过去了，大部分人用上智能手机，搜索引擎，很少再有人会再问出这类问题。但是我还是愿意当一个普普通通的司机师傅",
+          "link": "https://www.leavesongs.com/THINK/xray-3-years.html",
+          "publishedOn": "2022-11-07T00:58:22.001Z",
+          "wordCount": 120,
+          "title": "XRay三周年活动寄语",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.leavesongs.com/THINK/how-to-verify-individual-in-singapore.html",
           "author": "phithon",
           "description": "三月是国内个税申报的月份，也是新加坡个税申报的月份，前几天收到一封信，告诉我应该填写个税申报的表格了。\n\n在这封信里，提到了下面这段话：\nTo file your Income Tax Return, log in to myTax Portal with Singpass.\n这里面有说到一个东西叫Singpass，在我来新加坡的这几个月里，几乎可以把Singpass看成新加坡政府数字化建设的",
@@ -337,16 +347,6 @@
           "publishedOn": "2022-10-25T01:18:21.840Z",
           "wordCount": 329,
           "title": "我自己博客的一个XSS的故事",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.leavesongs.com/PENETRATION/flarum-rce-tour.html",
-          "author": "phithon",
-          "description": "本文首发于跳跳糖，转载请联系站方。\n一次日常测试中，偶然遇到了一个Flarum搭建的论坛，并获得了其管理员账号。本来到这里已经可以算完成了任务，将漏洞报给具体负责的人就结束了，但是既然已经拿到了管理员账号，何不尝试一下RCE呢？\n首先，我在管理员后台看到当前Fla",
-          "link": "https://www.leavesongs.com/PENETRATION/flarum-rce-tour.html",
-          "publishedOn": "2022-10-23T01:11:36.324Z",
-          "wordCount": 571,
-          "title": "从偶遇Flarum开始的RCE之旅",
           "imageUrl": null
         }
       ]

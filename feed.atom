@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-11-07T00:58:53.909Z</updated>
+    <updated>2022-11-08T00:59:27.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[从偶遇Flarum开始的RCE之旅]]></title>
+        <id>https://www.leavesongs.com/PENETRATION/flarum-rce-tour.html</id>
+        <link href="https://www.leavesongs.com/PENETRATION/flarum-rce-tour.html"/>
+        <updated>2022-11-08T00:58:50.015Z</updated>
+        <summary type="html"><![CDATA[本文首发于跳跳糖，转载请联系站方。
+一次日常测试中，偶然遇到了一个Flarum搭建的论坛，并获得了其管理员账号。本来到这里已经可以算完成了任务，将漏洞报给具体负责的人就结束了，但是既然已经拿到了管理员账号，何不尝试一下RCE呢？
+首先，我在管理员后台看到当前Fla]]></summary>
+        <author>
+            <name>phithon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[昨天把我3D打印的狮身人面像做了一个涂绘]]></title>
+        <id>https://codechina.org/?p=25154</id>
+        <link href="https://codechina.org/2022/11/3d-printing-sphinx/"/>
+        <updated>2022-11-07T02:55:52.000Z</updated>
+        <summary type="html"><![CDATA[6月份的时候，我3D打印了一个狮身人面像。真是很漂亮。 这个造型基本上是真实的狮身人面像的一个还不错的复原。  […]]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XRay三周年活动寄语]]></title>
         <id>https://www.leavesongs.com/THINK/xray-3-years.html</id>
@@ -332,38 +354,6 @@ type ListAppsOptions struct …]]></summary>
 reply]]></summary>
         <author>
             <name>phithon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python 工匠：语句、表达式和海象操作符]]></title>
-        <id>https://www.zlovezl.cn/articles/stmt-expr-and-walrus-operator/</id>
-        <link href="https://www.zlovezl.cn/articles/stmt-expr-and-walrus-operator/"/>
-        <updated>2022-10-24T01:21:37.544Z</updated>
-        <summary type="html"><![CDATA[让我们从两行最简单的 Python 代码开始。
->>> name = 'piglei'
->>> print(f'Hello {name}!')
-Hello piglei!
-
-这是一个“Hello World”程序，你也许已经见过它无数次，对里面的每个字母都了如指掌。但你可能从未意识到，上面两行代码，刚好对应着 Python 语言里的两个重要概念：语句（statement） 和 表达式（expression）。
-具体来说，name = 'piglei' 是一行赋值语句，它将字符串 'piglei' 赋给了 name 变量。print(f'Hello {name}!') 则是一个表达式，它通过调用内置函数 print 往屏幕打印信息。
-表达式的特点
-编写代码时，语句和表达式是两类最基本的代码单元。
-虽然在日常表达中，我们会把语句和表达式区分开来，但二者并非完全不同——表达式实际上就是一种特殊的语句。和普通语句比起来，表达式的特别之处在于它拥有一个（或多个）返回值。
-举例来说，前面的 print(...) 表达式就会返回一个值：None。你可以像下面这样获取它：
-# print 函数总是返回 None
->>> val = print(f'Hello {name}!')
-Hello piglei!
->>> val is None
-True
-
-虽然这么做没啥实际用途，但它足够体现出表达式的独特之处——因为你永远无法对普通语句做出类似的事情。无论是“赋值语句”、“循环语句”，还是一个“条件分支语句”，你永远都无法将其赋值给某个变量，这在语法上无从谈起：
->>> val = (name = 'piglei')
-  File "<stdin>", line 1
-    val = (name = 'piglei')
-                ^
-SyntaxError: invali…]]></summary>
-        <author>
-            <name>piglei</name>
         </author>
     </entry>
     <entry>

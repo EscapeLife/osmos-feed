@@ -82,6 +82,75 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-11-09 datetime="2022-11-09T00:59:48.544Z">2022-11-09</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-11-09 datetime="2022-11-09T00:59:48.544Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >piglei</button>
+                  <a class="source-heading__link" href="http://www.zlovezl.cn/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.zlovezl.cn/articles/stmt-expr-and-walrus-operator/"
+                        open
+                      >
+                        <summary class="article-expander__title">Python 工匠：语句、表达式和海象操作符</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.zlovezl.cn/articles/stmt-expr-and-walrus-operator/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>让我们从两行最简单的 Python 代码开始。
+&gt;&gt;&gt; name &#x3D; &#x27;piglei&#x27;
+&gt;&gt;&gt; print(f&#x27;Hello {name}!&#x27;)
+Hello piglei!
+
+这是一个“Hello World”程序，你也许已经见过它无数次，对里面的每个字母都了如指掌。但你可能从未意识到，上面两行代码，刚好对应着 Python 语言里的两个重要概念：语句（statement） 和 表达式（expression）。
+具体来说，name &#x3D; &#x27;piglei&#x27; 是一行赋值语句，它将字符串 &#x27;piglei&#x27; 赋给了 name 变量。print(f&#x27;Hello {name}!&#x27;) 则是一个表达式，它通过调用内置函数 print 往屏幕打印信息。
+表达式的特点
+编写代码时，语句和表达式是两类最基本的代码单元。
+虽然在日常表达中，我们会把语句和表达式区分开来，但二者并非完全不同——表达式实际上就是一种特殊的语句。和普通语句比起来，表达式的特别之处在于它拥有一个（或多个）返回值。
+举例来说，前面的 print(...) 表达式就会返回一个值：None。你可以像下面这样获取它：
+# print 函数总是返回 None
+&gt;&gt;&gt; val &#x3D; print(f&#x27;Hello {name}!&#x27;)
+Hello piglei!
+&gt;&gt;&gt; val is None
+True
+
+虽然这么做没啥实际用途，但它足够体现出表达式的独特之处——因为你永远无法对普通语句做出类似的事情。无论是“赋值语句”、“循环语句”，还是一个“条件分支语句”，你永远都无法将其赋值给某个变量，这在语法上无从谈起：
+&gt;&gt;&gt; val &#x3D; (name &#x3D; &#x27;piglei&#x27;)
+  File &quot;&quot;, line 1
+    val &#x3D; (name &#x3D; &#x27;piglei&#x27;)
+                ^
+SyntaxError: invali…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-11-08 datetime="2022-11-08T00:58:50.015Z">2022-11-08</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-11-08 datetime="2022-11-08T00:58:50.015Z"></time>
           </button>
@@ -1014,62 +1083,6 @@ type ListAppsOptions struct …</span>
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-10-25 datetime="2022-10-25T01:18:21.840Z">2022-10-25</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-10-25 datetime="2022-10-25T01:18:21.840Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >离别歌</button>
-                  <a class="source-heading__link" href="https://www.leavesongs.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.leavesongs.com/PENETRATION/xss-from-my-blog.html"
-                        open
-                      >
-                        <summary class="article-expander__title">我自己博客的一个XSS的故事</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.leavesongs.com/PENETRATION/xss-from-my-blog.html">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>今天晚上收到几个提醒，打开一看是有人在我博客评论区测试XSS：
-
-本来这种测试司空见惯了，而且此人也没成功找到XSS，放以前我多半就关掉页面了。
-不过我今晚不知为何临时起意，就顺势看了一下自己写的代码，居然被我自己找到一个XSS漏洞：
-
-原因是什么呢？
-0x01 开发历史介绍
-我当时在开发这个回复按钮的时候，为了方便，直接用JavaScript伪协议来调用reply_to函数，比如：
-
-reply</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-01-21 datetime="2022-01-21T00:48:38.000Z">2022-01-21</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-01-21 datetime="2022-01-21T00:48:38.000Z"></time>
           </button>
@@ -1159,8 +1172,8 @@ reply</span>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/EscapeLife/osmos-feed/actions/runs/3415426004">
-        <time id="build-timestamp" datetime="2022-11-08T00:59:27.449Z">2022-11-08T00:59:27.449Z</time>
+      <a class="footer-link" href="https://github.com/EscapeLife/osmos-feed/actions/runs/3424478683">
+        <time id="build-timestamp" datetime="2022-11-09T01:00:27.073Z">2022-11-09T01:00:27.073Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

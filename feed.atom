@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-11-10T01:01:00.801Z</updated>
+    <updated>2022-11-11T01:03:32.799Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -405,16 +405,6 @@ type ListAppsOptions struct …]]></summary>
         <link href="https://greyli.com/chair-jr/"/>
         <updated>2022-10-29T16:08:30.000Z</updated>
         <summary type="html"><![CDATA[继上一次邂逅皮克斯电箱之后，今天去微软 Reactor 参加 COSCon 遇见了皮克斯椅子们： 我爱这排椅子 […]]]></summary>
-        <author>
-            <name>李辉</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[来 COSCon 2022 开源集市一起开发元宇宙]]></title>
-        <id>https://greyli.com/?p=4602</id>
-        <link href="https://greyli.com/coscon-2022-metaverse/"/>
-        <updated>2022-10-26T15:49:20.000Z</updated>
-        <summary type="html"><![CDATA[今年的 COSCon 2022 上海线下会场（10/29）有很多开源相关的活动，其中开源集市会有很多开源社区/ […]]]></summary>
         <author>
             <name>李辉</name>
         </author>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-11-12T00:59:48.600Z</updated>
+    <updated>2022-11-13T00:58:19.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[重回 Windows 之路]]></title>
+        <id>https://manjusaka.blog/posts/2022/11/12/the-road-back-to-windows/</id>
+        <link href="https://manjusaka.blog/posts/2022/11/12/the-road-back-to-windows/"/>
+        <updated>2022-11-12T04:27:15.000Z</updated>
+        <summary type="html"><![CDATA[<p>最近会回到 Windows 下办公了两周多，简单记录下自己的使用体验</p>]]></summary>
+        <author>
+            <name>Manjusaka</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我自己博客的一个XSS的故事]]></title>
         <id>https://www.leavesongs.com/PENETRATION/xss-from-my-blog.html</id>

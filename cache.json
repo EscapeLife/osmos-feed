@@ -116,7 +116,18 @@
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "https://manjusaka.blog/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://manjusaka.blog/posts/2022/11/12/the-road-back-to-windows/",
+          "author": null,
+          "description": "<p>最近会回到 Windows 下办公了两周多，简单记录下自己的使用体验</p>",
+          "link": "https://manjusaka.blog/posts/2022/11/12/the-road-back-to-windows/",
+          "publishedOn": "2022-11-12T04:27:15.000Z",
+          "wordCount": 382,
+          "title": "重回 Windows 之路",
+          "imageUrl": "https://manjusaka.blog/img/og_image.png"
+        }
+      ]
     },
     {
       "title": "laike9m's blog",

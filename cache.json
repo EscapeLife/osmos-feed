@@ -167,16 +167,6 @@
           "wordCount": 331,
           "title": "2022 年的两个小时",
           "imageUrl": "https://greyli.com/wp-content/uploads/2020/07/avatar.jpg"
-        },
-        {
-          "id": "https://greyli.com/?p=4621",
-          "author": "李辉",
-          "description": "继上一次邂逅皮克斯电箱之后，今天去微软 Reactor 参加 COSCon 遇见了皮克斯椅子们： 我爱这排椅子 […]",
-          "link": "https://greyli.com/chair-jr/",
-          "publishedOn": "2022-10-29T16:08:30.000Z",
-          "wordCount": 224,
-          "title": "皮克斯椅子",
-          "imageUrl": "https://greyli.com/wp-content/uploads/2020/07/avatar.jpg"
         }
       ]
     },
@@ -250,16 +240,6 @@
           "publishedOn": "2022-11-05T01:01:54.808Z",
           "wordCount": 215,
           "title": "久等了，我的新书《Python工匠》开始预售",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zlovezl.cn/articles/go-func-argument-patterns/",
-          "author": null,
-          "description": "1. 普通传参\nGo 语言支持按顺序传入参数来调用函数，下面是一个示例函数：\n// ListApplications 查询应用列表\nfunc ListApplications(limit, offset int) []Application {\n    return allApps[offset : offset+limit]\n}\n\n调用代码：\nListApplications(5, 0)\n\n当你想增加新参数时，可以直接修改函数签名。比如，下面的代码给 ListApplications 增加了新的过滤参数 owner：\nfunc ListApplications(limit, offset int, owner string) []Application {\n    if owner != \"\" {\n        // ...\n    }\n    return allApps[offset : offset+limit]\n}\n\n调用代码也需要随之改变：\nListApplications(5, 0, \"piglei\")\n// 不使用 owner 过滤\nListApplications(5, 0, \"\")\n\n显而易见，这种普通传参模式存在以下几个明显的问题：\n可读性不佳：只支持用位置，不支持用关键字来区分参数，参数变多后，各参数含义很难一目了然\n破坏兼容性：增加新参数后，原有调用代码必须进行对应修改，比如像上方的 ListApplications(5, 0, \"\") 一样，在 owner 参数的位置传递空字符串\n为了解决这些问题，常见的做法是引入一个参数结构体（struct）类型。\n2. 使用参数结构体\n新建一个结构体类型，里面包含函数需要支持的所有参数：\n// ListAppsOptions 是查询应用列表时的可选项\ntype ListAppsOptions struct …",
-          "link": "https://www.zlovezl.cn/articles/go-func-argument-patterns/",
-          "publishedOn": "2022-10-30T01:09:31.514Z",
-          "wordCount": 719,
-          "title": "Go 的几种函数传参模式",
           "imageUrl": null
         }
       ]
@@ -369,16 +349,6 @@
           "publishedOn": "2022-11-01T01:14:36.325Z",
           "wordCount": 223,
           "title": "PaaS服务从Heroku迁移到fly.io小计",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.leavesongs.com/THINK/um560-two-weeks-using-experience.html",
-          "author": "phithon",
-          "description": "本文推荐的UM560非与厂商合作推广，仅为我自己的使用体验。\n我大四买了人生里第一台Macbook pro，从那会开始Mac卡顿的问题就一直困扰我到现在。当然这也可能是我自己的问题——我没钱买顶配Macbook，以前公司发的也是低配Macbook pro，我甚至用8G内存的13寸Mac直到2018年才换。\n来新公司以后总算摸到了15寸Mac，但还是16G内存Intel芯片的老电脑，被Burps",
-          "link": "https://www.leavesongs.com/THINK/um560-two-weeks-using-experience.html",
-          "publishedOn": "2022-10-30T01:09:33.042Z",
-          "wordCount": 307,
-          "title": "使用Minisforum UM560小主机办公一周体验",
           "imageUrl": null
         }
       ]

@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-11-17T00:57:43.531Z</updated>
+    <updated>2022-11-18T01:00:16.768Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022年欧洲游记]]></title>
+        <id>https://www.leavesongs.com/THINK/europe-trip-2022.html</id>
+        <link href="https://www.leavesongs.com/THINK/europe-trip-2022.html"/>
+        <updated>2022-11-18T01:00:10.497Z</updated>
+        <summary type="html"><![CDATA[这篇文章记录了我和三个小伙伴在法国、瑞士旅行的经历。
+我大概是在今年7月做了去欧洲旅行的计划，说是“计划”也不太贴切，只是几个朋友搜了一下比较合适的机票以后，就决定要来了。类似的“计划”之前也发生过，有时候甚至是买好机票才喊人，不得不说我的很多决定是草率的，但这就是我。
+准备
+签证
+由于这次旅行是放在新加坡公共假期“屠妖节”的那一个礼拜（10月底），所以我就在8月份去申请了签证。
+我们的第一目的地]]></summary>
+        <author>
+            <name>phithon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[skynet 1.6.0]]></title>
+        <id>https://blog.codingnow.com/2022/11/skynet_160.html</id>
+        <link href="https://blog.codingnow.com/2022/11/skynet_160.html"/>
+        <updated>2022-11-17T07:20:56.000Z</updated>
+        <summary type="html"><![CDATA[�������£���Ϊ���ݷ������ߣ���һֱ�ӼҰ칫�����˵�ʱ�䣬�� skynet ����һ��һ�ȵ� release �� ��ε� 1.6.0 �棬���ȥ��� 1.5.0 �棬û��̫��ı仯����Ҫ��ƽʱ���۵�һЩ bugfix �����������ĵ������⣬���� Lua , jemalloc �Ҷ����µ������µİ汾�� ֵ��һ����ǣ�mongo �� driver Ҳ�����ˡ���Ϊ mongo �����µİ汾���Ѿ���̭�˾ɵ� wire protocol ������ٲ����£����޷������°� mongo server �ˡ��������ۿ��Բο� PR #1649 ����Ϊ mongo �Լ������ԭ�������޷�����һ��ͬʱ�������ϰ汾Э��ķ�����������������Ҹ�����Ϊ redis �ĵײ�Э����ƾ��ȶ��Ķࡣ ��ô���������������Ҫ�޸ġ�...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PaaS服务从Heroku迁移到fly.io小计]]></title>
         <id>https://www.leavesongs.com/SOFT/paas-service-from-heroku-to-fly-io.html</id>
@@ -372,16 +397,6 @@ GitHub 个人页面访问显示 404
 好了，关于《Python 工匠》的预售信息先介绍到这。感谢所有朋友一路以来对“Python 工匠”的支持，期待你拿到书后，第一时间与我分享你的阅读体验。再会！]]></summary>
         <author>
             <name>piglei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我是一个码农]]></title>
-        <id>https://codechina.org/?p=25072</id>
-        <link href="https://codechina.org/2022/11/a-coder/"/>
-        <updated>2022-11-03T02:05:00.000Z</updated>
-        <summary type="html"><![CDATA[初一我就开始在学习机上面写代码，那时候写的是某种弱化的BASIC。我当时理论上知道计算机和编程可以做世界上的一 […]]]></summary>
-        <author>
-            <name>tinyfool</name>
         </author>
     </entry>
     <entry>

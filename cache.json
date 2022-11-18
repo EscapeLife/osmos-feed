@@ -77,16 +77,6 @@
           "wordCount": 981,
           "title": "行进中开火，不开第一枪，一切都不会开始",
           "imageUrl": null
-        },
-        {
-          "id": "https://codechina.org/?p=25072",
-          "author": "tinyfool",
-          "description": "初一我就开始在学习机上面写代码，那时候写的是某种弱化的BASIC。我当时理论上知道计算机和编程可以做世界上的一 […]",
-          "link": "https://codechina.org/2022/11/a-coder/",
-          "publishedOn": "2022-11-03T02:05:00.000Z",
-          "wordCount": 967,
-          "title": "我是一个码农",
-          "imageUrl": null
         }
       ]
     },
@@ -165,6 +155,16 @@
       "feedUrl": "https://blog.codingnow.com/atom.xml",
       "siteUrl": "https://blog.codingnow.com/",
       "articles": [
+        {
+          "id": "https://blog.codingnow.com/2022/11/skynet_160.html",
+          "author": null,
+          "description": "�������£���Ϊ���ݷ������ߣ���һֱ�ӼҰ칫�����˵�ʱ�䣬�� skynet ����һ��һ�ȵ� release �� ��ε� 1.6.0 �棬���ȥ��� 1.5.0 �棬û��̫��ı仯����Ҫ��ƽʱ���۵�һЩ bugfix �����������ĵ������⣬���� Lua , jemalloc �Ҷ����µ������µİ汾�� ֵ��һ����ǣ�mongo �� driver Ҳ�����ˡ���Ϊ mongo �����µİ汾���Ѿ���̭�˾ɵ� wire protocol ������ٲ����£����޷������°� mongo server �ˡ��������ۿ��Բο� PR #1649 ����Ϊ mongo �Լ������ԭ�������޷�����һ��ͬʱ�������ϰ汾Э��ķ�����������������Ҹ�����Ϊ redis �ĵײ�Э����ƾ��ȶ��Ķࡣ ��ô���������������Ҫ�޸ġ�...",
+          "link": "https://blog.codingnow.com/2022/11/skynet_160.html",
+          "publishedOn": "2022-11-17T07:20:56.000Z",
+          "wordCount": 202,
+          "title": "skynet 1.6.0",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.codingnow.com/2022/11/enuoeaaenaeaeoaaee.html",
           "author": null,
@@ -261,6 +261,16 @@
       "feedUrl": "https://www.leavesongs.com/feed",
       "siteUrl": "https://www.leavesongs.com",
       "articles": [
+        {
+          "id": "https://www.leavesongs.com/THINK/europe-trip-2022.html",
+          "author": "phithon",
+          "description": "这篇文章记录了我和三个小伙伴在法国、瑞士旅行的经历。\n我大概是在今年7月做了去欧洲旅行的计划，说是“计划”也不太贴切，只是几个朋友搜了一下比较合适的机票以后，就决定要来了。类似的“计划”之前也发生过，有时候甚至是买好机票才喊人，不得不说我的很多决定是草率的，但这就是我。\n准备\n签证\n由于这次旅行是放在新加坡公共假期“屠妖节”的那一个礼拜（10月底），所以我就在8月份去申请了签证。\n我们的第一目的地",
+          "link": "https://www.leavesongs.com/THINK/europe-trip-2022.html",
+          "publishedOn": "2022-11-18T01:00:10.497Z",
+          "wordCount": 209,
+          "title": "2022年欧洲游记",
+          "imageUrl": null
+        },
         {
           "id": "https://www.leavesongs.com/SOFT/paas-service-from-heroku-to-fly-io.html",
           "author": "phithon",

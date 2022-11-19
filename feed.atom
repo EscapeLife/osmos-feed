@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-11-18T01:00:16.768Z</updated>
+    <updated>2022-11-19T00:58:39.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[没来的请举手]]></title>
+        <id>https://www.kawabangga.com/?p=4847</id>
+        <link href="https://www.kawabangga.com/posts/4847"/>
+        <updated>2022-11-18T14:32:10.000Z</updated>
+        <summary type="html"><![CDATA[我们需要在一个 VPC 网络环境中采集一些服务的 metrics，TSDB 存储在中心机房中，存储节点、中心节 […]
+Continue reading...
+The post 没来的请举手 first appeared on 卡瓦邦噶！.
+
+相关文章:
+
+Prometheus HTTP SD 框架
+Golang 的 Channel 是一种免费的无锁实现吗？
+PromQL 使用多个 label 组合过滤
+《Prometheus Up & Running》阅读
+Side Project 成本最小化运行]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年欧洲游记]]></title>
         <id>https://www.leavesongs.com/THINK/europe-trip-2022.html</id>

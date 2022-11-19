@@ -90,7 +90,18 @@
       "title": "卡瓦邦噶！",
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.kawabangga.com/?p=4847",
+          "author": "laixintao",
+          "description": "我们需要在一个 VPC 网络环境中采集一些服务的 metrics，TSDB 存储在中心机房中，存储节点、中心节 […]\nContinue reading...\nThe post 没来的请举手 first appeared on 卡瓦邦噶！.\n\n相关文章:\n\nPrometheus HTTP SD 框架\nGolang 的 Channel 是一种免费的无锁实现吗？\nPromQL 使用多个 label 组合过滤\n《Prometheus Up & Running》阅读\nSide Project 成本最小化运行",
+          "link": "https://www.kawabangga.com/posts/4847",
+          "publishedOn": "2022-11-18T14:32:10.000Z",
+          "wordCount": 725,
+          "title": "没来的请举手",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Manjusaka",

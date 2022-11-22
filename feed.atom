@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-11-21T00:58:12.493Z</updated>
+    <updated>2022-11-22T00:58:52.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[设计服务端软件配置的 4 条建议]]></title>
+        <id>https://www.zlovezl.cn/articles/how-to-design-config-file-for-software/</id>
+        <link href="https://www.zlovezl.cn/articles/how-to-design-config-file-for-software/"/>
+        <updated>2022-11-22T00:58:30.200Z</updated>
+        <summary type="html"><![CDATA[在设计和开发服务端（后端）软件时，配置文件是一个绕不开的话题。
+配置文件是一种用于存放各类可配置项的特殊文件。每个软件都会预设一些默认配置，但这些默认值不可能适用于所有情况。因此，到了不同的环境中，我们常常需要用配置文件对其进行扩展和修改。
+拿版本控制软件 git 举例。大部分用户的 home 目录（~）都存放着一份 .gitconfig 配置文件，里面写着自己的用户名和邮箱地址：
+[user]
+    name = piglei
+    email = piglei2007@gmail.com
+
+就像软件的任何一个主要功能一样，配置文件也会极大的影响软件的使用体验。良好的设计能让软件变得更易用，糟糕的设计则会带来许多意想不到的问题，将用户拒之门外。
+在这篇文章中，我整理了 4 条关于“软件配置文件”的设计建议，希望能对你有所帮助。
+1. 最好不给配置也能用
+在网络世界里，每过一天，人们的耐心似乎就又比前一天减少了一丁点。一个制作精良的短视频，如果 3 秒钟之内无法抓住你，你的右手拇指就会条件反射般将它划走。
+现在，假设你开发了一个非常有用的工具软件，并发布到了网上。软件的功能非常全面，所有人在使用它之前，需要编辑一份包含 20 项配置的配置文件。你猜，有多大比例的潜在用户会直接掉头走掉？
+当我们想要一件东西时，总是一刻也不想等。因此，初始的配置过程麻烦与否，会强烈影响人们尝试软件的决心。在这方面，我认为最好的体验是：无需提供任何配置，便能直接使用软件 80% 以上的功能。
+假如无法做到这一点，我们也应该试着从以下几个方面着手，尽量降低用户的配置成本，压缩从“开始安装”到“可使用”之间的等待时间。
+1.1 预设合理的默认值
+为了将必须由用户提供的配置项，压缩到最少。你得给软件的所有配置项预设一个足够合理的默认值。这些默认值应当能让尽可能多的用户满意。
+举个例子，假如你的软件…]]></summary>
+        <author>
+            <name>piglei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[��ϴ�����ַ���]]></title>
+        <id>https://blog.codingnow.com/2022/11/stringid.html</id>
+        <link href="https://blog.codingnow.com/2022/11/stringid.html"/>
+        <updated>2022-11-21T02:32:12.000Z</updated>
+        <summary type="html"><![CDATA[���󲿷ֵĻ������ݽṹ���Ƕ����ģ�����������Ż����ǵ��ڴ���������ַ�����һ�����⡣ �ڴ������������Դ���������ԵĲ�ͬ�������ڴ��е����е��⣬�����鵰����������Ҫ���ǿ飬���黹��ʱ��ȴ��Ϊ֧���������Ժϲ��������������;���ٸ����˵����ӣ�����ڴ���� 2G ��С��������������м�����˼����ֽڶ���δ�ͷţ�����Ѿͱ����õķֳ����������� 1G �ķ�Ƭ��֮�����޿��ܴ���� 2G ��С�Ķ��з���� 1G ���ڴ�顣 �Ľ��ڴ�����㷨�������Լ����ڴ���Ƭ��Σ��������ʹ���ڴ˷��������൱��Ŭ���� jemalloc �������Ҳ������һ���û���Ԥ�ڡ����ҵľ��飬һ�� 16G ���ڴ�ѣ����ڳ������У���Ҫ�������������ͷ��ڴ�ĳ���ͨ�������� 10G ���ҵķ�ֵ��Ч�ڴ�ռ�þͲ����ˡ�����˵����Ч�ڴ�ʹ�ã�ָ����� malloc ������ֽ���֮�͡�����Ӧ�ó���ʹ���ڴ�ķ�ʽ��ͬ��������ֻ��кܴ�Ĳ�ͬ�� 60% ���ڴ�ʹ������ʵ�Ѿ��ܺ��ˣ������ǻ��кܶ����ʣ��ҵ��ڴ涼ȥ���ˣ�...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分享下我 GitHub 被封的经历]]></title>
         <id>https://www.leavesongs.com/THINK/my-github-account-used-to-be-suspended.html</id>
@@ -311,28 +347,6 @@ SyntaxError: invali…]]></summary>
         <summary type="html"><![CDATA[本文首发于跳跳糖，转载请联系站方。
 一次日常测试中，偶然遇到了一个Flarum搭建的论坛，并获得了其管理员账号。本来到这里已经可以算完成了任务，将漏洞报给具体负责的人就结束了，但是既然已经拿到了管理员账号，何不尝试一下RCE呢？
 首先，我在管理员后台看到当前Fla]]></summary>
-        <author>
-            <name>phithon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[昨天把我3D打印的狮身人面像做了一个涂绘]]></title>
-        <id>https://codechina.org/?p=25154</id>
-        <link href="https://codechina.org/2022/11/3d-printing-sphinx/"/>
-        <updated>2022-11-07T02:55:52.000Z</updated>
-        <summary type="html"><![CDATA[6月份的时候，我3D打印了一个狮身人面像。真是很漂亮。 这个造型基本上是真实的狮身人面像的一个还不错的复原。  […]]]></summary>
-        <author>
-            <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRay三周年活动寄语]]></title>
-        <id>https://www.leavesongs.com/THINK/xray-3-years.html</id>
-        <link href="https://www.leavesongs.com/THINK/xray-3-years.html"/>
-        <updated>2022-11-07T00:58:22.001Z</updated>
-        <summary type="html"><![CDATA[上周XRay做了一次三周年活动，简单写了一段寄语，记录于博客。
-大家好，我是phith0n，安全社区有很多人叫我P师傅，以前很抗拒这个称呼，总是给人一种互相吹捧的感觉，不过后来我换了一个角度理解这个称呼——以前坐公交车不认路的时候，我们上车时总会问司机：师傅，这个车到不到国贸大厦？
-这么多年过去了，大部分人用上智能手机，搜索引擎，很少再有人会再问出这类问题。但是我还是愿意当一个普普通通的司机师傅]]></summary>
         <author>
             <name>phithon</name>
         </author>

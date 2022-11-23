@@ -89,6 +89,16 @@
       "siteUrl": "https://manjusaka.blog/atom.xml",
       "articles": [
         {
+          "id": "https://manjusaka.blog/posts/2022/11/22/why-i-love-the-open-source-community/",
+          "author": null,
+          "description": "<p>今天是个不错的日子，最开始由我带进 <a href=\"https://github.com/containerd/nerdctl\">nerdctl</a> 社区的 <a href=\"https://twitter.com/realyuchanns\">@yuchanns</a> 因为其很活跃的表现被项目的主要维护者 <a href=\"https://twitter.com/AkihiroSuda\">@AkihiroSuda</a> 推荐成为了项目的 maintainer，参见 <a href=\"https://github.com/containerd/nerdctl/pull/1540\">nerdctl#PR1540</a>。而我也在这个项目中被提名成为 committer，参见 <a href=\"https://github.com/containerd/nerdctl/pull/1539\">nerdctl#1539</a>。加上今天的公益群有太多关于开源的讨论，所以我想写篇文章记录下我自己的经历，希望能帮助更多的人热爱开源，拥抱开源。</p>",
+          "link": "https://manjusaka.blog/posts/2022/11/22/why-i-love-the-open-source-community/",
+          "publishedOn": "2022-11-22T20:00:00.000Z",
+          "wordCount": 492,
+          "title": "我所热爱的开源社区",
+          "imageUrl": "https://user-images.githubusercontent.com/7054676/203397746-730d4e8c-7576-4652-b736-a4070f9f4516.png"
+        },
+        {
           "id": "https://manjusaka.blog/posts/2022/11/12/the-road-back-to-windows/",
           "author": null,
           "description": "<p>最近会回到 Windows 下办公了两周多，简单记录下自己的使用体验</p>",
@@ -242,6 +252,16 @@
       "siteUrl": "https://www.leavesongs.com",
       "articles": [
         {
+          "id": "https://www.leavesongs.com/THINK/xray-3-years.html",
+          "author": "phithon",
+          "description": "上周XRay做了一次三周年活动，简单写了一段寄语，记录于博客。\n大家好，我是phith0n，安全社区有很多人叫我P师傅，以前很抗拒这个称呼，总是给人一种互相吹捧的感觉，不过后来我换了一个角度理解这个称呼——以前坐公交车不认路的时候，我们上车时总会问司机：师傅，这个车到不到国贸大厦？\n这么多年过去了，大部分人用上智能手机，搜索引擎，很少再有人会再问出这类问题。但是我还是愿意当一个普普通通的司机师傅",
+          "link": "https://www.leavesongs.com/THINK/xray-3-years.html",
+          "publishedOn": "2022-11-23T00:51:30.867Z",
+          "wordCount": 120,
+          "title": "XRay三周年活动寄语",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.leavesongs.com/THINK/my-github-account-used-to-be-suspended.html",
           "author": "phithon",
           "description": "最近好像又有人 GitHub 被封，每隔一段时间就有。分享下我自己的经历吧，好几年以前了，也许还是有点参考价值。\n账号被封，查找原因\n那是 2017 年 12 月，有天早上起来突然发现自己的号phith0n登不上去了，具体的表现是：\n账号登录不上，登录以后明确告诉我我好被封了\nGitHub 个人页面访问显示 404\n我自己名下所有项目，访问都是 404\n但是我创建的 Group 还是好的，没有受",
@@ -319,16 +339,6 @@
           "publishedOn": "2022-11-10T01:00:22.217Z",
           "wordCount": 329,
           "title": "我自己博客的一个XSS的故事",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.leavesongs.com/PENETRATION/flarum-rce-tour.html",
-          "author": "phithon",
-          "description": "本文首发于跳跳糖，转载请联系站方。\n一次日常测试中，偶然遇到了一个Flarum搭建的论坛，并获得了其管理员账号。本来到这里已经可以算完成了任务，将漏洞报给具体负责的人就结束了，但是既然已经拿到了管理员账号，何不尝试一下RCE呢？\n首先，我在管理员后台看到当前Fla",
-          "link": "https://www.leavesongs.com/PENETRATION/flarum-rce-tour.html",
-          "publishedOn": "2022-11-08T00:58:50.015Z",
-          "wordCount": 571,
-          "title": "从偶遇Flarum开始的RCE之旅",
           "imageUrl": null
         }
       ]

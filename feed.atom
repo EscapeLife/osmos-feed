@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-11-26T00:48:11.193Z</updated>
+    <updated>2022-11-27T00:57:04.840Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -361,26 +361,6 @@ ListApplications(5, 0, "")
 type ListAppsOptions struct …]]></summary>
         <author>
             <name>piglei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重回 Windows 之路]]></title>
-        <id>https://manjusaka.blog/posts/2022/11/12/the-road-back-to-windows/</id>
-        <link href="https://manjusaka.blog/posts/2022/11/12/the-road-back-to-windows/"/>
-        <updated>2022-11-12T04:27:15.000Z</updated>
-        <summary type="html"><![CDATA[<p>最近会回到 Windows 下办公了两周多，简单记录下自己的使用体验</p>]]></summary>
-        <author>
-            <name>Manjusaka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[由外而内的安卓传奇——《安卓传奇》推荐序]]></title>
-        <id>https://codechina.org/?p=25380</id>
-        <link href="https://codechina.org/2022/11/android/"/>
-        <updated>2022-11-11T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[半个月前，侠少老师说，最近出了本好书，给你一个样书，帮我们简单写个序吧。于是我就收到了《安卓传奇》这本书的样书 […]]]></summary>
-        <author>
-            <name>tinyfool</name>
         </author>
     </entry>
     <entry>

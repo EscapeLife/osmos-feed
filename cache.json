@@ -82,6 +82,16 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=4860",
+          "author": "laixintao",
+          "description": "我从 2018 年就在做和监控告警相关的工作，到现在已经有差不多5年了。之前几年集中在报警的自动化处理上，后来 […]\nContinue reading...\nThe post PromCon 2022  演讲：Alerting with Confidence first appeared on 卡瓦邦噶！.\n\n相关文章:\n\n演讲\n没来的请举手\nPrometheus alert rules 拆分成多个查询表达式\n《Prometheus Up & Running》阅读\n分享一下“稍后阅读”的 random 功能",
+          "link": "https://www.kawabangga.com/posts/4860",
+          "publishedOn": "2022-11-27T04:17:56.000Z",
+          "wordCount": 669,
+          "title": "PromCon 2022  演讲：Alerting with Confidence",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=4847",
           "author": "laixintao",
           "description": "我们需要在一个 VPC 网络环境中采集一些服务的 metrics，TSDB 存储在中心机房中，存储节点、中心节 […]\nContinue reading...\nThe post 没来的请举手 first appeared on 卡瓦邦噶！.\n\n相关文章:\n\nPrometheus HTTP SD 框架\nGolang 的 Channel 是一种免费的无锁实现吗？\nPromQL 使用多个 label 组合过滤\n《Prometheus Up & Running》阅读\nSide Project 成本最小化运行",

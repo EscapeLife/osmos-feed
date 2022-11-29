@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-11-28T00:50:15.118Z</updated>
+    <updated>2022-11-29T00:53:21.067Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[好]]></title>
+        <id>https://greyli.com/?p=4670</id>
+        <link href="https://greyli.com/good/"/>
+        <updated>2022-11-28T14:24:34.000Z</updated>
+        <summary type="html"><![CDATA[[…]]]></summary>
+        <author>
+            <name>李辉</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PromCon 2022  演讲：Alerting with Confidence]]></title>
         <id>https://www.kawabangga.com/?p=4860</id>

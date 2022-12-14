@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-12-13T00:53:08.782Z</updated>
+    <updated>2022-12-14T00:48:29.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[感染新冠的经历]]></title>
+        <id>https://coolshell.cn/?p=22341</id>
+        <link href="https://coolshell.cn/articles/22341.html"/>
+        <updated>2022-12-13T07:39:39.000Z</updated>
+        <summary type="html"><![CDATA[写一篇与技术无关的文章，供大家参考。我住北京朝阳，从上周三开始我家一家三口陆续发烧生病，自测抗原后，都是阳性。好消息是，这个奥密克戎跟一般的病毒性感冒差不多，没...
+ Read More  Read More
+感染新冠的经历 first appeared on 酷 壳 - CoolShell.]]></summary>
+        <author>
+            <name>陈皓</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[�������ϵ�һЩ�����������]]></title>
+        <id>https://blog.codingnow.com/2022/12/interaction.html</id>
+        <link href="https://blog.codingnow.com/2022/12/interaction.html"/>
+        <updated>2022-12-13T02:54:35.000Z</updated>
+        <summary type="html"><![CDATA[����������������Ϸ���ֻ����ȣ���������Χ���Ŵ��������������������ʱ�������� PC ���������ԣ��ཻܶ�����ⶼ���ױ����ӵ������ԣ��������е����滨�˺ܴ��������ֻ��豸�ϼ��ļ����á��ڿ���ʱ�Ƽ�������Աֱ�����ֻ����޸ġ����ԡ����������׷����ƽʱ�����������Բ�������⡣ btw��ֱ�����ֻ��Ͽ������� PC �Ͽ���������һ���ô���������ʱ�ܹ�ע����Ԫ�أ����������壩�Ĵ�С�Ƿ���ʡ�...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iOS备用机自动充电方案]]></title>
         <id>https://www.leavesongs.com/THINK/iOS-with-chuangmiplug-smart-plug2.html</id>
@@ -391,16 +413,6 @@ ListApplications(5, 0, "")
 type ListAppsOptions struct …]]></summary>
         <author>
             <name>piglei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好]]></title>
-        <id>https://greyli.com/?p=4670</id>
-        <link href="https://greyli.com/good/"/>
-        <updated>2022-11-28T14:24:34.000Z</updated>
-        <summary type="html"><![CDATA[[…]]]></summary>
-        <author>
-            <name>李辉</name>
         </author>
     </entry>
     <entry>

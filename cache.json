@@ -91,6 +91,16 @@
       "siteUrl": "https://codechina.org/",
       "articles": [
         {
+          "id": "https://codechina.org/?p=26295",
+          "author": "tinyfool",
+          "description": "课程视频地址 https://www.youtube.com/watch?v=rmVRLeJRkl4& […]\nStandford CS224N-深度学习下的NLP学习笔记（不定期更新）最先出现在Tinyfool的个人网站。",
+          "link": "https://codechina.org/2022/12/standford-cs224n-dl-nlp-1/",
+          "publishedOn": "2022-12-16T02:33:20.000Z",
+          "wordCount": 1354,
+          "title": "Standford CS224N-深度学习下的NLP学习笔记（不定期更新）",
+          "imageUrl": "https://codechina.org/wp-content/uploads/2022/12/r2d2-robot-read-book.png"
+        },
+        {
           "id": "https://codechina.org/?p=26143",
           "author": "tinyfool",
           "description": "官方常见问题解答 翻译自官方的FAQ页面，翻译由ChatGPT完成。 1、ChatGPT 的使用成本是多少？  […]\nChatGPT常见问题解答【官方/非官方版】最先出现在Tinyfool的个人网站。",
@@ -193,6 +203,16 @@
       "siteUrl": "http://www.zlovezl.cn/",
       "articles": [
         {
+          "id": "https://www.zlovezl.cn/articles/go-func-argument-patterns/",
+          "author": null,
+          "description": "1. 普通传参\nGo 语言支持按顺序传入参数来调用函数，下面是一个示例函数：\n// ListApplications 查询应用列表\nfunc ListApplications(limit, offset int) []Application {\n    return allApps[offset : offset+limit]\n}\n\n调用代码：\nListApplications(5, 0)\n\n当你想增加新参数时，可以直接修改函数签名。比如，下面的代码给 ListApplications 增加了新的过滤参数 owner：\nfunc ListApplications(limit, offset int, owner string) []Application {\n    if owner != \"\" {\n        // ...\n    }\n    return allApps[offset : offset+limit]\n}\n\n调用代码也需要随之改变：\nListApplications(5, 0, \"piglei\")\n// 不使用 owner 过滤\nListApplications(5, 0, \"\")\n\n显而易见，这种普通传参模式存在以下几个明显的问题：\n可读性不佳：只支持用位置，不支持用关键字来区分参数，参数变多后，各参数含义很难一目了然\n破坏兼容性：增加新参数后，原有调用代码必须进行对应修改，比如像上方的 ListApplications(5, 0, \"\") 一样，在 owner 参数的位置传递空字符串\n为了解决这些问题，常见的做法是引入一个参数结构体（struct）类型。\n2. 使用参数结构体\n新建一个结构体类型，里面包含函数需要支持的所有参数：\n// ListAppsOptions 是查询应用列表时的可选项\ntype ListAppsOptions struct …",
+          "link": "https://www.zlovezl.cn/articles/go-func-argument-patterns/",
+          "publishedOn": "2022-12-17T00:43:33.715Z",
+          "wordCount": 719,
+          "title": "Go 的几种函数传参模式",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zlovezl.cn/articles/if-programming-is-writing/",
           "author": null,
           "description": "很多人会把编程比作写作，比如《Thinking in Java》的作者 Bruce Eckel 就说：“程序员就是作家。”二者的确也有许多相似之处，好文章和好代码，都离不精确的结构与优美的表达。写作时，每个人都能用词语拼出句子，组成文章，但并非所有人都能写出好文章，编程也是一样。\n不过严格来说，编程和写作虽有少许相似，却仍是两个迥异的技能，在很多方面差别很大。比如我们很少会重写一篇已发表的文章，但重构一段能正常运行的代码实属家常便饭。\n不过这一次，我们不妨把编程中那些复杂概念抛掷一旁，来一次奇思妙想：“如果编程就是写作，我们能从中学到些什么？”\n1. 使用人称代词\n写文章时，我们常常会使用人称代词来指代人物的名字，以此减少冗余，提升文本的流畅度。这个技巧当然也可以用到编程中。\n以下代码重复使用了一个冗长的表达式：\ndef run_server():\n    if check(data.servier_config.host):\n        start_server(data.servier_config.host)\n    else:\n        logger.error('Server %s is invalid.', data.servier_config.host)\n\n定义一个临时变量，作为代词使用来简化代码：\ndef run_server():\n    host = data.servier_config.host\n    if check(host):\n        start_server(host)\n    else:\n        logger.error('Server %s is invalid.', host)\n\n2. 搭配使用长短句\n写作时， 如何选择句子的长短是一门学问。汪曾祺说过：“语言的奥秘，说穿了不过是长句与短句的搭配。”长句信息…",
@@ -261,6 +281,16 @@
       "feedUrl": "https://www.leavesongs.com/feed",
       "siteUrl": "https://www.leavesongs.com",
       "articles": [
+        {
+          "id": "https://www.leavesongs.com/THINK/um560-two-weeks-using-experience.html",
+          "author": "phithon",
+          "description": "本文推荐的UM560非与厂商合作推广，仅为我自己的使用体验。\n我大四买了人生里第一台Macbook pro，从那会开始Mac卡顿的问题就一直困扰我到现在。当然这也可能是我自己的问题——我没钱买顶配Macbook，以前公司发的也是低配Macbook pro，我甚至用8G内存的13寸Mac直到2018年才换。\n来新公司以后总算摸到了15寸Mac，但还是16G内存Intel芯片的老电脑，被Burps",
+          "link": "https://www.leavesongs.com/THINK/um560-two-weeks-using-experience.html",
+          "publishedOn": "2022-12-17T00:43:34.253Z",
+          "wordCount": 307,
+          "title": "使用Minisforum UM560小主机办公一周体验",
+          "imageUrl": null
+        },
         {
           "id": "https://www.leavesongs.com/THINK/iOS-with-chuangmiplug-smart-plug2.html",
           "author": "phithon",

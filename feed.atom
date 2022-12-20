@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-12-19T00:43:09.894Z</updated>
+    <updated>2022-12-20T00:48:29.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022年欧洲游记]]></title>
+        <id>https://www.leavesongs.com/THINK/europe-trip-2022.html</id>
+        <link href="https://www.leavesongs.com/THINK/europe-trip-2022.html"/>
+        <updated>2022-12-20T00:48:26.035Z</updated>
+        <summary type="html"><![CDATA[这篇文章记录了我和三个小伙伴在法国、瑞士旅行的经历。
+我大概是在今年7月做了去欧洲旅行的计划，说是“计划”也不太贴切，只是几个朋友搜了一下比较合适的机票以后，就决定要来了。类似的“计划”之前也发生过，有时候甚至是买好机票才喊人，不得不说我的很多决定是草率的，但这就是我。
+准备
+签证
+由于这次旅行是放在新加坡公共假期“屠妖节”的那一个礼拜（10月底），所以我就在8月份去申请了签证。
+我们的第一目的地]]></summary>
+        <author>
+            <name>phithon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PaaS服务从Heroku迁移到fly.io小计]]></title>
         <id>https://www.leavesongs.com/SOFT/paas-service-from-heroku-to-fly-io.html</id>

@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-12-20T00:48:29.695Z</updated>
+    <updated>2022-12-21T00:43:46.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[记录感染新冠的经历]]></title>
+        <id>https://www.escapelife.site/posts/27b90a5c.html</id>
+        <link href="https://www.escapelife.site/posts/27b90a5c.html"/>
+        <updated>2022-12-20T11:04:27.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p><strong>人民民主专政：对占全国人口绝大多数的人民实行民主，对极少数敌对分子实施专政！</strong></p>
+</blockquote>
+<p>从十二月份开始，新冠的防疫政策来了个急转弯，开始几天还在每个省市部署防控策略、策略拨款等等措施]]></summary>
+        <author>
+            <name>Escape</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[covid-19 ��Ⱦ������¼]]></title>
+        <id>https://blog.codingnow.com/2022/12/covid19.html</id>
+        <link href="https://blog.codingnow.com/2022/12/covid19.html"/>
+        <updated>2022-12-20T01:53:33.000Z</updated>
+        <summary type="html"><![CDATA[�³�����ͬ�µ�٩�����˭Ҳ�㲻������Ⱦ�ǳ�����¡����ȫ�Ҷ������ˣ����ڲ�����λ������ᣬ��඼Ȭ���ˡ��ڴ˼�¼һ����ε����̡� ����ǹ��ݵ�ȫ�濪�š������ڼ��Ѿ������˿�һ���£���ò��С����ŵ�һ����ĩ����Լ��ͬ�³�ȥ�棬�����������ҡ��������磨12 �� 11 �գ���ȥ���ա� �Ҿ��ù����Ѿ��ſ�����β����� R0 �൱�ߣ����ٴ������޿ɱ��⣬��һ����ĩ����зǳ���ķ��ա�����ȡ����ԭ��ÿ����ĩ�����һ�����������Ӽ������ڼ��С�����һֱ�е���ԣ�����һЩ��ð�����������֢״�� Day 0 (12 �� 12 ����һ�� ���ű�֪ͨһ�����ͬ���Ѿ�ȷ���Ҫ���ӼҰ칫���۲�һ���ٿ��ǻذ칫�ҡ� �ҵ��������ϰ��ˡ�������֮ǰ�ĸ�ð֢״�������飩�Ѿ���ȫ��ʧ������״̬�ǳ��á� ��������һ����գ�38 �ȣ����Բ⿹ԭ���ԣ���������Ϊ��ð����һ����Ů��������˯����...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年欧洲游记]]></title>
         <id>https://www.leavesongs.com/THINK/europe-trip-2022.html</id>

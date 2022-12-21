@@ -6,6 +6,16 @@
       "siteUrl": "https://www.escapelife.site/atom.xml",
       "articles": [
         {
+          "id": "https://www.escapelife.site/posts/27b90a5c.html",
+          "author": null,
+          "description": "<blockquote>\n<p><strong>人民民主专政：对占全国人口绝大多数的人民实行民主，对极少数敌对分子实施专政！</strong></p>\n</blockquote>\n<p>从十二月份开始，新冠的防疫政策来了个急转弯，开始几天还在每个省市部署防控策略、策略拨款等等措施",
+          "link": "https://www.escapelife.site/posts/27b90a5c.html",
+          "publishedOn": "2022-12-20T11:04:27.000Z",
+          "wordCount": 1610,
+          "title": "记录感染新冠的经历",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.escapelife.site/posts/6468a03c.html",
           "author": null,
           "description": "<blockquote>\n<p><strong>原文来自张文宏团队的公众号：<a",
@@ -195,6 +205,16 @@
       "feedUrl": "https://blog.codingnow.com/atom.xml",
       "siteUrl": "https://blog.codingnow.com/",
       "articles": [
+        {
+          "id": "https://blog.codingnow.com/2022/12/covid19.html",
+          "author": null,
+          "description": "�³�����ͬ�µ�٩�����˭Ҳ�㲻������Ⱦ�ǳ�����¡����ȫ�Ҷ������ˣ����ڲ�����λ������ᣬ��඼Ȭ���ˡ��ڴ˼�¼һ����ε����̡� ����ǹ��ݵ�ȫ�濪�š������ڼ��Ѿ������˿�һ���£���ò��С����ŵ�һ����ĩ����Լ��ͬ�³�ȥ�棬�����������ҡ��������磨12 �� 11 �գ���ȥ���ա� �Ҿ��ù����Ѿ��ſ�����β����� R0 �൱�ߣ����ٴ������޿ɱ��⣬��һ����ĩ����зǳ���ķ��ա�����ȡ����ԭ��ÿ����ĩ�����һ�����������Ӽ������ڼ��С�����һֱ�е���ԣ�����һЩ��ð�����������֢״�� Day 0 (12 �� 12 ����һ�� ���ű�֪ͨһ�����ͬ���Ѿ�ȷ���Ҫ���ӼҰ칫���۲�һ���ٿ��ǻذ칫�ҡ� �ҵ��������ϰ��ˡ�������֮ǰ�ĸ�ð֢״�������飩�Ѿ���ȫ��ʧ������״̬�ǳ��á� ��������һ����գ�38 �ȣ����Բ⿹ԭ���ԣ���������Ϊ��ð����һ����Ů��������˯����...",
+          "link": "https://blog.codingnow.com/2022/12/covid19.html",
+          "publishedOn": "2022-12-20T01:53:33.000Z",
+          "wordCount": 141,
+          "title": "covid-19 ��Ⱦ������¼",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.codingnow.com/2022/12/interaction.html",
           "author": null,

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-12-21T00:43:46.622Z</updated>
+    <updated>2022-12-22T00:46:23.075Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[早起是唯一出路]]></title>
+        <id>https://greyli.com/?p=4687</id>
+        <link href="https://greyli.com/be-an-early-bird/"/>
+        <updated>2022-12-21T15:05:16.000Z</updated>
+        <summary type="html"><![CDATA[今年一直处于被工作、写书和开源项目这三件事情拉扯的状态。这个月底是两本书合同上的截稿时间，但我一本都没完成。这 […]]]></summary>
+        <author>
+            <name>李辉</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[记录感染新冠的经历]]></title>
         <id>https://www.escapelife.site/posts/27b90a5c.html</id>

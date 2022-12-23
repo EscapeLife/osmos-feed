@@ -139,16 +139,6 @@
           "wordCount": 1118,
           "title": "【转载】抗新冠策略千万条，核心就一条：得了新冠是否需要去医院？",
           "imageUrl": null
-        },
-        {
-          "id": "https://codechina.org/?p=25946",
-          "author": "tinyfool",
-          "description": "ChatGPT简介 ChatGPT是一种预先训练的大型语言模型，由OpenAI开发，能够进行高质量的人工智能（ […]",
-          "link": "https://codechina.org/2022/12/chatgpt-function-1-writting/",
-          "publishedOn": "2022-12-08T07:56:59.000Z",
-          "wordCount": 3227,
-          "title": "ChatGPT实用指南（1）文案和写作方面",
-          "imageUrl": null
         }
       ]
     },
@@ -292,16 +282,6 @@
           "wordCount": 303,
           "title": "设计服务端软件配置的 4 条建议",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.zlovezl.cn/articles/my-book-releases/",
-          "author": null,
-          "description": "我写了一本 Python 语言的编程进阶书：《Python工匠：案例、技巧与工程实践》，本文是关于这本书背后的故事与一些致谢。\n\n我一直觉得编程某种意义上是一门“手艺”，因为优雅而高效的代码，就如同完美的工艺品一样让人赏心悦目。就像一位用锤子敲敲打打了十几年的铁匠，总结出一套“如何锻造出锋利的刀”的经验之谈——我在代码世界也“敲敲打打”了十几年，沉淀下来的便是这本《Python工匠》。\n我将自己这些年掌握的技巧、经验与编程建议，去粗取精后悉数写入书中，希望它能帮读者朋友们完成从初学者到工匠的跃迁。\n书目前已经正式上市，欢迎点击购买。\n本文主要内容来自书中的“前言”部分，略有删改。\n结缘 Python\n我初次接触 Python 是在 2008 年末。那时临近大学毕业，我凭着在学校里学到的一丁点儿 Java 知识四处求职。我从大学所在的城市南昌出发去了北京，借宿在一位朋友的出租屋里，他当时在巨鲸音乐网上班，用的主要编程语言正是 Python。\n得知我正在寻找一份 Java 相关的工作，那位朋友跟我说：“写 Java 代码有啥意思啊？Python 比 Java 好玩多了，而且功能还特别强大，连 Google 都在用 !”\n在他的热情“传道”下，我对 Python 语言产生了好奇心，于是找了一份当时最流行的开源教程 Dive into Python，开始学起 Python 来。\n实话实说，之前在学校用 Java 和 C 语言编程时，我很少体会到编程的快乐，也从未期待过自己将来要以写代码为生。但神奇的是，在学了一些 Python 的基础知识，并用它写了几个小玩意儿以后，我突然意识到原来自己很喜欢编程，并开始期待找到一份以 Python 为主要编程语言的开发工作——也许这就是我和 Python 之间的缘分吧！\n幸运的是，在当时的 CPyUG（中国 Python 用户组）邮件组里，正好有…",
-          "link": "https://www.zlovezl.cn/articles/my-book-releases/",
-          "publishedOn": "2022-12-08T00:47:15.651Z",
-          "wordCount": 275,
-          "title": "用 Python 编程 13 年后，我把经验写成了 400 页的书",
-          "imageUrl": null
         }
       ]
     },
@@ -390,46 +370,6 @@
           "publishedOn": "2022-12-09T00:49:55.216Z",
           "wordCount": 120,
           "title": "XRay三周年活动寄语",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.leavesongs.com/THINK/my-github-account-used-to-be-suspended.html",
-          "author": "phithon",
-          "description": "最近好像又有人 GitHub 被封，每隔一段时间就有。分享下我自己的经历吧，好几年以前了，也许还是有点参考价值。\n账号被封，查找原因\n那是 2017 年 12 月，有天早上起来突然发现自己的号phith0n登不上去了，具体的表现是：\n账号登录不上，登录以后明确告诉我我好被封了\nGitHub 个人页面访问显示 404\n我自己名下所有项目，访问都是 404\n但是我创建的 Group 还是好的，没有受",
-          "link": "https://www.leavesongs.com/THINK/my-github-account-used-to-be-suspended.html",
-          "publishedOn": "2022-12-08T00:47:16.743Z",
-          "wordCount": 314,
-          "title": "分享下我 GitHub 被封的经历",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.leavesongs.com/THINK/how-to-verify-individual-in-singapore.html",
-          "author": "phithon",
-          "description": "三月是国内个税申报的月份，也是新加坡个税申报的月份，前几天收到一封信，告诉我应该填写个税申报的表格了。\n\n在这封信里，提到了下面这段话：\nTo file your Income Tax Return, log in to myTax Portal with Singpass.\n这里面有说到一个东西叫Singpass，在我来新加坡的这几个月里，几乎可以把Singpass看成新加坡政府数字化建设的",
-          "link": "https://www.leavesongs.com/THINK/how-to-verify-individual-in-singapore.html",
-          "publishedOn": "2022-12-08T00:47:16.717Z",
-          "wordCount": 148,
-          "title": "新加坡企业是怎么做实名认证的？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.leavesongs.com/THINK/why-subscribe-a-newspaper-in-2022.html",
-          "author": "phithon",
-          "description": "前两天我在收拾屋子。\n我家是个很典型的单人公寓，由于女朋友还没到新加坡来，现在的屋子一个人住恰到好处。不过一个人住总是一个熵增的过程，所以我会隔段时间收拾一下屋子，把一些不想要又舍不得丢的东西塞进我家里的一个“黑洞”里，这样外面看起来仍然是整齐的。\n这个“黑洞”是一个正经防空洞——新加坡大部分民宅都配有一个防空洞，面积大概一两个平米，所以大部分人会选择将这个房间作为杂物间。\n我就是在走进这个杂物间",
-          "link": "https://www.leavesongs.com/THINK/why-subscribe-a-newspaper-in-2022.html",
-          "publishedOn": "2022-12-08T00:47:16.540Z",
-          "wordCount": 154,
-          "title": "2022年我为什么订报纸",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.leavesongs.com/THINK/vulhub-10k-stars-moment.html",
-          "author": "phithon",
-          "description": "不知不觉离我所主导的开源项目Vulhub的第一个提交已经快5年了，Vulhub俨然已经成为我生活中的日常。就像我生活中的另外几个日常代码审计星球、Sec-News一样，他们并不是我刻意要去完成的一项工作，而成为了我现实中的“回调函数”。\n用回调函数来形容这件事听起来很独特，但仔细想想确实如此——我会在分析最新漏洞后将其做成Vulhub环境提交到Github，我会在读到不错文章后点击浏览器上的按钮将",
-          "link": "https://www.leavesongs.com/THINK/vulhub-10k-stars-moment.html",
-          "publishedOn": "2022-12-08T00:47:16.336Z",
-          "wordCount": 145,
-          "title": "Vulhub万赞纪念与抽奖",
           "imageUrl": null
         }
       ]

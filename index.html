@@ -82,6 +82,55 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-12-26 datetime="2022-12-26T00:46:54.168Z">2022-12-26</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-12-26 datetime="2022-12-26T00:46:54.168Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >离别歌</button>
+                  <a class="source-heading__link" href="https://www.leavesongs.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.leavesongs.com/PENETRATION/flarum-rce-tour.html"
+                        open
+                      >
+                        <summary class="article-expander__title">从偶遇Flarum开始的RCE之旅</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.leavesongs.com/PENETRATION/flarum-rce-tour.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>本文首发于跳跳糖，转载请联系站方。
+一次日常测试中，偶然遇到了一个Flarum搭建的论坛，并获得了其管理员账号。本来到这里已经可以算完成了任务，将漏洞报给具体负责的人就结束了，但是既然已经拿到了管理员账号，何不尝试一下RCE呢？
+首先，我在管理员后台看到当前Fla</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-12-25 datetime="2022-12-25T00:48:46.639Z">2022-12-25</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-12-25 datetime="2022-12-25T00:48:46.639Z"></time>
           </button>
@@ -1059,124 +1108,6 @@ def run_server():
                 </section>
               </section>
             </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Tinyfool的个人网站</button>
-                  <a class="source-heading__link" href="https://codechina.org/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://codechina.org/?p&#x3D;26143"
-                        open
-                      >
-                        <summary class="article-expander__title">ChatGPT常见问题解答【官方/非官方版】</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://codechina.org/2022/12/chatgpt-faq/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://codechina.org/wp-content/uploads/2022/12/DALL·E-2022-12-10-23.38.10-random-blue-color-Rectangle-as-background-white-big-question-mark-block-on-top-it-a-robot-sit-on-it-1024_768-1.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>官方常见问题解答 翻译自官方的FAQ页面，翻译由ChatGPT完成。 1、ChatGPT 的使用成本是多少？  […]
-ChatGPT常见问题解答【官方/非官方版】最先出现在Tinyfool的个人网站。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >piglei</button>
-                  <a class="source-heading__link" href="http://www.zlovezl.cn/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.zlovezl.cn/articles/stmt-expr-and-walrus-operator/"
-                        open
-                      >
-                        <summary class="article-expander__title">Python 工匠：语句、表达式和海象操作符</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.zlovezl.cn/articles/stmt-expr-and-walrus-operator/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>让我们从两行最简单的 Python 代码开始。
-&gt;&gt;&gt; name &#x3D; &#x27;piglei&#x27;
-&gt;&gt;&gt; print(f&#x27;Hello {name}!&#x27;)
-Hello piglei!
-
-这是一个“Hello World”程序，你也许已经见过它无数次，对里面的每个字母都了如指掌。但你可能从未意识到，上面两行代码，刚好对应着 Python 语言里的两个重要概念：语句（statement） 和 表达式（expression）。
-具体来说，name &#x3D; &#x27;piglei&#x27; 是一行赋值语句，它将字符串 &#x27;piglei&#x27; 赋给了 name 变量。print(f&#x27;Hello {name}!&#x27;) 则是一个表达式，它通过调用内置函数 print 往屏幕打印信息。
-表达式的特点
-编写代码时，语句和表达式是两类最基本的代码单元。
-虽然在日常表达中，我们会把语句和表达式区分开来，但二者并非完全不同——表达式实际上就是一种特殊的语句。和普通语句比起来，表达式的特别之处在于它拥有一个（或多个）返回值。
-举例来说，前面的 print(...) 表达式就会返回一个值：None。你可以像下面这样获取它：
-# print 函数总是返回 None
-&gt;&gt;&gt; val &#x3D; print(f&#x27;Hello {name}!&#x27;)
-Hello piglei!
-&gt;&gt;&gt; val is None
-True
-
-虽然这么做没啥实际用途，但它足够体现出表达式的独特之处——因为你永远无法对普通语句做出类似的事情。无论是“赋值语句”、“循环语句”，还是一个“条件分支语句”，你永远都无法将其赋值给某个变量，这在语法上无从谈起：
-&gt;&gt;&gt; val &#x3D; (name &#x3D; &#x27;piglei&#x27;)
-  File &quot;&quot;, line 1
-    val &#x3D; (name &#x3D; &#x27;piglei&#x27;)
-                ^
-SyntaxError: invali…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.zlovezl.cn/articles/chatgpt-and-how-we-programming/"
-                        open
-                      >
-                        <summary class="article-expander__title">ChatGPT 正在杀死编程里的乐趣</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.zlovezl.cn/articles/chatgpt-and-how-we-programming/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>多年以来，编程一直是我生命最重要的快乐来源之一，我从没细想过这份快乐能伴随我多久。但就在几天前，在观摩了 ChatGPT 替我编写一个 Python 程序的全过程后，我突然有种强烈的感觉：不远的将来，人们能从编程中获得的乐趣可能会逐渐消失。
-换句话说，ChatGPT 正在缓慢地“杀死”编程里的乐趣。在解释这个观点之前，让我先带你简单回顾一下：ChatGPT 到底帮我写了个什么程序。
-用 ChatGPT 编写程序
-先简单介绍一下 ChatGPT。ChatGPT 是人工智能公司 OpenAI 在 2022 年 11 月份推出的基于 GPT 自然语言生成模型的聊天机器人。它功能强大，能轻松完成许多在人类眼中非常复杂的任务，比方说：根据你描述的需求写一个可运行的程序。
-前天晚上十一点左右，我正坐在床上刷手机，突然想起一个给路由器用的工具脚本，已经拖延了几个月都没动工。既然自己不愿写，不如这次试试让 ChatGPT 来帮我完成。
-这个工具的需求简述如下：
-接收一个 URL 地址作为参数，将该 URL 里的域名，以及该 URL 所返回的页面里的所有域名，一并转换成 dnsmasq 服务的配置条目，写入到 /etc/dnsmasq.conf 文件中（需要考虑重复写入）。
-为了让 ChatGPT 写代码，我需要用自然语言清楚描述程序的用途和大概的执行流程，这个过程花了我 5 分钟左右。
-需求描述如下：
-Write a Python program, it accepts an URL address url from command line input, the program extract the domain name from url and stores it in a variable called src_domain, then it starts to request …</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
         </ul>
       </section>
       <section class="daily-content js-toggle-accordions-scope">
@@ -1275,8 +1206,8 @@ Write a Python program, it accepts an URL address url from command line input, t
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/EscapeLife/osmos-feed/actions/runs/3773623106">
-        <time id="build-timestamp" datetime="2022-12-25T00:48:50.727Z">2022-12-25T00:48:50.727Z</time>
+      <a class="footer-link" href="https://github.com/EscapeLife/osmos-feed/actions/runs/3778171386">
+        <time id="build-timestamp" datetime="2022-12-26T00:46:58.784Z">2022-12-26T00:46:58.784Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

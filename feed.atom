@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-12-28T00:46:01.711Z</updated>
+    <updated>2022-12-29T00:47:51.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[iOS备用机自动充电方案]]></title>
+        <id>https://www.leavesongs.com/THINK/iOS-with-chuangmiplug-smart-plug2.html</id>
+        <link href="https://www.leavesongs.com/THINK/iOS-with-chuangmiplug-smart-plug2.html"/>
+        <updated>2022-12-29T00:47:48.361Z</updated>
+        <summary type="html"><![CDATA[搬到新加坡以后，我拥有了很多张手机卡：
+1张国内的电话卡，回国时使用
+1张新加坡电话卡，本地使用
+1张马来西亚电话卡，去马来西亚旅行时使用
+1张英国电话卡，去欧洲旅行时使用
+相对应的，我需要有备用机来运行这些号码。正好手上有一台旧的iPhone XR，于是我就把其中两张卡插到了这个手机里。但随之而来的是另一个问题，手机长期插电对电池非常不友好，很有可能导致备用机电池彻底废掉。
+垃圾佬的家里从来]]></summary>
+        <author>
+            <name>phithon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我自己博客的一个XSS的故事]]></title>
         <id>https://www.leavesongs.com/PENETRATION/xss-from-my-blog.html</id>

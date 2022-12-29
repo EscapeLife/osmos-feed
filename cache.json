@@ -263,6 +263,16 @@
       "siteUrl": "https://www.leavesongs.com",
       "articles": [
         {
+          "id": "https://www.leavesongs.com/THINK/iOS-with-chuangmiplug-smart-plug2.html",
+          "author": "phithon",
+          "description": "搬到新加坡以后，我拥有了很多张手机卡：\n1张国内的电话卡，回国时使用\n1张新加坡电话卡，本地使用\n1张马来西亚电话卡，去马来西亚旅行时使用\n1张英国电话卡，去欧洲旅行时使用\n相对应的，我需要有备用机来运行这些号码。正好手上有一台旧的iPhone XR，于是我就把其中两张卡插到了这个手机里。但随之而来的是另一个问题，手机长期插电对电池非常不友好，很有可能导致备用机电池彻底废掉。\n垃圾佬的家里从来",
+          "link": "https://www.leavesongs.com/THINK/iOS-with-chuangmiplug-smart-plug2.html",
+          "publishedOn": "2022-12-29T00:47:48.361Z",
+          "wordCount": 303,
+          "title": "iOS备用机自动充电方案",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.leavesongs.com/PENETRATION/xss-from-my-blog.html",
           "author": "phithon",
           "description": "今天晚上收到几个提醒，打开一看是有人在我博客评论区测试XSS：\n\n本来这种测试司空见惯了，而且此人也没成功找到XSS，放以前我多半就关掉页面了。\n不过我今晚不知为何临时起意，就顺势看了一下自己写的代码，居然被我自己找到一个XSS漏洞：\n\n原因是什么呢？\n0x01 开发历史介绍\n我当时在开发这个回复按钮的时候，为了方便，直接用JavaScript伪协议来调用reply_to函数，比如：\n\nreply",

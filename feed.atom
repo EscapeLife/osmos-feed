@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-12-29T00:47:51.285Z</updated>
+    <updated>2022-12-30T00:47:41.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[兔年邮票和我们的时代精神]]></title>
+        <id>https://codechina.org/?p=26643</id>
+        <link href="https://codechina.org/2022/12/rabbit-stamp/"/>
+        <updated>2022-12-29T05:00:46.000Z</updated>
+        <summary type="html"><![CDATA[最近中国邮政推出了今年的生肖邮票，每年生肖票都会成为一个热点。今年也成为了一个热点。然而，今年的热点跟往年有所 […]
+兔年邮票和我们的时代精神最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iOS备用机自动充电方案]]></title>
         <id>https://www.leavesongs.com/THINK/iOS-with-chuangmiplug-smart-plug2.html</id>

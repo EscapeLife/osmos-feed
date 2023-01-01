@@ -6,6 +6,16 @@
       "siteUrl": "https://www.escapelife.site/atom.xml",
       "articles": [
         {
+          "id": "https://www.escapelife.site/posts/e3113340.html",
+          "author": null,
+          "description": "<h1 id=\"2022-年第四季度总结\"><a href=\"#2022-年第四季度总结\" class=\"headerlink\" title=\"2022 年第四季度总结\"></a>2022",
+          "link": "https://www.escapelife.site/posts/e3113340.html",
+          "publishedOn": "2022-12-31T15:59:59.000Z",
+          "wordCount": 1563,
+          "title": "2022年第四季度总结",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.escapelife.site/posts/27b90a5c.html",
           "author": null,
           "description": "<blockquote>\n<p><strong>人民民主专政：对占全国人口绝大多数的人民实行民主，对极少数敌对分子实施专政！</strong></p>\n</blockquote>\n<p>从十二月份开始，新冠的防疫政策来了个急转弯，开始几天还在每个省市部署防控策略、策略拨款等等措施",
@@ -98,16 +108,6 @@
           "wordCount": 1089,
           "title": "我阳了或者感冒了，发烧第二天，也许快好了",
           "imageUrl": "https://codechina.org/wp-content/uploads/2022/12/Coronavirus.png"
-        },
-        {
-          "id": "https://codechina.org/?p=26350",
-          "author": "tinyfool",
-          "description": "截止到目前为止，我的Blog有194篇文章已经发布了，然而，如果你用Google分析去看2022年的内容分析。 […]\nSEO：用ChatGPT来做搜索关键词聚类分析，方法和实例最先出现在Tinyfool的个人网站。",
-          "link": "https://codechina.org/2022/12/seo-chatgpt-search/",
-          "publishedOn": "2022-12-17T08:07:19.000Z",
-          "wordCount": 1931,
-          "title": "SEO：用ChatGPT来做搜索关键词聚类分析，方法和实例",
-          "imageUrl": "https://codechina.org/wp-content/uploads/2022/12/A-pile-of-words-floating-randomly-in-the-air-with-a-robot-in-the-background.-Translate-into-English.-.png"
         }
       ]
     },
@@ -252,16 +252,6 @@
           "wordCount": 303,
           "title": "设计服务端软件配置的 4 条建议",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.zlovezl.cn/articles/go-func-argument-patterns/",
-          "author": null,
-          "description": "1. 普通传参\nGo 语言支持按顺序传入参数来调用函数，下面是一个示例函数：\n// ListApplications 查询应用列表\nfunc ListApplications(limit, offset int) []Application {\n    return allApps[offset : offset+limit]\n}\n\n调用代码：\nListApplications(5, 0)\n\n当你想增加新参数时，可以直接修改函数签名。比如，下面的代码给 ListApplications 增加了新的过滤参数 owner：\nfunc ListApplications(limit, offset int, owner string) []Application {\n    if owner != \"\" {\n        // ...\n    }\n    return allApps[offset : offset+limit]\n}\n\n调用代码也需要随之改变：\nListApplications(5, 0, \"piglei\")\n// 不使用 owner 过滤\nListApplications(5, 0, \"\")\n\n显而易见，这种普通传参模式存在以下几个明显的问题：\n可读性不佳：只支持用位置，不支持用关键字来区分参数，参数变多后，各参数含义很难一目了然\n破坏兼容性：增加新参数后，原有调用代码必须进行对应修改，比如像上方的 ListApplications(5, 0, \"\") 一样，在 owner 参数的位置传递空字符串\n为了解决这些问题，常见的做法是引入一个参数结构体（struct）类型。\n2. 使用参数结构体\n新建一个结构体类型，里面包含函数需要支持的所有参数：\n// ListAppsOptions 是查询应用列表时的可选项\ntype ListAppsOptions struct …",
-          "link": "https://www.zlovezl.cn/articles/go-func-argument-patterns/",
-          "publishedOn": "2022-12-17T00:43:33.715Z",
-          "wordCount": 719,
-          "title": "Go 的几种函数传参模式",
-          "imageUrl": null
         }
       ]
     },
@@ -269,7 +259,18 @@
       "title": "静觅",
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://cuiqingcai.com/36065.html",
+          "author": null,
+          "description": "<p>这段时间，想必大家肯定早就领教过 ChatGPT 的威力了吧。</p>\n<p>我们跟它说各种内容，比如写代码、汇总周报、写邮件、写诗句、查百科什么的，ChatGPT 都对答如流，根本不在话下。</p>\n<p>比如说让它基于 Vue3 写一个 div的拖拽实现，思路清晰，代码",
+          "link": "https://cuiqingcai.com/36065.html",
+          "publishedOn": "2022-12-27T11:00:13.000Z",
+          "wordCount": 1371,
+          "title": "推荐一个方便好用的 ChatGPT 客户端",
+          "imageUrl": "https://qiniu.cuiqingcai.com/64yol.png"
+        }
+      ]
     },
     {
       "title": "咸糖 - 自律者自由",
@@ -282,6 +283,16 @@
       "feedUrl": "https://www.leavesongs.com/feed",
       "siteUrl": "https://www.leavesongs.com",
       "articles": [
+        {
+          "id": "https://www.leavesongs.com/THINK/talk-about-2022.html",
+          "author": "phithon",
+          "description": "现在是2022年12月31日晚上8点43分，还有3个多小时今年就过完了，就如同某个其他公司的年终总结一样，这一年发生了太多的事情。但是这些事情距离我是遥远与模糊的，这里还是用简短的篇幅说点和自己相关联的。\n生活\n距离我发表《出中国记》一年左右，新加坡的物价以肉眼可见的速度上涨，已不太适合在国内事业稳定的人前往。而我属于随遇而安的人，到哪里就在哪里躺下，已经逐渐习惯新加坡的生活。\n说起物价，不得不提",
+          "link": "https://www.leavesongs.com/THINK/talk-about-2022.html",
+          "publishedOn": "2023-01-01T00:54:30.875Z",
+          "wordCount": 142,
+          "title": "2022年终总结",
+          "imageUrl": null
+        },
         {
           "id": "https://www.leavesongs.com/THINK/iOS-with-chuangmiplug-smart-plug2.html",
           "author": "phithon",
@@ -370,16 +381,6 @@
           "publishedOn": "2022-12-19T00:43:01.516Z",
           "wordCount": 223,
           "title": "PaaS服务从Heroku迁移到fly.io小计",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.leavesongs.com/THINK/um560-two-weeks-using-experience.html",
-          "author": "phithon",
-          "description": "本文推荐的UM560非与厂商合作推广，仅为我自己的使用体验。\n我大四买了人生里第一台Macbook pro，从那会开始Mac卡顿的问题就一直困扰我到现在。当然这也可能是我自己的问题——我没钱买顶配Macbook，以前公司发的也是低配Macbook pro，我甚至用8G内存的13寸Mac直到2018年才换。\n来新公司以后总算摸到了15寸Mac，但还是16G内存Intel芯片的老电脑，被Burps",
-          "link": "https://www.leavesongs.com/THINK/um560-two-weeks-using-experience.html",
-          "publishedOn": "2022-12-17T00:43:34.253Z",
-          "wordCount": 307,
-          "title": "使用Minisforum UM560小主机办公一周体验",
           "imageUrl": null
         }
       ]

@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2022-12-31T00:44:27.945Z</updated>
+    <updated>2023-01-01T00:55:04.717Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022年终总结]]></title>
+        <id>https://www.leavesongs.com/THINK/talk-about-2022.html</id>
+        <link href="https://www.leavesongs.com/THINK/talk-about-2022.html"/>
+        <updated>2023-01-01T00:54:30.875Z</updated>
+        <summary type="html"><![CDATA[现在是2022年12月31日晚上8点43分，还有3个多小时今年就过完了，就如同某个其他公司的年终总结一样，这一年发生了太多的事情。但是这些事情距离我是遥远与模糊的，这里还是用简短的篇幅说点和自己相关联的。
+生活
+距离我发表《出中国记》一年左右，新加坡的物价以肉眼可见的速度上涨，已不太适合在国内事业稳定的人前往。而我属于随遇而安的人，到哪里就在哪里躺下，已经逐渐习惯新加坡的生活。
+说起物价，不得不提]]></summary>
+        <author>
+            <name>phithon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年第四季度总结]]></title>
+        <id>https://www.escapelife.site/posts/e3113340.html</id>
+        <link href="https://www.escapelife.site/posts/e3113340.html"/>
+        <updated>2022-12-31T15:59:59.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="2022-年第四季度总结"><a href="#2022-年第四季度总结" class="headerlink" title="2022 年第四季度总结"></a>2022]]></summary>
+        <author>
+            <name>Escape</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的2022年年终总结，乏善可陈的一年]]></title>
         <id>https://codechina.org/?p=26695</id>
@@ -103,6 +126,18 @@ def run_server():
 写作时， 如何选择句子的长短是一门学问。汪曾祺说过：“语言的奥秘，说穿了不过是长句与短句的搭配。”长句信息…]]></summary>
         <author>
             <name>piglei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[推荐一个方便好用的 ChatGPT 客户端]]></title>
+        <id>https://cuiqingcai.com/36065.html</id>
+        <link href="https://cuiqingcai.com/36065.html"/>
+        <updated>2022-12-27T11:00:13.000Z</updated>
+        <summary type="html"><![CDATA[<p>这段时间，想必大家肯定早就领教过 ChatGPT 的威力了吧。</p>
+<p>我们跟它说各种内容，比如写代码、汇总周报、写邮件、写诗句、查百科什么的，ChatGPT 都对答如流，根本不在话下。</p>
+<p>比如说让它基于 Vue3 写一个 div的拖拽实现，思路清晰，代码]]></summary>
+        <author>
+            <name>静觅</name>
         </author>
     </entry>
     <entry>
@@ -346,69 +381,6 @@ Python 3.5的新特性]]></summary>
 从很久以前开始接触“虚拟主机”这个行业开始，我经历了虚拟主机、VPS、云主机、Pa]]></summary>
         <author>
             <name>phithon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEO：用ChatGPT来做搜索关键词聚类分析，方法和实例]]></title>
-        <id>https://codechina.org/?p=26350</id>
-        <link href="https://codechina.org/2022/12/seo-chatgpt-search/"/>
-        <updated>2022-12-17T08:07:19.000Z</updated>
-        <summary type="html"><![CDATA[截止到目前为止，我的Blog有194篇文章已经发布了，然而，如果你用Google分析去看2022年的内容分析。 […]
-SEO：用ChatGPT来做搜索关键词聚类分析，方法和实例最先出现在Tinyfool的个人网站。]]></summary>
-        <author>
-            <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Minisforum UM560小主机办公一周体验]]></title>
-        <id>https://www.leavesongs.com/THINK/um560-two-weeks-using-experience.html</id>
-        <link href="https://www.leavesongs.com/THINK/um560-two-weeks-using-experience.html"/>
-        <updated>2022-12-17T00:43:34.253Z</updated>
-        <summary type="html"><![CDATA[本文推荐的UM560非与厂商合作推广，仅为我自己的使用体验。
-我大四买了人生里第一台Macbook pro，从那会开始Mac卡顿的问题就一直困扰我到现在。当然这也可能是我自己的问题——我没钱买顶配Macbook，以前公司发的也是低配Macbook pro，我甚至用8G内存的13寸Mac直到2018年才换。
-来新公司以后总算摸到了15寸Mac，但还是16G内存Intel芯片的老电脑，被Burps]]></summary>
-        <author>
-            <name>phithon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go 的几种函数传参模式]]></title>
-        <id>https://www.zlovezl.cn/articles/go-func-argument-patterns/</id>
-        <link href="https://www.zlovezl.cn/articles/go-func-argument-patterns/"/>
-        <updated>2022-12-17T00:43:33.715Z</updated>
-        <summary type="html"><![CDATA[1. 普通传参
-Go 语言支持按顺序传入参数来调用函数，下面是一个示例函数：
-// ListApplications 查询应用列表
-func ListApplications(limit, offset int) []Application {
-    return allApps[offset : offset+limit]
-}
-
-调用代码：
-ListApplications(5, 0)
-
-当你想增加新参数时，可以直接修改函数签名。比如，下面的代码给 ListApplications 增加了新的过滤参数 owner：
-func ListApplications(limit, offset int, owner string) []Application {
-    if owner != "" {
-        // ...
-    }
-    return allApps[offset : offset+limit]
-}
-
-调用代码也需要随之改变：
-ListApplications(5, 0, "piglei")
-// 不使用 owner 过滤
-ListApplications(5, 0, "")
-
-显而易见，这种普通传参模式存在以下几个明显的问题：
-可读性不佳：只支持用位置，不支持用关键字来区分参数，参数变多后，各参数含义很难一目了然
-破坏兼容性：增加新参数后，原有调用代码必须进行对应修改，比如像上方的 ListApplications(5, 0, "") 一样，在 owner 参数的位置传递空字符串
-为了解决这些问题，常见的做法是引入一个参数结构体（struct）类型。
-2. 使用参数结构体
-新建一个结构体类型，里面包含函数需要支持的所有参数：
-// ListAppsOptions 是查询应用列表时的可选项
-type ListAppsOptions struct …]]></summary>
-        <author>
-            <name>piglei</name>
         </author>
     </entry>
     <entry>

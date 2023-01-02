@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-01-01T00:55:04.717Z</updated>
+    <updated>2023-01-02T00:46:51.150Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Go 的几种函数传参模式]]></title>
+        <id>https://www.zlovezl.cn/articles/go-func-argument-patterns/</id>
+        <link href="https://www.zlovezl.cn/articles/go-func-argument-patterns/"/>
+        <updated>2023-01-02T00:46:46.317Z</updated>
+        <summary type="html"><![CDATA[1. 普通传参
+Go 语言支持按顺序传入参数来调用函数，下面是一个示例函数：
+// ListApplications 查询应用列表
+func ListApplications(limit, offset int) []Application {
+    return allApps[offset : offset+limit]
+}
+
+调用代码：
+ListApplications(5, 0)
+
+当你想增加新参数时，可以直接修改函数签名。比如，下面的代码给 ListApplications 增加了新的过滤参数 owner：
+func ListApplications(limit, offset int, owner string) []Application {
+    if owner != "" {
+        // ...
+    }
+    return allApps[offset : offset+limit]
+}
+
+调用代码也需要随之改变：
+ListApplications(5, 0, "piglei")
+// 不使用 owner 过滤
+ListApplications(5, 0, "")
+
+显而易见，这种普通传参模式存在以下几个明显的问题：
+可读性不佳：只支持用位置，不支持用关键字来区分参数，参数变多后，各参数含义很难一目了然
+破坏兼容性：增加新参数后，原有调用代码必须进行对应修改，比如像上方的 ListApplications(5, 0, "") 一样，在 owner 参数的位置传递空字符串
+为了解决这些问题，常见的做法是引入一个参数结构体（struct）类型。
+2. 使用参数结构体
+新建一个结构体类型，里面包含函数需要支持的所有参数：
+// ListAppsOptions 是查询应用列表时的可选项
+type ListAppsOptions struct …]]></summary>
+        <author>
+            <name>piglei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stay Simple, Stay Naive]]></title>
+        <id>https://manjusaka.blog/posts/2023/01/01/stay-simple-stay-naive/</id>
+        <link href="https://manjusaka.blog/posts/2023/01/01/stay-simple-stay-naive/"/>
+        <updated>2023-01-01T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>本来想在农历年前交年终总结的，不过想了想，去年的年终总结就因为太懒导致我鸽了。所以这个“双年”怎么也得总结下2022了。不过说起来怎么还没去字节，就开始 ego 了起来。</p>]]></summary>
+        <author>
+            <name>Manjusaka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年的最后一天，我爸白肺了，我把我爸送进了ICU]]></title>
+        <id>https://codechina.org/?p=26727</id>
+        <link href="https://codechina.org/2023/01/my-father/"/>
+        <updated>2023-01-01T01:12:21.000Z</updated>
+        <summary type="html"><![CDATA[我今天把我父亲送进了ICU，我今天想聊聊这件事情。本来我是不太想聊这件事情，因为有一些personal的事情， […]
+2022年的最后一天，我爸白肺了，我把我爸送进了ICU最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年终总结]]></title>
         <id>https://www.leavesongs.com/THINK/talk-about-2022.html</id>

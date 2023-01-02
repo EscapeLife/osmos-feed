@@ -70,6 +70,16 @@
       "siteUrl": "https://codechina.org/",
       "articles": [
         {
+          "id": "https://codechina.org/?p=26727",
+          "author": "tinyfool",
+          "description": "我今天把我父亲送进了ICU，我今天想聊聊这件事情。本来我是不太想聊这件事情，因为有一些personal的事情， […]\n2022年的最后一天，我爸白肺了，我把我爸送进了ICU最先出现在Tinyfool的个人网站。",
+          "link": "https://codechina.org/2023/01/my-father/",
+          "publishedOn": "2023-01-01T01:12:21.000Z",
+          "wordCount": 1181,
+          "title": "2022年的最后一天，我爸白肺了，我把我爸送进了ICU",
+          "imageUrl": "https://codechina.org/wp-content/uploads/2023/01/richard-catabay-05kHY7AYCp8-unsplash.jpg"
+        },
+        {
           "id": "https://codechina.org/?p=26695",
           "author": "tinyfool",
           "description": "今天是2022年的最后一天。这是我最不喜欢的一年，希望是这样的最后一年。 这一年最大的主题就是封控。原本我以为 […]\n我的2022年年终总结，乏善可陈的一年最先出现在Tinyfool的个人网站。",
@@ -148,7 +158,18 @@
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "https://manjusaka.blog/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://manjusaka.blog/posts/2023/01/01/stay-simple-stay-naive/",
+          "author": null,
+          "description": "<p>本来想在农历年前交年终总结的，不过想了想，去年的年终总结就因为太懒导致我鸽了。所以这个“双年”怎么也得总结下2022了。不过说起来怎么还没去字节，就开始 ego 了起来。</p>",
+          "link": "https://manjusaka.blog/posts/2023/01/01/stay-simple-stay-naive/",
+          "publishedOn": "2023-01-01T19:00:00.000Z",
+          "wordCount": 479,
+          "title": "Stay Simple, Stay Naive",
+          "imageUrl": "https://user-images.githubusercontent.com/7054676/166151791-40f3b47c-a649-4b9e-bb79-c58ccd263fd2.png"
+        }
+      ]
     },
     {
       "title": "laike9m's blog",
@@ -213,6 +234,16 @@
       "feedUrl": "https://www.zlovezl.cn/feeds/latest",
       "siteUrl": "http://www.zlovezl.cn/",
       "articles": [
+        {
+          "id": "https://www.zlovezl.cn/articles/go-func-argument-patterns/",
+          "author": null,
+          "description": "1. 普通传参\nGo 语言支持按顺序传入参数来调用函数，下面是一个示例函数：\n// ListApplications 查询应用列表\nfunc ListApplications(limit, offset int) []Application {\n    return allApps[offset : offset+limit]\n}\n\n调用代码：\nListApplications(5, 0)\n\n当你想增加新参数时，可以直接修改函数签名。比如，下面的代码给 ListApplications 增加了新的过滤参数 owner：\nfunc ListApplications(limit, offset int, owner string) []Application {\n    if owner != \"\" {\n        // ...\n    }\n    return allApps[offset : offset+limit]\n}\n\n调用代码也需要随之改变：\nListApplications(5, 0, \"piglei\")\n// 不使用 owner 过滤\nListApplications(5, 0, \"\")\n\n显而易见，这种普通传参模式存在以下几个明显的问题：\n可读性不佳：只支持用位置，不支持用关键字来区分参数，参数变多后，各参数含义很难一目了然\n破坏兼容性：增加新参数后，原有调用代码必须进行对应修改，比如像上方的 ListApplications(5, 0, \"\") 一样，在 owner 参数的位置传递空字符串\n为了解决这些问题，常见的做法是引入一个参数结构体（struct）类型。\n2. 使用参数结构体\n新建一个结构体类型，里面包含函数需要支持的所有参数：\n// ListAppsOptions 是查询应用列表时的可选项\ntype ListAppsOptions struct …",
+          "link": "https://www.zlovezl.cn/articles/go-func-argument-patterns/",
+          "publishedOn": "2023-01-02T00:46:46.317Z",
+          "wordCount": 719,
+          "title": "Go 的几种函数传参模式",
+          "imageUrl": null
+        },
         {
           "id": "https://www.zlovezl.cn/articles/if-programming-is-writing/",
           "author": null,

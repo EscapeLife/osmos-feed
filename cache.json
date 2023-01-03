@@ -70,6 +70,16 @@
       "siteUrl": "https://codechina.org/",
       "articles": [
         {
+          "id": "https://codechina.org/?p=25998",
+          "author": "tinyfool",
+          "description": "很多人说ChatGPT这样的人工智能已经拥有真正的人类智慧了。他们提到了许多例子，比如ChatGPT能够和人类 […]\n万能的ChatGPT真有智能了么？一篇文章让你彻底搞懂ChatGPT-人类是怎么训练出了一只聪明的莎士比亚的猴子最先出现在Tinyfool的个人网站。",
+          "link": "https://codechina.org/2023/01/chatgpt-ai-human-principle-and-limitation/",
+          "publishedOn": "2023-01-02T04:18:48.000Z",
+          "wordCount": 1631,
+          "title": "万能的ChatGPT真有智能了么？一篇文章让你彻底搞懂ChatGPT-人类是怎么训练出了一只聪明的莎士比亚的猴子",
+          "imageUrl": "https://codechina.org/wp-content/uploads/2022/12/Monkey-typing.jpg"
+        },
+        {
           "id": "https://codechina.org/?p=26727",
           "author": "tinyfool",
           "description": "我今天把我父亲送进了ICU，我今天想聊聊这件事情。本来我是不太想聊这件事情，因为有一些personal的事情， […]\n2022年的最后一天，我爸白肺了，我把我爸送进了ICU最先出现在Tinyfool的个人网站。",
@@ -307,7 +317,18 @@
       "title": "咸糖 - 自律者自由",
       "feedUrl": "https://vim0.com/index.xml",
       "siteUrl": "https://vim0.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://vim0.com/post/2022/",
+          "author": null,
+          "description": "今天是 2023 年的第一天，我想写一篇年终总结，回顾一下 2022 年的一些事情。 同时也是一个自我的回顾。 2022 年终总结 2022 年是一个不大顺利的一年， 似乎因为经济下行",
+          "link": "https://vim0.com/post/2022/",
+          "publishedOn": "2023-01-01T08:30:40.000Z",
+          "wordCount": 271,
+          "title": "2022 年终总结",
+          "imageUrl": "https://vim0.com/post/main_cover.png"
+        }
+      ]
     },
     {
       "title": "离别歌",
@@ -402,16 +423,6 @@
           "publishedOn": "2022-12-20T00:48:26.035Z",
           "wordCount": 224,
           "title": "2022年欧洲游记",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.leavesongs.com/SOFT/paas-service-from-heroku-to-fly-io.html",
-          "author": "phithon",
-          "description": "今年8月得知了Heroku将要在今年11月彻底下线免费服务，我只有少量服务放在Heroku上，所以没有太在意，直到10月感觉到不得不开始做迁移相关的工作了，于是开始着手准备，并有了这篇文章。\n这篇文章纯属是事后记录的一些流水账，可能缺少截图和代码片段，全当是作为一个故事看，可能不具备参考性。\n为什么选择PaaS服务\n从很久以前开始接触“虚拟主机”这个行业开始，我经历了虚拟主机、VPS、云主机、Pa",
-          "link": "https://www.leavesongs.com/SOFT/paas-service-from-heroku-to-fly-io.html",
-          "publishedOn": "2022-12-19T00:43:01.516Z",
-          "wordCount": 223,
-          "title": "PaaS服务从Heroku迁移到fly.io小计",
           "imageUrl": null
         }
       ]

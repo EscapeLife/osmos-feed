@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-01-04T00:48:04.195Z</updated>
+    <updated>2023-01-05T00:49:57.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[使用StoreKit2不再需要恢复购买按钮，但是为了审核你还需要放一个【AppStore审核手记】]]></title>
+        <id>https://codechina.org/?p=26850</id>
+        <link href="https://codechina.org/2023/01/storekit2-appstore/"/>
+        <updated>2023-01-04T04:31:14.000Z</updated>
+        <summary type="html"><![CDATA[昨天我提交了一个新App，2023年我的计划就是开发一系列的小App试图在独立开发领域有一份收入。但是今天一早 […]
+使用StoreKit2不再需要恢复购买按钮，但是为了审核你还需要放一个【AppStore审核手记】最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023年我的新年目标]]></title>
+        <id>https://codechina.org/?p=26842</id>
+        <link href="https://codechina.org/2023/01/2023-plans/"/>
+        <updated>2023-01-04T01:29:16.000Z</updated>
+        <summary type="html"><![CDATA[每年多少我都在谈新年目标，也许公开说了，也许没有公开写文章说，自己跟自己说了，或者跟朋友聊的时候，聊过。这些年 […]
+2023年我的新年目标最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从零开始，使用SwiftUI和PDFKit快速构建完全可定制的PDF阅读器]]></title>
         <id>https://codechina.org/?p=26809</id>

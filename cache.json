@@ -60,6 +60,26 @@
       "siteUrl": "https://codechina.org/",
       "articles": [
         {
+          "id": "https://codechina.org/?p=26850",
+          "author": "tinyfool",
+          "description": "昨天我提交了一个新App，2023年我的计划就是开发一系列的小App试图在独立开发领域有一份收入。但是今天一早 […]\n使用StoreKit2不再需要恢复购买按钮，但是为了审核你还需要放一个【AppStore审核手记】最先出现在Tinyfool的个人网站。",
+          "link": "https://codechina.org/2023/01/storekit2-appstore/",
+          "publishedOn": "2023-01-04T04:31:14.000Z",
+          "wordCount": 1432,
+          "title": "使用StoreKit2不再需要恢复购买按钮，但是为了审核你还需要放一个【AppStore审核手记】",
+          "imageUrl": "https://codechina.org/wp-content/uploads/2023/01/截屏2023-01-04-12.20.26.png"
+        },
+        {
+          "id": "https://codechina.org/?p=26842",
+          "author": "tinyfool",
+          "description": "每年多少我都在谈新年目标，也许公开说了，也许没有公开写文章说，自己跟自己说了，或者跟朋友聊的时候，聊过。这些年 […]\n2023年我的新年目标最先出现在Tinyfool的个人网站。",
+          "link": "https://codechina.org/2023/01/2023-plans/",
+          "publishedOn": "2023-01-04T01:29:16.000Z",
+          "wordCount": 1116,
+          "title": "2023年我的新年目标",
+          "imageUrl": "https://codechina.org/wp-content/uploads/2023/01/Darts_in_a_dartboard.jpg"
+        },
+        {
           "id": "https://codechina.org/?p=26809",
           "author": "tinyfool",
           "description": "SwiftUI快速创建UI的能力非常强大，苹果还提供了PDFKit框架，所以，用SwiftUI和PDFKit可 […]\n从零开始，使用SwiftUI和PDFKit快速构建完全可定制的PDF阅读器最先出现在Tinyfool的个人网站。",

@@ -219,18 +219,7 @@
       "title": "李辉",
       "feedUrl": "https://greyli.com/feed",
       "siteUrl": "https://greyli.com",
-      "articles": [
-        {
-          "id": "https://greyli.com/?p=4687",
-          "author": "李辉",
-          "description": "今年一直处于被工作、写书和开源项目这三件事情拉扯的状态。这个月底是两本书合同上的截稿时间，但我一本都没完成。这 […]",
-          "link": "https://greyli.com/be-an-early-bird/",
-          "publishedOn": "2022-12-21T15:05:16.000Z",
-          "wordCount": 219,
-          "title": "早起是唯一出路",
-          "imageUrl": "https://greyli.com/wp-content/uploads/2020/07/avatar.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "�Ʒ�� BLOG",

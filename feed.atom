@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-01-06T00:49:35.317Z</updated>
+    <updated>2023-01-07T00:46:23.867Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[晒得到太阳的房子]]></title>
+        <id>https://greyli.com/?p=4718</id>
+        <link href="https://greyli.com/sunroom/"/>
+        <updated>2023-01-06T12:57:20.000Z</updated>
+        <summary type="html"><![CDATA[搬到了一个能晒到太阳的房子，就在森林（公园）旁边。晚上十二点钟还能听到一班火车慢悠悠驶过的声音。 房子在马路边 […]]]></summary>
+        <author>
+            <name>李辉</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我爸从ICU出来了，转到了普通病房，但是还需要继续治疗]]></title>
+        <id>https://codechina.org/?p=26913</id>
+        <link href="https://codechina.org/2023/01/out-of-icu/"/>
+        <updated>2023-01-06T01:51:08.000Z</updated>
+        <summary type="html"><![CDATA[昨天医生联系我们，说可能今天要把他转出ICU。肺的问题可能还是很严重，但是从31号住进ICU到今天已经5天了， […]
+我爸从ICU出来了，转到了普通病房，但是还需要继续治疗最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用StoreKit2不再需要恢复购买按钮，但是为了审核你还需要放一个【AppStore审核手记】]]></title>
         <id>https://codechina.org/?p=26850</id>
@@ -402,26 +423,6 @@ To file your Income Tax Return, log in to myTax Portal with Singpass.
         <summary type="html"><![CDATA[今年工作中发生的一个问题，因为太简单了，觉得不值得记录。今天读 plantegg 的一篇文章，想起来这件事。技 […]
 Continue reading...
 The post 记录一次问题排查的故事 first appeared on 卡瓦邦噶！.]]></summary>
-        <author>
-            <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pngpaste – | tesseract stdin stdout]]></title>
-        <id>https://www.kawabangga.com/?p=4876</id>
-        <link href="https://www.kawabangga.com/posts/4876"/>
-        <updated>2022-12-23T10:21:11.000Z</updated>
-        <summary type="html"><![CDATA[总是有人喜欢贴截图而不是文字，我的工作又经常要求跟客户要他们的 trace id 来排查问题。为了可以少说几句 […]
-Continue reading...
-The post pngpaste – | tesseract stdin stdout first appeared on 卡瓦邦噶！.
-
-相关文章:
-
-用 ssh 传输文件
-Git 在不同的项目使用不同的author
-开始用 Ansible 管理机器了
-无法 Patch
-Python 3.5的新特性]]></summary>
         <author>
             <name>laixintao</name>
         </author>

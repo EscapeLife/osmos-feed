@@ -60,6 +60,16 @@
       "siteUrl": "https://codechina.org/",
       "articles": [
         {
+          "id": "https://codechina.org/?p=26955",
+          "author": "tinyfool",
+          "description": "最近，我开始在看梁文道的《一千零一夜》，刚好听到讲《狂人日记》，讲鲁迅。 其实我上学的时候，课本上还有鲁迅，现 […]\n为什么自比鲁迅的让我觉得不像，王小波门下走狗我也觉得不好，应该是“人只有不完美 值得歌颂”最先出现在Tinyfool的个人网站。",
+          "link": "https://codechina.org/2023/01/luxun-wangxiaobo/",
+          "publishedOn": "2023-01-07T13:01:51.000Z",
+          "wordCount": 1102,
+          "title": "为什么自比鲁迅的让我觉得不像，王小波门下走狗我也觉得不好，应该是“人只有不完美 值得歌颂”",
+          "imageUrl": "https://codechina.org/wp-content/uploads/2023/01/鲁迅3.jpeg"
+        },
+        {
           "id": "https://codechina.org/?p=26913",
           "author": "tinyfool",
           "description": "昨天医生联系我们，说可能今天要把他转出ICU。肺的问题可能还是很严重，但是从31号住进ICU到今天已经5天了， […]\n我爸从ICU出来了，转到了普通病房，但是还需要继续治疗最先出现在Tinyfool的个人网站。",
@@ -161,24 +171,23 @@
       "title": "卡瓦邦噶！",
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
-      "articles": [
-        {
-          "id": "https://www.kawabangga.com/?p=4870",
-          "author": "laixintao",
-          "description": "今年工作中发生的一个问题，因为太简单了，觉得不值得记录。今天读 plantegg 的一篇文章，想起来这件事。技 […]\nContinue reading...\nThe post 记录一次问题排查的故事 first appeared on 卡瓦邦噶！.",
-          "link": "https://www.kawabangga.com/posts/4870",
-          "publishedOn": "2022-12-23T14:55:12.000Z",
-          "wordCount": 1177,
-          "title": "记录一次问题排查的故事",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "https://manjusaka.blog/atom.xml",
       "articles": [
+        {
+          "id": "https://manjusaka.blog/posts/2023/01/07/special-case-no-space-left-on-device/",
+          "author": null,
+          "description": "<p>好久没写水文了，新年第一篇水文总得写一下，完成下 OKR，正好最近帮群友查了一个特殊的 No space left on device 问题，记录一下。</p>",
+          "link": "https://manjusaka.blog/posts/2023/01/07/special-case-no-space-left-on-device/",
+          "publishedOn": "2023-01-07T15:30:00.000Z",
+          "wordCount": 1265,
+          "title": "排查一个特殊的 No space left on device",
+          "imageUrl": "https://user-images.githubusercontent.com/7054676/211155731-c54b1146-2daa-48b3-8e1e-294040d73201.png"
+        },
         {
           "id": "https://manjusaka.blog/posts/2023/01/01/stay-simple-stay-naive/",
           "author": null,
@@ -382,36 +391,6 @@
           "publishedOn": "2022-12-25T00:48:46.639Z",
           "wordCount": 120,
           "title": "XRay三周年活动寄语",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.leavesongs.com/THINK/vulhub-10k-stars-moment.html",
-          "author": "phithon",
-          "description": "不知不觉离我所主导的开源项目Vulhub的第一个提交已经快5年了，Vulhub俨然已经成为我生活中的日常。就像我生活中的另外几个日常代码审计星球、Sec-News一样，他们并不是我刻意要去完成的一项工作，而成为了我现实中的“回调函数”。\n用回调函数来形容这件事听起来很独特，但仔细想想确实如此——我会在分析最新漏洞后将其做成Vulhub环境提交到Github，我会在读到不错文章后点击浏览器上的按钮将",
-          "link": "https://www.leavesongs.com/THINK/vulhub-10k-stars-moment.html",
-          "publishedOn": "2022-12-24T00:41:22.573Z",
-          "wordCount": 145,
-          "title": "Vulhub万赞纪念与抽奖",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.leavesongs.com/THINK/how-to-verify-individual-in-singapore.html",
-          "author": "phithon",
-          "description": "三月是国内个税申报的月份，也是新加坡个税申报的月份，前几天收到一封信，告诉我应该填写个税申报的表格了。\n\n在这封信里，提到了下面这段话：\nTo file your Income Tax Return, log in to myTax Portal with Singpass.\n这里面有说到一个东西叫Singpass，在我来新加坡的这几个月里，几乎可以把Singpass看成新加坡政府数字化建设的",
-          "link": "https://www.leavesongs.com/THINK/how-to-verify-individual-in-singapore.html",
-          "publishedOn": "2022-12-24T00:41:22.479Z",
-          "wordCount": 148,
-          "title": "新加坡企业是怎么做实名认证的？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.leavesongs.com/THINK/why-subscribe-a-newspaper-in-2022.html",
-          "author": "phithon",
-          "description": "前两天我在收拾屋子。\n我家是个很典型的单人公寓，由于女朋友还没到新加坡来，现在的屋子一个人住恰到好处。不过一个人住总是一个熵增的过程，所以我会隔段时间收拾一下屋子，把一些不想要又舍不得丢的东西塞进我家里的一个“黑洞”里，这样外面看起来仍然是整齐的。\n这个“黑洞”是一个正经防空洞——新加坡大部分民宅都配有一个防空洞，面积大概一两个平米，所以大部分人会选择将这个房间作为杂物间。\n我就是在走进这个杂物间",
-          "link": "https://www.leavesongs.com/THINK/why-subscribe-a-newspaper-in-2022.html",
-          "publishedOn": "2022-12-24T00:41:22.469Z",
-          "wordCount": 154,
-          "title": "2022年我为什么订报纸",
           "imageUrl": null
         }
       ]

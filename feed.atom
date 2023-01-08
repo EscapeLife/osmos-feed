@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-01-07T00:46:23.867Z</updated>
+    <updated>2023-01-08T00:52:30.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[排查一个特殊的 No space left on device]]></title>
+        <id>https://manjusaka.blog/posts/2023/01/07/special-case-no-space-left-on-device/</id>
+        <link href="https://manjusaka.blog/posts/2023/01/07/special-case-no-space-left-on-device/"/>
+        <updated>2023-01-07T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>好久没写水文了，新年第一篇水文总得写一下，完成下 OKR，正好最近帮群友查了一个特殊的 No space left on device 问题，记录一下。</p>]]></summary>
+        <author>
+            <name>Manjusaka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么自比鲁迅的让我觉得不像，王小波门下走狗我也觉得不好，应该是“人只有不完美 值得歌颂”]]></title>
+        <id>https://codechina.org/?p=26955</id>
+        <link href="https://codechina.org/2023/01/luxun-wangxiaobo/"/>
+        <updated>2023-01-07T13:01:51.000Z</updated>
+        <summary type="html"><![CDATA[最近，我开始在看梁文道的《一千零一夜》，刚好听到讲《狂人日记》，讲鲁迅。 其实我上学的时候，课本上还有鲁迅，现 […]
+为什么自比鲁迅的让我觉得不像，王小波门下走狗我也觉得不好，应该是“人只有不完美 值得歌颂”最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[晒得到太阳的房子]]></title>
         <id>https://greyli.com/?p=4718</id>
@@ -375,56 +396,6 @@ SyntaxError: invali…]]></summary>
 举个例子，假如你的软件…]]></summary>
         <author>
             <name>piglei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vulhub万赞纪念与抽奖]]></title>
-        <id>https://www.leavesongs.com/THINK/vulhub-10k-stars-moment.html</id>
-        <link href="https://www.leavesongs.com/THINK/vulhub-10k-stars-moment.html"/>
-        <updated>2022-12-24T00:41:22.573Z</updated>
-        <summary type="html"><![CDATA[不知不觉离我所主导的开源项目Vulhub的第一个提交已经快5年了，Vulhub俨然已经成为我生活中的日常。就像我生活中的另外几个日常代码审计星球、Sec-News一样，他们并不是我刻意要去完成的一项工作，而成为了我现实中的“回调函数”。
-用回调函数来形容这件事听起来很独特，但仔细想想确实如此——我会在分析最新漏洞后将其做成Vulhub环境提交到Github，我会在读到不错文章后点击浏览器上的按钮将]]></summary>
-        <author>
-            <name>phithon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新加坡企业是怎么做实名认证的？]]></title>
-        <id>https://www.leavesongs.com/THINK/how-to-verify-individual-in-singapore.html</id>
-        <link href="https://www.leavesongs.com/THINK/how-to-verify-individual-in-singapore.html"/>
-        <updated>2022-12-24T00:41:22.479Z</updated>
-        <summary type="html"><![CDATA[三月是国内个税申报的月份，也是新加坡个税申报的月份，前几天收到一封信，告诉我应该填写个税申报的表格了。
-
-在这封信里，提到了下面这段话：
-To file your Income Tax Return, log in to myTax Portal with Singpass.
-这里面有说到一个东西叫Singpass，在我来新加坡的这几个月里，几乎可以把Singpass看成新加坡政府数字化建设的]]></summary>
-        <author>
-            <name>phithon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年我为什么订报纸]]></title>
-        <id>https://www.leavesongs.com/THINK/why-subscribe-a-newspaper-in-2022.html</id>
-        <link href="https://www.leavesongs.com/THINK/why-subscribe-a-newspaper-in-2022.html"/>
-        <updated>2022-12-24T00:41:22.469Z</updated>
-        <summary type="html"><![CDATA[前两天我在收拾屋子。
-我家是个很典型的单人公寓，由于女朋友还没到新加坡来，现在的屋子一个人住恰到好处。不过一个人住总是一个熵增的过程，所以我会隔段时间收拾一下屋子，把一些不想要又舍不得丢的东西塞进我家里的一个“黑洞”里，这样外面看起来仍然是整齐的。
-这个“黑洞”是一个正经防空洞——新加坡大部分民宅都配有一个防空洞，面积大概一两个平米，所以大部分人会选择将这个房间作为杂物间。
-我就是在走进这个杂物间]]></summary>
-        <author>
-            <name>phithon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[记录一次问题排查的故事]]></title>
-        <id>https://www.kawabangga.com/?p=4870</id>
-        <link href="https://www.kawabangga.com/posts/4870"/>
-        <updated>2022-12-23T14:55:12.000Z</updated>
-        <summary type="html"><![CDATA[今年工作中发生的一个问题，因为太简单了，觉得不值得记录。今天读 plantegg 的一篇文章，想起来这件事。技 […]
-Continue reading...
-The post 记录一次问题排查的故事 first appeared on 卡瓦邦噶！.]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

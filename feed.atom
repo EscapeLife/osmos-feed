@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-01-08T00:52:30.136Z</updated>
+    <updated>2023-01-09T00:48:39.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[特斯拉降价，车主维权维的什么权？特斯拉还巴不得你闹，那就是最好的促销广告！]]></title>
+        <id>https://codechina.org/?p=26980</id>
+        <link href="https://codechina.org/2023/01/jiangjia/"/>
+        <updated>2023-01-08T06:14:55.000Z</updated>
+        <summary type="html"><![CDATA[特斯拉又又又……又降价了！你猜我怎么知道的？没有垃圾邮件，没有看到广告，没有朋友告知。 因为听说又有特斯拉车主 […]
+特斯拉降价，车主维权维的什么权？特斯拉还巴不得你闹，那就是最好的促销广告！最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[排查一个特殊的 No space left on device]]></title>
         <id>https://manjusaka.blog/posts/2023/01/07/special-case-no-space-left-on-device/</id>
@@ -358,44 +369,6 @@ SyntaxError: invali…]]></summary>
 首先，我在管理员后台看到当前Fla]]></summary>
         <author>
             <name>phithon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRay三周年活动寄语]]></title>
-        <id>https://www.leavesongs.com/THINK/xray-3-years.html</id>
-        <link href="https://www.leavesongs.com/THINK/xray-3-years.html"/>
-        <updated>2022-12-25T00:48:46.639Z</updated>
-        <summary type="html"><![CDATA[上周XRay做了一次三周年活动，简单写了一段寄语，记录于博客。
-大家好，我是phith0n，安全社区有很多人叫我P师傅，以前很抗拒这个称呼，总是给人一种互相吹捧的感觉，不过后来我换了一个角度理解这个称呼——以前坐公交车不认路的时候，我们上车时总会问司机：师傅，这个车到不到国贸大厦？
-这么多年过去了，大部分人用上智能手机，搜索引擎，很少再有人会再问出这类问题。但是我还是愿意当一个普普通通的司机师傅]]></summary>
-        <author>
-            <name>phithon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[设计服务端软件配置的 4 条建议]]></title>
-        <id>https://www.zlovezl.cn/articles/how-to-design-config-file-for-software/</id>
-        <link href="https://www.zlovezl.cn/articles/how-to-design-config-file-for-software/"/>
-        <updated>2022-12-25T00:48:45.126Z</updated>
-        <summary type="html"><![CDATA[在设计和开发服务端（后端）软件时，配置文件是一个绕不开的话题。
-配置文件是一种用于存放各类可配置项的特殊文件。每个软件都会预设一些默认配置，但这些默认值不可能适用于所有情况。因此，到了不同的环境中，我们常常需要用配置文件对其进行扩展和修改。
-拿版本控制软件 git 举例。大部分用户的 home 目录（~）都存放着一份 .gitconfig 配置文件，里面写着自己的用户名和邮箱地址：
-[user]
-    name = piglei
-    email = piglei2007@gmail.com
-
-就像软件的任何一个主要功能一样，配置文件也会极大的影响软件的使用体验。良好的设计能让软件变得更易用，糟糕的设计则会带来许多意想不到的问题，将用户拒之门外。
-在这篇文章中，我整理了 4 条关于“软件配置文件”的设计建议，希望能对你有所帮助。
-1. 最好不给配置也能用
-在网络世界里，每过一天，人们的耐心似乎就又比前一天减少了一丁点。一个制作精良的短视频，如果 3 秒钟之内无法抓住你，你的右手拇指就会条件反射般将它划走。
-现在，假设你开发了一个非常有用的工具软件，并发布到了网上。软件的功能非常全面，所有人在使用它之前，需要编辑一份包含 20 项配置的配置文件。你猜，有多大比例的潜在用户会直接掉头走掉？
-当我们想要一件东西时，总是一刻也不想等。因此，初始的配置过程麻烦与否，会强烈影响人们尝试软件的决心。在这方面，我认为最好的体验是：无需提供任何配置，便能直接使用软件 80% 以上的功能。
-假如无法做到这一点，我们也应该试着从以下几个方面着手，尽量降低用户的配置成本，压缩从“开始安装”到“可使用”之间的等待时间。
-1.1 预设合理的默认值
-为了将必须由用户提供的配置项，压缩到最少。你得给软件的所有配置项预设一个足够合理的默认值。这些默认值应当能让尽可能多的用户满意。
-举个例子，假如你的软件…]]></summary>
-        <author>
-            <name>piglei</name>
         </author>
     </entry>
     <entry>

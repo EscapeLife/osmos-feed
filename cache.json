@@ -60,6 +60,16 @@
       "siteUrl": "https://codechina.org/",
       "articles": [
         {
+          "id": "https://codechina.org/?p=27016",
+          "author": "tinyfool",
+          "description": "这个域名codechina.org我买的时候，其实是想做个代码搜索服务之类的，那时候，我刚刚做的搜索公司创业失 […]\nBlog CodeChina的2022年年度总结最先出现在Tinyfool的个人网站。",
+          "link": "https://codechina.org/2023/01/2022-blog/",
+          "publishedOn": "2023-01-09T04:48:53.000Z",
+          "wordCount": 1360,
+          "title": "Blog CodeChina的2022年年度总结",
+          "imageUrl": "https://codechina.org/wp-content/uploads/2023/01/截屏2023-01-09-12.43.05.png"
+        },
+        {
           "id": "https://codechina.org/?p=26980",
           "author": "tinyfool",
           "description": "特斯拉又又又……又降价了！你猜我怎么知道的？没有垃圾邮件，没有看到广告，没有朋友告知。 因为听说又有特斯拉车主 […]\n特斯拉降价，车主维权维的什么权？特斯拉还巴不得你闹，那就是最好的促销广告！最先出现在Tinyfool的个人网站。",
@@ -263,6 +273,16 @@
       "siteUrl": "http://www.zlovezl.cn/",
       "articles": [
         {
+          "id": "https://www.zlovezl.cn/articles/how-to-design-config-file-for-software/",
+          "author": null,
+          "description": "在设计和开发服务端（后端）软件时，配置文件是一个绕不开的话题。\n配置文件是一种用于存放各类可配置项的特殊文件。每个软件都会预设一些默认配置，但这些默认值不可能适用于所有情况。因此，到了不同的环境中，我们常常需要用配置文件对其进行扩展和修改。\n拿版本控制软件 git 举例。大部分用户的 home 目录（~）都存放着一份 .gitconfig 配置文件，里面写着自己的用户名和邮箱地址：\n[user]\n    name = piglei\n    email = piglei2007@gmail.com\n\n就像软件的任何一个主要功能一样，配置文件也会极大的影响软件的使用体验。良好的设计能让软件变得更易用，糟糕的设计则会带来许多意想不到的问题，将用户拒之门外。\n在这篇文章中，我整理了 4 条关于“软件配置文件”的设计建议，希望能对你有所帮助。\n1. 最好不给配置也能用\n在网络世界里，每过一天，人们的耐心似乎就又比前一天减少了一丁点。一个制作精良的短视频，如果 3 秒钟之内无法抓住你，你的右手拇指就会条件反射般将它划走。\n现在，假设你开发了一个非常有用的工具软件，并发布到了网上。软件的功能非常全面，所有人在使用它之前，需要编辑一份包含 20 项配置的配置文件。你猜，有多大比例的潜在用户会直接掉头走掉？\n当我们想要一件东西时，总是一刻也不想等。因此，初始的配置过程麻烦与否，会强烈影响人们尝试软件的决心。在这方面，我认为最好的体验是：无需提供任何配置，便能直接使用软件 80% 以上的功能。\n假如无法做到这一点，我们也应该试着从以下几个方面着手，尽量降低用户的配置成本，压缩从“开始安装”到“可使用”之间的等待时间。\n1.1 预设合理的默认值\n为了将必须由用户提供的配置项，压缩到最少。你得给软件的所有配置项预设一个足够合理的默认值。这些默认值应当能让尽可能多的用户满意。\n举个例子，假如你的软件…",
+          "link": "https://www.zlovezl.cn/articles/how-to-design-config-file-for-software/",
+          "publishedOn": "2023-01-10T00:51:29.057Z",
+          "wordCount": 303,
+          "title": "设计服务端软件配置的 4 条建议",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zlovezl.cn/articles/go-func-argument-patterns/",
           "author": null,
           "description": "1. 普通传参\nGo 语言支持按顺序传入参数来调用函数，下面是一个示例函数：\n// ListApplications 查询应用列表\nfunc ListApplications(limit, offset int) []Application {\n    return allApps[offset : offset+limit]\n}\n\n调用代码：\nListApplications(5, 0)\n\n当你想增加新参数时，可以直接修改函数签名。比如，下面的代码给 ListApplications 增加了新的过滤参数 owner：\nfunc ListApplications(limit, offset int, owner string) []Application {\n    if owner != \"\" {\n        // ...\n    }\n    return allApps[offset : offset+limit]\n}\n\n调用代码也需要随之改变：\nListApplications(5, 0, \"piglei\")\n// 不使用 owner 过滤\nListApplications(5, 0, \"\")\n\n显而易见，这种普通传参模式存在以下几个明显的问题：\n可读性不佳：只支持用位置，不支持用关键字来区分参数，参数变多后，各参数含义很难一目了然\n破坏兼容性：增加新参数后，原有调用代码必须进行对应修改，比如像上方的 ListApplications(5, 0, \"\") 一样，在 owner 参数的位置传递空字符串\n为了解决这些问题，常见的做法是引入一个参数结构体（struct）类型。\n2. 使用参数结构体\n新建一个结构体类型，里面包含函数需要支持的所有参数：\n// ListAppsOptions 是查询应用列表时的可选项\ntype ListAppsOptions struct …",
@@ -371,16 +391,6 @@
           "publishedOn": "2022-12-28T00:45:57.522Z",
           "wordCount": 328,
           "title": "我自己博客的一个XSS的故事",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.leavesongs.com/PENETRATION/flarum-rce-tour.html",
-          "author": "phithon",
-          "description": "本文首发于跳跳糖，转载请联系站方。\n一次日常测试中，偶然遇到了一个Flarum搭建的论坛，并获得了其管理员账号。本来到这里已经可以算完成了任务，将漏洞报给具体负责的人就结束了，但是既然已经拿到了管理员账号，何不尝试一下RCE呢？\n首先，我在管理员后台看到当前Fla",
-          "link": "https://www.leavesongs.com/PENETRATION/flarum-rce-tour.html",
-          "publishedOn": "2022-12-26T00:46:54.168Z",
-          "wordCount": 571,
-          "title": "从偶遇Flarum开始的RCE之旅",
           "imageUrl": null
         }
       ]

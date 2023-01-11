@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-01-10T00:51:43.649Z</updated>
+    <updated>2023-01-11T00:50:43.442Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国历史上的首富邓通、石崇、沈万三、胡雪岩为什么下场都不好？]]></title>
+        <id>https://codechina.org/?p=27056</id>
+        <link href="https://codechina.org/2023/01/shoufu/"/>
+        <updated>2023-01-10T06:56:46.000Z</updated>
+        <summary type="html"><![CDATA[我小时候爱看的书除了武侠小说，就是各类富翁的造富神话，比如陶朱公、邓通、石崇、沈万三、胡雪岩等等。他们的造富神 […]
+中国历史上的首富邓通、石崇、沈万三、胡雪岩为什么下场都不好？最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[�����ļ�ϵͳ�� mod ����]]></title>
+        <id>https://blog.codingnow.com/2023/01/mod.html</id>
+        <link href="https://blog.codingnow.com/2023/01/mod.html"/>
+        <updated>2023-01-10T02:13:35.000Z</updated>
+        <summary type="html"><![CDATA[�ϴ�̸��Ϸ����������ļ�ϵͳ��ȥ�� 10 ���ˡ��������������һЩ�޸ġ� ���ǵ������ļ�ϵͳ����������ģʽ��һ��ģʽ��Ҫ���ڱ༭���Ϳ������������е��ļ�����·��������ԭ���ļ�ϵͳ�����ǽ����༭��ģʽ����һ��ģʽ����Ϊ����ʱģʽ����Ҫ��������ʱ�������ļ��������� git �ֿ����ʽ�����ļ����ݵ� hash ֵ���ļ�����������һ�� Merkle tree �ϣ���ͨ��һ��ר�ŵ� file server Ϊ���л����ṩ��Դ�ĸ��·��� �ڱ༭��ģʽ�£�������ֱ��ӳ��ԭ���ļ�ϵͳ������Ŀ¼���ģ�����������һ�� mount ���ã����԰Ѻܶ಻ͬ��Ŀ¼װ����һ�𡣵�����ô�����ϣ���ṩһ�������ȣ�������Ϸ��Ŀ���԰������ṩ�Ļ������ܺ���Դ��װ������...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[设计服务端软件配置的 4 条建议]]></title>
         <id>https://www.zlovezl.cn/articles/how-to-design-config-file-for-software/</id>
@@ -329,69 +350,6 @@ def run_server():
 
 2. 搭配使用长短句
 写作时， 如何选择句子的长短是一门学问。汪曾祺说过：“语言的奥秘，说穿了不过是长句与短句的搭配。”长句信息…]]></summary>
-        <author>
-            <name>piglei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推荐一个方便好用的 ChatGPT 客户端]]></title>
-        <id>https://cuiqingcai.com/36065.html</id>
-        <link href="https://cuiqingcai.com/36065.html"/>
-        <updated>2022-12-27T11:00:13.000Z</updated>
-        <summary type="html"><![CDATA[<p>这段时间，想必大家肯定早就领教过 ChatGPT 的威力了吧。</p>
-<p>我们跟它说各种内容，比如写代码、汇总周报、写邮件、写诗句、查百科什么的，ChatGPT 都对答如流，根本不在话下。</p>
-<p>比如说让它基于 Vue3 写一个 div的拖拽实现，思路清晰，代码]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT 正在杀死编程里的乐趣]]></title>
-        <id>https://www.zlovezl.cn/articles/chatgpt-and-how-we-programming/</id>
-        <link href="https://www.zlovezl.cn/articles/chatgpt-and-how-we-programming/"/>
-        <updated>2022-12-27T00:47:56.588Z</updated>
-        <summary type="html"><![CDATA[多年以来，编程一直是我生命最重要的快乐来源之一，我从没细想过这份快乐能伴随我多久。但就在几天前，在观摩了 ChatGPT 替我编写一个 Python 程序的全过程后，我突然有种强烈的感觉：不远的将来，人们能从编程中获得的乐趣可能会逐渐消失。
-换句话说，ChatGPT 正在缓慢地“杀死”编程里的乐趣。在解释这个观点之前，让我先带你简单回顾一下：ChatGPT 到底帮我写了个什么程序。
-用 ChatGPT 编写程序
-先简单介绍一下 ChatGPT。ChatGPT 是人工智能公司 OpenAI 在 2022 年 11 月份推出的基于 GPT 自然语言生成模型的聊天机器人。它功能强大，能轻松完成许多在人类眼中非常复杂的任务，比方说：根据你描述的需求写一个可运行的程序。
-前天晚上十一点左右，我正坐在床上刷手机，突然想起一个给路由器用的工具脚本，已经拖延了几个月都没动工。既然自己不愿写，不如这次试试让 ChatGPT 来帮我完成。
-这个工具的需求简述如下：
-接收一个 URL 地址作为参数，将该 URL 里的域名，以及该 URL 所返回的页面里的所有域名，一并转换成 dnsmasq 服务的配置条目，写入到 /etc/dnsmasq.conf 文件中（需要考虑重复写入）。
-为了让 ChatGPT 写代码，我需要用自然语言清楚描述程序的用途和大概的执行流程，这个过程花了我 5 分钟左右。
-需求描述如下：
-Write a Python program, it accepts an URL address url from command line input, the program extract the domain name from url and stores it in a variable called src_domain, then it starts to request …]]></summary>
-        <author>
-            <name>piglei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python 工匠：语句、表达式和海象操作符]]></title>
-        <id>https://www.zlovezl.cn/articles/stmt-expr-and-walrus-operator/</id>
-        <link href="https://www.zlovezl.cn/articles/stmt-expr-and-walrus-operator/"/>
-        <updated>2022-12-27T00:47:56.586Z</updated>
-        <summary type="html"><![CDATA[让我们从两行最简单的 Python 代码开始。
->>> name = 'piglei'
->>> print(f'Hello {name}!')
-Hello piglei!
-
-这是一个“Hello World”程序，你也许已经见过它无数次，对里面的每个字母都了如指掌。但你可能从未意识到，上面两行代码，刚好对应着 Python 语言里的两个重要概念：语句（statement） 和 表达式（expression）。
-具体来说，name = 'piglei' 是一行赋值语句，它将字符串 'piglei' 赋给了 name 变量。print(f'Hello {name}!') 则是一个表达式，它通过调用内置函数 print 往屏幕打印信息。
-表达式的特点
-编写代码时，语句和表达式是两类最基本的代码单元。
-虽然在日常表达中，我们会把语句和表达式区分开来，但二者并非完全不同——表达式实际上就是一种特殊的语句。和普通语句比起来，表达式的特别之处在于它拥有一个（或多个）返回值。
-举例来说，前面的 print(...) 表达式就会返回一个值：None。你可以像下面这样获取它：
-# print 函数总是返回 None
->>> val = print(f'Hello {name}!')
-Hello piglei!
->>> val is None
-True
-
-虽然这么做没啥实际用途，但它足够体现出表达式的独特之处——因为你永远无法对普通语句做出类似的事情。无论是“赋值语句”、“循环语句”，还是一个“条件分支语句”，你永远都无法将其赋值给某个变量，这在语法上无从谈起：
->>> val = (name = 'piglei')
-  File "<stdin>", line 1
-    val = (name = 'piglei')
-                ^
-SyntaxError: invali…]]></summary>
         <author>
             <name>piglei</name>
         </author>

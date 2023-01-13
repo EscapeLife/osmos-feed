@@ -178,16 +178,6 @@
           "wordCount": 1098,
           "title": "达芬奇综合症，我的病有名字了",
           "imageUrl": "https://codechina.org/wp-content/uploads/2022/12/50b7a389890ca6dfa441760f45b70c70.jpg"
-        },
-        {
-          "id": "https://codechina.org/?p=26643",
-          "author": "tinyfool",
-          "description": "最近中国邮政推出了今年的生肖邮票，每年生肖票都会成为一个热点。今年也成为了一个热点。然而，今年的热点跟往年有所 […]\n兔年邮票和我们的时代精神最先出现在Tinyfool的个人网站。",
-          "link": "https://codechina.org/2022/12/rabbit-stamp/",
-          "publishedOn": "2022-12-29T05:00:46.000Z",
-          "wordCount": 1088,
-          "title": "兔年邮票和我们的时代精神",
-          "imageUrl": "https://codechina.org/wp-content/uploads/2022/12/640-3.jpeg"
         }
       ]
     },
@@ -201,7 +191,18 @@
       "title": "卡瓦邦噶！",
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.kawabangga.com/?p=4879",
+          "author": "laixintao",
+          "description": "2022 年终于过去了，对于大多数人来说是糟心的一年，但我觉得也有一些指的记录的地方。 今年完成的最大的事情是 […]\nContinue reading...\nThe post 2022 年的总结 first appeared on 卡瓦邦噶！.\n\n相关文章:\n\n分享一下“稍后阅读”的 random 功能\n沉浸式工作\n心动网络宣传片的翻译\n没来的请举手\n开源的世界如此之小？！",
+          "link": "https://www.kawabangga.com/posts/4879",
+          "publishedOn": "2023-01-12T11:24:38.000Z",
+          "wordCount": 1051,
+          "title": "2022 年的总结",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Manjusaka",
@@ -294,6 +295,16 @@
       "siteUrl": "http://www.zlovezl.cn/",
       "articles": [
         {
+          "id": "https://www.zlovezl.cn/articles/if-programming-is-writing/",
+          "author": null,
+          "description": "很多人会把编程比作写作，比如《Thinking in Java》的作者 Bruce Eckel 就说：“程序员就是作家。”二者的确也有许多相似之处，好文章和好代码，都离不精确的结构与优美的表达。写作时，每个人都能用词语拼出句子，组成文章，但并非所有人都能写出好文章，编程也是一样。\n不过严格来说，编程和写作虽有少许相似，却仍是两个迥异的技能，在很多方面差别很大。比如我们很少会重写一篇已发表的文章，但重构一段能正常运行的代码实属家常便饭。\n不过这一次，我们不妨把编程中那些复杂概念抛掷一旁，来一次奇思妙想：“如果编程就是写作，我们能从中学到些什么？”\n1. 使用人称代词\n写文章时，我们常常会使用人称代词来指代人物的名字，以此减少冗余，提升文本的流畅度。这个技巧当然也可以用到编程中。\n以下代码重复使用了一个冗长的表达式：\ndef run_server():\n    if check(data.servier_config.host):\n        start_server(data.servier_config.host)\n    else:\n        logger.error('Server %s is invalid.', data.servier_config.host)\n\n定义一个临时变量，作为代词使用来简化代码：\ndef run_server():\n    host = data.servier_config.host\n    if check(host):\n        start_server(host)\n    else:\n        logger.error('Server %s is invalid.', host)\n\n2. 搭配使用长短句\n写作时， 如何选择句子的长短是一门学问。汪曾祺说过：“语言的奥秘，说穿了不过是长句与短句的搭配。”长句信息…",
+          "link": "https://www.zlovezl.cn/articles/if-programming-is-writing/",
+          "publishedOn": "2023-01-13T00:50:17.196Z",
+          "wordCount": 371,
+          "title": "如果编程就是写作",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zlovezl.cn/articles/chatgpt-and-how-we-programming/",
           "author": null,
           "description": "多年以来，编程一直是我生命最重要的快乐来源之一，我从没细想过这份快乐能伴随我多久。但就在几天前，在观摩了 ChatGPT 替我编写一个 Python 程序的全过程后，我突然有种强烈的感觉：不远的将来，人们能从编程中获得的乐趣可能会逐渐消失。\n换句话说，ChatGPT 正在缓慢地“杀死”编程里的乐趣。在解释这个观点之前，让我先带你简单回顾一下：ChatGPT 到底帮我写了个什么程序。\n用 ChatGPT 编写程序\n先简单介绍一下 ChatGPT。ChatGPT 是人工智能公司 OpenAI 在 2022 年 11 月份推出的基于 GPT 自然语言生成模型的聊天机器人。它功能强大，能轻松完成许多在人类眼中非常复杂的任务，比方说：根据你描述的需求写一个可运行的程序。\n前天晚上十一点左右，我正坐在床上刷手机，突然想起一个给路由器用的工具脚本，已经拖延了几个月都没动工。既然自己不愿写，不如这次试试让 ChatGPT 来帮我完成。\n这个工具的需求简述如下：\n接收一个 URL 地址作为参数，将该 URL 里的域名，以及该 URL 所返回的页面里的所有域名，一并转换成 dnsmasq 服务的配置条目，写入到 /etc/dnsmasq.conf 文件中（需要考虑重复写入）。\n为了让 ChatGPT 写代码，我需要用自然语言清楚描述程序的用途和大概的执行流程，这个过程花了我 5 分钟左右。\n需求描述如下：\nWrite a Python program, it accepts an URL address url from command line input, the program extract the domain name from url and stores it in a variable called src_domain, then it starts to request …",
@@ -371,16 +382,6 @@
           "publishedOn": "2023-01-01T00:54:30.875Z",
           "wordCount": 142,
           "title": "2022年终总结",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.leavesongs.com/THINK/iOS-with-chuangmiplug-smart-plug2.html",
-          "author": "phithon",
-          "description": "搬到新加坡以后，我拥有了很多张手机卡：\n1张国内的电话卡，回国时使用\n1张新加坡电话卡，本地使用\n1张马来西亚电话卡，去马来西亚旅行时使用\n1张英国电话卡，去欧洲旅行时使用\n相对应的，我需要有备用机来运行这些号码。正好手上有一台旧的iPhone XR，于是我就把其中两张卡插到了这个手机里。但随之而来的是另一个问题，手机长期插电对电池非常不友好，很有可能导致备用机电池彻底废掉。\n垃圾佬的家里从来",
-          "link": "https://www.leavesongs.com/THINK/iOS-with-chuangmiplug-smart-plug2.html",
-          "publishedOn": "2022-12-29T00:47:48.361Z",
-          "wordCount": 303,
-          "title": "iOS备用机自动充电方案",
           "imageUrl": null
         }
       ]

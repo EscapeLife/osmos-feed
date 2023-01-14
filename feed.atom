@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-01-13T00:50:24.766Z</updated>
+    <updated>2023-01-14T00:45:10.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -364,17 +364,6 @@ type ListAppsOptions struct …]]></summary>
         <updated>2022-12-30T22:35:15.000Z</updated>
         <summary type="html"><![CDATA[今天是2022年的最后一天。这是我最不喜欢的一年，希望是这样的最后一年。 这一年最大的主题就是封控。原本我以为 […]
 我的2022年年终总结，乏善可陈的一年最先出现在Tinyfool的个人网站。]]></summary>
-        <author>
-            <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[达芬奇综合症，我的病有名字了]]></title>
-        <id>https://codechina.org/?p=26668</id>
-        <link href="https://codechina.org/2022/12/dafenqi/"/>
-        <updated>2022-12-30T01:25:33.000Z</updated>
-        <summary type="html"><![CDATA[头两天在网上看到这么一个帖子： 我立刻发现，这就是我的问题。 今年是一个很荒废的年头，做了很多事情，但是完成的 […]
-达芬奇综合症，我的病有名字了最先出现在Tinyfool的个人网站。]]></summary>
         <author>
             <name>tinyfool</name>
         </author>

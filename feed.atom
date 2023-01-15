@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-01-14T00:45:10.567Z</updated>
+    <updated>2023-01-15T00:52:07.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -355,17 +355,6 @@ type ListAppsOptions struct …]]></summary>
         <summary type="html"><![CDATA[<h1 id="2022-年第四季度总结"><a href="#2022-年第四季度总结" class="headerlink" title="2022 年第四季度总结"></a>2022]]></summary>
         <author>
             <name>Escape</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的2022年年终总结，乏善可陈的一年]]></title>
-        <id>https://codechina.org/?p=26695</id>
-        <link href="https://codechina.org/2022/12/2022-end/"/>
-        <updated>2022-12-30T22:35:15.000Z</updated>
-        <summary type="html"><![CDATA[今天是2022年的最后一天。这是我最不喜欢的一年，希望是这样的最后一年。 这一年最大的主题就是封控。原本我以为 […]
-我的2022年年终总结，乏善可陈的一年最先出现在Tinyfool的个人网站。]]></summary>
-        <author>
-            <name>tinyfool</name>
         </author>
     </entry>
     <entry>

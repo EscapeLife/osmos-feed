@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-01-17T00:48:12.606Z</updated>
+    <updated>2023-01-18T00:52:01.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Go 的几种函数传参模式]]></title>
+        <id>https://www.zlovezl.cn/articles/go-func-argument-patterns/</id>
+        <link href="https://www.zlovezl.cn/articles/go-func-argument-patterns/"/>
+        <updated>2023-01-18T00:51:56.769Z</updated>
+        <summary type="html"><![CDATA[1. 普通传参
+Go 语言支持按顺序传入参数来调用函数，下面是一个示例函数：
+// ListApplications 查询应用列表
+func ListApplications(limit, offset int) []Application {
+    return allApps[offset : offset+limit]
+}
+
+调用代码：
+ListApplications(5, 0)
+
+当你想增加新参数时，可以直接修改函数签名。比如，下面的代码给 ListApplications 增加了新的过滤参数 owner：
+func ListApplications(limit, offset int, owner string) []Application {
+    if owner != "" {
+        // ...
+    }
+    return allApps[offset : offset+limit]
+}
+
+调用代码也需要随之改变：
+ListApplications(5, 0, "piglei")
+// 不使用 owner 过滤
+ListApplications(5, 0, "")
+
+显而易见，这种普通传参模式存在以下几个明显的问题：
+可读性不佳：只支持用位置，不支持用关键字来区分参数，参数变多后，各参数含义很难一目了然
+破坏兼容性：增加新参数后，原有调用代码必须进行对应修改，比如像上方的 ListApplications(5, 0, "") 一样，在 owner 参数的位置传递空字符串
+为了解决这些问题，常见的做法是引入一个参数结构体（struct）类型。
+2. 使用参数结构体
+新建一个结构体类型，里面包含函数需要支持的所有参数：
+// ListAppsOptions 是查询应用列表时的可选项
+type ListAppsOptions struct …]]></summary>
+        <author>
+            <name>piglei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在 AI 时代、开源时代做一个独立开发者]]></title>
+        <id>https://codechina.org/?p=27245</id>
+        <link href="https://codechina.org/2023/01/ai-age/"/>
+        <updated>2023-01-17T08:24:32.000Z</updated>
+        <summary type="html"><![CDATA[AI 时代早已经来临，但是很多人还喜欢在说 AI 好像没有什么用处。我觉得这是很短视的。当社会的每一个普通人都 […]
+如何在 AI 时代、开源时代做一个独立开发者最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聊一聊我为什么现在开始要做一个独立开发者，我为什么又开始写程序了]]></title>
+        <id>https://codechina.org/?p=27239</id>
+        <link href="https://codechina.org/2023/01/indie/"/>
+        <updated>2023-01-17T05:15:25.000Z</updated>
+        <summary type="html"><![CDATA[我是从92年，上初中的时候开始写代码的。2001年大学毕业以后，我的工作也一直都在写代码，写了20年。 那时候 […]
+聊一聊我为什么现在开始要做一个独立开发者，我为什么又开始写程序了最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用 BPF 动态追踪 Python 程序]]></title>
         <id>https://www.kawabangga.com/?p=4894</id>

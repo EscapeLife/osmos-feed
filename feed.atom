@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-01-19T00:50:42.184Z</updated>
+    <updated>2023-01-20T00:50:23.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[蓝莲花公益小组简报]]></title>
+        <id>https://manjusaka.blog/posts/2023/01/19/simple-brief-about-blue-lotus-group/</id>
+        <link href="https://manjusaka.blog/posts/2023/01/19/simple-brief-about-blue-lotus-group/"/>
+        <updated>2023-01-19T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>愿每个人心里，都盛开着永不凋零的蓝莲花</p>
+<p><img src="https://raw.githubusercontent.com/Zheaoli/do-something-right/71724a0e2de9d49bde5a59d4abf20c8ae3cf3710/assets/logo.svg" alt="logo"></p>]]></summary>
+        <author>
+            <name>Manjusaka</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mac自带音箱音量过低的解决方法一例]]></title>
         <id>https://codechina.org/?p=27285</id>

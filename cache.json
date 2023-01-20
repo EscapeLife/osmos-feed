@@ -169,6 +169,16 @@
       "siteUrl": "https://manjusaka.blog/atom.xml",
       "articles": [
         {
+          "id": "https://manjusaka.blog/posts/2023/01/19/simple-brief-about-blue-lotus-group/",
+          "author": null,
+          "description": "<p>愿每个人心里，都盛开着永不凋零的蓝莲花</p>\n<p><img src=\"https://raw.githubusercontent.com/Zheaoli/do-something-right/71724a0e2de9d49bde5a59d4abf20c8ae3cf3710/assets/logo.svg\" alt=\"logo\"></p>",
+          "link": "https://manjusaka.blog/posts/2023/01/19/simple-brief-about-blue-lotus-group/",
+          "publishedOn": "2023-01-19T11:00:00.000Z",
+          "wordCount": 337,
+          "title": "蓝莲花公益小组简报",
+          "imageUrl": "https://raw.githubusercontent.com/Zheaoli/do-something-right/71724a0e2de9d49bde5a59d4abf20c8ae3cf3710/assets/logo.svg"
+        },
+        {
           "id": "https://manjusaka.blog/posts/2023/01/07/special-case-no-space-left-on-device/",
           "author": null,
           "description": "<p>好久没写水文了，新年第一篇水文总得写一下，完成下 OKR，正好最近帮群友查了一个特殊的 No space left on device 问题，记录一下。</p>",

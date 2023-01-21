@@ -117,16 +117,6 @@
           "wordCount": 1102,
           "title": "为什么自比鲁迅的让我觉得不像，王小波门下走狗我也觉得不好，应该是“人只有不完美 值得歌颂”",
           "imageUrl": "https://codechina.org/wp-content/uploads/2023/01/鲁迅3.jpeg"
-        },
-        {
-          "id": "https://codechina.org/?p=26913",
-          "author": "tinyfool",
-          "description": "昨天医生联系我们，说可能今天要把他转出ICU。肺的问题可能还是很严重，但是从31号住进ICU到今天已经5天了， […]\n我爸从ICU出来了，转到了普通病房，但是还需要继续治疗最先出现在Tinyfool的个人网站。",
-          "link": "https://codechina.org/2023/01/out-of-icu/",
-          "publishedOn": "2023-01-06T01:51:08.000Z",
-          "wordCount": 1117,
-          "title": "我爸从ICU出来了，转到了普通病房，但是还需要继续治疗",
-          "imageUrl": "https://codechina.org/wp-content/uploads/2023/01/WechatIMG13313.jpeg"
         }
       ]
     },
@@ -236,6 +226,16 @@
       "feedUrl": "https://blog.codingnow.com/atom.xml",
       "siteUrl": "https://blog.codingnow.com/",
       "articles": [
+        {
+          "id": "https://blog.codingnow.com/2023/01/optimize.html",
+          "author": null,
+          "description": "��������ǰ���һ�칤����������������һЩ������һЩ��¼�� ������ʹ���������濪����Ϸʱ�������˲��ٺ�Ԥ������о�������⣬��������ٷ�˼��ԭ�е���Ʋ������Ľ�������Ϊ��ƾ�����һ��ͨ����Ϸ�����ǲ����ܵģ�������ʵ����Ŀ������������Ե�ʵ�֡���ͬʱӦ���Ϸ�˼���������ļ���ծ�������һ�꣬�Ҳ�������������빤�����٣��������վ��һ����˼��λ�ã��ල�������Ƶ��ݱ䡣 ���ǵ������������ǻ��� Lua �ģ������� Lua �Ķ�̬�ԣ����Ժܷ���İѸ���ģ��ճ����һ�𡣵��ǡ�Lua �� C/C++ ��ȣ��������������������ܲ��죬������Ⱦ������ԣ������� GPU ��ͨ�� API ��ȫ���� Lua �� binding �㣬���ڶ��������޴�ĳ��ϣ������׳����������⡣�ҹ��ơ����ֻ�����������޴� ����� 10K ����������ɣ��� PC ��������֧�ŵ� 100K ���ҡ� Lua ��Ŀ���Ż��޷�����·��ʹ�� jit �����������Ƶ� C side ������ Roberto ���ԣ�\"Finally, keep in mind that those two...",
+          "link": "https://blog.codingnow.com/2023/01/optimize.html",
+          "publishedOn": "2023-01-20T06:07:19.000Z",
+          "wordCount": 303,
+          "title": "��������н����һЩ��������",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.codingnow.com/2023/01/mod.html",
           "author": null,

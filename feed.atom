@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-01-22T00:52:23.743Z</updated>
+    <updated>2023-01-23T00:46:53.500Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -276,38 +276,6 @@ SyntaxError: invali…]]></summary>
         <updated>2023-01-09T04:48:53.000Z</updated>
         <summary type="html"><![CDATA[这个域名codechina.org我买的时候，其实是想做个代码搜索服务之类的，那时候，我刚刚做的搜索公司创业失 […]
 Blog CodeChina的2022年年度总结最先出现在Tinyfool的个人网站。]]></summary>
-        <author>
-            <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉降价，车主维权维的什么权？特斯拉还巴不得你闹，那就是最好的促销广告！]]></title>
-        <id>https://codechina.org/?p=26980</id>
-        <link href="https://codechina.org/2023/01/jiangjia/"/>
-        <updated>2023-01-08T06:14:55.000Z</updated>
-        <summary type="html"><![CDATA[特斯拉又又又……又降价了！你猜我怎么知道的？没有垃圾邮件，没有看到广告，没有朋友告知。 因为听说又有特斯拉车主 […]
-特斯拉降价，车主维权维的什么权？特斯拉还巴不得你闹，那就是最好的促销广告！最先出现在Tinyfool的个人网站。]]></summary>
-        <author>
-            <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[排查一个特殊的 No space left on device]]></title>
-        <id>https://manjusaka.blog/posts/2023/01/07/special-case-no-space-left-on-device/</id>
-        <link href="https://manjusaka.blog/posts/2023/01/07/special-case-no-space-left-on-device/"/>
-        <updated>2023-01-07T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>好久没写水文了，新年第一篇水文总得写一下，完成下 OKR，正好最近帮群友查了一个特殊的 No space left on device 问题，记录一下。</p>]]></summary>
-        <author>
-            <name>Manjusaka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么自比鲁迅的让我觉得不像，王小波门下走狗我也觉得不好，应该是“人只有不完美 值得歌颂”]]></title>
-        <id>https://codechina.org/?p=26955</id>
-        <link href="https://codechina.org/2023/01/luxun-wangxiaobo/"/>
-        <updated>2023-01-07T13:01:51.000Z</updated>
-        <summary type="html"><![CDATA[最近，我开始在看梁文道的《一千零一夜》，刚好听到讲《狂人日记》，讲鲁迅。 其实我上学的时候，课本上还有鲁迅，现 […]
-为什么自比鲁迅的让我觉得不像，王小波门下走狗我也觉得不好，应该是“人只有不完美 值得歌颂”最先出现在Tinyfool的个人网站。]]></summary>
         <author>
             <name>tinyfool</name>
         </author>

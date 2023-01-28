@@ -183,6 +183,26 @@
       "siteUrl": "http://www.zlovezl.cn/",
       "articles": [
         {
+          "id": "https://www.zlovezl.cn/articles/chatgpt-and-how-we-programming/",
+          "author": null,
+          "description": "多年以来，编程一直是我生命最重要的快乐来源之一，我从没细想过这份快乐能伴随我多久。但就在几天前，在观摩了 ChatGPT 替我编写一个 Python 程序的全过程后，我突然有种强烈的感觉：不远的将来，人们能从编程中获得的乐趣可能会逐渐消失。\n换句话说，ChatGPT 正在缓慢地“杀死”编程里的乐趣。在解释这个观点之前，让我先带你简单回顾一下：ChatGPT 到底帮我写了个什么程序。\n用 ChatGPT 编写程序\n先简单介绍一下 ChatGPT。ChatGPT 是人工智能公司 OpenAI 在 2022 年 11 月份推出的基于 GPT 自然语言生成模型的聊天机器人。它功能强大，能轻松完成许多在人类眼中非常复杂的任务，比方说：根据你描述的需求写一个可运行的程序。\n前天晚上十一点左右，我正坐在床上刷手机，突然想起一个给路由器用的工具脚本，已经拖延了几个月都没动工。既然自己不愿写，不如这次试试让 ChatGPT 来帮我完成。\n这个工具的需求简述如下：\n接收一个 URL 地址作为参数，将该 URL 里的域名，以及该 URL 所返回的页面里的所有域名，一并转换成 dnsmasq 服务的配置条目，写入到 /etc/dnsmasq.conf 文件中（需要考虑重复写入）。\n为了让 ChatGPT 写代码，我需要用自然语言清楚描述程序的用途和大概的执行流程，这个过程花了我 5 分钟左右。\n需求描述如下：\nWrite a Python program, it accepts an URL address url from command line input, the program extract the domain name from url and stores it in a variable called src_domain, then it starts to request …",
+          "link": "https://www.zlovezl.cn/articles/chatgpt-and-how-we-programming/",
+          "publishedOn": "2023-01-28T00:49:27.827Z",
+          "wordCount": 484,
+          "title": "ChatGPT 正在杀死编程里的乐趣",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zlovezl.cn/articles/stmt-expr-and-walrus-operator/",
+          "author": null,
+          "description": "让我们从两行最简单的 Python 代码开始。\n>>> name = 'piglei'\n>>> print(f'Hello {name}!')\nHello piglei!\n\n这是一个“Hello World”程序，你也许已经见过它无数次，对里面的每个字母都了如指掌。但你可能从未意识到，上面两行代码，刚好对应着 Python 语言里的两个重要概念：语句（statement） 和 表达式（expression）。\n具体来说，name = 'piglei' 是一行赋值语句，它将字符串 'piglei' 赋给了 name 变量。print(f'Hello {name}!') 则是一个表达式，它通过调用内置函数 print 往屏幕打印信息。\n表达式的特点\n编写代码时，语句和表达式是两类最基本的代码单元。\n虽然在日常表达中，我们会把语句和表达式区分开来，但二者并非完全不同——表达式实际上就是一种特殊的语句。和普通语句比起来，表达式的特别之处在于它拥有一个（或多个）返回值。\n举例来说，前面的 print(...) 表达式就会返回一个值：None。你可以像下面这样获取它：\n# print 函数总是返回 None\n>>> val = print(f'Hello {name}!')\nHello piglei!\n>>> val is None\nTrue\n\n虽然这么做没啥实际用途，但它足够体现出表达式的独特之处——因为你永远无法对普通语句做出类似的事情。无论是“赋值语句”、“循环语句”，还是一个“条件分支语句”，你永远都无法将其赋值给某个变量，这在语法上无从谈起：\n>>> val = (name = 'piglei')\n  File \"<stdin>\", line 1\n    val = (name = 'piglei')\n                ^\nSyntaxError: invali…",
+          "link": "https://www.zlovezl.cn/articles/stmt-expr-and-walrus-operator/",
+          "publishedOn": "2023-01-28T00:49:27.817Z",
+          "wordCount": 701,
+          "title": "Python 工匠：语句、表达式和海象操作符",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zlovezl.cn/articles/how-to-design-config-file-for-software/",
           "author": null,
           "description": "在设计和开发服务端（后端）软件时，配置文件是一个绕不开的话题。\n配置文件是一种用于存放各类可配置项的特殊文件。每个软件都会预设一些默认配置，但这些默认值不可能适用于所有情况。因此，到了不同的环境中，我们常常需要用配置文件对其进行扩展和修改。\n拿版本控制软件 git 举例。大部分用户的 home 目录（~）都存放着一份 .gitconfig 配置文件，里面写着自己的用户名和邮箱地址：\n[user]\n    name = piglei\n    email = piglei2007@gmail.com\n\n就像软件的任何一个主要功能一样，配置文件也会极大的影响软件的使用体验。良好的设计能让软件变得更易用，糟糕的设计则会带来许多意想不到的问题，将用户拒之门外。\n在这篇文章中，我整理了 4 条关于“软件配置文件”的设计建议，希望能对你有所帮助。\n1. 最好不给配置也能用\n在网络世界里，每过一天，人们的耐心似乎就又比前一天减少了一丁点。一个制作精良的短视频，如果 3 秒钟之内无法抓住你，你的右手拇指就会条件反射般将它划走。\n现在，假设你开发了一个非常有用的工具软件，并发布到了网上。软件的功能非常全面，所有人在使用它之前，需要编辑一份包含 20 项配置的配置文件。你猜，有多大比例的潜在用户会直接掉头走掉？\n当我们想要一件东西时，总是一刻也不想等。因此，初始的配置过程麻烦与否，会强烈影响人们尝试软件的决心。在这方面，我认为最好的体验是：无需提供任何配置，便能直接使用软件 80% 以上的功能。\n假如无法做到这一点，我们也应该试着从以下几个方面着手，尽量降低用户的配置成本，压缩从“开始安装”到“可使用”之间的等待时间。\n1.1 预设合理的默认值\n为了将必须由用户提供的配置项，压缩到最少。你得给软件的所有配置项预设一个足够合理的默认值。这些默认值应当能让尽可能多的用户满意。\n举个例子，假如你的软件…",
@@ -200,16 +220,6 @@
           "publishedOn": "2023-01-18T00:51:56.769Z",
           "wordCount": 719,
           "title": "Go 的几种函数传参模式",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zlovezl.cn/articles/if-programming-is-writing/",
-          "author": null,
-          "description": "很多人会把编程比作写作，比如《Thinking in Java》的作者 Bruce Eckel 就说：“程序员就是作家。”二者的确也有许多相似之处，好文章和好代码，都离不精确的结构与优美的表达。写作时，每个人都能用词语拼出句子，组成文章，但并非所有人都能写出好文章，编程也是一样。\n不过严格来说，编程和写作虽有少许相似，却仍是两个迥异的技能，在很多方面差别很大。比如我们很少会重写一篇已发表的文章，但重构一段能正常运行的代码实属家常便饭。\n不过这一次，我们不妨把编程中那些复杂概念抛掷一旁，来一次奇思妙想：“如果编程就是写作，我们能从中学到些什么？”\n1. 使用人称代词\n写文章时，我们常常会使用人称代词来指代人物的名字，以此减少冗余，提升文本的流畅度。这个技巧当然也可以用到编程中。\n以下代码重复使用了一个冗长的表达式：\ndef run_server():\n    if check(data.servier_config.host):\n        start_server(data.servier_config.host)\n    else:\n        logger.error('Server %s is invalid.', data.servier_config.host)\n\n定义一个临时变量，作为代词使用来简化代码：\ndef run_server():\n    host = data.servier_config.host\n    if check(host):\n        start_server(host)\n    else:\n        logger.error('Server %s is invalid.', host)\n\n2. 搭配使用长短句\n写作时， 如何选择句子的长短是一门学问。汪曾祺说过：“语言的奥秘，说穿了不过是长句与短句的搭配。”长句信息…",
-          "link": "https://www.zlovezl.cn/articles/if-programming-is-writing/",
-          "publishedOn": "2023-01-13T00:50:17.196Z",
-          "wordCount": 371,
-          "title": "如果编程就是写作",
           "imageUrl": null
         }
       ]

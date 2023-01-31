@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-01-30T00:44:35.684Z</updated>
+    <updated>2023-01-31T00:52:21.133Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -216,26 +216,6 @@ type ListAppsOptions struct …]]></summary>
 聊一聊我为什么现在开始要做一个独立开发者，我为什么又开始写程序了最先出现在Tinyfool的个人网站。]]></summary>
         <author>
             <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用 BPF 动态追踪 Python 程序]]></title>
-        <id>https://www.kawabangga.com/?p=4894</id>
-        <link href="https://www.kawabangga.com/posts/4894"/>
-        <updated>2023-01-15T15:28:26.000Z</updated>
-        <summary type="html"><![CDATA[最近在学习 BPF，这是一种目前比较流行的动态追踪技术，简单来说，它允许我们在不中断目前正在运行的程序的情况下 […]
-Continue reading...
-The post 用 BPF 动态追踪 Python 程序 first appeared on 卡瓦邦噶！.
-
-相关文章:
-
-认识Python的MetaClass
-Python装饰器兼容加括号与不加括号的写法
-Python 实现class_property
-闭包初探
-Java优先队列(PriorityQueue)介绍]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

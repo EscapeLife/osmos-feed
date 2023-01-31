@@ -90,18 +90,7 @@
       "title": "卡瓦邦噶！",
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
-      "articles": [
-        {
-          "id": "https://www.kawabangga.com/?p=4894",
-          "author": "laixintao",
-          "description": "最近在学习 BPF，这是一种目前比较流行的动态追踪技术，简单来说，它允许我们在不中断目前正在运行的程序的情况下 […]\nContinue reading...\nThe post 用 BPF 动态追踪 Python 程序 first appeared on 卡瓦邦噶！.\n\n相关文章:\n\n认识Python的MetaClass\nPython装饰器兼容加括号与不加括号的写法\nPython 实现class_property\n闭包初探\nJava优先队列(PriorityQueue)介绍",
-          "link": "https://www.kawabangga.com/posts/4894",
-          "publishedOn": "2023-01-15T15:28:26.000Z",
-          "wordCount": 1239,
-          "title": "用 BPF 动态追踪 Python 程序",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Manjusaka",

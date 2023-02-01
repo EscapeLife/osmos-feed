@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-01-31T00:52:21.133Z</updated>
+    <updated>2023-02-01T00:55:59.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -194,28 +194,6 @@ ListApplications(5, 0, "")
 type ListAppsOptions struct …]]></summary>
         <author>
             <name>piglei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在 AI 时代、开源时代做一个独立开发者]]></title>
-        <id>https://codechina.org/?p=27245</id>
-        <link href="https://codechina.org/2023/01/ai-age/"/>
-        <updated>2023-01-17T08:24:32.000Z</updated>
-        <summary type="html"><![CDATA[AI 时代早已经来临，但是很多人还喜欢在说 AI 好像没有什么用处。我觉得这是很短视的。当社会的每一个普通人都 […]
-如何在 AI 时代、开源时代做一个独立开发者最先出现在Tinyfool的个人网站。]]></summary>
-        <author>
-            <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊一聊我为什么现在开始要做一个独立开发者，我为什么又开始写程序了]]></title>
-        <id>https://codechina.org/?p=27239</id>
-        <link href="https://codechina.org/2023/01/indie/"/>
-        <updated>2023-01-17T05:15:25.000Z</updated>
-        <summary type="html"><![CDATA[我是从92年，上初中的时候开始写代码的。2001年大学毕业以后，我的工作也一直都在写代码，写了20年。 那时候 […]
-聊一聊我为什么现在开始要做一个独立开发者，我为什么又开始写程序了最先出现在Tinyfool的个人网站。]]></summary>
-        <author>
-            <name>tinyfool</name>
         </author>
     </entry>
     <entry>

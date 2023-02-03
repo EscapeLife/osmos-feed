@@ -47,18 +47,7 @@
       "title": "Tinyfool的个人网站",
       "feedUrl": "http://feeds.feedburner.com/Tinyfoolblog",
       "siteUrl": "https://codechina.org/",
-      "articles": [
-        {
-          "id": "https://codechina.org/?p=27285",
-          "author": "tinyfool",
-          "description": "我的 Mac 是 MacBook M1Max，最近几个月频繁遇到耳机音量正常，自带音箱音量很低，完全无法听清的 […]\nMac自带音箱音量过低的解决方法一例最先出现在Tinyfool的个人网站。",
-          "link": "https://codechina.org/2023/01/coreaudiod/",
-          "publishedOn": "2023-01-18T15:41:16.000Z",
-          "wordCount": 1144,
-          "title": "Mac自带音箱音量过低的解决方法一例",
-          "imageUrl": "https://codechina.org/wp-content/uploads/2023/01/christina-wocintechchat-com-CmvA0xCDfC8-unsplash.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "ChangeLog of KDr2.com",
@@ -86,16 +75,6 @@
           "wordCount": 779,
           "title": "从一个重构项目中能学到什么东西",
           "imageUrl": "https://user-images.githubusercontent.com/7054676/214850761-da34600d-a9b0-42de-88e8-97643a27d61d.png"
-        },
-        {
-          "id": "https://manjusaka.blog/posts/2023/01/19/simple-brief-about-blue-lotus-group/",
-          "author": null,
-          "description": "<p>愿每个人心里，都盛开着永不凋零的蓝莲花</p>\n<p><img src=\"https://raw.githubusercontent.com/Zheaoli/do-something-right/71724a0e2de9d49bde5a59d4abf20c8ae3cf3710/assets/logo.svg\" alt=\"logo\"></p>",
-          "link": "https://manjusaka.blog/posts/2023/01/19/simple-brief-about-blue-lotus-group/",
-          "publishedOn": "2023-01-19T11:00:00.000Z",
-          "wordCount": 337,
-          "title": "蓝莲花公益小组简报",
-          "imageUrl": "https://raw.githubusercontent.com/Zheaoli/do-something-right/71724a0e2de9d49bde5a59d4abf20c8ae3cf3710/assets/logo.svg"
         }
       ]
     },
@@ -151,6 +130,16 @@
       "feedUrl": "https://www.zlovezl.cn/feeds/latest",
       "siteUrl": "http://www.zlovezl.cn/",
       "articles": [
+        {
+          "id": "https://www.zlovezl.cn/articles/go-func-argument-patterns/",
+          "author": null,
+          "description": "1. 普通传参\nGo 语言支持按顺序传入参数来调用函数，下面是一个示例函数：\n// ListApplications 查询应用列表\nfunc ListApplications(limit, offset int) []Application {\n    return allApps[offset : offset+limit]\n}\n\n调用代码：\nListApplications(5, 0)\n\n当你想增加新参数时，可以直接修改函数签名。比如，下面的代码给 ListApplications 增加了新的过滤参数 owner：\nfunc ListApplications(limit, offset int, owner string) []Application {\n    if owner != \"\" {\n        // ...\n    }\n    return allApps[offset : offset+limit]\n}\n\n调用代码也需要随之改变：\nListApplications(5, 0, \"piglei\")\n// 不使用 owner 过滤\nListApplications(5, 0, \"\")\n\n显而易见，这种普通传参模式存在以下几个明显的问题：\n可读性不佳：只支持用位置，不支持用关键字来区分参数，参数变多后，各参数含义很难一目了然\n破坏兼容性：增加新参数后，原有调用代码必须进行对应修改，比如像上方的 ListApplications(5, 0, \"\") 一样，在 owner 参数的位置传递空字符串\n为了解决这些问题，常见的做法是引入一个参数结构体（struct）类型。\n2. 使用参数结构体\n新建一个结构体类型，里面包含函数需要支持的所有参数：\n// ListAppsOptions 是查询应用列表时的可选项\ntype ListAppsOptions struct …",
+          "link": "https://www.zlovezl.cn/articles/go-func-argument-patterns/",
+          "publishedOn": "2023-02-03T00:52:23.538Z",
+          "wordCount": 719,
+          "title": "Go 的几种函数传参模式",
+          "imageUrl": null
+        },
         {
           "id": "https://www.zlovezl.cn/articles/if-programming-is-writing/",
           "author": null,

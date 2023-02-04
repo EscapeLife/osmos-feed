@@ -10,7 +10,18 @@
       "title": "酷 壳 – CoolShell",
       "feedUrl": "https://coolshell.cn/feed",
       "siteUrl": "https://coolshell.cn",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://coolshell.cn/?p=22367",
+          "author": "陈皓",
+          "description": "这两天在网络上又有一个东西火了，Twitter 的创始人 @jack 新的社交 iOS App  Damus 上苹果商店（第二天就因为违反中国法律在中国区下架了...\n Read More  Read More\n聊聊 nostr 和 审查 first appeared on 酷 壳 - CoolShell.",
+          "link": "https://coolshell.cn/articles/22367.html",
+          "publishedOn": "2023-02-03T07:46:13.000Z",
+          "wordCount": 1692,
+          "title": "聊聊 nostr 和 审查",
+          "imageUrl": "https://coolshell.cn/wp-content/uploads/2023/02/nostr-aplicacion-descentralizada-1140x570-1-300x150.png"
+        }
+      ]
     },
     {
       "title": "阮一峰的网络日志",
@@ -106,24 +117,24 @@
       "title": "李辉",
       "feedUrl": "https://greyli.com/feed",
       "siteUrl": "https://greyli.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://greyli.com/?p=4957",
+          "author": "李辉",
+          "description": "每年回家都会去看一眼邻村村委会的灯牌。从它第一次灭灯开始，我就期待有一天能拍到「忘记使命」。可是这灯牌太聪明， […]",
+          "link": "https://greyli.com/remember/",
+          "publishedOn": "2023-02-03T15:45:36.000Z",
+          "wordCount": 216,
+          "title": "忘",
+          "imageUrl": "https://greyli.com/wp-content/uploads/2020/07/avatar.jpg"
+        }
+      ]
     },
     {
       "title": "�Ʒ�� BLOG",
       "feedUrl": "https://blog.codingnow.com/atom.xml",
       "siteUrl": "https://blog.codingnow.com/",
-      "articles": [
-        {
-          "id": "https://blog.codingnow.com/2023/01/optimize.html",
-          "author": null,
-          "description": "��������ǰ���һ�칤����������������һЩ������һЩ��¼�� ������ʹ���������濪����Ϸʱ�������˲��ٺ�Ԥ������о�������⣬��������ٷ�˼��ԭ�е���Ʋ������Ľ�������Ϊ��ƾ�����һ��ͨ����Ϸ�����ǲ����ܵģ�������ʵ����Ŀ������������Ե�ʵ�֡���ͬʱӦ���Ϸ�˼���������ļ���ծ�������һ�꣬�Ҳ�������������빤�����٣��������վ��һ����˼��λ�ã��ල�������Ƶ��ݱ䡣 ���ǵ������������ǻ��� Lua �ģ������� Lua �Ķ�̬�ԣ����Ժܷ���İѸ���ģ��ճ����һ�𡣵��ǡ�Lua �� C/C++ ��ȣ��������������������ܲ��죬������Ⱦ������ԣ������� GPU ��ͨ�� API ��ȫ���� Lua �� binding �㣬���ڶ��������޴�ĳ��ϣ������׳����������⡣�ҹ��ơ����ֻ�����������޴� ����� 10K ����������ɣ��� PC ��������֧�ŵ� 100K ���ҡ� Lua ��Ŀ���Ż��޷�����·��ʹ�� jit �����������Ƶ� C side ������ Roberto ���ԣ�\"Finally, keep in mind that those two...",
-          "link": "https://blog.codingnow.com/2023/01/optimize.html",
-          "publishedOn": "2023-01-20T06:07:19.000Z",
-          "wordCount": 303,
-          "title": "��������н����һЩ��������",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "piglei",

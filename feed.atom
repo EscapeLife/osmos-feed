@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-02-03T00:52:28.061Z</updated>
+    <updated>2023-02-04T00:47:18.368Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[忘]]></title>
+        <id>https://greyli.com/?p=4957</id>
+        <link href="https://greyli.com/remember/"/>
+        <updated>2023-02-03T15:45:36.000Z</updated>
+        <summary type="html"><![CDATA[每年回家都会去看一眼邻村村委会的灯牌。从它第一次灭灯开始，我就期待有一天能拍到「忘记使命」。可是这灯牌太聪明， […]]]></summary>
+        <author>
+            <name>李辉</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聊聊 nostr 和 审查]]></title>
+        <id>https://coolshell.cn/?p=22367</id>
+        <link href="https://coolshell.cn/articles/22367.html"/>
+        <updated>2023-02-03T07:46:13.000Z</updated>
+        <summary type="html"><![CDATA[这两天在网络上又有一个东西火了，Twitter 的创始人 @jack 新的社交 iOS App  Damus 上苹果商店（第二天就因为违反中国法律在中国区下架了...
+ Read More  Read More
+聊聊 nostr 和 审查 first appeared on 酷 壳 - CoolShell.]]></summary>
+        <author>
+            <name>陈皓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Go 的几种函数传参模式]]></title>
         <id>https://www.zlovezl.cn/articles/go-func-argument-patterns/</id>
@@ -162,16 +184,6 @@ SyntaxError: invali…]]></summary>
 举个例子，假如你的软件…]]></summary>
         <author>
             <name>piglei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[��������н����һЩ��������]]></title>
-        <id>https://blog.codingnow.com/2023/01/optimize.html</id>
-        <link href="https://blog.codingnow.com/2023/01/optimize.html"/>
-        <updated>2023-01-20T06:07:19.000Z</updated>
-        <summary type="html"><![CDATA[��������ǰ���һ�칤����������������һЩ������һЩ��¼�� ������ʹ���������濪����Ϸʱ�������˲��ٺ�Ԥ������о�������⣬��������ٷ�˼��ԭ�е���Ʋ������Ľ�������Ϊ��ƾ�����һ��ͨ����Ϸ�����ǲ����ܵģ�������ʵ����Ŀ������������Ե�ʵ�֡���ͬʱӦ���Ϸ�˼���������ļ���ծ�������һ�꣬�Ҳ�������������빤�����٣��������վ��һ����˼��λ�ã��ල�������Ƶ��ݱ䡣 ���ǵ������������ǻ��� Lua �ģ������� Lua �Ķ�̬�ԣ����Ժܷ���İѸ���ģ��ճ����һ�𡣵��ǡ�Lua �� C/C++ ��ȣ��������������������ܲ��죬������Ⱦ������ԣ������� GPU ��ͨ�� API ��ȫ���� Lua �� binding �㣬���ڶ��������޴�ĳ��ϣ������׳����������⡣�ҹ��ơ����ֻ�����������޴� ����� 10K ����������ɣ��� PC ��������֧�ŵ� 100K ���ҡ� Lua ��Ŀ���Ż��޷�����·��ʹ�� jit �����������Ƶ� C side ������ Roberto ���ԣ�"Finally, keep in mind that those two...]]></summary>
-        <author>
-            <name>�Ʒ�� BLOG</name>
         </author>
     </entry>
     <entry>

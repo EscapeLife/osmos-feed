@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-02-06T00:47:40.725Z</updated>
+    <updated>2023-02-07T00:50:42.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ͬһ Entity �������ͬ�� Component ������]]></title>
+        <id>https://blog.codingnow.com/2023/02/multiple_components.html</id>
+        <link href="https://blog.codingnow.com/2023/02/multiple_components.html"/>
+        <updated>2023-02-06T07:26:05.000Z</updated>
+        <summary type="html"><![CDATA[ECS �У�ͬһ�� Entity �Ƿ�����ɶ��ͬ���͵� Component ���ɣ��� Unity �У����ǿ��ԡ����ǵ����������֮��Ҳ�ǿ��Եġ� ��ʱ��һ�����⣺�� Lua �У���η���ͬ���͵� Component ������ж��ͬ�� Component ������Ȼ�ķ�ʽ�ǰ����Ƿ���һ����������ǡ������������������ò���������ԣ�ÿ�η��� Component ����һ�� [1] �� [0] �����������Եû������㡣������ Component �������飬����������飬д�������м�������Ǹ�������Ϊ�����������Ǿͳ���������ͬ�����͡� ���������Ǹɴ����� Lua �����ԣ�������� Component ��������һ�� table �С�����ж�� Component �Ͱ��������ֱ�ӷ��ڵ�һ�� Component �� table �ڡ�����������һ��ʱ���������ܲ�������༼�ɡ��ȵ��� C ��д luaecs �󣬾Ϳ�����������ԡ�...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[忘]]></title>
         <id>https://greyli.com/?p=4957</id>

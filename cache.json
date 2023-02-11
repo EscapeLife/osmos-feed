@@ -76,18 +76,7 @@
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "https://manjusaka.blog/atom.xml",
-      "articles": [
-        {
-          "id": "https://manjusaka.blog/posts/2023/01/26/what-I-can-learn-from-a-refactor-project/",
-          "author": null,
-          "description": "<p>本来这篇文章是要在 2022 最后一个工作日前写完的，但是拖延癌发作，到现在才写完。不过还是发出来，希望里面的内容能帮到大家</p>",
-          "link": "https://manjusaka.blog/posts/2023/01/26/what-I-can-learn-from-a-refactor-project/",
-          "publishedOn": "2023-01-26T16:00:00.000Z",
-          "wordCount": 779,
-          "title": "从一个重构项目中能学到什么东西",
-          "imageUrl": "https://user-images.githubusercontent.com/7054676/214850761-da34600d-a9b0-42de-88e8-97643a27d61d.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "laike9m's blog",
@@ -163,6 +152,16 @@
       "feedUrl": "https://www.zlovezl.cn/feeds/latest",
       "siteUrl": "http://www.zlovezl.cn/",
       "articles": [
+        {
+          "id": "https://www.zlovezl.cn/articles/how-to-design-config-file-for-software/",
+          "author": null,
+          "description": "在设计和开发服务端（后端）软件时，配置文件是一个绕不开的话题。\n配置文件是一种用于存放各类可配置项的特殊文件。每个软件都会预设一些默认配置，但这些默认值不可能适用于所有情况。因此，到了不同的环境中，我们常常需要用配置文件对其进行扩展和修改。\n拿版本控制软件 git 举例。大部分用户的 home 目录（~）都存放着一份 .gitconfig 配置文件，里面写着自己的用户名和邮箱地址：\n[user]\n    name = piglei\n    email = piglei2007@gmail.com\n\n就像软件的任何一个主要功能一样，配置文件也会极大的影响软件的使用体验。良好的设计能让软件变得更易用，糟糕的设计则会带来许多意想不到的问题，将用户拒之门外。\n在这篇文章中，我整理了 4 条关于“软件配置文件”的设计建议，希望能对你有所帮助。\n1. 最好不给配置也能用\n在网络世界里，每过一天，人们的耐心似乎就又比前一天减少了一丁点。一个制作精良的短视频，如果 3 秒钟之内无法抓住你，你的右手拇指就会条件反射般将它划走。\n现在，假设你开发了一个非常有用的工具软件，并发布到了网上。软件的功能非常全面，所有人在使用它之前，需要编辑一份包含 20 项配置的配置文件。你猜，有多大比例的潜在用户会直接掉头走掉？\n当我们想要一件东西时，总是一刻也不想等。因此，初始的配置过程麻烦与否，会强烈影响人们尝试软件的决心。在这方面，我认为最好的体验是：无需提供任何配置，便能直接使用软件 80% 以上的功能。\n假如无法做到这一点，我们也应该试着从以下几个方面着手，尽量降低用户的配置成本，压缩从“开始安装”到“可使用”之间的等待时间。\n1.1 预设合理的默认值\n为了将必须由用户提供的配置项，压缩到最少。你得给软件的所有配置项预设一个足够合理的默认值。这些默认值应当能让尽可能多的用户满意。\n举个例子，假如你的软件…",
+          "link": "https://www.zlovezl.cn/articles/how-to-design-config-file-for-software/",
+          "publishedOn": "2023-02-11T00:44:03.245Z",
+          "wordCount": 303,
+          "title": "设计服务端软件配置的 4 条建议",
+          "imageUrl": null
+        },
         {
           "id": "https://www.zlovezl.cn/articles/go-func-argument-patterns/",
           "author": null,

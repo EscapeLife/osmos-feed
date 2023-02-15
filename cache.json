@@ -68,7 +68,18 @@
       "title": "Tinyfool的个人网站",
       "feedUrl": "http://feeds.feedburner.com/Tinyfoolblog",
       "siteUrl": "https://codechina.org/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://codechina.org/?p=27930",
+          "author": "tinyfool",
+          "description": "ChatGPT 最近非常火爆，甚至完全出圈。早在 GPT-3 发布的时候，我就非常关注。但是当时没进行具体的开 […]\nOpenAI GPT API 初探：价格，成本、模型选择以及摘要篇最先出现在Tinyfool的个人网站。",
+          "link": "https://codechina.org/2023/02/openai-gpt-api-summarize/",
+          "publishedOn": "2023-02-14T13:54:49.000Z",
+          "wordCount": 2322,
+          "title": "OpenAI GPT API 初探：价格，成本、模型选择以及摘要篇",
+          "imageUrl": "https://codechina.org/wp-content/uploads/2023/02/tinyfoolus_an_old_chinese_coder_is_coding_in_a_seaside_coffee_785c6a97-233f-4638-b816-a66b2873c654.png"
+        }
+      ]
     },
     {
       "title": "ChangeLog of KDr2.com",
@@ -155,6 +166,16 @@
       "feedUrl": "https://blog.codingnow.com/atom.xml",
       "siteUrl": "https://blog.codingnow.com/",
       "articles": [
+        {
+          "id": "https://blog.codingnow.com/2023/02/aura.html",
+          "author": null,
+          "description": "���ܿ����� Redis ���ߵ���������� Aocla ���о��������������� FORTH �� Lisp ���Ӻ��壬��������һЩ��Ƕ�ֲ�������֧�֡��ǳ�����ǰ�����������ѧ������һ��С������������뷨��Ϊ��ѧ�����һ�� DSL Ǳ�� Lua ���������ӵ���ѧ�������ʱ�����԰Ѽ������ͣ���� C Side ������ Lua �� C ֮��ı߽�ɱ�������İ汾����ģ�� FORTH ��ƵĻ���ջ��С���ԡ�ϣ������һЩ������������ȡһ�����ܡ���ʵ���������ڱ�Ť��������������һЩ����ȴû�б��ʸĽ���������ھ�������� DSL ���״���ѧ���а����� ��...",
+          "link": "https://blog.codingnow.com/2023/02/aura.html",
+          "publishedOn": "2023-02-14T02:19:58.000Z",
+          "wordCount": 351,
+          "title": "Aura һ��Ƕ��ʽС����",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.codingnow.com/2023/02/multiple_components.html",
           "author": null,

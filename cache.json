@@ -20,16 +20,6 @@
           "wordCount": 1430,
           "title": "我看ChatGPT: 为啥谷歌掉了千亿美金",
           "imageUrl": "https://coolshell.cn/wp-content/uploads/2023/02/chatgpt.jpg"
-        },
-        {
-          "id": "https://coolshell.cn/?p=22367",
-          "author": "陈皓",
-          "description": "这两天在网络上又有一个东西火了，Twitter 的创始人 @jack 新的社交 iOS App  Damus 上苹果商店（第二天就因为违反中国法律在中国区下架了...\n Read More  Read More\n聊聊 nostr 和 审查 first appeared on 酷 壳 - CoolShell.",
-          "link": "https://coolshell.cn/articles/22367.html",
-          "publishedOn": "2023-02-03T07:46:13.000Z",
-          "wordCount": 1692,
-          "title": "聊聊 nostr 和 审查",
-          "imageUrl": "https://coolshell.cn/wp-content/uploads/2023/02/nostr-aplicacion-descentralizada-1140x570-1-300x150.png"
         }
       ]
     },
@@ -231,16 +221,6 @@
           "publishedOn": "2023-02-11T00:44:03.245Z",
           "wordCount": 303,
           "title": "设计服务端软件配置的 4 条建议",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zlovezl.cn/articles/go-func-argument-patterns/",
-          "author": null,
-          "description": "1. 普通传参\nGo 语言支持按顺序传入参数来调用函数，下面是一个示例函数：\n// ListApplications 查询应用列表\nfunc ListApplications(limit, offset int) []Application {\n    return allApps[offset : offset+limit]\n}\n\n调用代码：\nListApplications(5, 0)\n\n当你想增加新参数时，可以直接修改函数签名。比如，下面的代码给 ListApplications 增加了新的过滤参数 owner：\nfunc ListApplications(limit, offset int, owner string) []Application {\n    if owner != \"\" {\n        // ...\n    }\n    return allApps[offset : offset+limit]\n}\n\n调用代码也需要随之改变：\nListApplications(5, 0, \"piglei\")\n// 不使用 owner 过滤\nListApplications(5, 0, \"\")\n\n显而易见，这种普通传参模式存在以下几个明显的问题：\n可读性不佳：只支持用位置，不支持用关键字来区分参数，参数变多后，各参数含义很难一目了然\n破坏兼容性：增加新参数后，原有调用代码必须进行对应修改，比如像上方的 ListApplications(5, 0, \"\") 一样，在 owner 参数的位置传递空字符串\n为了解决这些问题，常见的做法是引入一个参数结构体（struct）类型。\n2. 使用参数结构体\n新建一个结构体类型，里面包含函数需要支持的所有参数：\n// ListAppsOptions 是查询应用列表时的可选项\ntype ListAppsOptions struct …",
-          "link": "https://www.zlovezl.cn/articles/go-func-argument-patterns/",
-          "publishedOn": "2023-02-03T00:52:23.538Z",
-          "wordCount": 719,
-          "title": "Go 的几种函数传参模式",
           "imageUrl": null
         }
       ]

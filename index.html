@@ -582,105 +582,6 @@ Write a Python program, it accepts an URL address url from command line input, t
                 </section>
               </section>
             </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >酷 壳 – CoolShell</button>
-                  <a class="source-heading__link" href="https://coolshell.cn">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://coolshell.cn/?p&#x3D;22367"
-                        open
-                      >
-                        <summary class="article-expander__title">聊聊 nostr 和 审查</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://coolshell.cn/articles/22367.html">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://coolshell.cn/wp-content/uploads/2023/02/nostr-aplicacion-descentralizada-1140x570-1-300x150.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>这两天在网络上又有一个东西火了，Twitter 的创始人 @jack 新的社交 iOS App  Damus 上苹果商店（第二天就因为违反中国法律在中国区下架了...
- Read More  Read More
-聊聊 nostr 和 审查 first appeared on 酷 壳 - CoolShell.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >piglei</button>
-                  <a class="source-heading__link" href="http://www.zlovezl.cn/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.zlovezl.cn/articles/go-func-argument-patterns/"
-                        open
-                      >
-                        <summary class="article-expander__title">Go 的几种函数传参模式</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.zlovezl.cn/articles/go-func-argument-patterns/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>1. 普通传参
-Go 语言支持按顺序传入参数来调用函数，下面是一个示例函数：
-// ListApplications 查询应用列表
-func ListApplications(limit, offset int) []Application {
-    return allApps[offset : offset+limit]
-}
-
-调用代码：
-ListApplications(5, 0)
-
-当你想增加新参数时，可以直接修改函数签名。比如，下面的代码给 ListApplications 增加了新的过滤参数 owner：
-func ListApplications(limit, offset int, owner string) []Application {
-    if owner !&#x3D; &quot;&quot; {
-        // ...
-    }
-    return allApps[offset : offset+limit]
-}
-
-调用代码也需要随之改变：
-ListApplications(5, 0, &quot;piglei&quot;)
-// 不使用 owner 过滤
-ListApplications(5, 0, &quot;&quot;)
-
-显而易见，这种普通传参模式存在以下几个明显的问题：
-可读性不佳：只支持用位置，不支持用关键字来区分参数，参数变多后，各参数含义很难一目了然
-破坏兼容性：增加新参数后，原有调用代码必须进行对应修改，比如像上方的 ListApplications(5, 0, &quot;&quot;) 一样，在 owner 参数的位置传递空字符串
-为了解决这些问题，常见的做法是引入一个参数结构体（struct）类型。
-2. 使用参数结构体
-新建一个结构体类型，里面包含函数需要支持的所有参数：
-// ListAppsOptions 是查询应用列表时的可选项
-type ListAppsOptions struct …</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
         </ul>
       </section>
       <section class="daily-content js-toggle-accordions-scope">
@@ -779,8 +680,8 @@ type ListAppsOptions struct …</span>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/EscapeLife/osmos-feed/actions/runs/4199600666">
-        <time id="build-timestamp" datetime="2023-02-17T00:54:51.758Z">2023-02-17T00:54:51.758Z</time>
+      <a class="footer-link" href="https://github.com/EscapeLife/osmos-feed/actions/runs/4208779858">
+        <time id="build-timestamp" datetime="2023-02-18T00:52:00.959Z">2023-02-18T00:52:00.959Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

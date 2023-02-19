@@ -138,16 +138,6 @@
           "wordCount": 322,
           "title": "2022 年总结",
           "imageUrl": "https://greyli.com/wp-content/uploads/2020/07/avatar.jpg"
-        },
-        {
-          "id": "https://greyli.com/?p=4957",
-          "author": "李辉",
-          "description": "每年回家都会去看一眼邻村村委会的灯牌。从它第一次灭灯开始，我就期待有一天能拍到「忘记使命」。可是这灯牌太聪明， […]",
-          "link": "https://greyli.com/remember/",
-          "publishedOn": "2023-02-03T15:45:36.000Z",
-          "wordCount": 216,
-          "title": "忘",
-          "imageUrl": "https://greyli.com/wp-content/uploads/2020/07/avatar.jpg"
         }
       ]
     },
@@ -183,6 +173,56 @@
       "feedUrl": "https://www.zlovezl.cn/feeds/latest",
       "siteUrl": "http://www.zlovezl.cn/",
       "articles": [
+        {
+          "id": "https://www.piglei.com/articles/go-func-argument-patterns/",
+          "author": null,
+          "description": "1. 普通传参\nGo 语言支持按顺序传入参数来调用函数，下面是一个示例函数：\n// ListApplications 查询应用列表\nfunc ListApplications(limit, offset int) []Application {\n    return allApps[offset : offset+limit]\n}\n\n调用代码：\nListApplications(5, 0)\n\n当你想增加新参数时，可以直接修改函数签名。比如，下面的代码给 ListApplications 增加了新的过滤参数 owner：\nfunc ListApplications(limit, offset int, owner string) []Application {\n    if owner != \"\" {\n        // ...\n    }\n    return allApps[offset : offset+limit]\n}\n\n调用代码也需要随之改变：\nListApplications(5, 0, \"piglei\")\n// 不使用 owner 过滤\nListApplications(5, 0, \"\")\n\n显而易见，这种普通传参模式存在以下几个明显的问题：\n可读性不佳：只支持用位置，不支持用关键字来区分参数，参数变多后，各参数含义很难一目了然\n破坏兼容性：增加新参数后，原有调用代码必须进行对应修改，比如像上方的 ListApplications(5, 0, \"\") 一样，在 owner 参数的位置传递空字符串\n为了解决这些问题，常见的做法是引入一个参数结构体（struct）类型。\n2. 使用参数结构体\n新建一个结构体类型，里面包含函数需要支持的所有参数：\n// ListAppsOptions 是查询应用列表时的可选项\ntype ListAppsOptions struct …",
+          "link": "https://www.piglei.com/articles/go-func-argument-patterns/",
+          "publishedOn": "2023-02-19T00:53:22.215Z",
+          "wordCount": 719,
+          "title": "Go 的几种函数传参模式",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.piglei.com/articles/stmt-expr-and-walrus-operator/",
+          "author": null,
+          "description": "让我们从两行最简单的 Python 代码开始。\n>>> name = 'piglei'\n>>> print(f'Hello {name}!')\nHello piglei!\n\n这是一个“Hello World”程序，你也许已经见过它无数次，对里面的每个字母都了如指掌。但你可能从未意识到，上面两行代码，刚好对应着 Python 语言里的两个重要概念：语句（statement） 和 表达式（expression）。\n具体来说，name = 'piglei' 是一行赋值语句，它将字符串 'piglei' 赋给了 name 变量。print(f'Hello {name}!') 则是一个表达式，它通过调用内置函数 print 往屏幕打印信息。\n表达式的特点\n编写代码时，语句和表达式是两类最基本的代码单元。\n虽然在日常表达中，我们会把语句和表达式区分开来，但二者并非完全不同——表达式实际上就是一种特殊的语句。和普通语句比起来，表达式的特别之处在于它拥有一个（或多个）返回值。\n举例来说，前面的 print(...) 表达式就会返回一个值：None。你可以像下面这样获取它：\n# print 函数总是返回 None\n>>> val = print(f'Hello {name}!')\nHello piglei!\n>>> val is None\nTrue\n\n虽然这么做没啥实际用途，但它足够体现出表达式的独特之处——因为你永远无法对普通语句做出类似的事情。无论是“赋值语句”、“循环语句”，还是一个“条件分支语句”，你永远都无法将其赋值给某个变量，这在语法上无从谈起：\n>>> val = (name = 'piglei')\n  File \"<stdin>\", line 1\n    val = (name = 'piglei')\n                ^\nSyntaxError: invali…",
+          "link": "https://www.piglei.com/articles/stmt-expr-and-walrus-operator/",
+          "publishedOn": "2023-02-19T00:53:22.160Z",
+          "wordCount": 701,
+          "title": "Python 工匠：语句、表达式和海象操作符",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.piglei.com/articles/if-programming-is-writing/",
+          "author": null,
+          "description": "很多人会把编程比作写作，比如《Thinking in Java》的作者 Bruce Eckel 就说：“程序员就是作家。”二者的确也有许多相似之处，好文章和好代码，都离不精确的结构与优美的表达。写作时，每个人都能用词语拼出句子，组成文章，但并非所有人都能写出好文章，编程也是一样。\n不过严格来说，编程和写作虽有少许相似，却仍是两个迥异的技能，在很多方面差别很大。比如我们很少会重写一篇已发表的文章，但重构一段能正常运行的代码实属家常便饭。\n不过这一次，我们不妨把编程中那些复杂概念抛掷一旁，来一次奇思妙想：“如果编程就是写作，我们能从中学到些什么？”\n1. 使用人称代词\n写文章时，我们常常会使用人称代词来指代人物的名字，以此减少冗余，提升文本的流畅度。这个技巧当然也可以用到编程中。\n以下代码重复使用了一个冗长的表达式：\ndef run_server():\n    if check(data.servier_config.host):\n        start_server(data.servier_config.host)\n    else:\n        logger.error('Server %s is invalid.', data.servier_config.host)\n\n定义一个临时变量，作为代词使用来简化代码：\ndef run_server():\n    host = data.servier_config.host\n    if check(host):\n        start_server(host)\n    else:\n        logger.error('Server %s is invalid.', host)\n\n2. 搭配使用长短句\n写作时， 如何选择句子的长短是一门学问。汪曾祺说过：“语言的奥秘，说穿了不过是长句与短句的搭配。”长句信息…",
+          "link": "https://www.piglei.com/articles/if-programming-is-writing/",
+          "publishedOn": "2023-02-19T00:53:22.139Z",
+          "wordCount": 371,
+          "title": "如果编程就是写作",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.piglei.com/articles/chatgpt-and-how-we-programming/",
+          "author": null,
+          "description": "多年以来，编程一直是我生命最重要的快乐来源之一，我从没细想过这份快乐能伴随我多久。但就在几天前，在观摩了 ChatGPT 替我编写一个 Python 程序的全过程后，我突然有种强烈的感觉：不远的将来，人们能从编程中获得的乐趣可能会逐渐消失。\n换句话说，ChatGPT 正在缓慢地“杀死”编程里的乐趣。在解释这个观点之前，让我先带你简单回顾一下：ChatGPT 到底帮我写了个什么程序。\n用 ChatGPT 编写程序\n先简单介绍一下 ChatGPT。ChatGPT 是人工智能公司 OpenAI 在 2022 年 11 月份推出的基于 GPT 自然语言生成模型的聊天机器人。它功能强大，能轻松完成许多在人类眼中非常复杂的任务，比方说：根据你描述的需求写一个可运行的程序。\n前天晚上十一点左右，我正坐在床上刷手机，突然想起一个给路由器用的工具脚本，已经拖延了几个月都没动工。既然自己不愿写，不如这次试试让 ChatGPT 来帮我完成。\n这个工具的需求简述如下：\n接收一个 URL 地址作为参数，将该 URL 里的域名，以及该 URL 所返回的页面里的所有域名，一并转换成 dnsmasq 服务的配置条目，写入到 /etc/dnsmasq.conf 文件中（需要考虑重复写入）。\n为了让 ChatGPT 写代码，我需要用自然语言清楚描述程序的用途和大概的执行流程，这个过程花了我 5 分钟左右。\n需求描述如下：\nWrite a Python program, it accepts an URL address url from command line input, the program extract the domain name from url and stores it in a variable called src_domain, then it starts to request …",
+          "link": "https://www.piglei.com/articles/chatgpt-and-how-we-programming/",
+          "publishedOn": "2023-02-19T00:53:22.090Z",
+          "wordCount": 484,
+          "title": "ChatGPT 正在杀死编程里的乐趣",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.piglei.com/articles/programming-is-still-hard-after-14-years/",
+          "author": null,
+          "description": "很多年前，当我还是一名计算机专业的大四学生时，整天上网浏览各类招聘信息，想找到一个合适的程序员实习岗位。\n除了实习岗位外，我偶尔也会点进一些“高级工程师”的招聘帖里。现在回想起那些帖子，抛开让人眼花缭乱的技术名词，我印象最深的就是常出现在第一行的岗位年限要求：“本职位要求 工作经验 5 年以上”。\n作为一只一天班都没上过的小菜鸟，这些年限要求在我眼里简直长到夸张。不过，望洋兴叹之余，我有时也会在心中暗暗憧憬一下：“五年工作经验的程序员，那该多厉害啊？写代码对于他们来说，是不是像吃饭一样简单？”\n时光荏苒，一晃十几年过去了。如今回头一望，自己也成了一名有着 14 年工作经验的光荣打工人。在软件开发行业摸爬滚打这些年后，我发现很多事情，与我在大四时所想象的大不相同，比方说：\n随着经验增长，编程并不会变简单太多，“像吃饭一样简单”只出现在梦里\n给许多“大项目”写代码不光没意思，还很危险，远不如在 LeetCode 上做一道算法题有趣\n只从技术角度思考问题，成不了好程序员，有些东西远比技术更重要\n细想起来，这类关于编程的感触还有许多。我整理了其中 8 条，写成了这篇文章。如果其中某些观点引起了你的共鸣，我会非常高兴。\n1. 写代码很简单，但写好代码很难\n编程曾经是一项门槛很高的专业技能。从前，一个普通人想学编程，最常见的做法就是通过教材和书本学习。不过大部分编程专业书，十分艰深晦涩，对于初学者来说很不友好。因此不少人在尝到编程的乐趣前，就早早地半途而废。\n但如今，学编程正在变得越来越容易。学习不再像以前那样，只能硬啃书本，而是多了许多新途径。观看教学视频、参加 Codecademy 的交互式课程，甚至直接在 CodeCombat 通过玩游戏来学编程，每个人都能找到适合自己的学习方式。\n\n“妈，我真没在玩游戏，我在学编程呢！你看屏幕右边！”\n此外，编程语言也在变得越来越易用。经典的 …",
+          "link": "https://www.piglei.com/articles/programming-is-still-hard-after-14-years/",
+          "publishedOn": "2023-02-19T00:53:22.044Z",
+          "wordCount": 503,
+          "title": "入行 14 年，我还是觉得编程很难",
+          "imageUrl": null
+        },
         {
           "id": "https://www.zlovezl.cn/articles/if-programming-is-writing/",
           "author": null,

@@ -166,16 +166,6 @@
           "wordCount": 351,
           "title": "Aura һ��Ƕ��ʽС����",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.codingnow.com/2023/02/multiple_components.html",
-          "author": null,
-          "description": "ECS �У�ͬһ�� Entity �Ƿ�����ɶ��ͬ���͵� Component ���ɣ��� Unity �У����ǿ��ԡ����ǵ����������֮��Ҳ�ǿ��Եġ� ��ʱ��һ�����⣺�� Lua �У���η���ͬ���͵� Component ������ж��ͬ�� Component ������Ȼ�ķ�ʽ�ǰ����Ƿ���һ����������ǡ������������������ò���������ԣ�ÿ�η��� Component ����һ�� [1] �� [0] �����������Եû������㡣������ Component �������飬����������飬д�������м�������Ǹ�������Ϊ�����������Ǿͳ���������ͬ�����͡� ���������Ǹɴ����� Lua �����ԣ�������� Component ��������һ�� table �С�����ж�� Component �Ͱ��������ֱ�ӷ��ڵ�һ�� Component �� table �ڡ�����������һ��ʱ���������ܲ�������༼�ɡ��ȵ��� C ��д luaecs �󣬾Ϳ�����������ԡ�...",
-          "link": "https://blog.codingnow.com/2023/02/multiple_components.html",
-          "publishedOn": "2023-02-06T07:26:05.000Z",
-          "wordCount": 305,
-          "title": "ͬһ Entity �������ͬ�� Component ������",
-          "imageUrl": null
         }
       ]
     },

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-02-23T00:49:56.302Z</updated>
+    <updated>2023-02-24T00:51:57.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -318,15 +318,6 @@ Write a Python program, it accepts an URL address url from command line input, t
 举个例子，假如你的软件…]]></summary>
         <author>
             <name>piglei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python 打包的新动态]]></title>
-        <id>https://frostming.com/2023/python-packaging-status/</id>
-        <link href="https://frostming.com/2023/python-packaging-status/"/>
-        <updated>2023-02-09T00:00:00.000Z</updated>
-        <author>
-            <name>mianghong@gmail.com (Frost Ming)</name>
         </author>
     </entry>
     <entry>

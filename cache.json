@@ -110,18 +110,7 @@
       "title": "Frost's Blog",
       "feedUrl": "https://frostming.com/feed.xml",
       "siteUrl": "https://frostming.com",
-      "articles": [
-        {
-          "id": "https://frostming.com/2023/python-packaging-status/",
-          "author": "mianghong@gmail.com (Frost Ming)",
-          "description": "",
-          "link": "https://frostming.com/2023/python-packaging-status/",
-          "publishedOn": "2023-02-09T00:00:00.000Z",
-          "wordCount": 1524,
-          "title": "Python 打包的新动态",
-          "imageUrl": "https://static.frostming.com/images/pypa.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Posts on Jiayuan Thoughts",

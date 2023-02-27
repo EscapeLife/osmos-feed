@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-02-26T00:57:12.938Z</updated>
+    <updated>2023-02-27T00:52:42.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -290,18 +290,6 @@ SyntaxError: invali…]]></summary>
 Write a Python program, it accepts an URL address url from command line input, the program extract the domain name from url and stores it in a variable called src_domain, then it starts to request …]]></summary>
         <author>
             <name>piglei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我看ChatGPT: 为啥谷歌掉了千亿美金]]></title>
-        <id>https://coolshell.cn/?p=22398</id>
-        <link href="https://coolshell.cn/articles/22398.html"/>
-        <updated>2023-02-11T16:31:16.000Z</updated>
-        <summary type="html"><![CDATA[两个月前，我试着想用 ChatGPT 帮我写篇文章《eBPF 介绍》，结果错误百处，导致我又要从头改一遍，从那天我觉得 ChatGPT 生成的内容完全不靠谱，所...
- Read More  Read More
-我看ChatGPT: 为啥谷歌掉了千亿美金 first appeared on 酷 壳 - CoolShell.]]></summary>
-        <author>
-            <name>陈皓</name>
         </author>
     </entry>
     <entry>

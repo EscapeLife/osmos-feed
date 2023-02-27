@@ -10,18 +10,7 @@
       "title": "酷 壳 – CoolShell",
       "feedUrl": "https://coolshell.cn/feed",
       "siteUrl": "https://coolshell.cn",
-      "articles": [
-        {
-          "id": "https://coolshell.cn/?p=22398",
-          "author": "陈皓",
-          "description": "两个月前，我试着想用 ChatGPT 帮我写篇文章《eBPF 介绍》，结果错误百处，导致我又要从头改一遍，从那天我觉得 ChatGPT 生成的内容完全不靠谱，所...\n Read More  Read More\n我看ChatGPT: 为啥谷歌掉了千亿美金 first appeared on 酷 壳 - CoolShell.",
-          "link": "https://coolshell.cn/articles/22398.html",
-          "publishedOn": "2023-02-11T16:31:16.000Z",
-          "wordCount": 1430,
-          "title": "我看ChatGPT: 为啥谷歌掉了千亿美金",
-          "imageUrl": "https://coolshell.cn/wp-content/uploads/2023/02/chatgpt.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "阮一峰的网络日志",

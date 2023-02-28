@@ -210,26 +210,6 @@
           "wordCount": 371,
           "title": "如果编程就是写作",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.zlovezl.cn/articles/stmt-expr-and-walrus-operator/",
-          "author": null,
-          "description": "让我们从两行最简单的 Python 代码开始。\n>>> name = 'piglei'\n>>> print(f'Hello {name}!')\nHello piglei!\n\n这是一个“Hello World”程序，你也许已经见过它无数次，对里面的每个字母都了如指掌。但你可能从未意识到，上面两行代码，刚好对应着 Python 语言里的两个重要概念：语句（statement） 和 表达式（expression）。\n具体来说，name = 'piglei' 是一行赋值语句，它将字符串 'piglei' 赋给了 name 变量。print(f'Hello {name}!') 则是一个表达式，它通过调用内置函数 print 往屏幕打印信息。\n表达式的特点\n编写代码时，语句和表达式是两类最基本的代码单元。\n虽然在日常表达中，我们会把语句和表达式区分开来，但二者并非完全不同——表达式实际上就是一种特殊的语句。和普通语句比起来，表达式的特别之处在于它拥有一个（或多个）返回值。\n举例来说，前面的 print(...) 表达式就会返回一个值：None。你可以像下面这样获取它：\n# print 函数总是返回 None\n>>> val = print(f'Hello {name}!')\nHello piglei!\n>>> val is None\nTrue\n\n虽然这么做没啥实际用途，但它足够体现出表达式的独特之处——因为你永远无法对普通语句做出类似的事情。无论是“赋值语句”、“循环语句”，还是一个“条件分支语句”，你永远都无法将其赋值给某个变量，这在语法上无从谈起：\n>>> val = (name = 'piglei')\n  File \"<stdin>\", line 1\n    val = (name = 'piglei')\n                ^\nSyntaxError: invali…",
-          "link": "https://www.zlovezl.cn/articles/stmt-expr-and-walrus-operator/",
-          "publishedOn": "2023-02-13T00:52:48.209Z",
-          "wordCount": 701,
-          "title": "Python 工匠：语句、表达式和海象操作符",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zlovezl.cn/articles/chatgpt-and-how-we-programming/",
-          "author": null,
-          "description": "多年以来，编程一直是我生命最重要的快乐来源之一，我从没细想过这份快乐能伴随我多久。但就在几天前，在观摩了 ChatGPT 替我编写一个 Python 程序的全过程后，我突然有种强烈的感觉：不远的将来，人们能从编程中获得的乐趣可能会逐渐消失。\n换句话说，ChatGPT 正在缓慢地“杀死”编程里的乐趣。在解释这个观点之前，让我先带你简单回顾一下：ChatGPT 到底帮我写了个什么程序。\n用 ChatGPT 编写程序\n先简单介绍一下 ChatGPT。ChatGPT 是人工智能公司 OpenAI 在 2022 年 11 月份推出的基于 GPT 自然语言生成模型的聊天机器人。它功能强大，能轻松完成许多在人类眼中非常复杂的任务，比方说：根据你描述的需求写一个可运行的程序。\n前天晚上十一点左右，我正坐在床上刷手机，突然想起一个给路由器用的工具脚本，已经拖延了几个月都没动工。既然自己不愿写，不如这次试试让 ChatGPT 来帮我完成。\n这个工具的需求简述如下：\n接收一个 URL 地址作为参数，将该 URL 里的域名，以及该 URL 所返回的页面里的所有域名，一并转换成 dnsmasq 服务的配置条目，写入到 /etc/dnsmasq.conf 文件中（需要考虑重复写入）。\n为了让 ChatGPT 写代码，我需要用自然语言清楚描述程序的用途和大概的执行流程，这个过程花了我 5 分钟左右。\n需求描述如下：\nWrite a Python program, it accepts an URL address url from command line input, the program extract the domain name from url and stores it in a variable called src_domain, then it starts to request …",
-          "link": "https://www.zlovezl.cn/articles/chatgpt-and-how-we-programming/",
-          "publishedOn": "2023-02-13T00:52:48.206Z",
-          "wordCount": 484,
-          "title": "ChatGPT 正在杀死编程里的乐趣",
-          "imageUrl": null
         }
       ]
     },

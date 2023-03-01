@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-02-28T00:52:25.951Z</updated>
+    <updated>2023-03-01T00:57:39.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -198,47 +198,6 @@ Write a Python program, it accepts an URL address url from command line input, t
 OpenAI GPT API 初探：价格，成本、模型选择以及摘要篇最先出现在Tinyfool的个人网站。]]></summary>
         <author>
             <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aura һ��Ƕ��ʽС����]]></title>
-        <id>https://blog.codingnow.com/2023/02/aura.html</id>
-        <link href="https://blog.codingnow.com/2023/02/aura.html"/>
-        <updated>2023-02-14T02:19:58.000Z</updated>
-        <summary type="html"><![CDATA[���ܿ����� Redis ���ߵ���������� Aocla ���о��������������� FORTH �� Lisp ���Ӻ��壬��������һЩ��Ƕ�ֲ�������֧�֡��ǳ�����ǰ�����������ѧ������һ��С������������뷨��Ϊ��ѧ�����һ�� DSL Ǳ�� Lua ���������ӵ���ѧ�������ʱ�����԰Ѽ������ͣ���� C Side ������ Lua �� C ֮��ı߽�ɱ�������İ汾����ģ�� FORTH ��ƵĻ���ջ��С���ԡ�ϣ������һЩ������������ȡһ�����ܡ���ʵ���������ڱ�Ť��������������һЩ����ȴû�б��ʸĽ���������ھ�������� DSL ���״���ѧ���а����� ��...]]></summary>
-        <author>
-            <name>�Ʒ�� BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果编程就是写作]]></title>
-        <id>https://www.zlovezl.cn/articles/if-programming-is-writing/</id>
-        <link href="https://www.zlovezl.cn/articles/if-programming-is-writing/"/>
-        <updated>2023-02-14T00:52:51.336Z</updated>
-        <summary type="html"><![CDATA[很多人会把编程比作写作，比如《Thinking in Java》的作者 Bruce Eckel 就说：“程序员就是作家。”二者的确也有许多相似之处，好文章和好代码，都离不精确的结构与优美的表达。写作时，每个人都能用词语拼出句子，组成文章，但并非所有人都能写出好文章，编程也是一样。
-不过严格来说，编程和写作虽有少许相似，却仍是两个迥异的技能，在很多方面差别很大。比如我们很少会重写一篇已发表的文章，但重构一段能正常运行的代码实属家常便饭。
-不过这一次，我们不妨把编程中那些复杂概念抛掷一旁，来一次奇思妙想：“如果编程就是写作，我们能从中学到些什么？”
-1. 使用人称代词
-写文章时，我们常常会使用人称代词来指代人物的名字，以此减少冗余，提升文本的流畅度。这个技巧当然也可以用到编程中。
-以下代码重复使用了一个冗长的表达式：
-def run_server():
-    if check(data.servier_config.host):
-        start_server(data.servier_config.host)
-    else:
-        logger.error('Server %s is invalid.', data.servier_config.host)
-
-定义一个临时变量，作为代词使用来简化代码：
-def run_server():
-    host = data.servier_config.host
-    if check(host):
-        start_server(host)
-    else:
-        logger.error('Server %s is invalid.', host)
-
-2. 搭配使用长短句
-写作时， 如何选择句子的长短是一门学问。汪曾祺说过：“语言的奥秘，说穿了不过是长句与短句的搭配。”长句信息…]]></summary>
-        <author>
-            <name>piglei</name>
         </author>
     </entry>
     <entry>

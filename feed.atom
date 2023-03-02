@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-03-01T00:57:39.575Z</updated>
+    <updated>2023-03-02T00:56:05.428Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -187,17 +187,6 @@ Write a Python program, it accepts an URL address url from command line input, t
 此外，编程语言也在变得越来越易用。经典的 …]]></summary>
         <author>
             <name>piglei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI GPT API 初探：价格，成本、模型选择以及摘要篇]]></title>
-        <id>https://codechina.org/?p=27930</id>
-        <link href="https://codechina.org/2023/02/openai-gpt-api-summarize/"/>
-        <updated>2023-02-14T13:54:49.000Z</updated>
-        <summary type="html"><![CDATA[ChatGPT 最近非常火爆，甚至完全出圈。早在 GPT-3 发布的时候，我就非常关注。但是当时没进行具体的开 […]
-OpenAI GPT API 初探：价格，成本、模型选择以及摘要篇最先出现在Tinyfool的个人网站。]]></summary>
-        <author>
-            <name>tinyfool</name>
         </author>
     </entry>
     <entry>

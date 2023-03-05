@@ -47,7 +47,18 @@
       "title": "Tinyfool的个人网站",
       "feedUrl": "http://feeds.feedburner.com/Tinyfoolblog",
       "siteUrl": "https://codechina.org/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://codechina.org/?p=28406",
+          "author": "tinyfool",
+          "description": "我的油管频道“Tinyfool的胡说八道”，已经做了很多几期跟ChatGPT有关的节目。未来可能我会有大量的时 […]\nChatGPT即将到来的AI新时代以及对我们的改变最先出现在Tinyfool的个人网站。",
+          "link": "https://codechina.org/2023/03/chatgpt-weilai/",
+          "publishedOn": "2023-03-04T05:52:41.000Z",
+          "wordCount": 1204,
+          "title": "ChatGPT即将到来的AI新时代以及对我们的改变",
+          "imageUrl": "https://codechina.org/wp-content/uploads/2023/03/tinyfoolus_The_Robocop_is_directing_traffic_in_the_middle_of_th_e69a9257-7988-4f07-a793-50e599b23d6c.png"
+        }
+      ]
     },
     {
       "title": "ChangeLog of KDr2.com",
@@ -197,7 +208,18 @@
       "title": "离别歌",
       "feedUrl": "https://www.leavesongs.com/feed",
       "siteUrl": "https://www.leavesongs.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.leavesongs.com/THINK/using-chatgpt-for-antispam.html",
+          "author": "phithon",
+          "description": "最近博客后台经常会出现一些来自国外的留言，基本全是一些广告，以推广SEO、推广博客工具的居多，比如这个：\n\n这个情况这几年一直都有，我也一直在给博客增加许多限制，比如IP黑名单、关键词黑名单、增强验证码等，但总有一些漏网之鱼，而且今年特别严重。\n我的博客完全是自己开发的，而非Wordpress这类通用程序，理论上应该不会有传统的通用工具能自动绕过验证码进行留言。所以我想不太通这些工具是怎么做到的，",
+          "link": "https://www.leavesongs.com/THINK/using-chatgpt-for-antispam.html",
+          "publishedOn": "2023-03-04T14:38:00.000Z",
+          "wordCount": 274,
+          "title": "用ChatGPT帮我检查广告评论",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "张戈博客",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-03-08T00:54:51.756Z</updated>
+    <updated>2023-03-09T00:54:36.711Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ѧϰ�������һ��ʼ�]]></title>
+        <id>https://blog.codingnow.com/2023/03/feedforward_nn.html</id>
+        <link href="https://blog.codingnow.com/2023/03/feedforward_nn.html"/>
+        <updated>2023-03-08T02:08:01.000Z</updated>
+        <summary type="html"><![CDATA[��� AI �ܻ��ҴӶ����ʱ��Ͷ� AI ����Ȥ��90 �����ʱ�����һ��������������顣����ʱû��������ȫ���⡣2000 ����ձ�ҵ�ǻ��������׵㣬���о���һ��ʱ�䡣�˽��˺ܶ����֪ʶ���о��Լ�Ū�����ˣ���ȴû����������ʵ������ ���ڣ������˶����õ���AI �Ѿ������һ����������������������������Ĺ����ˡ��Ҿ����б�Ҫ�ú�ѧϰһ�¡��Ҳ���������ƪ���¾Ϳ��Ը����������ֻ�����Լ������ˣ�����������ƹ��ã������������ǵ��Լ����֡�����д���δ��룬���д����ĸо������ױ��˵����ڽ��ʲô���⡣ һ��ʼ�����Ǵ�ά���ٿƵ� Machine learning ��ʼ���ġ�˳�ſ���һ���죬�˽��˽��귢չ�����硣�ö���������߰���ıʼǼ���һ��ѣ��о������������ˡ�����Ҳ�����˺ܶ࣬���ÿ���ȥЧ�ʻ�Խ��Խ�͡����绻һ��·�� Ȼ���ҿ�ʼ�� Neural Networks and Deep Learning �Ȿ�顣�������º����룬��д����ʶ��������һ���ǳ��õ�ʵ���ֶΣ������Լ�дһ����졣����ôһ��������������Լ������޲���������ǰ�˵Ĺ켣��һ�£����Ը��õ�����Ϊʲô��...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python 工匠：语句、表达式和海象操作符]]></title>
         <id>https://www.piglei.com/articles/stmt-expr-and-walrus-operator/</id>

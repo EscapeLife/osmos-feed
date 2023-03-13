@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-03-12T00:53:21.616Z</updated>
+    <updated>2023-03-13T00:49:47.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[简单聊聊 IaC：Infrastructure as Code]]></title>
+        <id>https://manjusaka.blog/posts/2023/03/12/a-simple-introduction-about-iac/</id>
+        <link href="https://manjusaka.blog/posts/2023/03/12/a-simple-introduction-about-iac/"/>
+        <updated>2023-03-12T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>实际上 IaC 这个概念的出现已经很久了，所以写篇水文来简单聊聊 IaC 的过去，现在，和将来</p>]]></summary>
+        <author>
+            <name>Manjusaka</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT 历史记录没了，怎么办？]]></title>
         <id>https://codechina.org/?p=28538</id>

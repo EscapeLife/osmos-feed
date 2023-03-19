@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-03-18T00:47:48.155Z</updated>
+    <updated>2023-03-19T00:55:25.269Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -193,17 +193,6 @@ Write a Python program, it accepts an URL address url from command line input, t
 我的博客完全是自己开发的，而非Wordpress这类通用程序，理论上应该不会有传统的通用工具能自动绕过验证码进行留言。所以我想不太通这些工具是怎么做到的，]]></summary>
         <author>
             <name>phithon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT即将到来的AI新时代以及对我们的改变]]></title>
-        <id>https://codechina.org/?p=28406</id>
-        <link href="https://codechina.org/2023/03/chatgpt-weilai/"/>
-        <updated>2023-03-04T05:52:41.000Z</updated>
-        <summary type="html"><![CDATA[我的油管频道“Tinyfool的胡说八道”，已经做了很多几期跟ChatGPT有关的节目。未来可能我会有大量的时 […]
-ChatGPT即将到来的AI新时代以及对我们的改变最先出现在Tinyfool的个人网站。]]></summary>
-        <author>
-            <name>tinyfool</name>
         </author>
     </entry>
     <entry>

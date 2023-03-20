@@ -211,14 +211,14 @@
       "siteUrl": "https://www.leavesongs.com",
       "articles": [
         {
-          "id": "https://www.leavesongs.com/THINK/using-chatgpt-for-antispam.html",
+          "id": "https://www.leavesongs.com/PENETRATION/django-race-condition-defense.html",
           "author": "phithon",
-          "description": "最近博客后台经常会出现一些来自国外的留言，基本全是一些广告，以推广SEO、推广博客工具的居多，比如这个：\n\n这个情况这几年一直都有，我也一直在给博客增加许多限制，比如IP黑名单、关键词黑名单、增强验证码等，但总有一些漏网之鱼，而且今年特别严重。\n我的博客完全是自己开发的，而非Wordpress这类通用程序，理论上应该不会有传统的通用工具能自动绕过验证码进行留言。所以我想不太通这些工具是怎么做到的，",
-          "link": "https://www.leavesongs.com/THINK/using-chatgpt-for-antispam.html",
-          "publishedOn": "2023-03-04T14:38:00.000Z",
-          "wordCount": 274,
-          "title": "用ChatGPT帮我检查广告评论",
-          "imageUrl": null
+          "description": "今天下午在v2ex上看到一个帖子，讲述自己因为忘记加分布式锁导致了公司的损失。本文以此为题，介绍一下在Django下如何正确测试与修复Race Condition问题。",
+          "link": "https://www.leavesongs.com/PENETRATION/django-race-condition-defense.html",
+          "publishedOn": "2023-03-19T15:54:00.000Z",
+          "wordCount": 9809,
+          "title": "Django下防御Race Condition漏洞",
+          "imageUrl": "https://mmbiz.qpic.cn/mmbiz_jpg/5AsxricGekWh2u9SicDQAhM6BSu59nvQohrkQaMicUOiavrKAV5W6S6wIcmqibUbo6m5ZluLopUxfccc5AFuicYjiaMNg/0?wx_fmt=jpeg"
         }
       ]
     },

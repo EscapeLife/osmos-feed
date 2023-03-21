@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-03-20T00:52:33.963Z</updated>
+    <updated>2023-03-21T00:46:18.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[由一个子网掩码配置错误所想到的]]></title>
+        <id>https://www.kawabangga.com/?p=4960</id>
+        <link href="https://www.kawabangga.com/posts/4960"/>
+        <updated>2023-03-20T11:41:56.000Z</updated>
+        <summary type="html"><![CDATA[今天线上发现了一个机器的子网掩码配置错了，其实问题比较简单，一开始没有想到会是这个问题，想了好久才想到这里。  […]
+Continue reading...
+The post 由一个子网掩码配置错误所想到的 first appeared on 卡瓦邦噶！.]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Django下防御Race Condition漏洞]]></title>
         <id>https://www.leavesongs.com/PENETRATION/django-race-condition-defense.html</id>

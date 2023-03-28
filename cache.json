@@ -76,18 +76,7 @@
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "https://manjusaka.blog/atom.xml",
-      "articles": [
-        {
-          "id": "https://manjusaka.blog/posts/2023/03/12/a-simple-introduction-about-iac/",
-          "author": null,
-          "description": "<p>实际上 IaC 这个概念的出现已经很久了，所以写篇水文来简单聊聊 IaC 的过去，现在，和将来</p>",
-          "link": "https://manjusaka.blog/posts/2023/03/12/a-simple-introduction-about-iac/",
-          "publishedOn": "2023-03-12T13:00:00.000Z",
-          "wordCount": 1274,
-          "title": "简单聊聊 IaC：Infrastructure as Code",
-          "imageUrl": "https://manjusaka.blog/img/og_image.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "laike9m's blog",

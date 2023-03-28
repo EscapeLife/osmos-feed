@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-03-27T00:45:11.518Z</updated>
+    <updated>2023-03-28T00:49:48.155Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -181,16 +181,6 @@ The post 由一个子网掩码配置错误所想到的 first appeared on 卡瓦�
         <summary type="html"><![CDATA[今天下午在v2ex上看到一个帖子，讲述自己因为忘记加分布式锁导致了公司的损失。本文以此为题，介绍一下在Django下如何正确测试与修复Race Condition问题。]]></summary>
         <author>
             <name>phithon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[简单聊聊 IaC：Infrastructure as Code]]></title>
-        <id>https://manjusaka.blog/posts/2023/03/12/a-simple-introduction-about-iac/</id>
-        <link href="https://manjusaka.blog/posts/2023/03/12/a-simple-introduction-about-iac/"/>
-        <updated>2023-03-12T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>实际上 IaC 这个概念的出现已经很久了，所以写篇水文来简单聊聊 IaC 的过去，现在，和将来</p>]]></summary>
-        <author>
-            <name>Manjusaka</name>
         </author>
     </entry>
     <entry>

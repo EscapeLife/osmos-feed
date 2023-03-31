@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-03-30T00:48:24.309Z</updated>
+    <updated>2023-03-31T00:49:49.785Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[�� ID hash ӳ�������]]></title>
+        <id>https://blog.codingnow.com/2023/03/short_id_hash.html</id>
+        <link href="https://blog.codingnow.com/2023/03/short_id_hash.html"/>
+        <updated>2023-03-30T06:24:01.000Z</updated>
+        <summary type="html"><![CDATA[��������һ�����⣬���ú���Ȥ�������뷢�����أ�����һ���仰˵���塣����дһƪ blog ��¼һ�¡� �������ڿ�������Ϸ�У�����һ�� id ����ʾһ����Ϸ���󵽵���ʲô�����磬����Ƭ�� �� 1 ����ú�� �� 2 �����ɿ���� �� 3 ���� ������������ʱ��C ������Ը��ݶ�������ͷ���Ĳ�ѯ��������ԡ������������������ Lua ���úã��������ڲ���ġ�����ÿȼ��һ����λ�ġ�ú�������Բ��� 100KJ ��������һ�䡰��Ƭ���� 100 ���� Ϊ���� C �� Lua ����ٹ�����Щ�������ݣ��һ�ר��д��һ�� cache ģ�� �� ������� ID �ĳ־û��ϡ���Ϊ��Ϸ�е���Ʒ���ಢ�����ر�࣬����ʱ���Լ��ռ����ܵĿ������Ұ� ID ���Ϊ 16bits ��64K ����Ʒ��������޿������㹻�ˡ��� ID...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[����ѧϰ������]]></title>
         <id>https://blog.codingnow.com/2023/03/cnn.html</id>

@@ -47,7 +47,18 @@
       "title": "Tinyfool的个人网站",
       "feedUrl": "http://feeds.feedburner.com/Tinyfoolblog",
       "siteUrl": "https://codechina.org/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://codechina.org/?p=29111",
+          "author": "tinyfool",
+          "description": "最近有一个新闻，是说有1000多名精英，包括马斯克美国精英签名呼吁所有的人工智能实验室立即暂停比GPT-4更强 […]\n伊隆马斯克等1000多名精英签名呼吁暂停AI的发展，到底是怎么回事儿？最先出现在Tinyfool的个人网站。",
+          "link": "https://codechina.org/2023/04/chatgpt-letter/",
+          "publishedOn": "2023-04-01T17:56:38.000Z",
+          "wordCount": 1294,
+          "title": "伊隆马斯克等1000多名精英签名呼吁暂停AI的发展，到底是怎么回事儿？",
+          "imageUrl": "https://codechina.org/wp-content/uploads/2023/04/tinyfoolus_stop_the_Terminator_robot_a0e6a022-1c74-49eb-aa08-518ff876a6f0的副本.png"
+        }
+      ]
     },
     {
       "title": "ChangeLog of KDr2.com",
@@ -60,6 +71,16 @@
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
+        {
+          "id": "https://www.kawabangga.com/?p=4983",
+          "author": "laixintao",
+          "description": "最近因为遇到了一个和 MSS 有关的问题，所以花了很多时间学习相关的东西。过程中又发现网上有很多相关的内容是错 […]\nContinue reading...\nThe post 有关 MTU 和 MSS 的一切 first appeared on 卡瓦邦噶！.",
+          "link": "https://www.kawabangga.com/posts/4983",
+          "publishedOn": "2023-04-01T10:23:04.000Z",
+          "wordCount": 1982,
+          "title": "有关 MTU 和 MSS 的一切",
+          "imageUrl": null
+        },
         {
           "id": "https://www.kawabangga.com/?p=4960",
           "author": "laixintao",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-04-03T00:44:59.034Z</updated>
+    <updated>2023-04-04T00:45:28.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -192,28 +192,6 @@ Write a Python program, it accepts an URL address url from command line input, t
 此外，编程语言也在变得越来越易用。经典的 …]]></summary>
         <author>
             <name>piglei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[由一个子网掩码配置错误所想到的]]></title>
-        <id>https://www.kawabangga.com/?p=4960</id>
-        <link href="https://www.kawabangga.com/posts/4960"/>
-        <updated>2023-03-20T11:41:56.000Z</updated>
-        <summary type="html"><![CDATA[今天线上发现了一个机器的子网掩码配置错了，其实问题比较简单，一开始没有想到会是这个问题，想了好久才想到这里。  […]
-Continue reading...
-The post 由一个子网掩码配置错误所想到的 first appeared on 卡瓦邦噶！.]]></summary>
-        <author>
-            <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Django下防御Race Condition漏洞]]></title>
-        <id>https://www.leavesongs.com/PENETRATION/django-race-condition-defense.html</id>
-        <link href="https://www.leavesongs.com/PENETRATION/django-race-condition-defense.html"/>
-        <updated>2023-03-19T15:54:00.000Z</updated>
-        <summary type="html"><![CDATA[今天下午在v2ex上看到一个帖子，讲述自己因为忘记加分布式锁导致了公司的损失。本文以此为题，介绍一下在Django下如何正确测试与修复Race Condition问题。]]></summary>
-        <author>
-            <name>phithon</name>
         </author>
     </entry>
     <entry>

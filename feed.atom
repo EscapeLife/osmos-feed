@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-04-10T00:44:34.189Z</updated>
+    <updated>2023-04-11T00:45:26.259Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[不鸡血，不躺平，永远向前，保持松弛感]]></title>
+        <id>https://codechina.org/?p=29329</id>
+        <link href="https://codechina.org/2023/04/songchi/"/>
+        <updated>2023-04-10T03:23:36.000Z</updated>
+        <summary type="html"><![CDATA[2016年9月20日，我生平第一本书出版了，名字叫做《技巧——如何用一年时间获得十年的经验》。购买链接我就不列 […]
+不鸡血，不躺平，永远向前，保持松弛感最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Go 的几种函数传参模式]]></title>
         <id>https://www.piglei.com/articles/go-func-argument-patterns/</id>

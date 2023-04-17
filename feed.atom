@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-04-16T00:47:22.515Z</updated>
+    <updated>2023-04-17T00:46:36.226Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[随便写点]]></title>
+        <id>https://laike9m.com/blog/sui-bian-xie-dian,146/</id>
+        <link href="https://laike9m.com/blog/sui-bian-xie-dian,146/"/>
+        <updated>2023-04-16T20:39:43.000Z</updated>
+        <summary type="html"><![CDATA[没有简介, 请去看原文吧]]></summary>
+        <author>
+            <name>laike9m's blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聊聊GPT-4的改变和多模态的价值，以及对开发者的意义]]></title>
+        <id>https://codechina.org/?p=29486</id>
+        <link href="https://codechina.org/2023/04/gpt-4/"/>
+        <updated>2023-04-16T04:36:40.000Z</updated>
+        <summary type="html"><![CDATA[今天跟大家聊一聊刚刚出来的 GPT-4，也可以理解成是 ChatGPT 的最新背后的引擎。那么今天我的聊的主要 […]
+聊聊GPT-4的改变和多模态的价值，以及对开发者的意义最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[写在上海封城一年之后]]></title>
+        <id>https://blog.k8s.li/One-Year-After-the-Lockdown-in-Shanghai.html</id>
+        <link href="https://blog.k8s.li/One-Year-After-the-Lockdown-in-Shanghai.html"/>
+        <updated>2023-04-15T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>时代的一粒灰尘落在个人身上就是一座山，不幸的是：我们偏偏却]]></summary>
+        <author>
+            <name>Reimu's blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[春天快乐]]></title>
         <id>https://greyli.com/?p=5096</id>
@@ -180,17 +211,6 @@ Write a Python program, it accepts an URL address url from command line input, t
 此外，编程语言也在变得越来越易用。经典的 …]]></summary>
         <author>
             <name>piglei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊隆马斯克等1000多名精英签名呼吁暂停AI的发展，到底是怎么回事儿？]]></title>
-        <id>https://codechina.org/?p=29111</id>
-        <link href="https://codechina.org/2023/04/chatgpt-letter/"/>
-        <updated>2023-04-01T17:56:38.000Z</updated>
-        <summary type="html"><![CDATA[最近有一个新闻，是说有1000多名精英，包括马斯克美国精英签名呼吁所有的人工智能实验室立即暂停比GPT-4更强 […]
-伊隆马斯克等1000多名精英签名呼吁暂停AI的发展，到底是怎么回事儿？最先出现在Tinyfool的个人网站。]]></summary>
-        <author>
-            <name>tinyfool</name>
         </author>
     </entry>
     <entry>

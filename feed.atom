@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-04-17T00:46:36.226Z</updated>
+    <updated>2023-04-18T00:44:07.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[�������һЩ��Ϸ]]></title>
+        <id>https://blog.codingnow.com/2023/04/recent_games.html</id>
+        <link href="https://blog.codingnow.com/2023/04/recent_games.html"/>
+        <updated>2023-04-17T05:37:53.000Z</updated>
+        <summary type="html"><![CDATA[�������ڿ���һ������ Factorio ����Ϸ �����޽��Զ�������Ϊ��Ҫ��㡣����Ϸ�����ӽ�����ֳ�����ԣ����һ���������൱���������Ƶ����Ϸ��ϣ���ܵõ�һЩ������ �����������Ի���ֳ��Ϊ���������Ϸ�Ҹ��˺�ϲ����ֵ���Ƽ�һ�£� ��һ�� Farlanders �����ػ��Ļ���ܸ��ţ��ܶ��ҵ�θ�ڡ���Ϸ�ǻغ��Ƶģ�����ܿ졣���п����ҵ��������ε�Ԫ�ء����յ��ı��θ��ӵ�ͼ�����θ��죬���������ߡ�ˮ�ܣ���Щ����Ҫ��Ҿ��Ĳ��֡� ���������ģʽ�Ļ������ڻ�ƫ�򵥣��е���Ȥ���������Ĺ���ģʽ���Ѷȵ����൱�á����ѡ���ѣ��Ҿ��ÿ�������Χ������Ѷ������ģ������˵� 6 �ؾͺ���һ�ι����ˡ� btw, ���������Ϸ�л�ѧ����һ����������ϵķ��������ַ��� �˵���һ����ť�ǲ�ϣ����������ģ���Ϊ���ܻ�ɾ����������һ��������ǰ���֮���ٵ���һ��ģʽ�Ի������ȷ�ϣ�Ҳ�����������ְ�ť��Ҫ����һ��ʱ�����ȷ�ϡ� �������Ϸ�������ǰ��������ť���ڰ�ť���Ҳ��ٳ���һ���µİ�ť�������л���һ�������������Ҫ�ƶ����ȥ�������µĹ�����ť�����ִ�иò�����û�����������˵�����֡��������������Ҿ��ú���������ҷǳ��ʺ����ֻ���ʵ�֡�...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[随便写点]]></title>
         <id>https://laike9m.com/blog/sui-bian-xie-dian,146/</id>

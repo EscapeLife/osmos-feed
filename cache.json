@@ -80,7 +80,18 @@
       "title": "卡瓦邦噶！",
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.kawabangga.com/?p=5025",
+          "author": "laixintao",
+          "description": "旅行的轨迹一直在往南走，不断突破“去过的最南边”，从上海，到杭州，厦门，广州，新加坡，最近去了巴厘岛，第一次约 […]\nContinue reading...\nThe post 去南半球的海岛 first appeared on 卡瓦邦噶！.",
+          "link": "https://www.kawabangga.com/posts/5025",
+          "publishedOn": "2023-04-19T12:55:13.000Z",
+          "wordCount": 960,
+          "title": "去南半球的海岛",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Manjusaka",
@@ -253,6 +264,16 @@
       "feedUrl": "https://blog.k8s.li/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://blog.k8s.li/buildkit-on-kubernetes.html",
+          "author": null,
+          "description": "<p>去年曾写过一篇介绍如何使用 docker in pod",
+          "link": "https://blog.k8s.li/buildkit-on-kubernetes.html",
+          "publishedOn": "2023-04-19T16:00:00.000Z",
+          "wordCount": 1831,
+          "title": "使用 BuildKit on Kubernetes 构建多架构容器镜像",
+          "imageUrl": "https://p.k8s.li/2023-04-20-build-open-vm-tools.png"
+        },
         {
           "id": "https://blog.k8s.li/One-Year-After-the-Lockdown-in-Shanghai.html",
           "author": null,

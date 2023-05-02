@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-05-01T00:49:40.645Z</updated>
+    <updated>2023-05-02T00:46:01.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[��һ�μ��ѵ� debug ����]]></title>
+        <id>https://blog.codingnow.com/2023/05/debug.html</id>
+        <link href="https://blog.codingnow.com/2023/05/debug.html"/>
+        <updated>2023-05-01T03:28:52.000Z</updated>
+        <summary type="html"><![CDATA[��һǰ����������һ���ǳ��Ѳ��� bug ��ǰ��������ʱ��Ű�������������̶ȣ�����������ְҵ���ĵ�ǰ�����ǳ�ֵ�ü�¼һ�¡� ���ⷢ���ڽ�ǰ���죬�ܶ�ͬ�¶����˼٣���Ҳ����ú���Ϣһ�£��㺢���漸�졣���������и�����Ϸ��Ŀ�Ĳֿ��ͻȻ���ֳ�������ˡ�һ��ʼ���Ҳ�����Ϊ�⡣��Ϊ���ǵ���Ϸ���� Lua Ϊ�������ģ�������Ҫ�ڸ��º����±��롣�Ҵ�Լһ�ܲŻṹ��һ����Ŀ��������ֻ����Ϊ��̫��û�� build �ˣ����������ֹ�����һ�¡���������Ȼ���ڣ�ֻ���������ĸ���ƫ�ͣ���Լ����������һ�λ�����⡣�ⲻѰ������Ϊ���Ѿ��ܾ�û���� Segmentation fault �ˡ�...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Go 的几种函数传参模式]]></title>
         <id>https://www.piglei.com/articles/go-func-argument-patterns/</id>
@@ -171,26 +181,6 @@ Continue reading...
 The post 去南半球的海岛 first appeared on 卡瓦邦噶！.]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[�������һЩ��Ϸ]]></title>
-        <id>https://blog.codingnow.com/2023/04/recent_games.html</id>
-        <link href="https://blog.codingnow.com/2023/04/recent_games.html"/>
-        <updated>2023-04-17T05:37:53.000Z</updated>
-        <summary type="html"><![CDATA[�������ڿ���һ������ Factorio ����Ϸ �����޽��Զ�������Ϊ��Ҫ��㡣����Ϸ�����ӽ�����ֳ�����ԣ����һ���������൱���������Ƶ����Ϸ��ϣ���ܵõ�һЩ������ �����������Ի���ֳ��Ϊ���������Ϸ�Ҹ��˺�ϲ����ֵ���Ƽ�һ�£� ��һ�� Farlanders �����ػ��Ļ���ܸ��ţ��ܶ��ҵ�θ�ڡ���Ϸ�ǻغ��Ƶģ�����ܿ졣���п����ҵ��������ε�Ԫ�ء����յ��ı��θ��ӵ�ͼ�����θ��죬���������ߡ�ˮ�ܣ���Щ����Ҫ��Ҿ��Ĳ��֡� ���������ģʽ�Ļ������ڻ�ƫ�򵥣��е���Ȥ���������Ĺ���ģʽ���Ѷȵ����൱�á����ѡ���ѣ��Ҿ��ÿ�������Χ������Ѷ������ģ������˵� 6 �ؾͺ���һ�ι����ˡ� btw, ���������Ϸ�л�ѧ����һ����������ϵķ��������ַ��� �˵���һ����ť�ǲ�ϣ����������ģ���Ϊ���ܻ�ɾ����������һ��������ǰ���֮���ٵ���һ��ģʽ�Ի������ȷ�ϣ�Ҳ�����������ְ�ť��Ҫ����һ��ʱ�����ȷ�ϡ� �������Ϸ�������ǰ��������ť���ڰ�ť���Ҳ��ٳ���һ���µİ�ť�������л���һ�������������Ҫ�ƶ����ȥ�������µĹ�����ť�����ִ�иò�����û�����������˵�����֡��������������Ҿ��ú���������ҷǳ��ʺ����ֻ���ʵ�֡�...]]></summary>
-        <author>
-            <name>�Ʒ�� BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[随便写点]]></title>
-        <id>https://laike9m.com/blog/sui-bian-xie-dian,146/</id>
-        <link href="https://laike9m.com/blog/sui-bian-xie-dian,146/"/>
-        <updated>2023-04-16T20:39:43.000Z</updated>
-        <summary type="html"><![CDATA[没有简介, 请去看原文吧]]></summary>
-        <author>
-            <name>laike9m's blog</name>
         </author>
     </entry>
     <entry>

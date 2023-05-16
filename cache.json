@@ -70,7 +70,18 @@
       "title": "卡瓦邦噶！",
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.kawabangga.com/?p=5068",
+          "author": "laixintao",
+          "description": "今天听闻陈皓去世了，心情救救不能平静。周末的时候我还在看他在 Twitter 分享的一个观点，居然这一条就成了 […]\nContinue reading...\nThe post 缅怀陈皓 first appeared on 卡瓦邦噶！.\n\n相关文章:\n\nTwitter机器人：今年还要工作多少天？\nSRE&Devops 每周分享 Issue #6 Closing\n欧格玛教会与言论自由\nSide Project 成本最小化运行\nGolang 的 Channel 是一种免费的无锁实现吗？",
+          "link": "https://www.kawabangga.com/posts/5068",
+          "publishedOn": "2023-05-15T12:19:23.000Z",
+          "wordCount": 801,
+          "title": "缅怀陈皓",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Manjusaka",
@@ -82,7 +93,18 @@
       "title": "laike9m's blog",
       "feedUrl": "https://laike9m.com/blog/rss",
       "siteUrl": "https://laike9m.com/blog/rss",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://laike9m.com/blog/rip-chen-hao,147/",
+          "author": null,
+          "description": "没有简介, 请去看原文吧",
+          "link": "https://laike9m.com/blog/rip-chen-hao,147/",
+          "publishedOn": "2023-05-15T07:42:17.000Z",
+          "wordCount": 442,
+          "title": "R.I.P. 陈皓",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Frost's Blog",
@@ -114,13 +136,13 @@
       "siteUrl": "https://blog.codingnow.com/",
       "articles": [
         {
-          "id": "https://blog.codingnow.com/2023/05/debug.html",
+          "id": "https://blog.codingnow.com/2023/05/boardgame.html",
           "author": null,
-          "description": "��һǰ����������һ���ǳ��Ѳ��� bug ��ǰ��������ʱ��Ű�������������̶ȣ�����������ְҵ���ĵ�ǰ�����ǳ�ֵ�ü�¼һ�¡� ���ⷢ���ڽ�ǰ���죬�ܶ�ͬ�¶����˼٣���Ҳ����ú���Ϣһ�£��㺢���漸�졣���������и�����Ϸ��Ŀ�Ĳֿ��ͻȻ���ֳ�������ˡ�һ��ʼ���Ҳ�����Ϊ�⡣��Ϊ���ǵ���Ϸ���� Lua Ϊ�������ģ�������Ҫ�ڸ��º����±��롣�Ҵ�Լһ�ܲŻṹ��һ����Ŀ��������ֻ����Ϊ��̫��û�� build �ˣ����������ֹ�����һ�¡���������Ȼ���ڣ�ֻ���������ĸ���ƫ�ͣ���Լ����������һ�λ�����⡣�ⲻѰ������Ϊ���Ѿ��ܾ�û���� Segmentation fault �ˡ�...",
-          "link": "https://blog.codingnow.com/2023/05/debug.html",
-          "publishedOn": "2023-05-01T03:28:52.000Z",
-          "wordCount": 746,
-          "title": "��һ�μ��ѵ� debug ����",
+          "description": "������ͬѧ�������� �����ԣ����������ȥ�����ⷽ����ʲô��չ������Ӧ�ò�����ôһƪ�� ������꣬��Ϊ�����Ե�ʣ��ڼҵ�ʱ��Ƚϳ�������Ҳ�����˲��٣��ܿ������ζ������ࡣ�����ڼ�������������������������ˣ����ڼҼ���ÿ�ܶ��Ὺ�����ĴΡ� �ƶ����Ͼ����ˣ��ɿ�Ҳ�Ѿ�����롣��������ϲ���Ѿ�����������������һ��������β��࣬һ���Ҷ��Ƿֿ�������棬�򵥶��������档������һ����Ϸ���һ����ĺܶ࣬�Ǿ��� Splendor ����ʯ���ˣ��� �����Ϸ�����̱�ע���� 10 ��+ ���� bgg ���û�ͶƱ�� 8 ��+ �Ӷ࣬�Ҹо�Ҳ�ǡ�7��8 ���������ȫ���Գ��������Ϸ�����ƶ����ֹ滮���ɿɲ��� 6 ����Ҳ���棬������ͱȽ�С��������������޷����˼������Ӯ����Ϸ����������ʤ���ĺ�����ÿ������������ҿ��⣺�����Ϸ���Ӯ����ν�ġ�...",
+          "link": "https://blog.codingnow.com/2023/05/boardgame.html",
+          "publishedOn": "2023-05-15T06:55:43.000Z",
+          "wordCount": 217,
+          "title": "���������εĵڶ�ƪ",
           "imageUrl": null
         }
       ]

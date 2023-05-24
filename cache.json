@@ -6,6 +6,16 @@
       "siteUrl": "https://www.escapelife.site/atom.xml",
       "articles": [
         {
+          "id": "https://www.escapelife.site/posts/fb888844.html",
+          "author": null,
+          "description": "<blockquote>\n<p><strong>目的：为不同的仓库使用不用的 SSH 私钥！做到互不打扰且安全</strong></p>\n</blockquote>\n<p>除了主要作为版本控制工具外，<code>Git</code>",
+          "link": "https://www.escapelife.site/posts/fb888844.html",
+          "publishedOn": "2023-05-23T02:23:50.000Z",
+          "wordCount": 1277,
+          "title": "Git拉代码指定私钥位置",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.escapelife.site/posts/98522ff1.html",
           "author": null,
           "description": "<blockquote>\n<p><strong>本书是吉娅从一个普通的小孩子到理财小魔法师的实操指南。</strong></p>\n</blockquote>\n<p>前段时间身体不好，导致去医院住院了一周，并没有很大的问题，但是需要调整生活和作息，所幸有时间可以读读之前买的书。《小",
@@ -52,7 +62,18 @@
       "title": "MacTalk-池建强的随想录",
       "feedUrl": "https://macshuo.com/?feed=rss2",
       "siteUrl": "https://macshuo.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://macshuo.com/?p=1889",
+          "author": "MacTalk",
+          "description": "AI 绘图软件 Midjourney 算是这波 AIGC 浪潮中的佼佼者。最近我 … Continue reading →",
+          "link": "https://macshuo.com/?p=1889",
+          "publishedOn": "2023-05-23T05:31:02.000Z",
+          "wordCount": 737,
+          "title": "伟大的公司需要多少人",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Tinyfool的个人网站",
@@ -71,6 +92,16 @@
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
+        {
+          "id": "https://www.kawabangga.com/?p=5085",
+          "author": "laixintao",
+          "description": "之前写过一个服务发现系统，叫做 prometheus-http-sd，给 Prometheus 查找监控的目标 […]\nContinue reading...\nThe post 一个十万行的 trackback first appeared on 卡瓦邦噶！.\n\n相关文章:\n\nPrometheus HTTP SD 框架\n《Prometheus Up & Running》阅读\n没来的请举手\n用 PromQL 计算 SLI 和 SLO\nP99 是如何计算的",
+          "link": "https://www.kawabangga.com/posts/5085",
+          "publishedOn": "2023-05-22T12:39:27.000Z",
+          "wordCount": 1638,
+          "title": "一个十万行的 trackback",
+          "imageUrl": null
+        },
         {
           "id": "https://www.kawabangga.com/?p=5068",
           "author": "laixintao",

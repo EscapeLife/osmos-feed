@@ -101,16 +101,6 @@
           "wordCount": 1638,
           "title": "一个十万行的 trackback",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=5068",
-          "author": "laixintao",
-          "description": "今天听闻陈皓去世了，心情救救不能平静。周末的时候我还在看他在 Twitter 分享的一个观点，居然这一条就成了 […]\nContinue reading...\nThe post 缅怀陈皓 first appeared on 卡瓦邦噶！.\n\n相关文章:\n\nTwitter机器人：今年还要工作多少天？\nSRE&Devops 每周分享 Issue #6 Closing\n欧格玛教会与言论自由\nSide Project 成本最小化运行\nGolang 的 Channel 是一种免费的无锁实现吗？",
-          "link": "https://www.kawabangga.com/posts/5068",
-          "publishedOn": "2023-05-15T12:19:23.000Z",
-          "wordCount": 801,
-          "title": "缅怀陈皓",
-          "imageUrl": null
         }
       ]
     },
@@ -133,16 +123,6 @@
           "publishedOn": "2023-05-21T19:44:08.000Z",
           "wordCount": 387,
           "title": "我想怎样做个人产品",
-          "imageUrl": null
-        },
-        {
-          "id": "https://laike9m.com/blog/rip-chen-hao,147/",
-          "author": null,
-          "description": "没有简介, 请去看原文吧",
-          "link": "https://laike9m.com/blog/rip-chen-hao,147/",
-          "publishedOn": "2023-05-15T07:42:17.000Z",
-          "wordCount": 442,
-          "title": "R.I.P. 陈皓",
           "imageUrl": null
         }
       ]
@@ -177,13 +157,13 @@
       "siteUrl": "https://blog.codingnow.com/",
       "articles": [
         {
-          "id": "https://blog.codingnow.com/2023/05/boardgame.html",
+          "id": "https://blog.codingnow.com/2023/05/apple_watch.html",
           "author": null,
-          "description": "������ͬѧ�������� �����ԣ����������ȥ�����ⷽ����ʲô��չ������Ӧ�ò�����ôһƪ�� ������꣬��Ϊ�����Ե�ʣ��ڼҵ�ʱ��Ƚϳ�������Ҳ�����˲��٣��ܿ������ζ������ࡣ�����ڼ�������������������������ˣ����ڼҼ���ÿ�ܶ��Ὺ�����ĴΡ� �ƶ����Ͼ����ˣ��ɿ�Ҳ�Ѿ�����롣��������ϲ���Ѿ�����������������һ��������β��࣬һ���Ҷ��Ƿֿ�������棬�򵥶��������档������һ����Ϸ���һ����ĺܶ࣬�Ǿ��� Splendor ����ʯ���ˣ��� �����Ϸ�����̱�ע���� 10 ��+ ���� bgg ���û�ͶƱ�� 8 ��+ �Ӷ࣬�Ҹо�Ҳ�ǡ�7��8 ���������ȫ���Գ��������Ϸ�����ƶ����ֹ滮���ɿɲ��� 6 ����Ҳ���棬������ͱȽ�С��������������޷����˼������Ӯ����Ϸ����������ʤ���ĺ�����ÿ������������ҿ��⣺�����Ϸ���Ӯ����ν�ġ�...",
-          "link": "https://blog.codingnow.com/2023/05/boardgame.html",
-          "publishedOn": "2023-05-15T06:55:43.000Z",
-          "wordCount": 217,
-          "title": "���������εĵڶ�ƪ",
+          "description": "�ƶ���Ҫһ��绰�ֱ������˽⵽���ڵ�С�������С��Ŷ�ͯ�ֱ��������ǵ��ƶ���ʵû��ʲô�罻�������Լ�Ҳ��һ�� apple watch �����������Ը�����һ�顣������뷨�ǣ���ͯ�ֱ�����������޾Ͳ�Ը����ˣ��� apple watch ��ϵ�У������õ����ꡣ���ƺ� apple �ƺ�ҲԸ������ͯ�г������� apple watch �м���ʹ�õ�ģʽ���������ԡ� ���������϶����� apple watch se ���ˡ��Ҹ���������һ��ƻ���Ķ�ͯ�˺ţ���˳���ľ����ú����ֱ�������������֮��ͱ�Ȱ�ˡ�apple watch �ļ���ģʽ�����ϴ���ۿۣ��ֱ���ʵ���ǹ������˺��µģ������϶����һ����ͯ�˺š��⵼�³���ƻ���ٷ�Ĭ�� app ֮�⣬�������е� app �����ܰ�װ������΢��֧������Щ�����˴�绰�����õ�ͨѶ��ֻʣ�� iMessage ����С������ûʲô�á��������ֱ���װ����ͨ��Ҳδ�ܳɹ�����Ϊ���䲻����ƻ��Ҫ�� 14 ���꣩��������Ǯ�������ӿ�Ƭ��ƻ����������һ�£���ͯ�˺ŵ�֧������ֻ���������ܿ���...",
+          "link": "https://blog.codingnow.com/2023/05/apple_watch.html",
+          "publishedOn": "2023-05-29T05:05:37.000Z",
+          "wordCount": 271,
+          "title": "Apple watch ���ڼ�",
           "imageUrl": null
         }
       ]
@@ -249,7 +229,18 @@
       "title": "静觅",
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://cuiqingcai.com/36066.html",
+          "author": null,
+          "description": "<p>许多朋友问我有没有好用的海外代理。说实话，真的好用的并不多。</p>\n<p>最近我了解到了一家还不错的海外代理，叫做 IPIDEA，我已经使用了一段时间了，觉得质量挺不错。</p>\n<p>你可能知道，我最近在进行一些ChatGPT相关的研究，由于各种原因，我需要大量的海外代",
+          "link": "https://cuiqingcai.com/36066.html",
+          "publishedOn": "2023-05-29T14:54:53.000Z",
+          "wordCount": 1231,
+          "title": "分享一个稳定好用的国外代理",
+          "imageUrl": "https://qiniu.cuiqingcai.com/2j10gy.png"
+        }
+      ]
     },
     {
       "title": "咸糖 - 自律者自由",

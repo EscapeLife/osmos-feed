@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-05-31T00:53:42.245Z</updated>
+    <updated>2023-06-01T01:03:23.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[去印尼爬火山 (Mt.Rinjani)]]></title>
+        <id>https://www.kawabangga.com/?p=5095</id>
+        <link href="https://www.kawabangga.com/posts/5095"/>
+        <updated>2023-05-31T15:49:34.000Z</updated>
+        <summary type="html"><![CDATA[上回书说到，旅行刷新了去过的最南端。上周又去了印尼，这次去刷新了去过的最高点。我们去 Lombok 爬了 Ri […]
+Continue reading...
+The post 去印尼爬火山 (Mt.Rinjani) first appeared on 卡瓦邦噶！.]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FanimeCon 2023]]></title>
         <id>https://laike9m.com/blog/fanimecon-2023,149/</id>
@@ -234,19 +246,6 @@ P99 是如何计算的]]></summary>
         <summary type="html"><![CDATA[没有简介, 请去看原文吧]]></summary>
         <author>
             <name>laike9m's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《小狗钱钱》读书笔记]]></title>
-        <id>https://www.escapelife.site/posts/98522ff1.html</id>
-        <link href="https://www.escapelife.site/posts/98522ff1.html"/>
-        <updated>2023-05-17T02:39:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p><strong>本书是吉娅从一个普通的小孩子到理财小魔法师的实操指南。</strong></p>
-</blockquote>
-<p>前段时间身体不好，导致去医院住院了一周，并没有很大的问题，但是需要调整生活和作息，所幸有时间可以读读之前买的书。《小]]></summary>
-        <author>
-            <name>Escape</name>
         </author>
     </entry>
     <entry>

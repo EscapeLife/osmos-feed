@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-06-02T00:53:57.455Z</updated>
+    <updated>2023-06-03T00:52:47.976Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[���� ECS ��һЩ�Ż�]]></title>
+        <id>https://blog.codingnow.com/2023/06/optimize_ecs.html</id>
+        <link href="https://blog.codingnow.com/2023/06/optimize_ecs.html"/>
+        <updated>2023-06-02T03:23:16.000Z</updated>
+        <summary type="html"><![CDATA[������Ż����ǵ� 3d engine ���������Ⱦ����������ǻ��� ECS ��ܣ�������������� Lua ��ƺ͹�����Ҳ����˵����Ⱦ���ֵ����ݶ�����ͨ�� Lua ��д�����ǣ����ں�����Ⱦѭ����Lua ���������ޣ�����Ҫ��Ⱦ�Ķ���ܶ�ʱ��֮ǰ�� Lua ��д��ѭ���������������¶������ Ϊ�ˣ����Ǻ��������� luaecs�������ݷ��� C �ṹ�У������� Lua ���ʵĽӿڡ������ͷ����˳���ʹ�� Lua ���ٿ�����������Ժ���ѭ���� C �ع��Ż����������ʱ�����ǰ���Ⱦ����ϵͳ�� C �ع���һ�飬����������������⡣...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[去印尼爬火山 (Mt.Rinjani)]]></title>
         <id>https://www.kawabangga.com/?p=5095</id>

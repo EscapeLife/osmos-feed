@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-06-03T00:52:47.976Z</updated>
+    <updated>2023-06-04T01:01:12.658Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[离开豆瓣，使用 NeoDB]]></title>
+        <id>https://laike9m.com/blog/chi-kai-dou-ban-shi-yong-neodb,150/</id>
+        <link href="https://laike9m.com/blog/chi-kai-dou-ban-shi-yong-neodb,150/"/>
+        <updated>2023-06-04T00:26:35.000Z</updated>
+        <summary type="html"><![CDATA[没有简介, 请去看原文吧]]></summary>
+        <author>
+            <name>laike9m's blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[���� ECS ��һЩ�Ż�]]></title>
         <id>https://blog.codingnow.com/2023/06/optimize_ecs.html</id>

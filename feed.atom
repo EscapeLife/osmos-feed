@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-06-05T00:54:05.329Z</updated>
+    <updated>2023-06-06T00:54:49.053Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[可以生成你的墨问名片了]]></title>
+        <id>https://macshuo.com/?p=1894</id>
+        <link href="https://macshuo.com/?p=1894"/>
+        <updated>2023-06-05T08:59:32.000Z</updated>
+        <summary type="html"><![CDATA[这个功能其实在做墨问个人主页的时候就规划了，想做个完善的方案，需要不少功夫。那订 … Continue reading →]]></summary>
+        <author>
+            <name>MacTalk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[离开豆瓣，使用 NeoDB]]></title>
         <id>https://laike9m.com/blog/chi-kai-dou-ban-shi-yong-neodb,150/</id>
@@ -236,36 +246,6 @@ Write a Python program, it accepts an URL address url from command line input, t
 <p>除了主要作为版本控制工具外，<code>Git</code>]]></summary>
         <author>
             <name>Escape</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个十万行的 trackback]]></title>
-        <id>https://www.kawabangga.com/?p=5085</id>
-        <link href="https://www.kawabangga.com/posts/5085"/>
-        <updated>2023-05-22T12:39:27.000Z</updated>
-        <summary type="html"><![CDATA[之前写过一个服务发现系统，叫做 prometheus-http-sd，给 Prometheus 查找监控的目标 […]
-Continue reading...
-The post 一个十万行的 trackback first appeared on 卡瓦邦噶！.
-
-相关文章:
-
-Prometheus HTTP SD 框架
-《Prometheus Up & Running》阅读
-没来的请举手
-用 PromQL 计算 SLI 和 SLO
-P99 是如何计算的]]></summary>
-        <author>
-            <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我想怎样做个人产品]]></title>
-        <id>https://laike9m.com/blog/wo-xiang-zen-yang-zuo-ge-ren-chan-pin,148/</id>
-        <link href="https://laike9m.com/blog/wo-xiang-zen-yang-zuo-ge-ren-chan-pin,148/"/>
-        <updated>2023-05-21T19:44:08.000Z</updated>
-        <summary type="html"><![CDATA[没有简介, 请去看原文吧]]></summary>
-        <author>
-            <name>laike9m's blog</name>
         </author>
     </entry>
     <entry>

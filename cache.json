@@ -4,18 +4,7 @@
       "title": "Escape",
       "feedUrl": "https://www.escapelife.site/atom.xml",
       "siteUrl": "https://www.escapelife.site/atom.xml",
-      "articles": [
-        {
-          "id": "https://www.escapelife.site/posts/fb888844.html",
-          "author": null,
-          "description": "<blockquote>\n<p><strong>目的：为不同的仓库使用不用的 SSH 私钥！做到互不打扰且安全</strong></p>\n</blockquote>\n<p>除了主要作为版本控制工具外，<code>Git</code>",
-          "link": "https://www.escapelife.site/posts/fb888844.html",
-          "publishedOn": "2023-05-23T02:23:50.000Z",
-          "wordCount": 1277,
-          "title": "Git拉代码指定私钥位置",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "酷 壳 – CoolShell",
@@ -54,6 +43,16 @@
       "siteUrl": "https://macshuo.com",
       "articles": [
         {
+          "id": "https://macshuo.com/?p=1897",
+          "author": "MacTalk",
+          "description": "苹果公司一向特立独行，很少跟风热炒，当满世界都在炒AI、大模型、GPT 的时候， … Continue reading →",
+          "link": "https://macshuo.com/?p=1897",
+          "publishedOn": "2023-06-06T07:27:11.000Z",
+          "wordCount": 696,
+          "title": "我看 WWDC",
+          "imageUrl": null
+        },
+        {
           "id": "https://macshuo.com/?p=1894",
           "author": "MacTalk",
           "description": "这个功能其实在做墨问个人主页的时候就规划了，想做个完善的方案，需要不少功夫。那订 … Continue reading →",
@@ -61,16 +60,6 @@
           "publishedOn": "2023-06-05T08:59:32.000Z",
           "wordCount": 592,
           "title": "可以生成你的墨问名片了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://macshuo.com/?p=1889",
-          "author": "MacTalk",
-          "description": "AI 绘图软件 Midjourney 算是这波 AIGC 浪潮中的佼佼者。最近我 … Continue reading →",
-          "link": "https://macshuo.com/?p=1889",
-          "publishedOn": "2023-05-23T05:31:02.000Z",
-          "wordCount": 737,
-          "title": "伟大的公司需要多少人",
           "imageUrl": null
         }
       ]

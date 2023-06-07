@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-06-06T00:54:49.053Z</updated>
+    <updated>2023-06-07T00:55:46.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[我看 WWDC]]></title>
+        <id>https://macshuo.com/?p=1897</id>
+        <link href="https://macshuo.com/?p=1897"/>
+        <updated>2023-06-06T07:27:11.000Z</updated>
+        <summary type="html"><![CDATA[苹果公司一向特立独行，很少跟风热炒，当满世界都在炒AI、大模型、GPT 的时候， … Continue reading →]]></summary>
+        <author>
+            <name>MacTalk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[可以生成你的墨问名片了]]></title>
         <id>https://macshuo.com/?p=1894</id>
@@ -223,29 +233,6 @@ Write a Python program, it accepts an URL address url from command line input, t
 此外，编程语言也在变得越来越易用。经典的 …]]></summary>
         <author>
             <name>piglei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伟大的公司需要多少人]]></title>
-        <id>https://macshuo.com/?p=1889</id>
-        <link href="https://macshuo.com/?p=1889"/>
-        <updated>2023-05-23T05:31:02.000Z</updated>
-        <summary type="html"><![CDATA[AI 绘图软件 Midjourney 算是这波 AIGC 浪潮中的佼佼者。最近我 … Continue reading →]]></summary>
-        <author>
-            <name>MacTalk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git拉代码指定私钥位置]]></title>
-        <id>https://www.escapelife.site/posts/fb888844.html</id>
-        <link href="https://www.escapelife.site/posts/fb888844.html"/>
-        <updated>2023-05-23T02:23:50.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p><strong>目的：为不同的仓库使用不用的 SSH 私钥！做到互不打扰且安全</strong></p>
-</blockquote>
-<p>除了主要作为版本控制工具外，<code>Git</code>]]></summary>
-        <author>
-            <name>Escape</name>
         </author>
     </entry>
     <entry>

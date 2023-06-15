@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-06-14T00:51:40.734Z</updated>
+    <updated>2023-06-15T00:52:22.554Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[�����˵����淨]]></title>
+        <id>https://blog.codingnow.com/2023/06/oldmaid.html</id>
+        <link href="https://blog.codingnow.com/2023/06/oldmaid.html"/>
+        <updated>2023-06-14T02:44:53.000Z</updated>
+        <summary type="html"><![CDATA[֮ǰ�̺������˿��ƣ��ӳ��������֡������Ƕ���ϲ���� ����һ����ͳ��Ϸ���������� Old Maid�� ����ܼ򵥣����ǰ�һ�� 54 �ŵ��˿����г��һ������һ�� 8 �������������ƣ�������ƽ�������μӵ���ҡ�ÿ����ҽ��õ������гɶԵ��ƶ��ӵ������������ϵ�ȫ���ǵ��ơ�Ȼ��ÿ����ÿ���غϳ��¼�һ���ƣ�����ܺ��������е�����ԣ�����԰ѳɶԵ����ӵ����������ѳ鵽�Ŀ����������С��ȴ������Ƶ����ʤ����������Ϸ������һ��������Ͽ϶�������һ������һ�Űˣ���������Ҷ��������ơ� �����淨�ǳ��򵥻��֣�С����һѧ��ᡣ���Ҿ������������޼��ɿ��ԣ�����������ѹ���Ľ���һ�£������һ���ǳ���������������Ϸ��...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Go 的几种函数传参模式]]></title>
         <id>https://www.piglei.com/articles/go-func-argument-patterns/</id>

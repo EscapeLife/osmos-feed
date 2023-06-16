@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-06-15T00:52:22.554Z</updated>
+    <updated>2023-06-16T00:52:39.290Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -230,18 +230,6 @@ SRE&Devops 每周分享 Issue #6 Closing
         <summary type="html"><![CDATA[������Ż����ǵ� 3d engine ���������Ⱦ����������ǻ��� ECS ��ܣ�������������� Lua ��ƺ͹�����Ҳ����˵����Ⱦ���ֵ����ݶ�����ͨ�� Lua ��д�����ǣ����ں�����Ⱦѭ����Lua ���������ޣ�����Ҫ��Ⱦ�Ķ���ܶ�ʱ��֮ǰ�� Lua ��д��ѭ���������������¶������ Ϊ�ˣ����Ǻ��������� luaecs�������ݷ��� C �ṹ�У������� Lua ���ʵĽӿڡ������ͷ����˳���ʹ�� Lua ���ٿ�����������Ժ���ѭ���� C �ع��Ż����������ʱ�����ǰ���Ⱦ����ϵͳ�� C �ع���һ�飬����������������⡣...]]></summary>
         <author>
             <name>�Ʒ�� BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[去印尼爬火山 (Mt.Rinjani)]]></title>
-        <id>https://www.kawabangga.com/?p=5095</id>
-        <link href="https://www.kawabangga.com/posts/5095"/>
-        <updated>2023-05-31T15:49:34.000Z</updated>
-        <summary type="html"><![CDATA[上回书说到，旅行刷新了去过的最南端。上周又去了印尼，这次去刷新了去过的最高点。我们去 Lombok 爬了 Ri […]
-Continue reading...
-The post 去印尼爬火山 (Mt.Rinjani) first appeared on 卡瓦邦噶！.]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

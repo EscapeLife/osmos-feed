@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-06-19T00:52:22.191Z</updated>
+    <updated>2023-06-20T00:50:14.528Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[为什么奥特曼是我的信仰]]></title>
+        <id>https://manjusaka.blog/posts/2023/06/19/why-do-I-love-ultraman/</id>
+        <link href="https://manjusaka.blog/posts/2023/06/19/why-do-I-love-ultraman/"/>
+        <updated>2023-06-19T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[優しさを失わないでくれ。弱い者を労り互いに助け合い。]]></summary>
+        <author>
+            <name>Manjusaka</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MTU 和 UDP (以及基于 UDP 的协议)]]></title>
         <id>https://www.kawabangga.com/?p=5160</id>
@@ -220,16 +230,6 @@ SRE&Devops 每周分享 Issue #6 Closing
         <link href="https://macshuo.com/?p=1897"/>
         <updated>2023-06-06T07:27:11.000Z</updated>
         <summary type="html"><![CDATA[苹果公司一向特立独行，很少跟风热炒，当满世界都在炒AI、大模型、GPT 的时候， … Continue reading →]]></summary>
-        <author>
-            <name>MacTalk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可以生成你的墨问名片了]]></title>
-        <id>https://macshuo.com/?p=1894</id>
-        <link href="https://macshuo.com/?p=1894"/>
-        <updated>2023-06-05T08:59:32.000Z</updated>
-        <summary type="html"><![CDATA[这个功能其实在做墨问个人主页的时候就规划了，想做个完善的方案，需要不少功夫。那订 … Continue reading →]]></summary>
         <author>
             <name>MacTalk</name>
         </author>

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-06-20T00:50:14.528Z</updated>
+    <updated>2023-06-21T00:53:01.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[用油猴制作一个 Jenkins 日志窗口]]></title>
+        <id>https://www.kawabangga.com/?p=5166</id>
+        <link href="https://www.kawabangga.com/posts/5166"/>
+        <updated>2023-06-20T10:51:31.000Z</updated>
+        <summary type="html"><![CDATA[上次介绍了油猴脚本的基本使用方法，这篇文章简单记录一下今天用油猴提高 Quality of Life 的一个脚 […]
+Continue reading...
+The post 用油猴制作一个 Jenkins 日志窗口 first appeared on 卡瓦邦噶！.
+
+相关文章:
+
+SRE&Devops 每周分享 Issue #5
+部署和维护开源软件的经验
+SRE&Devops 每周分享 Issue #6 Closing
+七个改变世界的Java项目
+推荐《Hymn to life》]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么奥特曼是我的信仰]]></title>
         <id>https://manjusaka.blog/posts/2023/06/19/why-do-I-love-ultraman/</id>
@@ -222,16 +242,6 @@ SRE&Devops 每周分享 Issue #6 Closing
 没来的请举手]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我看 WWDC]]></title>
-        <id>https://macshuo.com/?p=1897</id>
-        <link href="https://macshuo.com/?p=1897"/>
-        <updated>2023-06-06T07:27:11.000Z</updated>
-        <summary type="html"><![CDATA[苹果公司一向特立独行，很少跟风热炒，当满世界都在炒AI、大模型、GPT 的时候， … Continue reading →]]></summary>
-        <author>
-            <name>MacTalk</name>
         </author>
     </entry>
     <entry>

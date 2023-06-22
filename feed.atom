@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-06-21T00:53:01.139Z</updated>
+    <updated>2023-06-22T00:52:35.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[�ֻ���Ϸ������һ���뷨]]></title>
+        <id>https://blog.codingnow.com/2023/06/mobile_ui.html</id>
+        <link href="https://blog.codingnow.com/2023/06/mobile_ui.html"/>
+        <updated>2023-06-21T07:24:56.000Z</updated>
+        <summary type="html"><![CDATA[��һƪ������ȥ����뷨 ��������ڰ���Щ�뷨�Ľ���������������һ�������ǹ������ֻ���Ϸ�� ���ǵ���Ϸ�������� PC �Ͽ����ģ���ϣ��ר�������ֻ�����Ȼ��ϣ���ճ���Ϸ������������Ͻ��У�����Ϊ֮Ҳ���˺ܶ��Ŭ������ʵ�ʲ�����˳������Ҫ���������Լ���Ϸ�ĺ��� C ���ֻ���Ƶ���Ķ���������ϵ��ԱϾ����� PC �Ϸ��㡣��������Ѿ������ȶ�������������ʹ������Ļ���Խ��Խ�࣬Ҳ�͸���Ŀ������ֻ��ϵĽ������⡣ ����ʶ���ĵ�һ��������ǣ��� PC ��ģ��İ汾���޷������ֻ��ϵĽ������ܵģ�����ֻ��ϵĽ������ã��ͱ���ʱ�����ֻ������顣 ��������ԭ���Ľ������涼�ǻ��������Ϣ����������Ϣֻ�Ƕ������Ϣ��ģ�⡣�����ǲ��Եġ���ʶ��������������Ȱ������Ϣ��������ȥ�����Ѵ�����������Ϣ��Ϊ first class ���������Ϣ�򷴹�����������Ϣģ�⡣ ����������ʵ���ĸ���������������϶������š������ڲ�ͬ�����£��϶����Ա���ɨȡ���������߲��ɹ��档...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用油猴制作一个 Jenkins 日志窗口]]></title>
         <id>https://www.kawabangga.com/?p=5166</id>

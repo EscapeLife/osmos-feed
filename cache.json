@@ -61,6 +61,16 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=5175",
+          "author": "laixintao",
+          "description": "前段时间遇到一个问题，程序莫名其妙 crash 了，stack 也没看出什么端倪来。今天改了一个参数，让 go […]\nContinue reading...\n相关文章:\n\n关闭Ubuntu每次启动都会显示的错误弹窗\nCoredns 源码阅读（导读）\nGolang 的 Channel 是一种免费的无锁实现吗？\nDjango的信号机制\nCoredns 源码解析：启动流程",
+          "link": "https://www.kawabangga.com/posts/5175",
+          "publishedOn": "2023-06-23T14:36:01.000Z",
+          "wordCount": 1176,
+          "title": "Golang 程序 crash 的时候自动 core dump",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=5166",
           "author": "laixintao",
           "description": "上次介绍了油猴脚本的基本使用方法，这篇文章简单记录一下今天用油猴提高 Quality of Life 的一个脚 […]\nContinue reading...\nThe post 用油猴制作一个 Jenkins 日志窗口 first appeared on 卡瓦邦噶！.\n\n相关文章:\n\nSRE&Devops 每周分享 Issue #5\n部署和维护开源软件的经验\nSRE&Devops 每周分享 Issue #6 Closing\n七个改变世界的Java项目\n推荐《Hymn to life》",

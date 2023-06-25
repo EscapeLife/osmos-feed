@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-06-24T00:57:33.260Z</updated>
+    <updated>2023-06-25T01:03:17.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -239,37 +239,6 @@ Write a Python program, it accepts an URL address url from command line input, t
 此外，编程语言也在变得越来越易用。经典的 …]]></summary>
         <author>
             <name>piglei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3DS userland破解那些事]]></title>
-        <id>https://www.leavesongs.com/PENETRATION/talk-about-3ds-userland-flaw.html</id>
-        <link href="https://www.leavesongs.com/PENETRATION/talk-about-3ds-userland-flaw.html"/>
-        <updated>2023-06-09T17:48:00.000Z</updated>
-        <summary type="html"><![CDATA[我与掌机结缘是从初中时代就开始了，但严格意义上来讲，在我的少年时代，我是没有拥有过掌机的。小时候家里没有给我买过任何游戏机，但我曾拥有过一台学习机——名人Windows CE。虽然被冠以“学习机”的名义，但实际上这是一台搭载Windows CE系统的掌上电脑（PDA），在2008年那个智能手机还没有出世的年代，我竟拥有了一台跨时代的智能大屏设备。
-当时我在CE上装了很多原生的Windows游...]]></summary>
-        <author>
-            <name>phithon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[部署和维护开源软件的经验]]></title>
-        <id>https://www.kawabangga.com/?p=5154</id>
-        <link href="https://www.kawabangga.com/posts/5154"/>
-        <updated>2023-06-09T14:21:40.000Z</updated>
-        <summary type="html"><![CDATA[现在公司多多少少都会用一些开源的软件，我在工作中也部署和维护了很多开源软件。这篇文章就讲讲维护这些软件的一些经 […]
-Continue reading...
-The post 部署和维护开源软件的经验 first appeared on 卡瓦邦噶！.
-
-相关文章:
-
-SRE&Devops 每周分享 Issue #5
-Prometheus HTTP SD 框架
-《Prometheus Up & Running》阅读
-SRE&Devops 每周分享 Issue #6 Closing
-没来的请举手]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

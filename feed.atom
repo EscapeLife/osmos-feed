@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-06-27T00:58:36.919Z</updated>
+    <updated>2023-06-28T00:59:47.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[时间的力量：坚持，投入与成果]]></title>
+        <id>https://codechina.org/?p=30536</id>
+        <link href="https://codechina.org/2023/06/time/"/>
+        <updated>2023-06-27T02:48:45.000Z</updated>
+        <summary type="html"><![CDATA[我最早好奇学习飞行是什么样的一种体验的时候，发现一般来说，在评价一个飞行员的能力的时候，飞行小时数是一个常用的 […]
+时间的力量：坚持，投入与成果最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python 工匠：语句、表达式和海象操作符]]></title>
         <id>https://www.piglei.com/articles/stmt-expr-and-walrus-operator/</id>

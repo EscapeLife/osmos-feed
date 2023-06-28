@@ -47,7 +47,18 @@
       "title": "Tinyfool的个人网站",
       "feedUrl": "http://feeds.feedburner.com/Tinyfoolblog",
       "siteUrl": "https://codechina.org/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://codechina.org/?p=30536",
+          "author": "tinyfool",
+          "description": "我最早好奇学习飞行是什么样的一种体验的时候，发现一般来说，在评价一个飞行员的能力的时候，飞行小时数是一个常用的 […]\n时间的力量：坚持，投入与成果最先出现在Tinyfool的个人网站。",
+          "link": "https://codechina.org/2023/06/time/",
+          "publishedOn": "2023-06-27T02:48:45.000Z",
+          "wordCount": 1163,
+          "title": "时间的力量：坚持，投入与成果",
+          "imageUrl": "https://codechina.org/wp-content/uploads/2023/06/tinyfoolus_The_Power_of_Time_Persistence_Investment_and_Achieve_73f1b684-9ba5-415a-b51f-01bedf891f93.png"
+        }
+      ]
     },
     {
       "title": "ChangeLog of KDr2.com",

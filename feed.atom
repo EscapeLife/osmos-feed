@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-06-28T00:59:47.189Z</updated>
+    <updated>2023-06-29T00:57:17.769Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -250,16 +250,6 @@ The post MTU 和 UDP (以及基于 UDP 的协议) first appeared on 卡瓦邦噶
         <summary type="html"><![CDATA[<p>最近家庭升级 Homelab 差不多告一段落，来写篇文章记录下我的折腾过程</p>]]></summary>
         <author>
             <name>Manjusaka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[�����˵����淨]]></title>
-        <id>https://blog.codingnow.com/2023/06/oldmaid.html</id>
-        <link href="https://blog.codingnow.com/2023/06/oldmaid.html"/>
-        <updated>2023-06-14T02:44:53.000Z</updated>
-        <summary type="html"><![CDATA[֮ǰ�̺������˿��ƣ��ӳ��������֡������Ƕ���ϲ���� ����һ����ͳ��Ϸ���������� Old Maid�� ����ܼ򵥣����ǰ�һ�� 54 �ŵ��˿����г��һ������һ�� 8 �������������ƣ�������ƽ�������μӵ���ҡ�ÿ����ҽ��õ������гɶԵ��ƶ��ӵ������������ϵ�ȫ���ǵ��ơ�Ȼ��ÿ����ÿ���غϳ��¼�һ���ƣ�����ܺ��������е�����ԣ�����԰ѳɶԵ����ӵ����������ѳ鵽�Ŀ����������С��ȴ������Ƶ����ʤ����������Ϸ������һ��������Ͽ϶�������һ������һ�Űˣ���������Ҷ��������ơ� �����淨�ǳ��򵥻��֣�С����һѧ��ᡣ���Ҿ������������޼��ɿ��ԣ�����������ѹ���Ľ���һ�£������һ���ǳ���������������Ϸ��...]]></summary>
-        <author>
-            <name>�Ʒ�� BLOG</name>
         </author>
     </entry>
     <entry>

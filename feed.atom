@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-07-04T00:58:58.183Z</updated>
+    <updated>2023-07-05T00:59:27.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -223,36 +223,6 @@ Coredns 源码解析：启动流程]]></summary>
         <summary type="html"><![CDATA[��һƪ������ȥ����뷨 ��������ڰ���Щ�뷨�Ľ���������������һ�������ǹ������ֻ���Ϸ�� ���ǵ���Ϸ�������� PC �Ͽ����ģ���ϣ��ר�������ֻ�����Ȼ��ϣ���ճ���Ϸ������������Ͻ��У�����Ϊ֮Ҳ���˺ܶ��Ŭ������ʵ�ʲ�����˳������Ҫ���������Լ���Ϸ�ĺ��� C ���ֻ���Ƶ���Ķ���������ϵ��ԱϾ����� PC �Ϸ��㡣��������Ѿ������ȶ�������������ʹ������Ļ���Խ��Խ�࣬Ҳ�͸���Ŀ������ֻ��ϵĽ������⡣ ����ʶ���ĵ�һ��������ǣ��� PC ��ģ��İ汾���޷������ֻ��ϵĽ������ܵģ�����ֻ��ϵĽ������ã��ͱ���ʱ�����ֻ������顣 ��������ԭ���Ľ������涼�ǻ��������Ϣ����������Ϣֻ�Ƕ������Ϣ��ģ�⡣�����ǲ��Եġ���ʶ��������������Ȱ������Ϣ��������ȥ�����Ѵ�����������Ϣ��Ϊ first class ���������Ϣ�򷴹�����������Ϣģ�⡣ ����������ʵ���ĸ���������������϶������š������ڲ�ͬ�����£��϶����Ա���ɨȡ���������߲��ɹ��档...]]></summary>
         <author>
             <name>�Ʒ�� BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用油猴制作一个 Jenkins 日志窗口]]></title>
-        <id>https://www.kawabangga.com/?p=5166</id>
-        <link href="https://www.kawabangga.com/posts/5166"/>
-        <updated>2023-06-20T10:51:31.000Z</updated>
-        <summary type="html"><![CDATA[上次介绍了油猴脚本的基本使用方法，这篇文章简单记录一下今天用油猴提高 Quality of Life 的一个脚 […]
-Continue reading...
-The post 用油猴制作一个 Jenkins 日志窗口 first appeared on 卡瓦邦噶！.
-
-相关文章:
-
-SRE&Devops 每周分享 Issue #5
-部署和维护开源软件的经验
-SRE&Devops 每周分享 Issue #6 Closing
-七个改变世界的Java项目
-推荐《Hymn to life》]]></summary>
-        <author>
-            <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么奥特曼是我的信仰]]></title>
-        <id>https://manjusaka.blog/posts/2023/06/19/why-do-I-love-ultraman/</id>
-        <link href="https://manjusaka.blog/posts/2023/06/19/why-do-I-love-ultraman/"/>
-        <updated>2023-06-19T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[優しさを失わないでくれ。弱い者を労り互いに助け合い。]]></summary>
-        <author>
-            <name>Manjusaka</name>
         </author>
     </entry>
     <entry>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-07-05T00:59:27.780Z</updated>
+    <updated>2023-07-06T01:00:54.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ttf �����һ������]]></title>
+        <id>https://blog.codingnow.com/2023/07/ttf_fontsize.html</id>
+        <link href="https://blog.codingnow.com/2023/07/ttf_fontsize.html"/>
+        <updated>2023-07-05T04:57:17.000Z</updated>
+        <summary type="html"><![CDATA[���ǵ���Ϸ����ʹ�õ��� stb �� truetype �� ������ ttf ����ġ����������ʹ�ù�˾�ṩ�� ����Ͱ��ջ��� ʱ����һ�����⡣ ������Ⱦ�����ĺ��ֱȱ�Ƶ����ظ߶Ȱ��˲��٣�����Ⱦ 100 ���ظߵĺ��֣����ֻ�� 70+ �������ҡ�����֮ǰ����ʹ�õ��������壨 Windows �Դ�Ĭ�����壩û��������⡣ �����Ϸ���һ�£��ҵ���ôһ�����ӣ�https://github.com/nothings/stb/issues/689 �Լ� imgui Ҳ�������������� ��...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人生太长，社交网络太短]]></title>
         <id>https://laike9m.com/blog/ren-sheng-tai-chang-she-jiao-wang-luo-tai-duan,151/</id>
@@ -213,16 +223,6 @@ Django的信号机制
 Coredns 源码解析：启动流程]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[�ֻ���Ϸ������һ���뷨]]></title>
-        <id>https://blog.codingnow.com/2023/06/mobile_ui.html</id>
-        <link href="https://blog.codingnow.com/2023/06/mobile_ui.html"/>
-        <updated>2023-06-21T07:24:56.000Z</updated>
-        <summary type="html"><![CDATA[��һƪ������ȥ����뷨 ��������ڰ���Щ�뷨�Ľ���������������һ�������ǹ������ֻ���Ϸ�� ���ǵ���Ϸ�������� PC �Ͽ����ģ���ϣ��ר�������ֻ�����Ȼ��ϣ���ճ���Ϸ������������Ͻ��У�����Ϊ֮Ҳ���˺ܶ��Ŭ������ʵ�ʲ�����˳������Ҫ���������Լ���Ϸ�ĺ��� C ���ֻ���Ƶ���Ķ���������ϵ��ԱϾ����� PC �Ϸ��㡣��������Ѿ������ȶ�������������ʹ������Ļ���Խ��Խ�࣬Ҳ�͸���Ŀ������ֻ��ϵĽ������⡣ ����ʶ���ĵ�һ��������ǣ��� PC ��ģ��İ汾���޷������ֻ��ϵĽ������ܵģ�����ֻ��ϵĽ������ã��ͱ���ʱ�����ֻ������顣 ��������ԭ���Ľ������涼�ǻ��������Ϣ����������Ϣֻ�Ƕ������Ϣ��ģ�⡣�����ǲ��Եġ���ʶ��������������Ȱ������Ϣ��������ȥ�����Ѵ�����������Ϣ��Ϊ first class ���������Ϣ�򷴹�����������Ϣģ�⡣ ����������ʵ���ĸ���������������϶������š������ڲ�ͬ�����£��϶����Ա���ɨȡ���������߲��ɹ��档...]]></summary>
-        <author>
-            <name>�Ʒ�� BLOG</name>
         </author>
     </entry>
     <entry>

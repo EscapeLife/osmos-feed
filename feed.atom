@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-07-08T00:58:59.989Z</updated>
+    <updated>2023-07-09T01:01:59.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -205,24 +205,6 @@ Write a Python program, it accepts an URL address url from command line input, t
         <summary type="html"><![CDATA[很多时候，帮助人不需要那么多理由]]></summary>
         <author>
             <name>Manjusaka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Golang 程序 crash 的时候自动 core dump]]></title>
-        <id>https://www.kawabangga.com/?p=5175</id>
-        <link href="https://www.kawabangga.com/posts/5175"/>
-        <updated>2023-06-23T14:36:01.000Z</updated>
-        <summary type="html"><![CDATA[前段时间遇到一个问题，程序莫名其妙 crash 了，stack 也没看出什么端倪来。今天改了一个参数，让 go […]
-Continue reading...
-相关文章:
-
-关闭Ubuntu每次启动都会显示的错误弹窗
-Coredns 源码阅读（导读）
-Golang 的 Channel 是一种免费的无锁实现吗？
-Django的信号机制
-Coredns 源码解析：启动流程]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

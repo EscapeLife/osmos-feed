@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-07-10T00:58:21.162Z</updated>
+    <updated>2023-07-11T00:53:23.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -242,26 +242,6 @@ type ListAppsOptions struct …]]></summary>
 Write a Python program, it accepts an URL address url from command line input, the program extract the domain name from url and stores it in a variable called src_domain, then it starts to request …]]></summary>
         <author>
             <name>piglei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊聊公益和助学]]></title>
-        <id>https://www.manjusaka.blog/posts/2023/06/25/love-and-hope-is-all-we-need/</id>
-        <link href="https://www.manjusaka.blog/posts/2023/06/25/love-and-hope-is-all-we-need/"/>
-        <updated>2023-06-25T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[很多时候，帮助人不需要那么多理由]]></summary>
-        <author>
-            <name>Manjusaka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊聊公益和助学]]></title>
-        <id>https://manjusaka.blog/posts/2023/06/25/love-and-hope-is-all-we-need/</id>
-        <link href="https://manjusaka.blog/posts/2023/06/25/love-and-hope-is-all-we-need/"/>
-        <updated>2023-06-25T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[很多时候，帮助人不需要那么多理由]]></summary>
-        <author>
-            <name>Manjusaka</name>
         </author>
     </entry>
     <entry>

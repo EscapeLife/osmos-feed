@@ -87,28 +87,7 @@
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "https://www.manjusaka.blog/atom.xml",
-      "articles": [
-        {
-          "id": "https://www.manjusaka.blog/posts/2023/06/25/love-and-hope-is-all-we-need/",
-          "author": null,
-          "description": "很多时候，帮助人不需要那么多理由",
-          "link": "https://www.manjusaka.blog/posts/2023/06/25/love-and-hope-is-all-we-need/",
-          "publishedOn": "2023-06-25T18:00:00.000Z",
-          "wordCount": 1108,
-          "title": "聊聊公益和助学",
-          "imageUrl": "https://github.com/Zheaoli/yuque-py/assets/7054676/ea9460a2-e351-4b73-9f82-7aef6cd20c33"
-        },
-        {
-          "id": "https://manjusaka.blog/posts/2023/06/25/love-and-hope-is-all-we-need/",
-          "author": null,
-          "description": "很多时候，帮助人不需要那么多理由",
-          "link": "https://manjusaka.blog/posts/2023/06/25/love-and-hope-is-all-we-need/",
-          "publishedOn": "2023-06-25T18:00:00.000Z",
-          "wordCount": 1108,
-          "title": "聊聊公益和助学",
-          "imageUrl": "https://github.com/Zheaoli/yuque-py/assets/7054676/ea9460a2-e351-4b73-9f82-7aef6cd20c33"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "laike9m's blog",

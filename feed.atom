@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-07-15T00:58:42.448Z</updated>
+    <updated>2023-07-16T01:05:06.891Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -176,21 +176,6 @@ if __name__ == '__main__':
         <summary type="html"><![CDATA[没有简介, 请去看原文吧]]></summary>
         <author>
             <name>laike9m's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TCP 拥塞控制对数据延迟的影响]]></title>
-        <id>https://www.kawabangga.com/?p=5181</id>
-        <link href="https://www.kawabangga.com/posts/5181"/>
-        <updated>2023-07-01T05:20:26.000Z</updated>
-        <summary type="html"><![CDATA[这是上周在项目上遇到的一个问题，在内网把问题用英文分析了一遍，觉得挺有用的，所以在博客上打算再写一次。 问题是 […]
-Continue reading...
-相关文章:
-
-为什么我喜欢Java
-集合里的元素怎么“不见了”？]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

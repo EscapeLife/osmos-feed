@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-07-18T01:14:55.834Z</updated>
+    <updated>2023-07-19T01:29:48.594Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[�������е����ݽṹ�Ż�]]></title>
+        <id>https://blog.codingnow.com/2023/07/monotonic_array.html</id>
+        <link href="https://blog.codingnow.com/2023/07/monotonic_array.html"/>
+        <updated>2023-07-18T09:19:32.000Z</updated>
+        <summary type="html"><![CDATA[�����ǵ� ecs ģ���У���һ����Ҫ���ڲ����ݽṹ�� eid �����顣���� Component �ṹ��һ���֣���ʾÿ�� Component �����ĸ� Entity ��Ŀǰ��������һ������� id ����ʵ�ֵġ� ������ݽṹ�����Ĳ����ֱ��ǣ�������������ʡ����� id ���ڵ�λ�á�һ������������Ժܺõ��������O(1) ���������ʱ�䣬O(Log N) �Ĳ���ʱ�䡣 ���ǵ� Entity ID �� 48bit �ģ��Ҿ��ñ��� 48 �� 64bit �� id �����е��˷ѣ��ҿռ�Խ��ʵ�ʲ���Ч��Ҳ����Ӧ���͡�ʵ���ϣ�Entity �ĸ�������̫�࣬�Ҿ��������� 2^24 (һǧ���������ң��㹻�ˣ���������һ��������������� 24bit id ��������ȥ���������� entity id ��...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python 工匠：语句、表达式和海象操作符]]></title>
         <id>https://www.piglei.com/articles/stmt-expr-and-walrus-operator/</id>

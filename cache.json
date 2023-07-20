@@ -122,16 +122,6 @@
           "wordCount": 317,
           "title": "�������е����ݽṹ�Ż�",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.codingnow.com/2023/07/ttf_fontsize.html",
-          "author": null,
-          "description": "���ǵ���Ϸ����ʹ�õ��� stb �� truetype �� ������ ttf ����ġ����������ʹ�ù�˾�ṩ�� ����Ͱ��ջ��� ʱ����һ�����⡣ ������Ⱦ�����ĺ��ֱȱ�Ƶ����ظ߶Ȱ��˲��٣�����Ⱦ 100 ���ظߵĺ��֣����ֻ�� 70+ �������ҡ�����֮ǰ����ʹ�õ��������壨 Windows �Դ�Ĭ�����壩û��������⡣ �����Ϸ���һ�£��ҵ���ôһ�����ӣ�https://github.com/nothings/stb/issues/689 �Լ� imgui Ҳ�������������� ��...",
-          "link": "https://blog.codingnow.com/2023/07/ttf_fontsize.html",
-          "publishedOn": "2023-07-05T04:57:17.000Z",
-          "wordCount": 250,
-          "title": "ttf �����һ������",
-          "imageUrl": null
         }
       ]
     },

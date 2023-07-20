@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-07-19T01:29:48.594Z</updated>
+    <updated>2023-07-20T00:51:14.393Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -166,16 +166,6 @@ if __name__ == '__main__':
         <summary type="html"><![CDATA[下雨天和女朋友去共青森林公园散步。因为只有一把伞，所以不得不在中途避了一刻钟雨。我们聊到古代人在这种廊桥避雨， […]]]></summary>
         <author>
             <name>李辉</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ttf �����һ������]]></title>
-        <id>https://blog.codingnow.com/2023/07/ttf_fontsize.html</id>
-        <link href="https://blog.codingnow.com/2023/07/ttf_fontsize.html"/>
-        <updated>2023-07-05T04:57:17.000Z</updated>
-        <summary type="html"><![CDATA[���ǵ���Ϸ����ʹ�õ��� stb �� truetype �� ������ ttf ����ġ����������ʹ�ù�˾�ṩ�� ����Ͱ��ջ��� ʱ����һ�����⡣ ������Ⱦ�����ĺ��ֱȱ�Ƶ����ظ߶Ȱ��˲��٣�����Ⱦ 100 ���ظߵĺ��֣����ֻ�� 70+ �������ҡ�����֮ǰ����ʹ�õ��������壨 Windows �Դ�Ĭ�����壩û��������⡣ �����Ϸ���һ�£��ҵ���ôһ�����ӣ�https://github.com/nothings/stb/issues/689 �Լ� imgui Ҳ�������������� ��...]]></summary>
-        <author>
-            <name>�Ʒ�� BLOG</name>
         </author>
     </entry>
     <entry>

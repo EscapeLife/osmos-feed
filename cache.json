@@ -61,6 +61,16 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=5246",
+          "author": "laixintao",
+          "description": "上周去爬了黄山，浅记一下，这篇又是流水账了。 Day 1 坐高铁来的黄山北站，已经是下午2点了，吃的不多，只有 […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/5246",
+          "publishedOn": "2023-07-23T13:41:42.000Z",
+          "wordCount": 899,
+          "title": "去爬黄山",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=5236",
           "author": "laixintao",
           "description": "今天遇到的一个问题，记录一下。 起因是同事告诉我有两台机器上面的 node-exporter 挂掉了。 我去看 […]\nContinue reading...\n相关文章:\n\n《Prometheus Up & Running》阅读\n介绍一下 graphviz/dot 的一些学习资料\nGitlab自动部署方案（Systemd+nc）\nPython lxml教程\n程序 Hot reload config 的实现方式",
@@ -116,18 +126,7 @@
       "title": "李辉",
       "feedUrl": "https://greyli.com/feed",
       "siteUrl": "https://greyli.com",
-      "articles": [
-        {
-          "id": "https://greyli.com/?p=5146",
-          "author": "李辉",
-          "description": "下雨天和女朋友去共青森林公园散步。因为只有一把伞，所以不得不在中途避了一刻钟雨。我们聊到古代人在这种廊桥避雨， […]",
-          "link": "https://greyli.com/rain-in-gongqing/",
-          "publishedOn": "2023-07-09T04:14:59.000Z",
-          "wordCount": 393,
-          "title": "共青森林公园吉祥狗",
-          "imageUrl": "https://greyli.com/wp-content/uploads/2020/07/avatar.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "�Ʒ�� BLOG",

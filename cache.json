@@ -189,16 +189,6 @@
           "wordCount": 503,
           "title": "入行 14 年，我还是觉得编程很难",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.piglei.com/articles/the-answer-is-in-the-code-fulfill-requirements/",
-          "author": null,
-          "description": "实现“石头、剪刀、布”游戏\n一天，我在一个 Python 技术群里看到一段有意思的讨论。讨论始于这么一个需求：\n题目：写代码模拟“石头、剪刀、布”游戏。由玩家 A 和 B 随机进行 10 次游戏并打印结果。要求：用数字 0 来表示石头，1 表示剪刀，2 表示布。\n紧跟着的，是一段实现了该需求的 Python 代码。如下所示：\nimport random\n\ndef game():\n    \"\"\"生成一局随机游戏，并打印游戏结果。\"\"\"\n    a = random.randint(0, 2)\n    b = random.randint(0, 2)\n    print(f\"玩家 A：{a}，玩家 B：{b}\")\n    if a == b:\n        print(\"平局\")\n    elif a == (b + 1) % 3:\n        print(\"玩家 B 获胜\")\n    else:\n        print(\"玩家 A 获胜\")\n\nif __name__ == '__main__':\n    for num in range(10):\n        print(f\">>> Game #{num}\")\n        game()\n\n不难看出，代码实现需求的方式有一点巧妙，主要体现在 elif a == (b + 1) % 3 上。要推导出这行代码，原作者需要历经以下几步思考：\n[石头, 剪刀, 布] 分别对应 [0, 1, 2] 数字\n[石头, 剪刀, 布] 这个排列顺序，刚好是前一个赢过后一个，比如“石头（0）”克“剪刀（1）”，由此推导出判断语句： a == (b + 1)\n到了“布”时，前一条规则回到了列表头：“布（2）”赢过“石头（0）”，由此推导出取模运算：a == (b + 1) % 3\n针对这段代码，大家当时主要争论的点是“性能”，即通过…",
-          "link": "https://www.piglei.com/articles/the-answer-is-in-the-code-fulfill-requirements/",
-          "publishedOn": "2023-07-10T00:58:08.654Z",
-          "wordCount": 421,
-          "title": "答案在代码中：“实现需求”的双重含义",
-          "imageUrl": null
         }
       ]
     },

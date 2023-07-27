@@ -126,7 +126,18 @@
       "title": "李辉",
       "feedUrl": "https://greyli.com/feed",
       "siteUrl": "https://greyli.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://greyli.com/?p=5170",
+          "author": "李辉",
+          "description": "一边上班一边赶工做开源项目真是太累了。更不用说还要一边焦虑写书的进度。不过这次 2.0 版本基本把想做的功能都 […]",
+          "link": "https://greyli.com/apiflask2/",
+          "publishedOn": "2023-07-26T14:56:23.000Z",
+          "wordCount": 438,
+          "title": "APIFlask 2.0 版本发布",
+          "imageUrl": "https://greyli.com/wp-content/uploads/2020/07/avatar.jpg"
+        }
+      ]
     },
     {
       "title": "�Ʒ�� BLOG",

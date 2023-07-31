@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-07-30T00:48:40.092Z</updated>
+    <updated>2023-07-31T00:49:47.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[湾区与独立开发]]></title>
+        <id>https://laike9m.com/blog/wan-qu-yu-du-li-kai-fa,152/</id>
+        <link href="https://laike9m.com/blog/wan-qu-yu-du-li-kai-fa,152/"/>
+        <updated>2023-07-30T17:22:09.000Z</updated>
+        <summary type="html"><![CDATA[没有简介, 请去看原文吧]]></summary>
+        <author>
+            <name>laike9m's blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python 工匠：语句、表达式和海象操作符]]></title>
         <id>https://www.piglei.com/articles/stmt-expr-and-walrus-operator/</id>

@@ -175,18 +175,7 @@
       "title": "�Ʒ�� BLOG",
       "feedUrl": "https://blog.codingnow.com/atom.xml",
       "siteUrl": "https://blog.codingnow.com/",
-      "articles": [
-        {
-          "id": "https://blog.codingnow.com/2023/07/monotonic_array.html",
-          "author": null,
-          "description": "�����ǵ� ecs ģ���У���һ����Ҫ���ڲ����ݽṹ�� eid �����顣���� Component �ṹ��һ���֣���ʾÿ�� Component �����ĸ� Entity ��Ŀǰ��������һ������� id ����ʵ�ֵġ� ������ݽṹ�����Ĳ����ֱ��ǣ�������������ʡ����� id ���ڵ�λ�á�һ������������Ժܺõ��������O(1) ���������ʱ�䣬O(Log N) �Ĳ���ʱ�䡣 ���ǵ� Entity ID �� 48bit �ģ��Ҿ��ñ��� 48 �� 64bit �� id �����е��˷ѣ��ҿռ�Խ��ʵ�ʲ���Ч��Ҳ����Ӧ���͡�ʵ���ϣ�Entity �ĸ�������̫�࣬�Ҿ��������� 2^24 (һǧ���������ң��㹻�ˣ���������һ��������������� 24bit id ��������ȥ���������� entity id ��...",
-          "link": "https://blog.codingnow.com/2023/07/monotonic_array.html",
-          "publishedOn": "2023-07-18T09:19:32.000Z",
-          "wordCount": 317,
-          "title": "�������е����ݽṹ�Ż�",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "piglei",

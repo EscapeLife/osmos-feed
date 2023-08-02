@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-08-01T00:52:06.093Z</updated>
+    <updated>2023-08-02T00:47:01.882Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -240,16 +240,6 @@ P99 是如何计算的
 用 Wireshark 分析 TCP 吞吐瓶颈]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[�������е����ݽṹ�Ż�]]></title>
-        <id>https://blog.codingnow.com/2023/07/monotonic_array.html</id>
-        <link href="https://blog.codingnow.com/2023/07/monotonic_array.html"/>
-        <updated>2023-07-18T09:19:32.000Z</updated>
-        <summary type="html"><![CDATA[�����ǵ� ecs ģ���У���һ����Ҫ���ڲ����ݽṹ�� eid �����顣���� Component �ṹ��һ���֣���ʾÿ�� Component �����ĸ� Entity ��Ŀǰ��������һ������� id ����ʵ�ֵġ� ������ݽṹ�����Ĳ����ֱ��ǣ�������������ʡ����� id ���ڵ�λ�á�һ������������Ժܺõ��������O(1) ���������ʱ�䣬O(Log N) �Ĳ���ʱ�䡣 ���ǵ� Entity ID �� 48bit �ģ��Ҿ��ñ��� 48 �� 64bit �� id �����е��˷ѣ��ҿռ�Խ��ʵ�ʲ���Ч��Ҳ����Ӧ���͡�ʵ���ϣ�Entity �ĸ�������̫�࣬�Ҿ��������� 2^24 (һǧ���������ң��㹻�ˣ���������һ��������������� 24bit id ��������ȥ���������� entity id ��...]]></summary>
-        <author>
-            <name>�Ʒ�� BLOG</name>
         </author>
     </entry>
     <entry>

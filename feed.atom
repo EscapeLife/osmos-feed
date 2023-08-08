@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-08-07T00:46:23.013Z</updated>
+    <updated>2023-08-08T00:45:26.674Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[�ֻ���Ϸ������Ż�]]></title>
+        <id>https://blog.codingnow.com/2023/08/mobile_game_engine_optimization.html</id>
+        <link href="https://blog.codingnow.com/2023/08/mobile_game_engine_optimization.html"/>
+        <updated>2023-08-07T05:44:22.000Z</updated>
+        <summary type="html"><![CDATA[���ǵ��ֻ���Ϸ����һֱ�ڸ�������Ϸ��Ŀ�Ľ��̲����Ż���һ��ʼ����Ϊ��Ϸ�������ֻ���֡���ﲻ��Ҫ�󡣵����� ECS ��ܣ����ǰѳ����� Lua ���ٿ��������ļ������� system �� C ��д�󣬵õ����ʵķ�Ծ�� ��ʵ��Щ���Ĵ�������������������� profile �б��ֳ����ķǳ����� CPU ��һ������������ϵͳ���� C ��д��Ҳ�� 200 �д��� �������Ż�ǰ Lua �汾�����ĳ��� 1ms ��ʱ�䣬���� C ��д��ʱ���ѿ��Ժ��Բ��ơ� ���⣬���ǲ��������� skynet �� ltask �����߳̿�ܣ���ҵ������ֵ����߳��в��д�������Ҳ����ļ�����ÿ֡�ĺ�ʱ��������ҵ���߼��⣬UI ������ϵͳ��IO ����Ϊ���������̡߳�����Ⱦ�ײ�� bgfx Ҳ�ǰ����߳���Ⱦ��Ƶġ���Щ�������̼�ֻͨ����������ϢͨѶ�����ԣ����е��ܹ�������û�бȵ��߳�ģ�͸��ࡣltask Ҳ���Ժܷ���ĵ��ڹ����̵߳ĸ������������õ������ֻ��� CPU �� ��xcode �ĵ�����Ϣ��������Ϸ�����ḻʱ����Լ��ռ�� 280%...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[湾区与独立开发]]></title>
         <id>https://laike9m.com/blog/wan-qu-yu-du-li-kai-fa,152/</id>
@@ -193,17 +203,6 @@ if __name__ == '__main__':
 针对这段代码，大家当时主要争论的点是“性能”，即通过…]]></summary>
         <author>
             <name>piglei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[去爬黄山]]></title>
-        <id>https://www.kawabangga.com/?p=5246</id>
-        <link href="https://www.kawabangga.com/posts/5246"/>
-        <updated>2023-07-23T13:41:42.000Z</updated>
-        <summary type="html"><![CDATA[上周去爬了黄山，浅记一下，这篇又是流水账了。 Day 1 坐高铁来的黄山北站，已经是下午2点了，吃的不多，只有 […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

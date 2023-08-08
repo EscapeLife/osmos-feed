@@ -69,16 +69,6 @@
           "wordCount": 1501,
           "title": "Alert 自动诊断系统的设计",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=5246",
-          "author": "laixintao",
-          "description": "上周去爬了黄山，浅记一下，这篇又是流水账了。 Day 1 坐高铁来的黄山北站，已经是下午2点了，吃的不多，只有 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/5246",
-          "publishedOn": "2023-07-23T13:41:42.000Z",
-          "wordCount": 899,
-          "title": "去爬黄山",
-          "imageUrl": null
         }
       ]
     },
@@ -155,7 +145,18 @@
       "title": "�Ʒ�� BLOG",
       "feedUrl": "https://blog.codingnow.com/atom.xml",
       "siteUrl": "https://blog.codingnow.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://blog.codingnow.com/2023/08/mobile_game_engine_optimization.html",
+          "author": null,
+          "description": "���ǵ��ֻ���Ϸ����һֱ�ڸ�������Ϸ��Ŀ�Ľ��̲����Ż���һ��ʼ����Ϊ��Ϸ�������ֻ���֡���ﲻ��Ҫ�󡣵����� ECS ��ܣ����ǰѳ����� Lua ���ٿ��������ļ������� system �� C ��д�󣬵õ����ʵķ�Ծ�� ��ʵ��Щ���Ĵ�������������������� profile �б��ֳ����ķǳ����� CPU ��һ������������ϵͳ���� C ��д��Ҳ�� 200 �д��� �������Ż�ǰ Lua �汾�����ĳ��� 1ms ��ʱ�䣬���� C ��д��ʱ���ѿ��Ժ��Բ��ơ� ���⣬���ǲ��������� skynet �� ltask �����߳̿�ܣ���ҵ������ֵ����߳��в��д�������Ҳ����ļ�����ÿ֡�ĺ�ʱ��������ҵ���߼��⣬UI ������ϵͳ��IO ����Ϊ���������̡߳�����Ⱦ�ײ�� bgfx Ҳ�ǰ����߳���Ⱦ��Ƶġ���Щ�������̼�ֻͨ����������ϢͨѶ�����ԣ����е��ܹ�������û�бȵ��߳�ģ�͸��ࡣltask Ҳ���Ժܷ���ĵ��ڹ����̵߳ĸ������������õ������ֻ��� CPU �� ��xcode �ĵ�����Ϣ��������Ϸ�����ḻʱ����Լ��ռ�� 280%...",
+          "link": "https://blog.codingnow.com/2023/08/mobile_game_engine_optimization.html",
+          "publishedOn": "2023-08-07T05:44:22.000Z",
+          "wordCount": 249,
+          "title": "�ֻ���Ϸ������Ż�",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "piglei",

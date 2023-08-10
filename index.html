@@ -487,66 +487,6 @@ JavaScript异步执行的坑
                 </section>
               </section>
             </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >piglei</button>
-                  <a class="source-heading__link" href="http://www.zlovezl.cn/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.piglei.com/articles/the-answer-is-in-the-code-fulfill-requirements/"
-                        open
-                      >
-                        <summary class="article-expander__title">答案在代码中：“实现需求”的双重含义</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.piglei.com/articles/the-answer-is-in-the-code-fulfill-requirements/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>实现“石头、剪刀、布”游戏
-一天，我在一个 Python 技术群里看到一段有意思的讨论。讨论始于这么一个需求：
-题目：写代码模拟“石头、剪刀、布”游戏。由玩家 A 和 B 随机进行 10 次游戏并打印结果。要求：用数字 0 来表示石头，1 表示剪刀，2 表示布。
-紧跟着的，是一段实现了该需求的 Python 代码。如下所示：
-import random
-
-def game():
-    &quot;&quot;&quot;生成一局随机游戏，并打印游戏结果。&quot;&quot;&quot;
-    a &#x3D; random.randint(0, 2)
-    b &#x3D; random.randint(0, 2)
-    print(f&quot;玩家 A：{a}，玩家 B：{b}&quot;)
-    if a &#x3D;&#x3D; b:
-        print(&quot;平局&quot;)
-    elif a &#x3D;&#x3D; (b + 1) % 3:
-        print(&quot;玩家 B 获胜&quot;)
-    else:
-        print(&quot;玩家 A 获胜&quot;)
-
-if __name__ &#x3D;&#x3D; &#x27;__main__&#x27;:
-    for num in range(10):
-        print(f&quot;&gt;&gt;&gt; Game #{num}&quot;)
-        game()
-
-不难看出，代码实现需求的方式有一点巧妙，主要体现在 elif a &#x3D;&#x3D; (b + 1) % 3 上。要推导出这行代码，原作者需要历经以下几步思考：
-[石头, 剪刀, 布] 分别对应 [0, 1, 2] 数字
-[石头, 剪刀, 布] 这个排列顺序，刚好是前一个赢过后一个，比如“石头（0）”克“剪刀（1）”，由此推导出判断语句： a &#x3D;&#x3D; (b + 1)
-到了“布”时，前一条规则回到了列表头：“布（2）”赢过“石头（0）”，由此推导出取模运算：a &#x3D;&#x3D; (b + 1) % 3
-针对这段代码，大家当时主要争论的点是“性能”，即通过…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
         </ul>
       </section>
       <section class="daily-content js-toggle-accordions-scope">
@@ -645,8 +585,8 @@ if __name__ &#x3D;&#x3D; &#x27;__main__&#x27;:
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/EscapeLife/osmos-feed/actions/runs/5803513664">
-        <time id="build-timestamp" datetime="2023-08-09T00:47:08.468Z">2023-08-09T00:47:08.468Z</time>
+      <a class="footer-link" href="https://github.com/EscapeLife/osmos-feed/actions/runs/5815596016">
+        <time id="build-timestamp" datetime="2023-08-10T00:48:11.114Z">2023-08-10T00:48:11.114Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

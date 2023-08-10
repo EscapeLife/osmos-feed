@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-08-09T00:47:08.500Z</updated>
+    <updated>2023-08-10T00:48:11.161Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -166,43 +166,6 @@ JavaScript异步执行的坑
         <summary type="html"><![CDATA[一边上班一边赶工做开源项目真是太累了。更不用说还要一边焦虑写书的进度。不过这次 2.0 版本基本把想做的功能都 […]]]></summary>
         <author>
             <name>李辉</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[答案在代码中：“实现需求”的双重含义]]></title>
-        <id>https://www.piglei.com/articles/the-answer-is-in-the-code-fulfill-requirements/</id>
-        <link href="https://www.piglei.com/articles/the-answer-is-in-the-code-fulfill-requirements/"/>
-        <updated>2023-07-26T00:53:05.739Z</updated>
-        <summary type="html"><![CDATA[实现“石头、剪刀、布”游戏
-一天，我在一个 Python 技术群里看到一段有意思的讨论。讨论始于这么一个需求：
-题目：写代码模拟“石头、剪刀、布”游戏。由玩家 A 和 B 随机进行 10 次游戏并打印结果。要求：用数字 0 来表示石头，1 表示剪刀，2 表示布。
-紧跟着的，是一段实现了该需求的 Python 代码。如下所示：
-import random
-
-def game():
-    """生成一局随机游戏，并打印游戏结果。"""
-    a = random.randint(0, 2)
-    b = random.randint(0, 2)
-    print(f"玩家 A：{a}，玩家 B：{b}")
-    if a == b:
-        print("平局")
-    elif a == (b + 1) % 3:
-        print("玩家 B 获胜")
-    else:
-        print("玩家 A 获胜")
-
-if __name__ == '__main__':
-    for num in range(10):
-        print(f">>> Game #{num}")
-        game()
-
-不难看出，代码实现需求的方式有一点巧妙，主要体现在 elif a == (b + 1) % 3 上。要推导出这行代码，原作者需要历经以下几步思考：
-[石头, 剪刀, 布] 分别对应 [0, 1, 2] 数字
-[石头, 剪刀, 布] 这个排列顺序，刚好是前一个赢过后一个，比如“石头（0）”克“剪刀（1）”，由此推导出判断语句： a == (b + 1)
-到了“布”时，前一条规则回到了列表头：“布（2）”赢过“石头（0）”，由此推导出取模运算：a == (b + 1) % 3
-针对这段代码，大家当时主要争论的点是“性能”，即通过…]]></summary>
-        <author>
-            <name>piglei</name>
         </author>
     </entry>
     <entry>

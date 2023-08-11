@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-08-10T00:48:11.161Z</updated>
+    <updated>2023-08-11T00:37:10.246Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[子进程退出后，父进程有可能会收不到信号吗？]]></title>
+        <id>https://www.manjusaka.blog/posts/2023/08/10/is-it-possible-to-lose-the-signal-in-linux/</id>
+        <link href="https://www.manjusaka.blog/posts/2023/08/10/is-it-possible-to-lose-the-signal-in-linux/"/>
+        <updated>2023-08-10T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>最近工作强度有点大，写篇 Linux 相关的水文放松下</p>]]></summary>
+        <author>
+            <name>Manjusaka</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[�ֻ���Ϸ������Ż�]]></title>
         <id>https://blog.codingnow.com/2023/08/mobile_game_engine_optimization.html</id>
@@ -138,34 +148,6 @@ Write a Python program, it accepts an URL address url from command line input, t
         <updated>2023-07-28T00:00:00.000Z</updated>
         <author>
             <name>mianghong@gmail.com (Frost Ming)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alert 自动诊断系统的设计]]></title>
-        <id>https://www.kawabangga.com/?p=5289</id>
-        <link href="https://www.kawabangga.com/posts/5289"/>
-        <updated>2023-07-27T11:57:00.000Z</updated>
-        <summary type="html"><![CDATA[在运维系统中，我认为 Alert 光发出来是不够的。每一个 Alert 发出来都需要处理，都要被解决。 我们现 […]
-Continue reading...
-相关文章:
-
-PromCon 2022 演讲：Alerting with Confidence
-没来的请举手
-Prometheus alert rules 拆分成多个查询表达式
-JavaScript异步执行的坑
-《Prometheus Up & Running》阅读]]></summary>
-        <author>
-            <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APIFlask 2.0 版本发布]]></title>
-        <id>https://greyli.com/?p=5170</id>
-        <link href="https://greyli.com/apiflask2/"/>
-        <updated>2023-07-26T14:56:23.000Z</updated>
-        <summary type="html"><![CDATA[一边上班一边赶工做开源项目真是太累了。更不用说还要一边焦虑写书的进度。不过这次 2.0 版本基本把想做的功能都 […]]]></summary>
-        <author>
-            <name>李辉</name>
         </author>
     </entry>
     <entry>

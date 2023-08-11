@@ -59,24 +59,24 @@
       "title": "卡瓦邦噶！",
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
-      "articles": [
-        {
-          "id": "https://www.kawabangga.com/?p=5289",
-          "author": "laixintao",
-          "description": "在运维系统中，我认为 Alert 光发出来是不够的。每一个 Alert 发出来都需要处理，都要被解决。 我们现 […]\nContinue reading...\n相关文章:\n\nPromCon 2022 演讲：Alerting with Confidence\n没来的请举手\nPrometheus alert rules 拆分成多个查询表达式\nJavaScript异步执行的坑\n《Prometheus Up & Running》阅读",
-          "link": "https://www.kawabangga.com/posts/5289",
-          "publishedOn": "2023-07-27T11:57:00.000Z",
-          "wordCount": 1501,
-          "title": "Alert 自动诊断系统的设计",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "https://www.manjusaka.blog/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.manjusaka.blog/posts/2023/08/10/is-it-possible-to-lose-the-signal-in-linux/",
+          "author": null,
+          "description": "<p>最近工作强度有点大，写篇 Linux 相关的水文放松下</p>",
+          "link": "https://www.manjusaka.blog/posts/2023/08/10/is-it-possible-to-lose-the-signal-in-linux/",
+          "publishedOn": "2023-08-10T14:09:00.000Z",
+          "wordCount": 2557,
+          "title": "子进程退出后，父进程有可能会收不到信号吗？",
+          "imageUrl": "https://cdn.pixabay.com/photo/2023/01/14/19/50/flower-7718952_1280.jpg"
+        }
+      ]
     },
     {
       "title": "laike9m's blog",
@@ -128,18 +128,7 @@
       "title": "李辉",
       "feedUrl": "https://greyli.com/feed",
       "siteUrl": "https://greyli.com",
-      "articles": [
-        {
-          "id": "https://greyli.com/?p=5170",
-          "author": "李辉",
-          "description": "一边上班一边赶工做开源项目真是太累了。更不用说还要一边焦虑写书的进度。不过这次 2.0 版本基本把想做的功能都 […]",
-          "link": "https://greyli.com/apiflask2/",
-          "publishedOn": "2023-07-26T14:56:23.000Z",
-          "wordCount": 438,
-          "title": "APIFlask 2.0 版本发布",
-          "imageUrl": "https://greyli.com/wp-content/uploads/2020/07/avatar.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "�Ʒ�� BLOG",

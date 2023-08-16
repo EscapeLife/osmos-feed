@@ -99,7 +99,18 @@
       "title": "Frost's Blog",
       "feedUrl": "https://frostming.com/feed.xml",
       "siteUrl": "https://frostming.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://frostming.com/2023/mind-wandering1/",
+          "author": "mianghong@gmail.com (Frost Ming)",
+          "description": "醉后不知天在水，满船清梦压星河",
+          "link": "https://frostming.com/2023/mind-wandering1/",
+          "publishedOn": "2023-08-15T00:00:00.000Z",
+          "wordCount": 198,
+          "title": "思想漫步",
+          "imageUrl": "https://frostming.com/api/og?title=%E6%80%9D%E6%83%B3%E6%BC%AB%E6%AD%A5&tags=%E6%84%9F%E6%82%9F%2C%E7%A2%8E%E7%A2%8E%E5%BF%B5"
+        }
+      ]
     },
     {
       "title": "Posts on Jiayuan Thoughts",

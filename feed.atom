@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-08-15T00:37:45.264Z</updated>
+    <updated>2023-08-16T00:38:16.866Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[思想漫步]]></title>
+        <id>https://frostming.com/2023/mind-wandering1/</id>
+        <link href="https://frostming.com/2023/mind-wandering1/"/>
+        <updated>2023-08-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[醉后不知天在水，满船清梦压星河]]></summary>
+        <author>
+            <name>mianghong@gmail.com (Frost Ming)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我又开始想念知乎了]]></title>
         <id>https://laike9m.com/blog/wo-you-kai-shi-xiang-nian-zhi-hu-liao,153/</id>

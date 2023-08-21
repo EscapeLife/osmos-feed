@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-08-20T00:39:55.085Z</updated>
+    <updated>2023-08-21T00:38:04.262Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Midjourney API 的申请和使用]]></title>
+        <id>https://cuiqingcai.com/42341.html</id>
+        <link href="https://cuiqingcai.com/42341.html"/>
+        <updated>2023-08-20T17:31:45.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="Midjourney-API-申请及使用"><a href="#Midjourney-API-申请及使用" class="headerlink" title="Midjourney API 申请及使用"></a>Midjourney API 申请及使用</h1>]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[思想漫步]]></title>
         <id>https://frostming.com/2023/mind-wandering1/</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-08-21T00:38:04.262Z</updated>
+    <updated>2023-08-22T00:38:14.814Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -54,16 +54,6 @@
         <summary type="html"><![CDATA[<p>最近工作强度有点大，写篇 Linux 相关的水文放松下</p>]]></summary>
         <author>
             <name>Manjusaka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[�ֻ���Ϸ������Ż�]]></title>
-        <id>https://blog.codingnow.com/2023/08/mobile_game_engine_optimization.html</id>
-        <link href="https://blog.codingnow.com/2023/08/mobile_game_engine_optimization.html"/>
-        <updated>2023-08-07T05:44:22.000Z</updated>
-        <summary type="html"><![CDATA[���ǵ��ֻ���Ϸ����һֱ�ڸ�������Ϸ��Ŀ�Ľ��̲����Ż���һ��ʼ����Ϊ��Ϸ�������ֻ���֡���ﲻ��Ҫ�󡣵����� ECS ��ܣ����ǰѳ����� Lua ���ٿ��������ļ������� system �� C ��д�󣬵õ����ʵķ�Ծ�� ��ʵ��Щ���Ĵ�������������������� profile �б��ֳ����ķǳ����� CPU ��һ������������ϵͳ���� C ��д��Ҳ�� 200 �д��� �������Ż�ǰ Lua �汾�����ĳ��� 1ms ��ʱ�䣬���� C ��д��ʱ���ѿ��Ժ��Բ��ơ� ���⣬���ǲ��������� skynet �� ltask �����߳̿�ܣ���ҵ������ֵ����߳��в��д�������Ҳ����ļ�����ÿ֡�ĺ�ʱ��������ҵ���߼��⣬UI ������ϵͳ��IO ����Ϊ���������̡߳�����Ⱦ�ײ�� bgfx Ҳ�ǰ����߳���Ⱦ��Ƶġ���Щ�������̼�ֻͨ����������ϢͨѶ�����ԣ����е��ܹ�������û�бȵ��߳�ģ�͸��ࡣltask Ҳ���Ժܷ���ĵ��ڹ����̵߳ĸ������������õ������ֻ��� CPU �� ��xcode �ĵ�����Ϣ��������Ϸ�����ḻʱ����Լ��ռ�� 280%...]]></summary>
-        <author>
-            <name>�Ʒ�� BLOG</name>
         </author>
     </entry>
     <entry>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-08-22T00:38:14.814Z</updated>
+    <updated>2023-08-23T00:37:52.921Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[关于用户态栈回溯（Unwind）的一些杂记和想法]]></title>
+        <id>https://www.manjusaka.blog/posts/2023/08/22/a-little-bit-idea-about-unwind/</id>
+        <link href="https://www.manjusaka.blog/posts/2023/08/22/a-little-bit-idea-about-unwind/"/>
+        <updated>2023-08-22T16:09:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>随手记录一些关于用户态栈回溯（Unwind）的一些杂记和想法。</p>]]></summary>
+        <author>
+            <name>Manjusaka</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Midjourney API 的申请和使用]]></title>
         <id>https://cuiqingcai.com/42341.html</id>

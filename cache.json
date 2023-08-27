@@ -67,6 +67,16 @@
       "siteUrl": "https://www.manjusaka.blog/atom.xml",
       "articles": [
         {
+          "id": "https://www.manjusaka.blog/posts/2023/08/26/a-little-bit-design-about-cpu-burst-in-k8s/",
+          "author": null,
+          "description": "<p>深夜看群友聊的我实在焦虑，起来随便写个水文压压惊</p>",
+          "link": "https://www.manjusaka.blog/posts/2023/08/26/a-little-bit-design-about-cpu-burst-in-k8s/",
+          "publishedOn": "2023-08-26T19:09:00.000Z",
+          "wordCount": 2335,
+          "title": "关于 CPU Burst 在 K8s 中的一些设计想法",
+          "imageUrl": "https://cdn.pixabay.com/photo/2023/02/08/15/10/sculpture-7776861_1280.jpg"
+        },
+        {
           "id": "https://www.manjusaka.blog/posts/2023/08/22/a-little-bit-idea-about-unwind/",
           "author": null,
           "description": "<p>随手记录一些关于用户态栈回溯（Unwind）的一些杂记和想法。</p>",

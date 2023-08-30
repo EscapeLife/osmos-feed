@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-08-29T00:38:46.382Z</updated>
+    <updated>2023-08-30T00:38:31.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -34,26 +34,6 @@
         <summary type="html"><![CDATA[<h1 id="Midjourney-API-申请及使用"><a href="#Midjourney-API-申请及使用" class="headerlink" title="Midjourney API 申请及使用"></a>Midjourney API 申请及使用</h1>]]></summary>
         <author>
             <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[思想漫步]]></title>
-        <id>https://frostming.com/2023/mind-wandering1/</id>
-        <link href="https://frostming.com/2023/mind-wandering1/"/>
-        <updated>2023-08-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[醉后不知天在水，满船清梦压星河]]></summary>
-        <author>
-            <name>mianghong@gmail.com (Frost Ming)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我又开始想念知乎了]]></title>
-        <id>https://laike9m.com/blog/wo-you-kai-shi-xiang-nian-zhi-hu-liao,153/</id>
-        <link href="https://laike9m.com/blog/wo-you-kai-shi-xiang-nian-zhi-hu-liao,153/"/>
-        <updated>2023-08-14T17:18:44.000Z</updated>
-        <summary type="html"><![CDATA[没有简介, 请去看原文吧]]></summary>
-        <author>
-            <name>laike9m's blog</name>
         </author>
     </entry>
     <entry>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-09-04T00:39:30.022Z</updated>
+    <updated>2023-09-05T00:38:10.777Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -60,16 +60,6 @@ Prometheus HTTP SD 框架
         <summary type="html"><![CDATA[<p>随手记录一些关于用户态栈回溯（Unwind）的一些杂记和想法。</p>]]></summary>
         <author>
             <name>Manjusaka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Midjourney API 的申请和使用]]></title>
-        <id>https://cuiqingcai.com/42341.html</id>
-        <link href="https://cuiqingcai.com/42341.html"/>
-        <updated>2023-08-20T17:31:45.000Z</updated>
-        <summary type="html"><![CDATA[<h1 id="Midjourney-API-申请及使用"><a href="#Midjourney-API-申请及使用" class="headerlink" title="Midjourney API 申请及使用"></a>Midjourney API 申请及使用</h1>]]></summary>
-        <author>
-            <name>静觅</name>
         </author>
     </entry>
     <entry>

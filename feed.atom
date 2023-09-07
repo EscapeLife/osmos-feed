@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-09-06T00:38:38.795Z</updated>
+    <updated>2023-09-07T00:38:32.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -48,16 +48,6 @@ Prometheus HTTP SD 框架
         <link href="https://www.manjusaka.blog/posts/2023/08/26/a-little-bit-design-about-cpu-burst-in-k8s/"/>
         <updated>2023-08-26T19:09:00.000Z</updated>
         <summary type="html"><![CDATA[<p>深夜看群友聊的我实在焦虑，起来随便写个水文压压惊</p>]]></summary>
-        <author>
-            <name>Manjusaka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于用户态栈回溯（Unwind）的一些杂记和想法]]></title>
-        <id>https://www.manjusaka.blog/posts/2023/08/22/a-little-bit-idea-about-unwind/</id>
-        <link href="https://www.manjusaka.blog/posts/2023/08/22/a-little-bit-idea-about-unwind/"/>
-        <updated>2023-08-22T16:09:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>随手记录一些关于用户态栈回溯（Unwind）的一些杂记和想法。</p>]]></summary>
         <author>
             <name>Manjusaka</name>
         </author>

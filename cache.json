@@ -86,18 +86,7 @@
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "https://www.manjusaka.blog/atom.xml",
-      "articles": [
-        {
-          "id": "https://www.manjusaka.blog/posts/2023/08/26/a-little-bit-design-about-cpu-burst-in-k8s/",
-          "author": null,
-          "description": "<p>深夜看群友聊的我实在焦虑，起来随便写个水文压压惊</p>",
-          "link": "https://www.manjusaka.blog/posts/2023/08/26/a-little-bit-design-about-cpu-burst-in-k8s/",
-          "publishedOn": "2023-08-26T19:09:00.000Z",
-          "wordCount": 2335,
-          "title": "关于 CPU Burst 在 K8s 中的一些设计想法",
-          "imageUrl": "https://cdn.pixabay.com/photo/2023/02/08/15/10/sculpture-7776861_1280.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "laike9m's blog",
@@ -133,7 +122,18 @@
       "title": "�Ʒ�� BLOG",
       "feedUrl": "https://blog.codingnow.com/atom.xml",
       "siteUrl": "https://blog.codingnow.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://blog.codingnow.com/2023/09/effect_system_rework.html",
+          "author": null,
+          "description": "�ϴ��ᵽ���������ݷ������֣��������棨��Ϸ��Ŀǰ��Чϵͳռ�˺ܴ�� CPU ��������Ȼ��Ч�ļ����Ѿ����ڶ����̣߳���Ӱ��֡�ʣ��� CPU �Ŀ����ᵼ�µ�����ģ����ջ������ֻ������������������ֻ���Ƶ�����ԣ���ʱ����һЩ����׼ȷ�Եķ��������Ż����������ھ�ͷ�ڵ���Ч�����㡣���Ӿ��ü�ͬʱҲ�ü�����Ч����Ƭ�ļ��㡣 ��������ⷽ����ع����������е��ѵ����ڣ���Чģ���ǵ������ģ�������ȫ�������ǵ�������ƣ�����������û������ʵ�ֻ����ļƻ���...",
+          "link": "https://blog.codingnow.com/2023/09/effect_system_rework.html",
+          "publishedOn": "2023-09-11T03:10:54.000Z",
+          "wordCount": 97,
+          "title": "��Ч�ӿڵ��ع�",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "piglei",

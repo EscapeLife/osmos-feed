@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-09-14T00:38:44.394Z</updated>
+    <updated>2023-09-15T00:39:26.867Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[�ϴ��ᵽ���������ݷ������֣��������棨��Ϸ��Ŀǰ��Чϵͳռ�˺ܴ�� CPU ��������Ȼ��Ч�ļ����Ѿ����ڶ����̣߳���Ӱ��֡�ʣ��� CPU �Ŀ����ᵼ�µ�����ģ����ջ������ֻ������������������ֻ���Ƶ�����ԣ���ʱ����һЩ����׼ȷ�Եķ��������Ż����������ھ�ͷ�ڵ���Ч�����㡣���Ӿ��ü�ͬʱҲ�ü�����Ч����Ƭ�ļ��㡣 ��������ⷽ����ع����������е��ѵ����ڣ���Чģ���ǵ������ģ�������ȫ�������ǵ�������ƣ�����������û������ʵ�ֻ����ļƻ���...]]></summary>
         <author>
             <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[艺术二维码 API 申请及使用]]></title>
+        <id>https://cuiqingcai.com/42342.html</id>
+        <link href="https://cuiqingcai.com/42342.html"/>
+        <updated>2023-09-01T15:47:18.000Z</updated>
+        <summary type="html"><![CDATA[<p>艺术二维码是一种创新的技术产品，它将二维码与美观的背景图像相结合，创造出既实用又美观的作品。它们不仅具有传统二维码的功能性，能被智能设备快速扫描识别，还加入了艺术元素，增强了视觉吸引力和品牌识别度。其中，部分艺术二维码甚至由人工智能生成，充分利用了现代技术，展示出无与伦比的]]></summary>
+        <author>
+            <name>静觅</name>
         </author>
     </entry>
     <entry>

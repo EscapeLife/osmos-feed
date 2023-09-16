@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-09-15T00:39:26.867Z</updated>
+    <updated>2023-09-16T00:38:07.419Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -40,24 +40,6 @@ Socat 魔法：内网穿透
 PromQL 使用多个 label 组合过滤
 HTTP 长连接
 用 ssh 传输文件]]></summary>
-        <author>
-            <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Socat 魔法：内网穿透]]></title>
-        <id>https://www.kawabangga.com/?p=5324</id>
-        <link href="https://www.kawabangga.com/posts/5324"/>
-        <updated>2023-08-31T15:09:00.000Z</updated>
-        <summary type="html"><![CDATA[今天有一个这样的需求： 这就是一个典型的内网穿透的需求了。我今天发现，socat 就可以做这样的事情。 如下图 […]
-Continue reading...
-相关文章:
-
-多租户环境中的 TCP 限速（基于 iptables）
-可悲的大多数
-推荐音乐专辑《Labor》
-Prometheus HTTP SD 框架
-去南京]]></summary>
         <author>
             <name>laixintao</name>
         </author>

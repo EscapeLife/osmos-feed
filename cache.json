@@ -71,7 +71,18 @@
       "title": "laike9m's blog",
       "feedUrl": "https://laike9m.com/blog/rss",
       "siteUrl": "https://laike9m.com/blog/rss",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://laike9m.com/blog/legacy-code-legacy-country,154/",
+          "author": null,
+          "description": "没有简介, 请去看原文吧",
+          "link": "https://laike9m.com/blog/legacy-code-legacy-country,154/",
+          "publishedOn": "2023-09-17T19:13:34.000Z",
+          "wordCount": 411,
+          "title": "Legacy Code, Legacy Country",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Frost's Blog",

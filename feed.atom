@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-09-25T00:39:43.328Z</updated>
+    <updated>2023-09-26T00:39:50.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -61,16 +61,6 @@ include_external_packages = True
         <summary type="html"><![CDATA[没有简介, 请去看原文吧]]></summary>
         <author>
             <name>laike9m's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[��Ч�ӿڵ��ع�]]></title>
-        <id>https://blog.codingnow.com/2023/09/effect_system_rework.html</id>
-        <link href="https://blog.codingnow.com/2023/09/effect_system_rework.html"/>
-        <updated>2023-09-11T03:10:54.000Z</updated>
-        <summary type="html"><![CDATA[�ϴ��ᵽ���������ݷ������֣��������棨��Ϸ��Ŀǰ��Чϵͳռ�˺ܴ�� CPU ��������Ȼ��Ч�ļ����Ѿ����ڶ����̣߳���Ӱ��֡�ʣ��� CPU �Ŀ����ᵼ�µ�����ģ����ջ������ֻ������������������ֻ���Ƶ�����ԣ���ʱ����һЩ����׼ȷ�Եķ��������Ż����������ھ�ͷ�ڵ���Ч�����㡣���Ӿ��ü�ͬʱҲ�ü�����Ч����Ƭ�ļ��㡣 ��������ⷽ����ع����������е��ѵ����ڣ���Чģ���ǵ������ģ�������ȫ�������ǵ�������ƣ�����������û������ʵ�ֻ����ļƻ���...]]></summary>
-        <author>
-            <name>�Ʒ�� BLOG</name>
         </author>
     </entry>
     <entry>

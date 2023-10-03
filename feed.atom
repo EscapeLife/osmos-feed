@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-10-02T00:40:13.005Z</updated>
+    <updated>2023-10-03T00:40:14.688Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -61,16 +61,6 @@ include_external_packages = True
         <summary type="html"><![CDATA[���������������Ϸ������������Ϸ���������е��˶�������������塢Χ�塢�˿ˡ����������Щ��ͳ�ĳ�����Ϸ�������ִ�������Ϸ�Ѿ���ʮ�����ˡ���ȥ���Ǻ�����һ���棬��������꣬������Ǻͼ��ˣ�С����һ���档�����಻���ִ����ε�������Ĳ�һ������Ȼ������Ϸ��̥��������Ϸ����������Ϸȴ��û�б���̭������һֱ���Ƴ³��£�ÿ�궼�������µļ��������� ��������ôЩ�꣬�ҷ���������ʵ���Էֳ��������ࡣ������Щ�������ζ������Һܶ࣬�����൱һ������רע���ر�һ�����࣬���������������Ȥ������ʱ���������ò�ͬ����֮�仹��һЩ���������ڡ�...]]></summary>
         <author>
             <name>�Ʒ�� BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Legacy Code, Legacy Country]]></title>
-        <id>https://laike9m.com/blog/legacy-code-legacy-country,154/</id>
-        <link href="https://laike9m.com/blog/legacy-code-legacy-country,154/"/>
-        <updated>2023-09-17T19:13:34.000Z</updated>
-        <summary type="html"><![CDATA[没有简介, 请去看原文吧]]></summary>
-        <author>
-            <name>laike9m's blog</name>
         </author>
     </entry>
     <entry>

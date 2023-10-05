@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-10-04T00:40:14.308Z</updated>
+    <updated>2023-10-05T00:39:40.234Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -24,33 +24,6 @@
         <summary type="html"><![CDATA[����������һ����������㷨������������⣬�����Ķྫ���Ų�ͽ�������������д�� ltask ��� lua ��������ϡ�ltask ����Ƕ� skynet ��һЩ��˼�п�ʼ�ģ����ֻ���뻻һ��˼·ʵ�� skynet ����һ��������ǿ�ܡ����ٵ������������������Ϊ��Ϣ���жѻ������ء��� ������������Ϸ���濪ʼ���Ի��� ltask �����ֻ��豸�ϵĶ�ˣ������ı�����������Ҳ��չ���� skynet ��ͬ�Ĳ��֡����������һֱ��Χ���ƶ��豸�ͻ��˳����Ż����������粿�ֲ����ص㣬Ҳ�Ͳ���Ҫ�� skynet ����������ģ�����ڿ�ܵײ㣬������һ������������ڡ������� IO ���ļ� IO ���ͻ��˴�����Щ�����ֲ��ʺ���������Ⱦ��صķ������һ����Ϊ������Ҫ�Ͳ���ϵͳֱ�Ӵ򽻵����������� ltask ���ֳַ��˶�ռ�̺߳͹��������߳����ֲ�ͬ���̣߳����԰Ѳ�ͬ�ķ�����ڲ�ͬ���߳��ϡ��������� iOS ���������ô����߳����������߳��ϣ������ò��� ltask ���������֧�֡� ������ֵ��������Ҳ����Ϸ�ͻ������еģ�������˵��������Ϸ�������� skynet �����ڿͻ��˵� ltask ��ʵ�ֲ��ص��ϵĲ�ͬ��...]]></summary>
         <author>
             <name>�Ʒ�� BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用 import-linter 让你的 Python 项目架构更整洁]]></title>
-        <id>https://www.piglei.com/articles/use-import-linter-to-lint-proj-arch/</id>
-        <link href="https://www.piglei.com/articles/use-import-linter-to-lint-proj-arch/"/>
-        <updated>2023-09-20T08:52:03.000Z</updated>
-        <summary type="html"><![CDATA[对于活跃的大型 Python 项目而言，维持架构的整洁性是一件颇具挑战的事情，这主要体现在包与包、模块与模块之间，难以保持简单而清晰的依赖关系。
-一个大型项目，通常包含数以百记的子模块，各自实现特定的功能，互相依赖。如果在架构层面上缺少设计，开发实践上没有约束，这些模块间的依赖关系，常常会发展成为一个胡乱缠绕的线团，让人难以理清头绪。
-这会带来以下问题：
-架构理解成本高：当新人加入项目时，会有许多关于架构的疑问，比方说：既然 common.validators 是一个低层的通用工具模块，为何要引用高层模块 workloads 中的 ConfigVar 模型？ 
-影响开发效率：想要开发新功能时，开发者难以判断代码应放在哪个包的哪个模块中，而且不同的人可能会有不同的看法，很难达成共识
-模块职责混乱：依赖关系很乱，基本等同于模块的职责也很乱，这意味着部分模块可能承担太多，关注了不应该关注的抽象
-如果把依赖关系画成一张图，一个架构健康的项目的图，看上去应该层次分明，图中所有依赖都是单向流动，不存在环形依赖。健康的依赖关系，有助于各个模块达成“关注点分离”的状态，维持职责单一。
-本文介绍一个治理模块间依赖关系的工具：import-linter 。
-import-linter 简介
-import-linter 是由 seddonym 开发的一个开源代码 Linter 工具。
-要使用 import-linter 检查依赖关系，首先需要在配置文件中定义一些“契约（contract）”。举个例子，下面是一份 import-linter 的配置文件：
-# file: .importlinter
-[importlinter]
-root_packages = 
-    foo_proj
-include_external_packages = True
-
-[importlinter:contract…]]></summary>
-        <author>
-            <name>piglei</name>
         </author>
     </entry>
     <entry>

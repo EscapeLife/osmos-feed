@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-10-05T00:39:40.234Z</updated>
+    <updated>2023-10-06T00:39:56.544Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[聊聊 Python 3.12 中 perf 的原生支持]]></title>
+        <id>https://www.manjusaka.blog/posts/2023/10/05/the-perf-feature-python-312/</id>
+        <link href="https://www.manjusaka.blog/posts/2023/10/05/the-perf-feature-python-312/"/>
+        <updated>2023-10-05T15:50:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>好久没写 Python 相关的文章了，但是 Python 3.12 perf 原生支持的这个特性非常的棒，思路又新又好了属于是，所以写篇水文来聊聊这个特性</p>]]></summary>
+        <author>
+            <name>Manjusaka</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[巧合]]></title>
         <id>https://laike9m.com/blog/qiao-he,155/</id>

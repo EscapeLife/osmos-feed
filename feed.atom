@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-10-06T00:39:56.544Z</updated>
+    <updated>2023-10-07T00:39:24.815Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -24,16 +24,6 @@
         <summary type="html"><![CDATA[没有简介, 请去看原文吧]]></summary>
         <author>
             <name>laike9m's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[һ����������㷨�������������]]></title>
-        <id>https://blog.codingnow.com/2023/09/ltask_schedule.html</id>
-        <link href="https://blog.codingnow.com/2023/09/ltask_schedule.html"/>
-        <updated>2023-09-22T12:10:59.000Z</updated>
-        <summary type="html"><![CDATA[����������һ����������㷨������������⣬�����Ķྫ���Ų�ͽ�������������д�� ltask ��� lua ��������ϡ�ltask ����Ƕ� skynet ��һЩ��˼�п�ʼ�ģ����ֻ���뻻һ��˼·ʵ�� skynet ����һ��������ǿ�ܡ����ٵ������������������Ϊ��Ϣ���жѻ������ء��� ������������Ϸ���濪ʼ���Ի��� ltask �����ֻ��豸�ϵĶ�ˣ������ı�����������Ҳ��չ���� skynet ��ͬ�Ĳ��֡����������һֱ��Χ���ƶ��豸�ͻ��˳����Ż����������粿�ֲ����ص㣬Ҳ�Ͳ���Ҫ�� skynet ����������ģ�����ڿ�ܵײ㣬������һ������������ڡ������� IO ���ļ� IO ���ͻ��˴�����Щ�����ֲ��ʺ���������Ⱦ��صķ������һ����Ϊ������Ҫ�Ͳ���ϵͳֱ�Ӵ򽻵����������� ltask ���ֳַ��˶�ռ�̺߳͹��������߳����ֲ�ͬ���̣߳����԰Ѳ�ͬ�ķ�����ڲ�ͬ���߳��ϡ��������� iOS ���������ô����߳����������߳��ϣ������ò��� ltask ���������֧�֡� ������ֵ��������Ҳ����Ϸ�ͻ������еģ�������˵��������Ϸ�������� skynet �����ڿͻ��˵� ltask ��ʵ�ֲ��ص��ϵĲ�ͬ��...]]></summary>
-        <author>
-            <name>�Ʒ�� BLOG</name>
         </author>
     </entry>
     <entry>

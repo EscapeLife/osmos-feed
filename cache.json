@@ -147,7 +147,18 @@
       "title": "离别歌",
       "feedUrl": "https://www.leavesongs.com/feed",
       "siteUrl": "https://www.leavesongs.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.leavesongs.com/PENETRATION/jumpserver-sep-2023-multiple-vulnerabilities-go-through.html",
+          "author": "phithon",
+          "description": "Jumpserver是中国国内公司开发的一个开源项目，在开源堡垒机领域一家独大。在2023年9月官方集中修复了一系列安全问题，其中涉及到如下安全漏洞：\nJumpServer 重置密码验证码可被计算推演的漏洞，CVE编号为CVE-2023-42820\nJumpServer 重置密码验证码可被暴力破解的漏洞，CVE编号为CVE-2023-43650\nJumpServer 认证用户跨目录任意文件...",
+          "link": "https://www.leavesongs.com/PENETRATION/jumpserver-sep-2023-multiple-vulnerabilities-go-through.html",
+          "publishedOn": "2023-10-07T02:04:00.000Z",
+          "wordCount": 940,
+          "title": "Jumpserver安全一窥：Sep系列漏洞深度解析",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "张戈博客",

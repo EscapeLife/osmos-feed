@@ -59,7 +59,18 @@
       "title": "卡瓦邦噶！",
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.kawabangga.com/?p=5427",
+          "author": "laixintao",
+          "description": "由于工作中经常遇到需要性能分析，所以自己写了一个能在终端看火焰图（后面打算再写篇博客介绍下火焰图以及如何阅读） […]\nContinue reading...\n相关文章:\n\nPyCon China 2019演讲Slide: Django Migration Under the Hood\n杭州PyCon 2019 Slide: 《做Side Project的几个建议》\nPython 文化中的接口和协议 Slides\nTmux内部分享slides\nZoom 直播分享 Awesome Commandline 录像和资料下载",
+          "link": "https://www.kawabangga.com/posts/5427",
+          "publishedOn": "2023-10-07T09:07:00.000Z",
+          "wordCount": 1356,
+          "title": "Flameshow 性能优化小记",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Manjusaka",

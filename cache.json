@@ -61,6 +61,16 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=5452",
+          "author": "laixintao",
+          "description": "我们每天要进行大量的线上变更操作。怎么保证这些操作安全，不会导致故障，是我每天都在思考的问题。 这篇文章从工作 […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/5452",
+          "publishedOn": "2023-10-12T15:23:55.000Z",
+          "wordCount": 1017,
+          "title": "SRE 线上操作指南",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=5427",
           "author": "laixintao",
           "description": "由于工作中经常遇到需要性能分析，所以自己写了一个能在终端看火焰图（后面打算再写篇博客介绍下火焰图以及如何阅读） […]\nContinue reading...\n相关文章:\n\nPyCon China 2019演讲Slide: Django Migration Under the Hood\n杭州PyCon 2019 Slide: 《做Side Project的几个建议》\nPython 文化中的接口和协议 Slides\nTmux内部分享slides\nZoom 直播分享 Awesome Commandline 录像和资料下载",
@@ -159,6 +169,16 @@
       "feedUrl": "https://www.leavesongs.com/feed",
       "siteUrl": "https://www.leavesongs.com",
       "articles": [
+        {
+          "id": "https://www.leavesongs.com/PENETRATION/php-challenge-2023-oct.html",
+          "author": "phithon",
+          "description": "前几天在『代码审计』知识星球里发了一个小挑战：https://t.zsxq.com/13bFX1N8F\n<?php\n$password = trim($_REQUEST['password'] ?? '');\n$name = trim($_REQUEST['name'] ?? 'viewsource');\nfunction...",
+          "link": "https://www.leavesongs.com/PENETRATION/php-challenge-2023-oct.html",
+          "publishedOn": "2023-10-13T02:00:00.000Z",
+          "wordCount": 549,
+          "title": "知识星球2023年10月PHP函数小挑战",
+          "imageUrl": null
+        },
         {
           "id": "https://www.leavesongs.com/PENETRATION/jumpserver-sep-2023-multiple-vulnerabilities-go-through.html",
           "author": "phithon",

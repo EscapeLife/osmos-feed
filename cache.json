@@ -97,18 +97,7 @@
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "https://www.manjusaka.blog/atom.xml",
-      "articles": [
-        {
-          "id": "https://www.manjusaka.blog/posts/2023/10/05/the-perf-feature-python-312/",
-          "author": null,
-          "description": "<p>好久没写 Python 相关的文章了，但是 Python 3.12 perf 原生支持的这个特性非常的棒，思路又新又好了属于是，所以写篇水文来聊聊这个特性</p>",
-          "link": "https://www.manjusaka.blog/posts/2023/10/05/the-perf-feature-python-312/",
-          "publishedOn": "2023-10-05T15:50:00.000Z",
-          "wordCount": 2710,
-          "title": "聊聊 Python 3.12 中 perf 的原生支持",
-          "imageUrl": "https://cdn.pixabay.com/photo/2023/02/06/01/14/superb-fairywren-7770904_1280.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "laike9m's blog",
@@ -144,7 +133,18 @@
       "title": "�Ʒ�� BLOG",
       "feedUrl": "https://blog.codingnow.com/atom.xml",
       "siteUrl": "https://blog.codingnow.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://blog.codingnow.com/2023/10/touch_screen_interaction.html",
+          "author": null,
+          "description": "������ֻ������������ڿ�������Ϸʱ��Ƚ϶֮ࣨǰ��Ҫ���е��� Windows �棩���������������ֵ�øĽ��������о�����ֵ��һ��Ľ����Ż��� ��һ���������ϵ���ر�С�����ʱ���Ѿ�ȷ��ȥ�������һ��������� �����ǵ���Ϸһֱ�����������ģ����� tap ��Ļͬһ��λ�ã�����ѯ���λ�ø����������������һ�ε㲻׼�Ļ������Զ�㼸��ѡ����Ҫ�Ľ��㡣�ⲻ�����Խ��С����ܼ���ʱ��tap �������ֵ����⣬������ѡ���ص�����������������ʵ�������Ϸ��������ôʹ�õ��ˣ����� rimworld ���������Ʒ�������ͬһ���������ж����ѡ����ġ�...",
+          "link": "https://blog.codingnow.com/2023/10/touch_screen_interaction.html",
+          "publishedOn": "2023-10-20T03:36:08.000Z",
+          "wordCount": 75,
+          "title": "�ֻ���Ϸ����������Ľ�",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "piglei",

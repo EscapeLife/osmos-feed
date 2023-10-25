@@ -87,7 +87,18 @@
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "https://www.manjusaka.blog/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.manjusaka.blog/posts/2023/10/24/open-source-is-simple-than-you-think/",
+          "author": null,
+          "description": "<p>去参与社区？难吗？其实不难，只是你想的很难，或者说难是你给自己找的借口</p>",
+          "link": "https://www.manjusaka.blog/posts/2023/10/24/open-source-is-simple-than-you-think/",
+          "publishedOn": "2023-10-24T12:00:00.000Z",
+          "wordCount": 1201,
+          "title": "开源可能没你想的那么难",
+          "imageUrl": "https://cdn.pixabay.com/photo/2023/02/04/07/38/cherry-blossoms-7766587_1280.jpg"
+        }
+      ]
     },
     {
       "title": "laike9m's blog",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-10-24T00:40:17.373Z</updated>
+    <updated>2023-10-25T00:40:08.268Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[开源可能没你想的那么难]]></title>
+        <id>https://www.manjusaka.blog/posts/2023/10/24/open-source-is-simple-than-you-think/</id>
+        <link href="https://www.manjusaka.blog/posts/2023/10/24/open-source-is-simple-than-you-think/"/>
+        <updated>2023-10-24T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>去参与社区？难吗？其实不难，只是你想的很难，或者说难是你给自己找的借口</p>]]></summary>
+        <author>
+            <name>Manjusaka</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[�ֻ���Ϸ����������Ľ�]]></title>
         <id>https://blog.codingnow.com/2023/10/touch_screen_interaction.html</id>

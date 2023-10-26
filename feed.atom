@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-10-25T00:40:08.268Z</updated>
+    <updated>2023-10-26T00:39:13.831Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[��Ϸ����������ļ�ϵͳ]]></title>
+        <id>https://blog.codingnow.com/2023/10/vfs.html</id>
+        <link href="https://blog.codingnow.com/2023/10/vfs.html"/>
+        <updated>2023-10-25T06:34:09.000Z</updated>
+        <summary type="html"><![CDATA[Ŀǰ������Ϸ�õ��������� 2018 ��Ϳ�ʼ�ˡ���Ϊһ��ʼ�����Ͷ�λΪһ����Ҫ�����ֻ�ƽ̨����Ϸ���棬Ҫ�����ֻ���������Ϊ���ǲ�̫����ֱ�����ֻ��豸�ϱ�д���롢������Դ�����Կ�����һ���Ǻ���Ϸ���л�������ġ���һ��ʼ�����Ǿ������һ�������ļ�ϵͳ��������ͨ�����磬�ѿ������ϵ��ļ�ϵͳӳ�䵽�ֻ��豸�ϣ�ͬʱ���а汾�����Ĺ��ܡ��������ſ��������ڿ����ڼ䣬�������������Ĵ�����޸ģ��������̷�ӳ���ֻ��ϡ� ���ǵ���Ϸ����Ĵ󲿷����� Lua �����ģ���Ҳ��ζ���ļ�ϵͳ�в�������Ϸ�õ���Դ�زģ��������˴��뱾�������������������ļ�ϵͳ������ʵ�֡����������һ��ʼ���Ҫ�鷳�������⼸�겻�ϵ��޸�����ֱ�����������һ��ʼ��Ϊ���鷳���Ծٲ��� ����ȥ���ȥ���ˣ�Ϊ�ľ��Ǽ���ϵͳ�ĸ��Ӷȡ�...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开源可能没你想的那么难]]></title>
         <id>https://www.manjusaka.blog/posts/2023/10/24/open-source-is-simple-than-you-think/</id>

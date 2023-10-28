@@ -61,13 +61,13 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
-          "id": "https://www.kawabangga.com/?p=5452",
+          "id": "https://www.kawabangga.com/?p=5462",
           "author": "laixintao",
-          "description": "我们每天要进行大量的线上变更操作。怎么保证这些操作安全，不会导致故障，是我每天都在思考的问题。 这篇文章从工作 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/5452",
-          "publishedOn": "2023-10-12T15:23:55.000Z",
-          "wordCount": 1017,
-          "title": "SRE 线上操作指南",
+          "description": "今天遇到的一个小问题：foo.txt 是一个常规文件，link-1 是一个符号连接（有些地方又叫软连接，sym […]\nContinue reading...\n相关文章:\n\nGolang 的一个动态链接依赖问题\n心愿\n近况\nLinux 文件系统 inode 介绍\n针对进程设置路由规则",
+          "link": "https://www.kawabangga.com/posts/5462",
+          "publishedOn": "2023-10-27T05:55:00.000Z",
+          "wordCount": 1056,
+          "title": "sed 原地替换和符号连接的一个小坑",
           "imageUrl": null
         }
       ]
@@ -168,18 +168,7 @@
       "title": "离别歌",
       "feedUrl": "https://www.leavesongs.com/feed",
       "siteUrl": "https://www.leavesongs.com",
-      "articles": [
-        {
-          "id": "https://www.leavesongs.com/PENETRATION/php-challenge-2023-oct.html",
-          "author": "phithon",
-          "description": "前几天在『代码审计』知识星球里发了一个小挑战：https://t.zsxq.com/13bFX1N8F\n<?php\n$password = trim($_REQUEST['password'] ?? '');\n$name = trim($_REQUEST['name'] ?? 'viewsource');\nfunction...",
-          "link": "https://www.leavesongs.com/PENETRATION/php-challenge-2023-oct.html",
-          "publishedOn": "2023-10-13T02:00:00.000Z",
-          "wordCount": 549,
-          "title": "知识星球2023年10月PHP函数小挑战",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "张戈博客",

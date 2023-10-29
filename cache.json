@@ -117,7 +117,18 @@
       "title": "李辉",
       "feedUrl": "https://greyli.com/feed",
       "siteUrl": "https://greyli.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://greyli.com/?p=5225",
+          "author": "李辉",
+          "description": "代码厨房是一个面向编程和开源爱好者的社区。社区的主体是坐落在 codekitchen.community 的论 […]",
+          "link": "https://greyli.com/codekitchen/",
+          "publishedOn": "2023-10-28T15:14:46.000Z",
+          "wordCount": 425,
+          "title": "代码厨房欢迎你",
+          "imageUrl": "https://greyli.com/wp-content/uploads/2020/07/avatar.jpg"
+        }
+      ]
     },
     {
       "title": "�Ʒ�� BLOG",

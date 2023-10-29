@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-10-28T00:38:20.008Z</updated>
+    <updated>2023-10-29T00:42:36.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[代码厨房欢迎你]]></title>
+        <id>https://greyli.com/?p=5225</id>
+        <link href="https://greyli.com/codekitchen/"/>
+        <updated>2023-10-28T15:14:46.000Z</updated>
+        <summary type="html"><![CDATA[代码厨房是一个面向编程和开源爱好者的社区。社区的主体是坐落在 codekitchen.community 的论 […]]]></summary>
+        <author>
+            <name>李辉</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[sed 原地替换和符号连接的一个小坑]]></title>
         <id>https://www.kawabangga.com/?p=5462</id>

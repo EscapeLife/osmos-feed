@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-10-29T00:42:36.017Z</updated>
+    <updated>2023-10-30T00:40:14.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Python 3.12：一个被人忽略的史诗级版本]]></title>
+        <id>https://www.manjusaka.blog/posts/2023/10/29/the-most-important-thing-in-python-3-12/</id>
+        <link href="https://www.manjusaka.blog/posts/2023/10/29/the-most-important-thing-in-python-3-12/"/>
+        <updated>2023-10-29T19:49:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Python 3.12 已经发布了一段时间，所以写篇水文来聊一聊这个常常被人忽略的史诗级版本。</p>
+<h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><p>Python 3.12 绝对是]]></summary>
+        <author>
+            <name>Manjusaka</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[代码厨房欢迎你]]></title>
         <id>https://greyli.com/?p=5225</id>

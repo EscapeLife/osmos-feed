@@ -78,6 +78,16 @@
       "siteUrl": "https://www.manjusaka.blog/atom.xml",
       "articles": [
         {
+          "id": "https://www.manjusaka.blog/posts/2023/10/29/the-most-important-thing-in-python-3-12/",
+          "author": null,
+          "description": "<p>Python 3.12 已经发布了一段时间，所以写篇水文来聊一聊这个常常被人忽略的史诗级版本。</p>\n<h2 id=\"正文\"><a href=\"#正文\" class=\"headerlink\" title=\"正文\"></a>正文</h2><p>Python 3.12 绝对是",
+          "link": "https://www.manjusaka.blog/posts/2023/10/29/the-most-important-thing-in-python-3-12/",
+          "publishedOn": "2023-10-29T19:49:00.000Z",
+          "wordCount": 1686,
+          "title": "Python 3.12：一个被人忽略的史诗级版本",
+          "imageUrl": "https://cdn.pixabay.com/photo/2023/02/04/07/50/daisy-7766609_1280.jpg"
+        },
+        {
           "id": "https://www.manjusaka.blog/posts/2023/10/24/open-source-is-simple-than-you-think/",
           "author": null,
           "description": "<p>去参与社区？难吗？其实不难，只是你想的很难，或者说难是你给自己找的借口</p>",

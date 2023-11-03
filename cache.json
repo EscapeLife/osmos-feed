@@ -4,7 +4,18 @@
       "title": "Escape",
       "feedUrl": "https://www.escapelife.site/atom.xml",
       "siteUrl": "https://www.escapelife.site/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.escapelife.site/posts/44c82fd9.html",
+          "author": null,
+          "description": "<blockquote>\n<p><strong>KubeKey 一个开源的轻量级工具，用于部署 Kubernetes 集群。</strong></p>\n</blockquote>\n<p><code>KubeKey</code> 提供了灵活、快速、方便的方式来安装",
+          "link": "https://www.escapelife.site/posts/44c82fd9.html",
+          "publishedOn": "2023-11-02T09:10:00.000Z",
+          "wordCount": 2019,
+          "title": "KubeKey轻量集群安装工具",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "酷 壳 – CoolShell",

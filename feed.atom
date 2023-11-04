@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-11-03T00:40:01.860Z</updated>
+    <updated>2023-11-04T00:39:51.272Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -76,16 +76,6 @@ Linux 文件系统 inode 介绍
         <summary type="html"><![CDATA[<p>去参与社区？难吗？其实不难，只是你想的很难，或者说难是你给自己找的借口</p>]]></summary>
         <author>
             <name>Manjusaka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[�ֻ���Ϸ����������Ľ�]]></title>
-        <id>https://blog.codingnow.com/2023/10/touch_screen_interaction.html</id>
-        <link href="https://blog.codingnow.com/2023/10/touch_screen_interaction.html"/>
-        <updated>2023-10-20T03:36:08.000Z</updated>
-        <summary type="html"><![CDATA[������ֻ������������ڿ�������Ϸʱ��Ƚ϶֮ࣨǰ��Ҫ���е��� Windows �棩���������������ֵ�øĽ��������о�����ֵ��һ��Ľ����Ż��� ��һ���������ϵ���ر�С�����ʱ���Ѿ�ȷ��ȥ�������һ��������� �����ǵ���Ϸһֱ�����������ģ����� tap ��Ļͬһ��λ�ã�����ѯ���λ�ø����������������һ�ε㲻׼�Ļ������Զ�㼸��ѡ����Ҫ�Ľ��㡣�ⲻ�����Խ��С����ܼ���ʱ��tap �������ֵ����⣬������ѡ���ص�����������������ʵ�������Ϸ��������ôʹ�õ��ˣ����� rimworld ���������Ʒ�������ͬһ���������ж����ѡ����ġ�...]]></summary>
-        <author>
-            <name>�Ʒ�� BLOG</name>
         </author>
     </entry>
     <entry>

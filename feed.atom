@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-11-05T00:43:17.557Z</updated>
+    <updated>2023-11-06T00:41:33.388Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[蚊子偷看我写书]]></title>
+        <id>https://greyli.com/?p=5242</id>
+        <link href="https://greyli.com/writing-day/"/>
+        <updated>2023-11-05T13:38:23.000Z</updated>
+        <summary type="html"><![CDATA[家里太舒服，所以决定去图书馆写书。起得太晚，到达已经是十一点半。写了半小时，午饭时间到。想找到特定颜色的共享单 […]]]></summary>
+        <author>
+            <name>李辉</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KubeKey轻量集群安装工具]]></title>
         <id>https://www.escapelife.site/posts/44c82fd9.html</id>

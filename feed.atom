@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-11-06T00:41:33.388Z</updated>
+    <updated>2023-11-07T00:40:54.986Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[�����ļ�ϵͳ����Դ���Ա���]]></title>
+        <id>https://blog.codingnow.com/2023/11/vfs_resource.html</id>
+        <link href="https://blog.codingnow.com/2023/11/vfs_resource.html"/>
+        <updated>2023-11-06T06:42:59.000Z</updated>
+        <summary type="html"><![CDATA[��ƪ̸��һ��������Ϸ����������ļ�ϵͳ��vfs�����Ҿ������ϵͳ�У���Ϸ�ʲ��Ĺ������ֻ��Ǹ�������˼����ƣ�ֵ��дһ�¡� VFS ����ƶ����Ƿ���ѿ����������ϵ�����ͬ���������豸��ͨ�����ֻ����С���ͳ��Ϸ���������ͨ���ǽ�һ�������ʲ��ֿ�Ķ������ڿ����ڼ䲻������ά������ֿ⡣��Ҫ����Ϸ�����������豸ʱ���ٴ���ϴ���ȥ����Ϊ��ͳ��Ϸ�����ڿ����ڼ�һ��ֱ���ڿ����������У����Դ���ϴ����ӿ�����ת����Ϸ�ʲ�������Ƶ���� �����ǵ���Ϸ�����ر�Ϊ�ֻ���Ϸ��������ƣ����ǲ�����ֱ�����ֻ��豸�Ͽ��������Կ�����һ�Ǻ����л�����ġ�Ϊ����߿���Ч�ʣ�������������� VFS ϵͳ������ͨ������ͬ����Դ�ֿ⡣...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蚊子偷看我写书]]></title>
         <id>https://greyli.com/?p=5242</id>

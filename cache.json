@@ -58,7 +58,18 @@
       "title": "Tinyfool的个人网站",
       "feedUrl": "http://feeds.feedburner.com/Tinyfoolblog",
       "siteUrl": "https://codechina.org/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://codechina.org/?p=30548",
+          "author": "tinyfool",
+          "description": "未来已来：普通人在AI时代的探索与适应 昨天 OpenAI 的 Devday 发布了一堆新功能，GPTs、GP […]\nChatGPT又发布了一堆新功能，普通人在AI时代应该如何应对最先出现在Tinyfool的个人网站。",
+          "link": "https://codechina.org/2023/11/chatgpt-man/",
+          "publishedOn": "2023-11-07T03:01:33.000Z",
+          "wordCount": 1232,
+          "title": "ChatGPT又发布了一堆新功能，普通人在AI时代应该如何应对",
+          "imageUrl": "https://codechina.org/wp-content/uploads/2023/11/ChatGPT.webp"
+        }
+      ]
     },
     {
       "title": "ChangeLog of KDr2.com",
@@ -97,16 +108,6 @@
           "wordCount": 1686,
           "title": "Python 3.12：一个被人忽略的史诗级版本",
           "imageUrl": "https://cdn.pixabay.com/photo/2023/02/04/07/50/daisy-7766609_1280.jpg"
-        },
-        {
-          "id": "https://www.manjusaka.blog/posts/2023/10/24/open-source-is-simple-than-you-think/",
-          "author": null,
-          "description": "<p>去参与社区？难吗？其实不难，只是你想的很难，或者说难是你给自己找的借口</p>",
-          "link": "https://www.manjusaka.blog/posts/2023/10/24/open-source-is-simple-than-you-think/",
-          "publishedOn": "2023-10-24T12:00:00.000Z",
-          "wordCount": 1201,
-          "title": "开源可能没你想的那么难",
-          "imageUrl": "https://cdn.pixabay.com/photo/2023/02/04/07/38/cherry-blossoms-7766587_1280.jpg"
         }
       ]
     },

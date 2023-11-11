@@ -91,18 +91,7 @@
       "title": "卡瓦邦噶！",
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
-      "articles": [
-        {
-          "id": "https://www.kawabangga.com/?p=5462",
-          "author": "laixintao",
-          "description": "今天遇到的一个小问题：foo.txt 是一个常规文件，link-1 是一个符号连接（有些地方又叫软连接，sym […]\nContinue reading...\n相关文章:\n\nGolang 的一个动态链接依赖问题\n心愿\n近况\nLinux 文件系统 inode 介绍\n针对进程设置路由规则",
-          "link": "https://www.kawabangga.com/posts/5462",
-          "publishedOn": "2023-10-27T05:55:00.000Z",
-          "wordCount": 1056,
-          "title": "sed 原地替换和符号连接的一个小坑",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Manjusaka",

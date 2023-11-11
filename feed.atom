@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-11-10T00:41:06.602Z</updated>
+    <updated>2023-11-11T00:40:03.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -80,24 +80,6 @@ ChatGPT又发布了一堆新功能，普通人在AI时代应该如何应对最�
         <summary type="html"><![CDATA[代码厨房是一个面向编程和开源爱好者的社区。社区的主体是坐落在 codekitchen.community 的论 […]]]></summary>
         <author>
             <name>李辉</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sed 原地替换和符号连接的一个小坑]]></title>
-        <id>https://www.kawabangga.com/?p=5462</id>
-        <link href="https://www.kawabangga.com/posts/5462"/>
-        <updated>2023-10-27T05:55:00.000Z</updated>
-        <summary type="html"><![CDATA[今天遇到的一个小问题：foo.txt 是一个常规文件，link-1 是一个符号连接（有些地方又叫软连接，sym […]
-Continue reading...
-相关文章:
-
-Golang 的一个动态链接依赖问题
-心愿
-近况
-Linux 文件系统 inode 介绍
-针对进程设置路由规则]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

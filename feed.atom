@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-11-12T00:44:05.507Z</updated>
+    <updated>2023-11-13T00:42:31.764Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -70,16 +70,6 @@ ChatGPT又发布了一堆新功能，普通人在AI时代应该如何应对最�
 <h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><p>Python 3.12 绝对是]]></summary>
         <author>
             <name>Manjusaka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[代码厨房欢迎你]]></title>
-        <id>https://greyli.com/?p=5225</id>
-        <link href="https://greyli.com/codekitchen/"/>
-        <updated>2023-10-28T15:14:46.000Z</updated>
-        <summary type="html"><![CDATA[代码厨房是一个面向编程和开源爱好者的社区。社区的主体是坐落在 codekitchen.community 的论 […]]]></summary>
-        <author>
-            <name>李辉</name>
         </author>
     </entry>
     <entry>

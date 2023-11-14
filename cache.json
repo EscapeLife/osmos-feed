@@ -97,18 +97,7 @@
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "https://www.manjusaka.blog/atom.xml",
-      "articles": [
-        {
-          "id": "https://www.manjusaka.blog/posts/2023/10/29/the-most-important-thing-in-python-3-12/",
-          "author": null,
-          "description": "<p>Python 3.12 已经发布了一段时间，所以写篇水文来聊一聊这个常常被人忽略的史诗级版本。</p>\n<h2 id=\"正文\"><a href=\"#正文\" class=\"headerlink\" title=\"正文\"></a>正文</h2><p>Python 3.12 绝对是",
-          "link": "https://www.manjusaka.blog/posts/2023/10/29/the-most-important-thing-in-python-3-12/",
-          "publishedOn": "2023-10-29T19:49:00.000Z",
-          "wordCount": 1686,
-          "title": "Python 3.12：一个被人忽略的史诗级版本",
-          "imageUrl": "https://cdn.pixabay.com/photo/2023/02/04/07/50/daisy-7766609_1280.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "laike9m's blog",
@@ -120,7 +109,18 @@
       "title": "Frost's Blog",
       "feedUrl": "https://frostming.com/feed.xml",
       "siteUrl": "https://frostming.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://frostming.com/error-handling/",
+          "author": "mianghong@gmail.com (Frost Ming)",
+          "description": "醉后不知天在水，满船清梦压星河",
+          "link": "https://frostming.com/error-handling/",
+          "publishedOn": "2023-11-13T00:00:00.000Z",
+          "wordCount": 503,
+          "title": "两种风格的错误处理",
+          "imageUrl": "https://frostming.com/api/og?title=%E4%B8%A4%E7%A7%8D%E9%A3%8E%E6%A0%BC%E7%9A%84%E9%94%99%E8%AF%AF%E5%A4%84%E7%90%86&tags=%E7%BC%96%E7%A8%8B"
+        }
+      ]
     },
     {
       "title": "Posts on Jiayuan Thoughts",

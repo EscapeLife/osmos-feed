@@ -14,16 +14,6 @@
           "wordCount": 1592,
           "title": "颈椎病腰突康复指南",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.escapelife.site/posts/44c82fd9.html",
-          "author": null,
-          "description": "<blockquote>\n<p><strong>KubeKey 一个开源的轻量级工具，用于部署 Kubernetes 集群。</strong></p>\n</blockquote>\n<p><code>KubeKey</code> 提供了灵活、快速、方便的方式来安装",
-          "link": "https://www.escapelife.site/posts/44c82fd9.html",
-          "publishedOn": "2023-11-02T09:10:00.000Z",
-          "wordCount": 2019,
-          "title": "KubeKey轻量集群安装工具",
-          "imageUrl": null
         }
       ]
     },
@@ -69,6 +59,16 @@
       "feedUrl": "http://feeds.feedburner.com/Tinyfoolblog",
       "siteUrl": "https://codechina.org/",
       "articles": [
+        {
+          "id": "https://codechina.org/?p=30562",
+          "author": "tinyfool",
+          "description": "创新必然会被质疑 创新技术的往往伴随着热烈的欢迎和锐利的质疑。 最近，OpenAI在其Devday活动中推出了 […]\n从智能手机到人工智能：创新为什么总会被质疑，以及我们应该如何聪明的对待创新最先出现在Tinyfool的个人网站。",
+          "link": "https://codechina.org/2023/11/iphone-2-ai/",
+          "publishedOn": "2023-11-17T00:12:07.000Z",
+          "wordCount": 1210,
+          "title": "从智能手机到人工智能：创新为什么总会被质疑，以及我们应该如何聪明的对待创新",
+          "imageUrl": "https://codechina.org/wp-content/uploads/2023/11/DALL·E-2023-11-16-20.12.02-Design-a-cover-for-an-article-titled-Why-Innovation-is-Always-Questioned-and-How-We-Should-Wisely-Approach-It.-The-cover-should-visually-represent-t.png"
+        },
         {
           "id": "https://codechina.org/?p=30548",
           "author": "tinyfool",

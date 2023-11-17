@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-11-16T00:42:42.521Z</updated>
+    <updated>2023-11-17T00:41:57.720Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[从智能手机到人工智能：创新为什么总会被质疑，以及我们应该如何聪明的对待创新]]></title>
+        <id>https://codechina.org/?p=30562</id>
+        <link href="https://codechina.org/2023/11/iphone-2-ai/"/>
+        <updated>2023-11-17T00:12:07.000Z</updated>
+        <summary type="html"><![CDATA[创新必然会被质疑 创新技术的往往伴随着热烈的欢迎和锐利的质疑。 最近，OpenAI在其Devday活动中推出了 […]
+从智能手机到人工智能：创新为什么总会被质疑，以及我们应该如何聪明的对待创新最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[两种风格的错误处理]]></title>
         <id>https://frostming.com/error-handling/</id>
@@ -56,19 +67,6 @@ ChatGPT又发布了一堆新功能，普通人在AI时代应该如何应对最�
         <summary type="html"><![CDATA[家里太舒服，所以决定去图书馆写书。起得太晚，到达已经是十一点半。写了半小时，午饭时间到。想找到特定颜色的共享单 […]]]></summary>
         <author>
             <name>李辉</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KubeKey轻量集群安装工具]]></title>
-        <id>https://www.escapelife.site/posts/44c82fd9.html</id>
-        <link href="https://www.escapelife.site/posts/44c82fd9.html"/>
-        <updated>2023-11-02T09:10:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p><strong>KubeKey 一个开源的轻量级工具，用于部署 Kubernetes 集群。</strong></p>
-</blockquote>
-<p><code>KubeKey</code> 提供了灵活、快速、方便的方式来安装]]></summary>
-        <author>
-            <name>Escape</name>
         </author>
     </entry>
     <entry>

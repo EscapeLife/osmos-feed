@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-11-18T00:41:17.886Z</updated>
+    <updated>2023-11-19T00:45:12.306Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[王自如、董明珠的热点，格力报案了]]></title>
+        <id>https://codechina.org/?p=30570</id>
+        <link href="https://codechina.org/2023/11/wangziru-dongmingzhu/"/>
+        <updated>2023-11-18T03:41:35.000Z</updated>
+        <summary type="html"><![CDATA[大家知道最近互联网上的一个大热点，就是王自如和董明珠的事情。其实本身并不是一件多大的事情，但是在热搜上就是下不 […]
+王自如、董明珠的热点，格力报案了最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从智能手机到人工智能：创新为什么总会被质疑，以及我们应该如何聪明的对待创新]]></title>
         <id>https://codechina.org/?p=30562</id>

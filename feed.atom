@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-11-20T00:43:11.769Z</updated>
+    <updated>2023-11-21T00:42:53.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI这几天的故事太狗血，我们对AI的技术发展是不是应该继续充满信心？]]></title>
+        <id>https://codechina.org/?p=30577</id>
+        <link href="https://codechina.org/2023/11/openai-ceo-ai/"/>
+        <updated>2023-11-20T14:45:57.000Z</updated>
+        <summary type="html"><![CDATA[最近今天，一直在 AI 领域风头最劲的公司 OpenAI 出现了一幕幕狗血的剧情。首先是，突然 OpenAI  […]
+OpenAI这几天的故事太狗血，我们对AI的技术发展是不是应该继续充满信心？最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[王自如、董明珠的热点，格力报案了]]></title>
         <id>https://codechina.org/?p=30570</id>
@@ -58,26 +69,6 @@
 ChatGPT又发布了一堆新功能，普通人在AI时代应该如何应对最先出现在Tinyfool的个人网站。]]></summary>
         <author>
             <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[�����ļ�ϵͳ����Դ���Ա���]]></title>
-        <id>https://blog.codingnow.com/2023/11/vfs_resource.html</id>
-        <link href="https://blog.codingnow.com/2023/11/vfs_resource.html"/>
-        <updated>2023-11-06T06:42:59.000Z</updated>
-        <summary type="html"><![CDATA[��ƪ̸��һ��������Ϸ����������ļ�ϵͳ��vfs�����Ҿ������ϵͳ�У���Ϸ�ʲ��Ĺ������ֻ��Ǹ�������˼����ƣ�ֵ��дһ�¡� VFS ����ƶ����Ƿ���ѿ����������ϵ�����ͬ���������豸��ͨ�����ֻ����С���ͳ��Ϸ���������ͨ���ǽ�һ�������ʲ��ֿ�Ķ������ڿ����ڼ䲻������ά������ֿ⡣��Ҫ����Ϸ�����������豸ʱ���ٴ���ϴ���ȥ����Ϊ��ͳ��Ϸ�����ڿ����ڼ�һ��ֱ���ڿ����������У����Դ���ϴ����ӿ�����ת����Ϸ�ʲ�������Ƶ���� �����ǵ���Ϸ�����ر�Ϊ�ֻ���Ϸ��������ƣ����ǲ�����ֱ�����ֻ��豸�Ͽ��������Կ�����һ�Ǻ����л�����ġ�Ϊ����߿���Ч�ʣ�������������� VFS ϵͳ������ͨ������ͬ����Դ�ֿ⡣...]]></summary>
-        <author>
-            <name>�Ʒ�� BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蚊子偷看我写书]]></title>
-        <id>https://greyli.com/?p=5242</id>
-        <link href="https://greyli.com/writing-day/"/>
-        <updated>2023-11-05T13:38:23.000Z</updated>
-        <summary type="html"><![CDATA[家里太舒服，所以决定去图书馆写书。起得太晚，到达已经是十一点半。写了半小时，午饭时间到。想找到特定颜色的共享单 […]]]></summary>
-        <author>
-            <name>李辉</name>
         </author>
     </entry>
     <entry>

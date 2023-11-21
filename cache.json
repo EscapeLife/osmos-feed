@@ -60,6 +60,16 @@
       "siteUrl": "https://codechina.org/",
       "articles": [
         {
+          "id": "https://codechina.org/?p=30577",
+          "author": "tinyfool",
+          "description": "最近今天，一直在 AI 领域风头最劲的公司 OpenAI 出现了一幕幕狗血的剧情。首先是，突然 OpenAI  […]\nOpenAI这几天的故事太狗血，我们对AI的技术发展是不是应该继续充满信心？最先出现在Tinyfool的个人网站。",
+          "link": "https://codechina.org/2023/11/openai-ceo-ai/",
+          "publishedOn": "2023-11-20T14:45:57.000Z",
+          "wordCount": 1418,
+          "title": "OpenAI这几天的故事太狗血，我们对AI的技术发展是不是应该继续充满信心？",
+          "imageUrl": "https://codechina.org/wp-content/uploads/2023/11/Sam-Altman-Top-Article.webp"
+        },
+        {
           "id": "https://codechina.org/?p=30570",
           "author": "tinyfool",
           "description": "大家知道最近互联网上的一个大热点，就是王自如和董明珠的事情。其实本身并不是一件多大的事情，但是在热搜上就是下不 […]\n王自如、董明珠的热点，格力报案了最先出现在Tinyfool的个人网站。",
@@ -148,35 +158,13 @@
       "title": "李辉",
       "feedUrl": "https://greyli.com/feed",
       "siteUrl": "https://greyli.com",
-      "articles": [
-        {
-          "id": "https://greyli.com/?p=5242",
-          "author": "李辉",
-          "description": "家里太舒服，所以决定去图书馆写书。起得太晚，到达已经是十一点半。写了半小时，午饭时间到。想找到特定颜色的共享单 […]",
-          "link": "https://greyli.com/writing-day/",
-          "publishedOn": "2023-11-05T13:38:23.000Z",
-          "wordCount": 397,
-          "title": "蚊子偷看我写书",
-          "imageUrl": "https://greyli.com/wp-content/uploads/2020/07/avatar.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "�Ʒ�� BLOG",
       "feedUrl": "https://blog.codingnow.com/atom.xml",
       "siteUrl": "https://blog.codingnow.com/",
-      "articles": [
-        {
-          "id": "https://blog.codingnow.com/2023/11/vfs_resource.html",
-          "author": null,
-          "description": "��ƪ̸��һ��������Ϸ����������ļ�ϵͳ��vfs�����Ҿ������ϵͳ�У���Ϸ�ʲ��Ĺ������ֻ��Ǹ�������˼����ƣ�ֵ��дһ�¡� VFS ����ƶ����Ƿ���ѿ����������ϵ�����ͬ���������豸��ͨ�����ֻ����С���ͳ��Ϸ���������ͨ���ǽ�һ�������ʲ��ֿ�Ķ������ڿ����ڼ䲻������ά������ֿ⡣��Ҫ����Ϸ�����������豸ʱ���ٴ���ϴ���ȥ����Ϊ��ͳ��Ϸ�����ڿ����ڼ�һ��ֱ���ڿ����������У����Դ���ϴ����ӿ�����ת����Ϸ�ʲ�������Ƶ���� �����ǵ���Ϸ�����ر�Ϊ�ֻ���Ϸ��������ƣ����ǲ�����ֱ�����ֻ��豸�Ͽ��������Կ�����һ�Ǻ����л�����ġ�Ϊ����߿���Ч�ʣ�������������� VFS ϵͳ������ͨ������ͬ����Դ�ֿ⡣...",
-          "link": "https://blog.codingnow.com/2023/11/vfs_resource.html",
-          "publishedOn": "2023-11-06T06:42:59.000Z",
-          "wordCount": 134,
-          "title": "�����ļ�ϵͳ����Դ���Ա���",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "piglei",

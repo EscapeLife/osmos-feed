@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-11-21T00:42:53.466Z</updated>
+    <updated>2023-11-22T00:43:46.033Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -58,17 +58,6 @@ OpenAI这几天的故事太狗血，我们对AI的技术发展是不是应该继
 <p><strong>文字大部分内容都来自 <a]]></summary>
         <author>
             <name>Escape</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT又发布了一堆新功能，普通人在AI时代应该如何应对]]></title>
-        <id>https://codechina.org/?p=30548</id>
-        <link href="https://codechina.org/2023/11/chatgpt-man/"/>
-        <updated>2023-11-07T03:01:33.000Z</updated>
-        <summary type="html"><![CDATA[未来已来：普通人在AI时代的探索与适应 昨天 OpenAI 的 Devday 发布了一堆新功能，GPTs、GP […]
-ChatGPT又发布了一堆新功能，普通人在AI时代应该如何应对最先出现在Tinyfool的个人网站。]]></summary>
-        <author>
-            <name>tinyfool</name>
         </author>
     </entry>
     <entry>

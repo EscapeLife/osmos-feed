@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-11-22T00:43:46.033Z</updated>
+    <updated>2023-11-23T00:42:30.446Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -47,17 +47,6 @@ OpenAI这几天的故事太狗血，我们对AI的技术发展是不是应该继
         <summary type="html"><![CDATA[醉后不知天在水，满船清梦压星河]]></summary>
         <author>
             <name>mianghong@gmail.com (Frost Ming)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[颈椎病腰突康复指南]]></title>
-        <id>https://www.escapelife.site/posts/d7fd70a6.html</id>
-        <link href="https://www.escapelife.site/posts/d7fd70a6.html"/>
-        <updated>2023-11-08T10:55:04.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p><strong>文字大部分内容都来自 <a]]></summary>
-        <author>
-            <name>Escape</name>
         </author>
     </entry>
     <entry>

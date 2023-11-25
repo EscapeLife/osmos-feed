@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-11-24T00:41:13.903Z</updated>
+    <updated>2023-11-25T00:39:55.870Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lua �� C ģ��֮����δ����ڴ��]]></title>
+        <id>https://blog.codingnow.com/2023/11/lua_c_memory.html</id>
+        <link href="https://blog.codingnow.com/2023/11/lua_c_memory.html"/>
+        <updated>2023-11-24T08:08:41.000Z</updated>
+        <summary type="html"><![CDATA[Lua ���������ͷǳ����ޣ��� C ��д�� Lua ģ��Ҳû��ͳһ����̬���ڲ�ͬģ��䴫���ڴ����Ǽ���ͷ�۵����顣 ��ͨ�õķ��������� Lua �ڽ��� string ���ͱ�ʾ�ڴ�顣���� Lua ԭ���� IO �������ô�ɵġ���ȡ�ļ��ӿڷ��صľ����ַ��������������ж�����ڴ渴�ƿ������������ Lua ��дһ�������ļ��ĳ��򣬼�ʹ��Ĵ�������Ҳ�� C ��д��ģ�飬Ҳ�Ḵ�ƴ�������ʱ�ַ����� ���ǵ���Ϸ�����ǻ��� Lua �����ģ����ļ� IO �Ͼͷ�װ���Լ��Ŀ⣬����Ϊ�˼����������Ҫ���ַ������ƿ����������һ����ͼ��ģ�͡����ʵ��ļ��������������ɳ���Ⱦ���õ� handle �����ݲ�����Ҫͣ���� Lua ���������ǣ��ļ� IO ����Դ��װ��������ͼ���죩�Ĳ�����������ͬ�� C ģ�飬�����Ҫ��Ч���ڴ潻��Э�顣...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[��ͼ����ģ�鼰 UI �ϵ� 3D ģ��]]></title>
+        <id>https://blog.codingnow.com/2023/11/3dmodel_in_ui.html</id>
+        <link href="https://blog.codingnow.com/2023/11/3dmodel_in_ui.html"/>
+        <updated>2023-11-24T05:57:21.000Z</updated>
+        <summary type="html"><![CDATA[������Ϸ����� UI ʹ�õ���������ҳ�ļ������ǽ� RmlUI fork ����������ά���İ汾 ��Ŀǰ��Ϸ�д���������һ�������ǣ��� 3d ģ����Ϊ UI ���ʹ�á�����������Ҿ���������ʷ��Ŀ�ж������������ڲ�ͬ����Ϸ�������Ҽ������ֽ�������� ����͵��� RPG ����Ϸ������������塣ͨ����Ҫ���������ʾ 3D ����ģ�͡�ͨ����������ת��Щģ�ͣ������ 360 �ȹۿ�������Ŀǰ����Ϸ���� Factorio ��û�� Avatar �����㿪��������Ϣ���ʱ��Ҳ��Ҫ�ѽ����� 3D ģ�Ͷ�̬չ�ֳ����� ���������ûȥϸ�� 3D ��Ⱦ��ô�����е� RmlUI �����һ��ֱ�Ӱ�ģ����Ⱦ�� UI ��֮�ϡ��൱���� UI ģ���⿪�˸����š�UI ��ֻ��Ҫ��λ�ÿճ������� UI ��Ⱦ����ٵ��� 3D ģ����ȥ�����������Ļ����Ǻ����Եģ�3D ģ���޷��� UI...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI这几天的故事太狗血，我们对AI的技术发展是不是应该继续充满信心？]]></title>
         <id>https://codechina.org/?p=30577</id>

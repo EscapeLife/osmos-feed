@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-11-27T00:42:54.238Z</updated>
+    <updated>2023-11-28T00:42:46.873Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[分享一个好用的住宅IP]]></title>
+        <id>https://cuiqingcai.com/42343.html</id>
+        <link href="https://cuiqingcai.com/42343.html"/>
+        <updated>2023-11-26T01:17:06.000Z</updated>
+        <summary type="html"><![CDATA[<p>随着互联网的普及和发展，海外住宅IP的需求日益增加。个人用户可以通过使用海外住宅 IP 来访问特定地区的新闻、娱乐、教育和文化资源，从而获得更高的访问速度、优质的用户体验和更强的网络安全性。</p>
+<p>对于企业而言，海外住宅IP为进军国际市场提供了重要的支持。通过了解目]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lua �� C ģ��֮����δ����ڴ��]]></title>
         <id>https://blog.codingnow.com/2023/11/lua_c_memory.html</id>
@@ -57,16 +68,6 @@ OpenAI这几天的故事太狗血，我们对AI的技术发展是不是应该继
 从智能手机到人工智能：创新为什么总会被质疑，以及我们应该如何聪明的对待创新最先出现在Tinyfool的个人网站。]]></summary>
         <author>
             <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[两种风格的错误处理]]></title>
-        <id>https://frostming.com/error-handling/</id>
-        <link href="https://frostming.com/error-handling/"/>
-        <updated>2023-11-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[醉后不知天在水，满船清梦压星河]]></summary>
-        <author>
-            <name>mianghong@gmail.com (Frost Ming)</name>
         </author>
     </entry>
     <entry>

@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-11-28T00:42:46.873Z</updated>
+    <updated>2023-11-29T00:43:29.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Barrier 共享鼠标键盘神器]]></title>
+        <id>https://www.escapelife.site/posts/d54bc7cb.html</id>
+        <link href="https://www.escapelife.site/posts/d54bc7cb.html"/>
+        <updated>2023-11-28T14:46:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p><strong>多设备，单一输入，低成本使用软件。</strong></p>
+</blockquote>
+<p>如果你需要在 <code>MacOS</code> 和 <code>Linux</code>]]></summary>
+        <author>
+            <name>Escape</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分享一个好用的住宅IP]]></title>
         <id>https://cuiqingcai.com/42343.html</id>

@@ -4,7 +4,18 @@
       "title": "Escape",
       "feedUrl": "https://www.escapelife.site/atom.xml",
       "siteUrl": "https://www.escapelife.site/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.escapelife.site/posts/d54bc7cb.html",
+          "author": null,
+          "description": "<blockquote>\n<p><strong>多设备，单一输入，低成本使用软件。</strong></p>\n</blockquote>\n<p>如果你需要在 <code>MacOS</code> 和 <code>Linux</code>",
+          "link": "https://www.escapelife.site/posts/d54bc7cb.html",
+          "publishedOn": "2023-11-28T14:46:00.000Z",
+          "wordCount": 1691,
+          "title": "Barrier 共享鼠标键盘神器",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "酷 壳 – CoolShell",

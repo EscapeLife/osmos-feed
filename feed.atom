@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-12-02T00:40:58.954Z</updated>
+    <updated>2023-12-03T00:44:51.624Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -78,17 +78,6 @@
         <updated>2023-11-20T14:45:57.000Z</updated>
         <summary type="html"><![CDATA[最近今天，一直在 AI 领域风头最劲的公司 OpenAI 出现了一幕幕狗血的剧情。首先是，突然 OpenAI  […]
 OpenAI这几天的故事太狗血，我们对AI的技术发展是不是应该继续充满信心？最先出现在Tinyfool的个人网站。]]></summary>
-        <author>
-            <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[王自如、董明珠的热点，格力报案了]]></title>
-        <id>https://codechina.org/?p=30570</id>
-        <link href="https://codechina.org/2023/11/wangziru-dongmingzhu/"/>
-        <updated>2023-11-18T03:41:35.000Z</updated>
-        <summary type="html"><![CDATA[大家知道最近互联网上的一个大热点，就是王自如和董明珠的事情。其实本身并不是一件多大的事情，但是在热搜上就是下不 […]
-王自如、董明珠的热点，格力报案了最先出现在Tinyfool的个人网站。]]></summary>
         <author>
             <name>tinyfool</name>
         </author>

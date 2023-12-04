@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-12-03T00:44:51.624Z</updated>
+    <updated>2023-12-04T00:42:51.502Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[四层负载均衡漫谈]]></title>
+        <id>https://www.kawabangga.com/?p=5301</id>
+        <link href="https://www.kawabangga.com/posts/5301"/>
+        <updated>2023-12-03T07:58:02.000Z</updated>
+        <summary type="html"><![CDATA[对于四层负载均衡，我一直只是作为一个使用者，把它当作一个简单 TCP 层的反向代理来使用。但是随着在项目中使用 […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英语轻松读iOS版更新1.20版，优化UI，增加字体修改功能]]></title>
         <id>https://codechina.org/?p=30586</id>

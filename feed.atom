@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-12-04T00:42:51.502Z</updated>
+    <updated>2023-12-05T00:42:52.213Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[零刻主机操作指南]]></title>
+        <id>https://www.escapelife.site/posts/fb49383f.html</id>
+        <link href="https://www.escapelife.site/posts/fb49383f.html"/>
+        <updated>2023-12-04T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p><strong>主要介绍零刻 GTR7 小主机的常见问题以及高级功能处理步骤。</strong></p>
+</blockquote>
+<p>今年前半年买了一台零刻的 <code>GTR7</code>]]></summary>
+        <author>
+            <name>Escape</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[四层负载均衡漫谈]]></title>
         <id>https://www.kawabangga.com/?p=5301</id>

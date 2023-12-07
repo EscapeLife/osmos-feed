@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-12-06T00:43:29.006Z</updated>
+    <updated>2023-12-07T00:42:18.226Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[我的个人成长和技术学习历程]]></title>
+        <id>https://codechina.org/?p=30593</id>
+        <link href="https://codechina.org/2023/12/tech-2/"/>
+        <updated>2023-12-06T02:11:22.000Z</updated>
+        <summary type="html"><![CDATA[昨天我被“科技慢半拍”播客采访了，欢迎大家在播客App上搜索科技慢半拍，回头采访会放出来。 我觉得主持人今天问 […]
+我的个人成长和技术学习历程最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[零刻主机操作指南]]></title>
         <id>https://www.escapelife.site/posts/fb49383f.html</id>

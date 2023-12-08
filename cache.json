@@ -6,6 +6,16 @@
       "siteUrl": "https://www.escapelife.site/atom.xml",
       "articles": [
         {
+          "id": "https://www.escapelife.site/posts/c6771ead.html",
+          "author": null,
+          "description": "<blockquote>\n<p><strong>开源终端/ssh/telnet/serialport/sftp 客户端。</strong></p>\n</blockquote>\n<p><code>electerm</code> 是一款基于",
+          "link": "https://www.escapelife.site/posts/c6771ead.html",
+          "publishedOn": "2023-12-07T13:56:00.000Z",
+          "wordCount": 1751,
+          "title": "开源Electerm终端利器",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.escapelife.site/posts/fb49383f.html",
           "author": null,
           "description": "<blockquote>\n<p><strong>主要介绍零刻 GTR7 小主机的常见问题以及高级功能处理步骤。</strong></p>\n</blockquote>\n<p>今年前半年买了一台零刻的 <code>GTR7</code>",

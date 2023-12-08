@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-12-07T00:42:18.226Z</updated>
+    <updated>2023-12-08T00:42:55.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[开源Electerm终端利器]]></title>
+        <id>https://www.escapelife.site/posts/c6771ead.html</id>
+        <link href="https://www.escapelife.site/posts/c6771ead.html"/>
+        <updated>2023-12-07T13:56:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p><strong>开源终端/ssh/telnet/serialport/sftp 客户端。</strong></p>
+</blockquote>
+<p><code>electerm</code> 是一款基于]]></summary>
+        <author>
+            <name>Escape</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的个人成长和技术学习历程]]></title>
         <id>https://codechina.org/?p=30593</id>

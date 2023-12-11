@@ -168,7 +168,18 @@
       "title": "李辉",
       "feedUrl": "https://greyli.com/feed",
       "siteUrl": "https://greyli.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://greyli.com/?p=5283",
+          "author": "李辉",
+          "description": "月初参加了 PyCon China 2023， 做了一个关于 Flask 扩展生态的演讲。不太算是技术分享，讲 […]",
+          "link": "https://greyli.com/pycon-china-2023-talk/",
+          "publishedOn": "2023-12-10T15:17:28.000Z",
+          "wordCount": 427,
+          "title": "PyCon China 2023：濒危 Flask 扩展拯救计划",
+          "imageUrl": "https://greyli.com/wp-content/uploads/2020/07/avatar.jpg"
+        }
+      ]
     },
     {
       "title": "�Ʒ�� BLOG",
@@ -197,18 +208,7 @@
       "title": "静觅",
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
-      "articles": [
-        {
-          "id": "https://cuiqingcai.com/42343.html",
-          "author": null,
-          "description": "<p>随着互联网的普及和发展，海外住宅IP的需求日益增加。个人用户可以通过使用海外住宅 IP 来访问特定地区的新闻、娱乐、教育和文化资源，从而获得更高的访问速度、优质的用户体验和更强的网络安全性。</p>\n<p>对于企业而言，海外住宅IP为进军国际市场提供了重要的支持。通过了解目",
-          "link": "https://cuiqingcai.com/42343.html",
-          "publishedOn": "2023-11-26T01:17:06.000Z",
-          "wordCount": 1127,
-          "title": "分享一个好用的住宅IP",
-          "imageUrl": "https://files.mdnice.com/user/9693/0d931f87-2f47-4efa-bf9b-d69b88ecc3d1.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "咸糖 - 自律者自由",

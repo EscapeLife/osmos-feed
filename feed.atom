@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-12-10T00:45:47.411Z</updated>
+    <updated>2023-12-11T00:43:11.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PyCon China 2023：濒危 Flask 扩展拯救计划]]></title>
+        <id>https://greyli.com/?p=5283</id>
+        <link href="https://greyli.com/pycon-china-2023-talk/"/>
+        <updated>2023-12-10T15:17:28.000Z</updated>
+        <summary type="html"><![CDATA[月初参加了 PyCon China 2023， 做了一个关于 Flask 扩展生态的演讲。不太算是技术分享，讲 […]]]></summary>
+        <author>
+            <name>李辉</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mackup同步各类软件配置]]></title>
         <id>https://www.escapelife.site/posts/47aa9a8.html</id>
@@ -97,17 +107,6 @@ Continue reading...]]></summary>
 <p>如果你需要在 <code>MacOS</code> 和 <code>Linux</code>]]></summary>
         <author>
             <name>Escape</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分享一个好用的住宅IP]]></title>
-        <id>https://cuiqingcai.com/42343.html</id>
-        <link href="https://cuiqingcai.com/42343.html"/>
-        <updated>2023-11-26T01:17:06.000Z</updated>
-        <summary type="html"><![CDATA[<p>随着互联网的普及和发展，海外住宅IP的需求日益增加。个人用户可以通过使用海外住宅 IP 来访问特定地区的新闻、娱乐、教育和文化资源，从而获得更高的访问速度、优质的用户体验和更强的网络安全性。</p>
-<p>对于企业而言，海外住宅IP为进军国际市场提供了重要的支持。通过了解目]]></summary>
-        <author>
-            <name>静觅</name>
         </author>
     </entry>
     <entry>

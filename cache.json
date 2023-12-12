@@ -90,6 +90,16 @@
       "siteUrl": "https://codechina.org/",
       "articles": [
         {
+          "id": "https://codechina.org/?p=30598",
+          "author": "tinyfool",
+          "description": "英语的屈折形态 英语中的屈折变化是对英语单词的变形，以表示语法关系或词义的不同细节。这种变化主要包括名词, 动 […]\nGo语言的词干还原器库GoLem最先出现在Tinyfool的个人网站。",
+          "link": "https://codechina.org/2023/12/golem/",
+          "publishedOn": "2023-12-11T13:48:44.000Z",
+          "wordCount": 1231,
+          "title": "Go语言的词干还原器库GoLem",
+          "imageUrl": "https://codechina.org/wp-content/uploads/2023/12/Download.png"
+        },
+        {
           "id": "https://codechina.org/?p=30593",
           "author": "tinyfool",
           "description": "昨天我被“科技慢半拍”播客采访了，欢迎大家在播客App上搜索科技慢半拍，回头采访会放出来。 我觉得主持人今天问 […]\n我的个人成长和技术学习历程最先出现在Tinyfool的个人网站。",
@@ -122,6 +132,16 @@
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
+        {
+          "id": "https://www.kawabangga.com/?p=5606",
+          "author": "laixintao",
+          "description": "Prometheus 设计的 Pull 模式监控非常优雅：程序开发者只需要做一件事情，暴露出来一个 HTTP  […]\nContinue reading...\n相关文章:\n\nPrometheus HTTP SD 框架\n没来的请举手\n《Prometheus Up & Running》阅读\nGolang 的 Channel 是一种免费的无锁实现吗？\nPromQL 使用多个 label 组合过滤",
+          "link": "https://www.kawabangga.com/posts/5606",
+          "publishedOn": "2023-12-11T11:06:45.000Z",
+          "wordCount": 1355,
+          "title": "程序的 Metrics 优化——Prometheus 文档缺失的一章",
+          "imageUrl": null
+        },
         {
           "id": "https://www.kawabangga.com/?p=5301",
           "author": "laixintao",

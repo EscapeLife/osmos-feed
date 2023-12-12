@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-12-11T00:43:11.752Z</updated>
+    <updated>2023-12-12T00:42:55.774Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Go语言的词干还原器库GoLem]]></title>
+        <id>https://codechina.org/?p=30598</id>
+        <link href="https://codechina.org/2023/12/golem/"/>
+        <updated>2023-12-11T13:48:44.000Z</updated>
+        <summary type="html"><![CDATA[英语的屈折形态 英语中的屈折变化是对英语单词的变形，以表示语法关系或词义的不同细节。这种变化主要包括名词, 动 […]
+Go语言的词干还原器库GoLem最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[程序的 Metrics 优化——Prometheus 文档缺失的一章]]></title>
+        <id>https://www.kawabangga.com/?p=5606</id>
+        <link href="https://www.kawabangga.com/posts/5606"/>
+        <updated>2023-12-11T11:06:45.000Z</updated>
+        <summary type="html"><![CDATA[Prometheus 设计的 Pull 模式监控非常优雅：程序开发者只需要做一件事情，暴露出来一个 HTTP  […]
+Continue reading...
+相关文章:
+
+Prometheus HTTP SD 框架
+没来的请举手
+《Prometheus Up & Running》阅读
+Golang 的 Channel 是一种免费的无锁实现吗？
+PromQL 使用多个 label 组合过滤]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PyCon China 2023：濒危 Flask 扩展拯救计划]]></title>
         <id>https://greyli.com/?p=5283</id>

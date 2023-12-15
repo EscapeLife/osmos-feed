@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-12-14T00:41:39.504Z</updated>
+    <updated>2023-12-15T00:43:13.702Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -134,16 +134,6 @@ Continue reading...]]></summary>
 英语轻松读iOS版更新1.20版，优化UI，增加字体修改功能最先出现在Tinyfool的个人网站。]]></summary>
         <author>
             <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[��Ϸ���ݰ��Ĳ����͸���]]></title>
-        <id>https://blog.codingnow.com/2023/11/vfs_patch.html</id>
-        <link href="https://blog.codingnow.com/2023/11/vfs_patch.html"/>
-        <updated>2023-11-30T09:00:10.000Z</updated>
-        <summary type="html"><![CDATA[���ǵ���Ϸ�����ǻ��������ļ�ϵͳ������ͨ������ѿ������ϵ�Ŀ¼ӳ�䵽�ֻ��ϡ���Կ����ǳ����㣬������ֻ��Ҫ���Լ��Ŀ��������޸���Դ�����̾��ܷ�Ӧ���ֻ��ϡ� ������Ϸ���У�Ҳ������������׼���Ĺ����������ǻ�����Ҫ��������Դ����������汾����ʱ��һ���Ե����ظ��²������á� ֮ǰһֱûʱ�����ⷽ��Ĺ�����ֱ������ſ���������⡣���ǵ���Ӧ�����һ�������Ĳ�������ϵͳ��...]]></summary>
-        <author>
-            <name>�Ʒ�� BLOG</name>
         </author>
     </entry>
     <entry>

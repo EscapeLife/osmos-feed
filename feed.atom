@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-12-15T00:43:13.702Z</updated>
+    <updated>2023-12-16T00:41:43.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -123,17 +123,6 @@ PromQL 使用多个 label 组合过滤]]></summary>
 Continue reading...]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英语轻松读iOS版更新1.20版，优化UI，增加字体修改功能]]></title>
-        <id>https://codechina.org/?p=30586</id>
-        <link href="https://codechina.org/2023/12/english-easy-reader-ios/"/>
-        <updated>2023-12-01T02:55:27.000Z</updated>
-        <summary type="html"><![CDATA[英语轻松读iOS版今天更新了1.20版。英语轻松读是我开发的，以阅读英文文章来增加词汇量，提高英语水平的App […]
-英语轻松读iOS版更新1.20版，优化UI，增加字体修改功能最先出现在Tinyfool的个人网站。]]></summary>
-        <author>
-            <name>tinyfool</name>
         </author>
     </entry>
     <entry>

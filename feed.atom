@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-12-23T00:39:52.648Z</updated>
+    <updated>2023-12-24T00:44:35.686Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Flask 已死，FastAPI 永生]]></title>
+        <id>https://greyli.com/?p=5306</id>
+        <link href="https://greyli.com/flask-fastapi-2023/"/>
+        <updated>2023-12-23T08:43:27.000Z</updated>
+        <summary type="html"><![CDATA[好险，刚刚要写一个新项目，执行了 pip install flask。等得无聊所以打开了知乎，突然看到首页推荐 […]]]></summary>
+        <author>
+            <name>李辉</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[突破成本思维的局限：不要让成本思维害了你，没有收益，谈降低成本也没有价值]]></title>
         <id>https://codechina.org/?p=30602</id>

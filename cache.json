@@ -80,18 +80,7 @@
       "title": "卡瓦邦噶！",
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
-      "articles": [
-        {
-          "id": "https://www.kawabangga.com/?p=5606",
-          "author": "laixintao",
-          "description": "Prometheus 设计的 Pull 模式监控非常优雅：程序开发者只需要做一件事情，暴露出来一个 HTTP  […]\nContinue reading...\n相关文章:\n\nPrometheus HTTP SD 框架\n没来的请举手\n《Prometheus Up & Running》阅读\nGolang 的 Channel 是一种免费的无锁实现吗？\nPromQL 使用多个 label 组合过滤",
-          "link": "https://www.kawabangga.com/posts/5606",
-          "publishedOn": "2023-12-11T11:06:45.000Z",
-          "wordCount": 1355,
-          "title": "程序的 Metrics 优化——Prometheus 文档缺失的一章",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Manjusaka",
@@ -137,16 +126,6 @@
           "wordCount": 791,
           "title": "Flask 已死，FastAPI 永生",
           "imageUrl": "https://greyli.com/wp-content/uploads/2023/12/flask-dont-die-sm.png"
-        },
-        {
-          "id": "https://greyli.com/?p=5283",
-          "author": "李辉",
-          "description": "月初参加了 PyCon China 2023， 做了一个关于 Flask 扩展生态的演讲。不太算是技术分享，讲 […]",
-          "link": "https://greyli.com/pycon-china-2023-talk/",
-          "publishedOn": "2023-12-10T15:17:28.000Z",
-          "wordCount": 427,
-          "title": "PyCon China 2023：濒危 Flask 扩展拯救计划",
-          "imageUrl": "https://greyli.com/wp-content/uploads/2020/07/avatar.jpg"
         }
       ]
     },
@@ -155,6 +134,16 @@
       "feedUrl": "https://blog.codingnow.com/atom.xml",
       "siteUrl": "https://blog.codingnow.com/",
       "articles": [
+        {
+          "id": "https://blog.codingnow.com/2023/12/pixelculling.html",
+          "author": null,
+          "description": "�������ڹ�˾������һ��������������������������������е���Ϸ���棬�Լ����һ����������濪������Ϸ����Լ��һ�ٶ��ͬѧ�μ�����η����ᣬ����ͦ��������Ϊ��Щ�����Ķ���ͦ�࣬������Ķ���̫�࣬�ܶ�ϸ�ڶ�ֻ�Ǽ�һ�ᣬûʱ��չ���� ��̸�������ǵ�������Ҫרע�ڸ��ƶ��豸ʹ�ã���ô�Ż����ص㲢��������ߵ�֡��Ⱦ���ٶȣ��������ڹ̶�֡���£�һ���Ƚϳ���ʱ����ڣ��������ټ�����������Ӷ������豸���ܺġ���ʱ�Ҿ��˼������ӣ������������Ѿ����˵Ĺ�����Ҳ��һЩ��û�����ڼƻ��еĹ����� ������һ�����⣺�����һ֡ĳ�����ر���Ⱦ���������а취֪����ǰ֡����Ҫ�ظ���Ⱦ������أ���ô�����ظ���Ⱦ���ܼ����ܵ��ܺġ��������Ҫ�����������ü��ĳ�������Ƿ���Ҫ�ظ���Ⱦ�ĳɱ���ֱ����Ⱦ��Ҫ��һ����������֮�����ִ����ҵ���涼������������Ϸ�������Ҫ����Ϊ���ǲ�û�����ȿ�����ô���ƶ��豸ʡ�磬��Ҫ�����������Ⱦ��������������۵��ҵ�����Ҫ������Ⱦ�����أ�����Ҫ���汾���Ľṹȥ��ϡ�...",
+          "link": "https://blog.codingnow.com/2023/12/pixelculling.html",
+          "publishedOn": "2023-12-25T05:30:40.000Z",
+          "wordCount": 196,
+          "title": "����֡�䲻�����ص��ظ���Ⱦ",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.codingnow.com/2023/12/game_engine_editor.html",
           "author": null,

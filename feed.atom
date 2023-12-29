@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-12-28T00:40:27.209Z</updated>
+    <updated>2023-12-29T00:34:07.738Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[家庭 Homelab 升级计划: v2]]></title>
+        <id>https://www.manjusaka.blog/posts/2023/12/28/how-do-I-build-homelab-part2/</id>
+        <link href="https://www.manjusaka.blog/posts/2023/12/28/how-do-I-build-homelab-part2/"/>
+        <updated>2023-12-28T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[人生嘛，Homelab 图个乐子]]></summary>
+        <author>
+            <name>Manjusaka</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何拯救濒危Flask扩展]]></title>
         <id>https://www.escapelife.site/posts/3e7bb4e4.html</id>

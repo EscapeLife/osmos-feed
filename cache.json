@@ -76,7 +76,18 @@
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "https://www.manjusaka.blog/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.manjusaka.blog/posts/2023/12/28/how-do-I-build-homelab-part2/",
+          "author": null,
+          "description": "人生嘛，Homelab 图个乐子",
+          "link": "https://www.manjusaka.blog/posts/2023/12/28/how-do-I-build-homelab-part2/",
+          "publishedOn": "2023-12-28T12:00:00.000Z",
+          "wordCount": 2001,
+          "title": "家庭 Homelab 升级计划: v2",
+          "imageUrl": "https://cdn.pixabay.com/photo/2023/01/30/19/40/gulls-7756481_1280.jpg"
+        }
+      ]
     },
     {
       "title": "laike9m's blog",

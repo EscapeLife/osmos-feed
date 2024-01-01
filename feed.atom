@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2023-12-31T00:45:06.111Z</updated>
+    <updated>2024-01-01T00:46:36.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2023年第四季度总结]]></title>
+        <id>https://www.escapelife.site/posts/f4395780.html</id>
+        <link href="https://www.escapelife.site/posts/f4395780.html"/>
+        <updated>2023-12-31T15:59:59.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="2023-年第四季度总结"><a href="#2023-年第四季度总结" class="headerlink" title="2023 年第四季度总结"></a>2023]]></summary>
+        <author>
+            <name>Escape</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[考驾照和买二手车]]></title>
         <id>https://blog.k8s.li/honda-civic.html</id>

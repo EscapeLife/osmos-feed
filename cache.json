@@ -68,7 +68,18 @@
       "title": "Tinyfool的个人网站",
       "feedUrl": "http://feeds.feedburner.com/Tinyfoolblog",
       "siteUrl": "https://codechina.org/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://codechina.org/?p=30609",
+          "author": "tinyfool",
+          "description": "大家知道我有好几个 Youtube 频道，目前主频道是Tinyfool的胡说八道。 我现在有几种视频拍摄方式， […]\n在Mac上用FFMpeg做youtube上传视频的预处理最先出现在Tinyfool的个人网站。",
+          "link": "https://codechina.org/2024/01/mac-ffmpeg-youtube/",
+          "publishedOn": "2024-01-01T06:41:33.000Z",
+          "wordCount": 1254,
+          "title": "在Mac上用FFMpeg做youtube上传视频的预处理",
+          "imageUrl": "https://codechina.org/wp-content/uploads/2024/01/FFmpeg-Ahmad.jpg"
+        }
+      ]
     },
     {
       "title": "ChangeLog of KDr2.com",

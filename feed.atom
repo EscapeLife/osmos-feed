@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-01-01T00:46:36.285Z</updated>
+    <updated>2024-01-02T00:41:10.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[在Mac上用FFMpeg做youtube上传视频的预处理]]></title>
+        <id>https://codechina.org/?p=30609</id>
+        <link href="https://codechina.org/2024/01/mac-ffmpeg-youtube/"/>
+        <updated>2024-01-01T06:41:33.000Z</updated>
+        <summary type="html"><![CDATA[大家知道我有好几个 Youtube 频道，目前主频道是Tinyfool的胡说八道。 我现在有几种视频拍摄方式， […]
+在Mac上用FFMpeg做youtube上传视频的预处理最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023年第四季度总结]]></title>
         <id>https://www.escapelife.site/posts/f4395780.html</id>

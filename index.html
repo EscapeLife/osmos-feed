@@ -82,6 +82,55 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-01-03 datetime="2024-01-03T18:30:00.000Z">2024-01-03</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-01-03 datetime="2024-01-03T18:30:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Manjusaka</button>
+                  <a class="source-heading__link" href="https://www.manjusaka.blog/atom.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.manjusaka.blog/posts/2024/01/03/a-simple-introduction-about-python-jit/"
+                        open
+                      >
+                        <summary class="article-expander__title">简单聊聊 Python 3.13 的 JIT 方案</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.manjusaka.blog/posts/2024/01/03/a-simple-introduction-about-python-jit/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.pixabay.com/photo/2023/02/04/07/38/cherry-blossoms-7766588_1280.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Python 3.13 的 JIT 方案最终确定了，我觉得可以说又新又好。所以深夜水一篇水文，来聊聊这个 JIT 方案
+这篇文章可能会有些枯燥，所以如果对此不感兴趣的同学可以直接 x 掉</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;14
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-01-02 datetime="2024-01-02T00:00:00.000Z">2024-01-02</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-01-02 datetime="2024-01-02T00:00:00.000Z"></time>
           </button>
@@ -588,8 +637,8 @@
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/EscapeLife/osmos-feed/actions/runs/7392092273">
-        <time id="build-timestamp" datetime="2024-01-03T00:42:15.478Z">2024-01-03T00:42:15.478Z</time>
+      <a class="footer-link" href="https://github.com/EscapeLife/osmos-feed/actions/runs/7404063563">
+        <time id="build-timestamp" datetime="2024-01-04T00:42:43.644Z">2024-01-04T00:42:43.644Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

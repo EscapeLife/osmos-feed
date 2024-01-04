@@ -99,6 +99,16 @@
       "siteUrl": "https://www.manjusaka.blog/atom.xml",
       "articles": [
         {
+          "id": "https://www.manjusaka.blog/posts/2024/01/03/a-simple-introduction-about-python-jit/",
+          "author": null,
+          "description": "<p>Python 3.13 的 JIT 方案最终确定了，我觉得可以说又新又好。所以深夜水一篇水文，来聊聊这个 JIT 方案</p>\n<p>这篇文章可能会有些枯燥，所以如果对此不感兴趣的同学可以直接 x 掉</p>",
+          "link": "https://www.manjusaka.blog/posts/2024/01/03/a-simple-introduction-about-python-jit/",
+          "publishedOn": "2024-01-03T18:30:00.000Z",
+          "wordCount": 4257,
+          "title": "简单聊聊 Python 3.13 的 JIT 方案",
+          "imageUrl": "https://cdn.pixabay.com/photo/2023/02/04/07/38/cherry-blossoms-7766588_1280.jpg"
+        },
+        {
           "id": "https://www.manjusaka.blog/posts/2023/12/29/per-aspera-ad-astra/",
           "author": null,
           "description": "<p>外星人一定很奇怪，本星际云本地泡银河系猎户悬臂边缘的太阳系第三行星的人类，怎么又在开始为他们庆祝行星绕行一圈开始忙碌了呢？</p>",

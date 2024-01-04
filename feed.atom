@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-01-03T00:42:15.496Z</updated>
+    <updated>2024-01-04T00:42:43.664Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[简单聊聊 Python 3.13 的 JIT 方案]]></title>
+        <id>https://www.manjusaka.blog/posts/2024/01/03/a-simple-introduction-about-python-jit/</id>
+        <link href="https://www.manjusaka.blog/posts/2024/01/03/a-simple-introduction-about-python-jit/"/>
+        <updated>2024-01-03T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Python 3.13 的 JIT 方案最终确定了，我觉得可以说又新又好。所以深夜水一篇水文，来聊聊这个 JIT 方案</p>
+<p>这篇文章可能会有些枯燥，所以如果对此不感兴趣的同学可以直接 x 掉</p>]]></summary>
+        <author>
+            <name>Manjusaka</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的 2023]]></title>
         <id>https://frostming.com/2024/2023-review/</id>

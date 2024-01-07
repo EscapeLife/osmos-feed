@@ -190,18 +190,7 @@
       "title": "李辉",
       "feedUrl": "https://greyli.com/feed",
       "siteUrl": "https://greyli.com",
-      "articles": [
-        {
-          "id": "https://greyli.com/?p=5306",
-          "author": "李辉",
-          "description": "好险，刚刚要写一个新项目，执行了 pip install flask。等得无聊所以打开了知乎，突然看到首页推荐 […]",
-          "link": "https://greyli.com/flask-fastapi-2023/",
-          "publishedOn": "2023-12-23T08:43:27.000Z",
-          "wordCount": 791,
-          "title": "Flask 已死，FastAPI 永生",
-          "imageUrl": "https://greyli.com/wp-content/uploads/2023/12/flask-dont-die-sm.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "�Ʒ�� BLOG",

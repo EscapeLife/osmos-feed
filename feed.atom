@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-01-11T00:43:07.545Z</updated>
+    <updated>2024-01-12T00:43:09.520Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -103,16 +103,6 @@ Continue reading...
         <link href="https://www.manjusaka.blog/posts/2023/12/29/per-aspera-ad-astra/"/>
         <updated>2023-12-29T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>外星人一定很奇怪，本星际云本地泡银河系猎户悬臂边缘的太阳系第三行星的人类，怎么又在开始为他们庆祝行星绕行一圈开始忙碌了呢？</p>]]></summary>
-        <author>
-            <name>Manjusaka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[家庭 Homelab 升级计划: v2]]></title>
-        <id>https://www.manjusaka.blog/posts/2023/12/28/how-do-I-build-homelab-part2/</id>
-        <link href="https://www.manjusaka.blog/posts/2023/12/28/how-do-I-build-homelab-part2/"/>
-        <updated>2023-12-28T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[人生嘛，Homelab 图个乐子]]></summary>
         <author>
             <name>Manjusaka</name>
         </author>

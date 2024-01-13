@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-01-12T00:43:09.520Z</updated>
+    <updated>2024-01-13T00:42:31.188Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Another Year, Another Layoff]]></title>
+        <id>https://laike9m.com/blog/another-year-another-layoff,156/</id>
+        <link href="https://laike9m.com/blog/another-year-another-layoff,156/"/>
+        <updated>2024-01-12T03:34:46.000Z</updated>
+        <summary type="html"><![CDATA[没有简介, 请去看原文吧]]></summary>
+        <author>
+            <name>laike9m's blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[style ���Ľṹ������]]></title>
         <id>https://blog.codingnow.com/2024/01/style_attrib_access.html</id>

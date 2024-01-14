@@ -118,16 +118,6 @@
           "wordCount": 4257,
           "title": "简单聊聊 Python 3.13 的 JIT 方案",
           "imageUrl": "https://cdn.pixabay.com/photo/2023/02/04/07/38/cherry-blossoms-7766588_1280.jpg"
-        },
-        {
-          "id": "https://www.manjusaka.blog/posts/2023/12/29/per-aspera-ad-astra/",
-          "author": null,
-          "description": "<p>外星人一定很奇怪，本星际云本地泡银河系猎户悬臂边缘的太阳系第三行星的人类，怎么又在开始为他们庆祝行星绕行一圈开始忙碌了呢？</p>",
-          "link": "https://www.manjusaka.blog/posts/2023/12/29/per-aspera-ad-astra/",
-          "publishedOn": "2023-12-29T15:00:00.000Z",
-          "wordCount": 1330,
-          "title": "Per aspera, Ad astra",
-          "imageUrl": "https://cdn.pixabay.com/photo/2023/02/06/16/46/sea-7772372_1280.jpg"
         }
       ]
     },
@@ -234,18 +224,7 @@
       "title": "Reimu's blog",
       "feedUrl": "https://blog.k8s.li/atom.xml",
       "siteUrl": "/atom.xml",
-      "articles": [
-        {
-          "id": "https://blog.k8s.li/honda-civic.html",
-          "author": null,
-          "description": "<p>2023 值得回忆和分享的两件人生大事就是：考了 C1",
-          "link": "https://blog.k8s.li/honda-civic.html",
-          "publishedOn": "2023-12-29T16:00:00.000Z",
-          "wordCount": 589,
-          "title": "考驾照和买二手车",
-          "imageUrl": "https://p.k8s.li/2023-honda-civic12.jpg"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-01-13T00:42:31.188Z</updated>
+    <updated>2024-01-14T00:47:04.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -95,26 +95,6 @@ Continue reading...
         <summary type="html"><![CDATA[<h1 id="2023-年第四季度总结"><a href="#2023-年第四季度总结" class="headerlink" title="2023 年第四季度总结"></a>2023]]></summary>
         <author>
             <name>Escape</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[考驾照和买二手车]]></title>
-        <id>https://blog.k8s.li/honda-civic.html</id>
-        <link href="https://blog.k8s.li/honda-civic.html"/>
-        <updated>2023-12-29T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>2023 值得回忆和分享的两件人生大事就是：考了 C1]]></summary>
-        <author>
-            <name>Reimu's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Per aspera, Ad astra]]></title>
-        <id>https://www.manjusaka.blog/posts/2023/12/29/per-aspera-ad-astra/</id>
-        <link href="https://www.manjusaka.blog/posts/2023/12/29/per-aspera-ad-astra/"/>
-        <updated>2023-12-29T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>外星人一定很奇怪，本星际云本地泡银河系猎户悬臂边缘的太阳系第三行星的人类，怎么又在开始为他们庆祝行星绕行一圈开始忙碌了呢？</p>]]></summary>
-        <author>
-            <name>Manjusaka</name>
         </author>
     </entry>
     <entry>

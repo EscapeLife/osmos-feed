@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-01-16T00:42:43.124Z</updated>
+    <updated>2024-01-17T00:43:14.467Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -64,16 +64,6 @@ Continue reading...
 <p>这篇文章可能会有些枯燥，所以如果对此不感兴趣的同学可以直接 x 掉</p>]]></summary>
         <author>
             <name>Manjusaka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的 2023]]></title>
-        <id>https://frostming.com/2024/2023-review/</id>
-        <link href="https://frostming.com/2024/2023-review/"/>
-        <updated>2024-01-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[醉后不知天在水，满船清梦压星河]]></summary>
-        <author>
-            <name>mianghong@gmail.com (Frost Ming)</name>
         </author>
     </entry>
     <entry>

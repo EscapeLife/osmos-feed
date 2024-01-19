@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-01-18T00:42:41.042Z</updated>
+    <updated>2024-01-19T00:43:11.810Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[通过辨析去学习]]></title>
+        <id>https://frostming.com/learn-by-analysis/</id>
+        <link href="https://frostming.com/learn-by-analysis/"/>
+        <updated>2024-01-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[醉后不知天在水，满船清梦压星河]]></summary>
+        <author>
+            <name>mianghong@gmail.com (Frost Ming)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ant Engine ��Դ]]></title>
         <id>https://blog.codingnow.com/2024/01/ant_engine_open_source.html</id>
@@ -63,17 +73,6 @@ Continue reading...
 我会做游戏了！！！最先出现在Tinyfool的个人网站。]]></summary>
         <author>
             <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[简单聊聊 Python 3.13 的 JIT 方案]]></title>
-        <id>https://www.manjusaka.blog/posts/2024/01/03/a-simple-introduction-about-python-jit/</id>
-        <link href="https://www.manjusaka.blog/posts/2024/01/03/a-simple-introduction-about-python-jit/"/>
-        <updated>2024-01-03T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>Python 3.13 的 JIT 方案最终确定了，我觉得可以说又新又好。所以深夜水一篇水文，来聊聊这个 JIT 方案</p>
-<p>这篇文章可能会有些枯燥，所以如果对此不感兴趣的同学可以直接 x 掉</p>]]></summary>
-        <author>
-            <name>Manjusaka</name>
         </author>
     </entry>
     <entry>

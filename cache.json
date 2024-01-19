@@ -87,18 +87,7 @@
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "https://www.manjusaka.blog/atom.xml",
-      "articles": [
-        {
-          "id": "https://www.manjusaka.blog/posts/2024/01/03/a-simple-introduction-about-python-jit/",
-          "author": null,
-          "description": "<p>Python 3.13 的 JIT 方案最终确定了，我觉得可以说又新又好。所以深夜水一篇水文，来聊聊这个 JIT 方案</p>\n<p>这篇文章可能会有些枯燥，所以如果对此不感兴趣的同学可以直接 x 掉</p>",
-          "link": "https://www.manjusaka.blog/posts/2024/01/03/a-simple-introduction-about-python-jit/",
-          "publishedOn": "2024-01-03T18:30:00.000Z",
-          "wordCount": 4257,
-          "title": "简单聊聊 Python 3.13 的 JIT 方案",
-          "imageUrl": "https://cdn.pixabay.com/photo/2023/02/04/07/38/cherry-blossoms-7766588_1280.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "laike9m's blog",
@@ -121,7 +110,18 @@
       "title": "Frost's Blog",
       "feedUrl": "https://frostming.com/feed.xml",
       "siteUrl": "https://frostming.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://frostming.com/learn-by-analysis/",
+          "author": "mianghong@gmail.com (Frost Ming)",
+          "description": "醉后不知天在水，满船清梦压星河",
+          "link": "https://frostming.com/learn-by-analysis/",
+          "publishedOn": "2024-01-18T00:00:00.000Z",
+          "wordCount": 282,
+          "title": "通过辨析去学习",
+          "imageUrl": "https://frostming.com/api/og?title=%E9%80%9A%E8%BF%87%E8%BE%A8%E6%9E%90%E5%8E%BB%E5%AD%A6%E4%B9%A0&tags=%E9%9B%95%E8%99%AB%E5%B0%8F%E6%8A%80"
+        }
+      ]
     },
     {
       "title": "Posts on Jiayuan Thoughts",

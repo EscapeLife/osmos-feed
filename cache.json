@@ -82,18 +82,7 @@
       "title": "laike9m's blog",
       "feedUrl": "https://laike9m.com/blog/rss",
       "siteUrl": "https://laike9m.com/blog/rss",
-      "articles": [
-        {
-          "id": "https://laike9m.com/blog/another-year-another-layoff,156/",
-          "author": null,
-          "description": "没有简介, 请去看原文吧",
-          "link": "https://laike9m.com/blog/another-year-another-layoff,156/",
-          "publishedOn": "2024-01-12T03:34:46.000Z",
-          "wordCount": 372,
-          "title": "Another Year, Another Layoff",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Frost's Blog",

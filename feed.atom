@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-01-27T00:40:49.521Z</updated>
+    <updated>2024-01-28T00:43:14.640Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jenkins文件读取漏洞拾遗（CVE-2024-23897）]]></title>
+        <id>https://www.leavesongs.com/PENETRATION/jenkins-cve-2024-23897.html</id>
+        <link href="https://www.leavesongs.com/PENETRATION/jenkins-cve-2024-23897.html"/>
+        <updated>2024-01-27T03:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Jenkins 未授权文件读取漏洞（CVE-2024-23897）今天闹得沸沸扬扬，我也来简单分析一下这个漏洞，并看看这个文件读取如何利用。
+首先说的是，由于Jenkins存在版本和插件差异，所以利用时可能也有不一样之处，本文内容不一定适用于所有Jenkins server。我们这里使用Vulhub的环境（2.441）来做分析和演示：https://github.com/vulhub/vul...]]></summary>
+        <author>
+            <name>phithon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[站立提醒软件推荐：stretchly]]></title>
         <id>https://www.kawabangga.com/?p=5657</id>

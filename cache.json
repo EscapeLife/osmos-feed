@@ -158,7 +158,18 @@
       "title": "离别歌",
       "feedUrl": "https://www.leavesongs.com/feed",
       "siteUrl": "https://www.leavesongs.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.leavesongs.com/PENETRATION/jenkins-cve-2024-23897.html",
+          "author": "phithon",
+          "description": "Jenkins 未授权文件读取漏洞（CVE-2024-23897）今天闹得沸沸扬扬，我也来简单分析一下这个漏洞，并看看这个文件读取如何利用。\n首先说的是，由于Jenkins存在版本和插件差异，所以利用时可能也有不一样之处，本文内容不一定适用于所有Jenkins server。我们这里使用Vulhub的环境（2.441）来做分析和演示：https://github.com/vulhub/vul...",
+          "link": "https://www.leavesongs.com/PENETRATION/jenkins-cve-2024-23897.html",
+          "publishedOn": "2024-01-27T03:49:00.000Z",
+          "wordCount": 361,
+          "title": "Jenkins文件读取漏洞拾遗（CVE-2024-23897）",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "张戈博客",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-01-28T00:43:14.640Z</updated>
+    <updated>2024-01-29T00:40:12.084Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[干杯]]></title>
+        <id>https://greyli.com/?p=5351</id>
+        <link href="https://greyli.com/cheers/"/>
+        <updated>2024-01-28T09:46:01.000Z</updated>
+        <summary type="html"><![CDATA[最近花了很多时间在准备一个年会节目。整个过程记录到了下面的短片： https://www.bilibili.c […]]]></summary>
+        <author>
+            <name>李辉</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jenkins文件读取漏洞拾遗（CVE-2024-23897）]]></title>
         <id>https://www.leavesongs.com/PENETRATION/jenkins-cve-2024-23897.html</id>

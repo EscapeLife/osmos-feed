@@ -117,7 +117,18 @@
       "title": "李辉",
       "feedUrl": "https://greyli.com/feed",
       "siteUrl": "https://greyli.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://greyli.com/?p=5351",
+          "author": "李辉",
+          "description": "最近花了很多时间在准备一个年会节目。整个过程记录到了下面的短片： https://www.bilibili.c […]",
+          "link": "https://greyli.com/cheers/",
+          "publishedOn": "2024-01-28T09:46:01.000Z",
+          "wordCount": 405,
+          "title": "干杯",
+          "imageUrl": "https://greyli.com/wp-content/uploads/2020/07/avatar.jpg"
+        }
+      ]
     },
     {
       "title": "�Ʒ�� BLOG",

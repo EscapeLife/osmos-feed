@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-01-29T00:40:12.084Z</updated>
+    <updated>2024-01-30T00:40:09.117Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PHP如何解析Youtube的RSS【ChatGPT】]]></title>
+        <id>https://codechina.org/?p=30634</id>
+        <link href="https://codechina.org/2024/01/php%e5%a6%82%e4%bd%95%e8%a7%a3%e6%9e%90youtube%e7%9a%84rss%e3%80%90chatgpt%e3%80%91/"/>
+        <updated>2024-01-29T15:44:29.000Z</updated>
+        <summary type="html"><![CDATA[最近我想把我的油管视频的RSS引入到我的其他网站，比如OurCoders里。这本来应该不难。本来OurCode […]
+PHP如何解析Youtube的RSS【ChatGPT】最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[干杯]]></title>
         <id>https://greyli.com/?p=5351</id>

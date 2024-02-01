@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-01-31T00:40:22.633Z</updated>
+    <updated>2024-02-01T00:41:55.766Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[心情不好，那又怎样？]]></title>
+        <id>https://codechina.org/?p=30650</id>
+        <link href="https://codechina.org/2024/01/blue/"/>
+        <updated>2024-01-31T04:27:07.000Z</updated>
+        <summary type="html"><![CDATA[头两天被朋友拉出去喝咖啡，讲了很多，无非就是他各种抑郁的事情。简而言之，心情不好。吃不知道吃什么，吃啥也不好， […]
+心情不好，那又怎样？最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[去远航]]></title>
         <id>https://www.kawabangga.com/?p=5662</id>
@@ -71,16 +82,6 @@ Continue reading...
         <summary type="html"><![CDATA[醉后不知天在水，满船清梦压星河]]></summary>
         <author>
             <name>mianghong@gmail.com (Frost Ming)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ant Engine ��Դ]]></title>
-        <id>https://blog.codingnow.com/2024/01/ant_engine_open_source.html</id>
-        <link href="https://blog.codingnow.com/2024/01/ant_engine_open_source.html"/>
-        <updated>2024-01-17T07:24:02.000Z</updated>
-        <summary type="html"><![CDATA[�����Լ��з�����Ϸ�������Ѿ������� 6 ���ˡ��� 2017 ��ף���д���˶��������������Ĺ��� �����ڻ�ͷ�������������뷨��Ȼ����ʵ�ˣ�ֻ��һ�����⣺������;�ѱ༭���� IUP ת�Ƶ��� ImGUI �ϡ� 2022 �꣬���������˵�һ����������濪������Ϸ��Ŀ������һ�����ձ���˾�����Ķ�����Ϸ�������������Ŀû������ȥ��ȡ���ˡ�֮����Ϊ���ǵ����濪����ϲ�� Factorio ���������Լ����������ֻ�������һ�� Factorio Like ����Ϸ����һ�ɾ���һ��ࡣ ���ڣ���Ϸ�ļ������ֻ�����ɣ�������֤����Ŀ����ԣ��������������ܴ�꣩��ֻ����Ϸ�Է��滹�в���·Ҫ�ߡ���˵���ǻ���̫���档 ��һ��ʼ���Ҿ�ϣ���Կ�Դģʽ��Ӫ�����Ϸ���棬��ͬʱ�־���û�еõ���֤�Ķ������ʺ��ó�������Ȼ�����Ѿ��������ã����ھ�Ӧ��������һ���ˡ�...]]></summary>
-        <author>
-            <name>�Ʒ�� BLOG</name>
         </author>
     </entry>
     <entry>

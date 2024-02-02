@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-02-01T00:41:55.766Z</updated>
+    <updated>2024-02-02T00:40:22.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -58,30 +58,6 @@ PHP如何解析Youtube的RSS【ChatGPT】最先出现在Tinyfool的个人网站�
 首先说的是，由于Jenkins存在版本和插件差异，所以利用时可能也有不一样之处，本文内容不一定适用于所有Jenkins server。我们这里使用Vulhub的环境（2.441）来做分析和演示：https://github.com/vulhub/vul...]]></summary>
         <author>
             <name>phithon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[站立提醒软件推荐：stretchly]]></title>
-        <id>https://www.kawabangga.com/?p=5657</id>
-        <link href="https://www.kawabangga.com/posts/5657"/>
-        <updated>2024-01-18T04:07:00.000Z</updated>
-        <summary type="html"><![CDATA[之前在这篇博客《沉浸式工作》推荐过一个站立办公的软件，定时提醒。它好的地方是可以在锁定屏幕的时候认为你正在休息 […]
-Continue reading...
-相关文章:
-
-沉浸式工作]]></summary>
-        <author>
-            <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过辨析去学习]]></title>
-        <id>https://frostming.com/learn-by-analysis/</id>
-        <link href="https://frostming.com/learn-by-analysis/"/>
-        <updated>2024-01-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[醉后不知天在水，满船清梦压星河]]></summary>
-        <author>
-            <name>mianghong@gmail.com (Frost Ming)</name>
         </author>
     </entry>
     <entry>

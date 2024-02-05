@@ -154,7 +154,18 @@
       "title": "�Ʒ�� BLOG",
       "feedUrl": "https://blog.codingnow.com/atom.xml",
       "siteUrl": "https://blog.codingnow.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://blog.codingnow.com/2024/02/textcell.html",
+          "author": null,
+          "description": "bgfx �ṩ��һ������ı������ api �����԰�һЩ�ı���Ϣ��ʾ����Ļ�ϡ���Щ API �ǳ���ª��ֻ���ṩ��һ���ı�ģʽ�������������̨����Զ�� ����� �ĵ��� �� dbgText* ϵ�к����� �������ǵ���Ϸ������Խ��Խ�����Ϣ��Ҫչʾ��ֱ��ʹ����Щ api ��Խ����ª�ˡ�����ȷ����뷨�Ǹɴ�ʹ�� imgui �����Ƶ�����Ϣ���档�����־��ñ��� bgfx �Դ�������ı�ģʽҲ��һЩ�ô���...",
+          "link": "https://blog.codingnow.com/2024/02/textcell.html",
+          "publishedOn": "2024-02-04T06:41:03.000Z",
+          "wordCount": 191,
+          "title": "һ����ʽ���ı���Ϣ�����С����",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "piglei",

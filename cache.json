@@ -82,6 +82,16 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=5757",
+          "author": "laixintao",
+          "description": "前几天同事问我一个问题：Python 代码中，两个函数装饰器部分的代码太多了，而且有很多重复的，能否复用？这个 […]\nContinue reading...\n相关文章:\n\n谈谈Python for循环的作用域\nPython 提高对比效率的一个技巧（位运算&）\nPython 文化中的接口和协议 Slides\nPython3 str混入bytes的解码问题\n详解 Python 的 “==” 和 “is”",
+          "link": "https://www.kawabangga.com/posts/5757",
+          "publishedOn": "2024-02-06T01:30:00.000Z",
+          "wordCount": 1536,
+          "title": "Python 复用装饰器代码",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=5745",
           "author": "laixintao",
           "description": "经常有同事来问我为什么从 Grafana 面板上看不到数据，其实排查思路是基本固定的，按照查询的链路一步一步看 […]\nContinue reading...\n相关文章:\n\n用 PromQL 计算 SLI 和 SLO\n《Prometheus Up & Running》阅读\nPromQL 使用多个 label 组合过滤\nPrometheus alert rules 拆分成多个查询表达式\nPromQL 简明教程",

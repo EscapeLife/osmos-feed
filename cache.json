@@ -82,6 +82,26 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=5785",
+          "author": "laixintao",
+          "description": "最近很火的一个 CVE，核心问题是 docker (runc) 在运行用户的代码之前，会 O_CLOEXEC  […]\nContinue reading...\n相关文章:\n\nPrometheus & Grafana No Data 排查手册\n推荐新加坡的餐厅：Ma Maison\nSRE&Devops 每周分享 Issue #5\n站立提醒软件推荐：stretchly\nBuild 一个最小的 Redis Docker Image",
+          "link": "https://www.kawabangga.com/posts/5785",
+          "publishedOn": "2024-02-07T05:05:48.000Z",
+          "wordCount": 1193,
+          "title": "CVE-2024-21626 从容器内逃逸到宿主机文件系统",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.kawabangga.com/?p=5705",
+          "author": "laixintao",
+          "description": "没想到我会专门写一篇博客来推荐一家餐厅，哈哈。今天想写的餐厅叫 Ma Maison，经常和同事朋友去，食物比较 […]\nContinue reading...\n相关文章:\n\n500部电影推荐",
+          "link": "https://www.kawabangga.com/posts/5705",
+          "publishedOn": "2024-02-07T01:47:07.000Z",
+          "wordCount": 1019,
+          "title": "推荐新加坡的餐厅：Ma Maison",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=5757",
           "author": "laixintao",
           "description": "前几天同事问我一个问题：Python 代码中，两个函数装饰器部分的代码太多了，而且有很多重复的，能否复用？这个 […]\nContinue reading...\n相关文章:\n\n谈谈Python for循环的作用域\nPython 提高对比效率的一个技巧（位运算&）\nPython 文化中的接口和协议 Slides\nPython3 str混入bytes的解码问题\n详解 Python 的 “==” 和 “is”",

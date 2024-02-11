@@ -137,7 +137,18 @@
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "https://www.manjusaka.blog/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.manjusaka.blog/posts/2024/02/10/CVE-2024-21626/",
+          "author": null,
+          "description": "<p>本来这篇文章应该在初一凌晨发的，但是拖延癌晚期，所以到现在才发，得反思下了</p>",
+          "link": "https://www.manjusaka.blog/posts/2024/02/10/CVE-2024-21626/",
+          "publishedOn": "2024-02-10T20:00:00.000Z",
+          "wordCount": 1906,
+          "title": "简单聊聊 CVE-2024-21626",
+          "imageUrl": "https://cdn.pixabay.com/photo/2023/01/14/19/50/flower-7718952_1280.jpg"
+        }
+      ]
     },
     {
       "title": "laike9m's blog",
@@ -229,18 +240,7 @@
       "title": "离别歌",
       "feedUrl": "https://www.leavesongs.com/feed",
       "siteUrl": "https://www.leavesongs.com",
-      "articles": [
-        {
-          "id": "https://www.leavesongs.com/PENETRATION/jenkins-cve-2024-23897.html",
-          "author": "phithon",
-          "description": "Jenkins 未授权文件读取漏洞（CVE-2024-23897）今天闹得沸沸扬扬，我也来简单分析一下这个漏洞，并看看这个文件读取如何利用。\n首先说的是，由于Jenkins存在版本和插件差异，所以利用时可能也有不一样之处，本文内容不一定适用于所有Jenkins server。我们这里使用Vulhub的环境（2.441）来做分析和演示：https://github.com/vulhub/vul...",
-          "link": "https://www.leavesongs.com/PENETRATION/jenkins-cve-2024-23897.html",
-          "publishedOn": "2024-01-27T03:49:00.000Z",
-          "wordCount": 361,
-          "title": "Jenkins文件读取漏洞拾遗（CVE-2024-23897）",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "张戈博客",

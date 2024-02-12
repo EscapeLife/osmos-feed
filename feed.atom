@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-02-11T00:43:24.991Z</updated>
+    <updated>2024-02-12T00:40:57.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -135,16 +135,6 @@ Continue reading...]]></summary>
 PHP如何解析Youtube的RSS【ChatGPT】最先出现在Tinyfool的个人网站。]]></summary>
         <author>
             <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[干杯]]></title>
-        <id>https://greyli.com/?p=5351</id>
-        <link href="https://greyli.com/cheers/"/>
-        <updated>2024-01-28T09:46:01.000Z</updated>
-        <summary type="html"><![CDATA[最近花了很多时间在准备一个年会节目。整个过程记录到了下面的短片： https://www.bilibili.c […]]]></summary>
-        <author>
-            <name>李辉</name>
         </author>
     </entry>
     <entry>

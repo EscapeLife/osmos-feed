@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-02-13T00:40:42.949Z</updated>
+    <updated>2024-02-14T00:40:41.897Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -111,28 +111,6 @@ PromQL 简明教程]]></summary>
         <updated>2024-01-31T04:27:07.000Z</updated>
         <summary type="html"><![CDATA[头两天被朋友拉出去喝咖啡，讲了很多，无非就是他各种抑郁的事情。简而言之，心情不好。吃不知道吃什么，吃啥也不好， […]
 心情不好，那又怎样？最先出现在Tinyfool的个人网站。]]></summary>
-        <author>
-            <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[去远航]]></title>
-        <id>https://www.kawabangga.com/?p=5662</id>
-        <link href="https://www.kawabangga.com/posts/5662"/>
-        <updated>2024-01-30T01:39:00.000Z</updated>
-        <summary type="html"><![CDATA[之前觉得像泰坦尼克号这样的游轮旅行是距离普通人很遥远的一件事，甚至觉得这种东西不存在了，因为飞机快太多了，水上 […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHP如何解析Youtube的RSS【ChatGPT】]]></title>
-        <id>https://codechina.org/?p=30634</id>
-        <link href="https://codechina.org/2024/01/php%e5%a6%82%e4%bd%95%e8%a7%a3%e6%9e%90youtube%e7%9a%84rss%e3%80%90chatgpt%e3%80%91/"/>
-        <updated>2024-01-29T15:44:29.000Z</updated>
-        <summary type="html"><![CDATA[最近我想把我的油管视频的RSS引入到我的其他网站，比如OurCoders里。这本来应该不难。本来OurCode […]
-PHP如何解析Youtube的RSS【ChatGPT】最先出现在Tinyfool的个人网站。]]></summary>
         <author>
             <name>tinyfool</name>
         </author>

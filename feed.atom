@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-02-14T00:40:41.897Z</updated>
+    <updated>2024-02-15T00:40:18.461Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -102,17 +102,6 @@ Prometheus alert rules 拆分成多个查询表达式
 PromQL 简明教程]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[心情不好，那又怎样？]]></title>
-        <id>https://codechina.org/?p=30650</id>
-        <link href="https://codechina.org/2024/01/blue/"/>
-        <updated>2024-01-31T04:27:07.000Z</updated>
-        <summary type="html"><![CDATA[头两天被朋友拉出去喝咖啡，讲了很多，无非就是他各种抑郁的事情。简而言之，心情不好。吃不知道吃什么，吃啥也不好， […]
-心情不好，那又怎样？最先出现在Tinyfool的个人网站。]]></summary>
-        <author>
-            <name>tinyfool</name>
         </author>
     </entry>
     <entry>

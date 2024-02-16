@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-02-15T00:40:18.461Z</updated>
+    <updated>2024-02-16T00:40:02.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[一次网络问题排查]]></title>
+        <id>https://www.kawabangga.com/?p=5803</id>
+        <link href="https://www.kawabangga.com/posts/5803"/>
+        <updated>2024-02-15T04:08:36.000Z</updated>
+        <summary type="html"><![CDATA[故事起因 我们需要在一个新的环境搭建 Jenkins （一个 Java 程序）。因为我们不想自己维护 Java […]
+Continue reading...
+相关文章:
+
+SRE&Devops 每周分享 Issue #5
+部署和维护开源软件的经验
+用油猴制作一个 Jenkins 日志窗口
+SRE&Devops 每周分享 Issue #6 Closing
+七个改变世界的Java项目]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[简单聊聊 CVE-2024-21626]]></title>
         <id>https://www.manjusaka.blog/posts/2024/02/10/CVE-2024-21626/</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-02-16T00:40:02.214Z</updated>
+    <updated>2024-02-17T00:39:30.657Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -102,24 +102,6 @@ Python3 str混入bytes的解码问题
         <summary type="html"><![CDATA[bgfx �ṩ��һ������ı������ api �����԰�һЩ�ı���Ϣ��ʾ����Ļ�ϡ���Щ API �ǳ���ª��ֻ���ṩ��һ���ı�ģʽ�������������̨����Զ�� ����� �ĵ��� �� dbgText* ϵ�к����� �������ǵ���Ϸ������Խ��Խ�����Ϣ��Ҫչʾ��ֱ��ʹ����Щ api ��Խ����ª�ˡ�����ȷ����뷨�Ǹɴ�ʹ�� imgui �����Ƶ�����Ϣ���档�����־��ñ��� bgfx �Դ�������ı�ģʽҲ��һЩ�ô���...]]></summary>
         <author>
             <name>�Ʒ�� BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prometheus & Grafana No Data 排查手册]]></title>
-        <id>https://www.kawabangga.com/?p=5745</id>
-        <link href="https://www.kawabangga.com/posts/5745"/>
-        <updated>2024-02-02T01:38:00.000Z</updated>
-        <summary type="html"><![CDATA[经常有同事来问我为什么从 Grafana 面板上看不到数据，其实排查思路是基本固定的，按照查询的链路一步一步看 […]
-Continue reading...
-相关文章:
-
-用 PromQL 计算 SLI 和 SLO
-《Prometheus Up & Running》阅读
-PromQL 使用多个 label 组合过滤
-Prometheus alert rules 拆分成多个查询表达式
-PromQL 简明教程]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

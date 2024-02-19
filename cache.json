@@ -61,6 +61,16 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=5816",
+          "author": "laixintao",
+          "description": "上回书说到被 MTU 问题小小坑了一下，问题最后解决了，但是留了一个疑问点没有证实：为什么在 MSS 协商失败 […]\nContinue reading...\n相关文章:\n\n你的Linux上有一个超酷的 TCP 代理！\n一次网络问题排查\nMTU 和 UDP (以及基于 UDP 的协议)\nGoogle BBR 拥塞控制算法简单介绍\nDebug 一个在 uWSGI 下使用 subprocess 卡住的问题",
+          "link": "https://www.kawabangga.com/posts/5816",
+          "publishedOn": "2024-02-18T11:54:22.000Z",
+          "wordCount": 5058,
+          "title": "真实世界中的 PMTUD",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=5803",
           "author": "laixintao",
           "description": "故事起因 我们需要在一个新的环境搭建 Jenkins （一个 Java 程序）。因为我们不想自己维护 Java […]\nContinue reading...\n相关文章:\n\nSRE&Devops 每周分享 Issue #5\n部署和维护开源软件的经验\n用油猴制作一个 Jenkins 日志窗口\nSRE&Devops 每周分享 Issue #6 Closing\n七个改变世界的Java项目",
@@ -162,16 +172,6 @@
           "publishedOn": "2024-02-05T06:17:22.000Z",
           "wordCount": 338,
           "title": "Ϊ log ʵ�ֵ����� Ringbuffer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.codingnow.com/2024/02/textcell.html",
-          "author": null,
-          "description": "bgfx �ṩ��һ������ı������ api �����԰�һЩ�ı���Ϣ��ʾ����Ļ�ϡ���Щ API �ǳ���ª��ֻ���ṩ��һ���ı�ģʽ�������������̨����Զ�� ����� �ĵ��� �� dbgText* ϵ�к����� �������ǵ���Ϸ������Խ��Խ�����Ϣ��Ҫչʾ��ֱ��ʹ����Щ api ��Խ����ª�ˡ�����ȷ����뷨�Ǹɴ�ʹ�� imgui �����Ƶ�����Ϣ���档�����־��ñ��� bgfx �Դ�������ı�ģʽҲ��һЩ�ô���...",
-          "link": "https://blog.codingnow.com/2024/02/textcell.html",
-          "publishedOn": "2024-02-04T06:41:03.000Z",
-          "wordCount": 191,
-          "title": "һ����ʽ���ı���Ϣ�����С����",
           "imageUrl": null
         }
       ]

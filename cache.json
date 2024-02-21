@@ -99,16 +99,6 @@
           "wordCount": 1019,
           "title": "推荐新加坡的餐厅：Ma Maison",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=5757",
-          "author": "laixintao",
-          "description": "前几天同事问我一个问题：Python 代码中，两个函数装饰器部分的代码太多了，而且有很多重复的，能否复用？这个 […]\nContinue reading...\n相关文章:\n\n谈谈Python for循环的作用域\nPython 提高对比效率的一个技巧（位运算&）\nPython 文化中的接口和协议 Slides\nPython3 str混入bytes的解码问题\n详解 Python 的 “==” 和 “is”",
-          "link": "https://www.kawabangga.com/posts/5757",
-          "publishedOn": "2024-02-06T01:30:00.000Z",
-          "wordCount": 1536,
-          "title": "Python 复用装饰器代码",
-          "imageUrl": null
         }
       ]
     },
@@ -117,6 +107,16 @@
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "https://www.manjusaka.blog/atom.xml",
       "articles": [
+        {
+          "id": "https://www.manjusaka.blog/posts/2024/02/20/a-simple-discussion-about-the-ultraman/",
+          "author": null,
+          "description": "ヒーロが必要なんだよ，金城君。ヒーローが必要なんだ！",
+          "link": "https://www.manjusaka.blog/posts/2024/02/20/a-simple-discussion-about-the-ultraman/",
+          "publishedOn": "2024-02-20T09:00:00.000Z",
+          "wordCount": 1484,
+          "title": "简单聊聊奥特曼中很有趣的细节",
+          "imageUrl": "https://cdn.pixabay.com/photo/2023/02/08/15/10/sculpture-7776861_1280.jpg"
+        },
         {
           "id": "https://www.manjusaka.blog/posts/2024/02/10/CVE-2024-21626/",
           "author": null,

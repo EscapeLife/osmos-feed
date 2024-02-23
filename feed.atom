@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-02-22T00:39:45.250Z</updated>
+    <updated>2024-02-23T00:39:20.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[���������ļ�ϵͳ��һЩ���뷨]]></title>
+        <id>https://blog.codingnow.com/2024/02/vfs_plan.html</id>
+        <link href="https://blog.codingnow.com/2024/02/vfs_plan.html"/>
+        <updated>2024-02-22T07:21:17.000Z</updated>
+        <summary type="html"><![CDATA[�����ļ�ϵͳ (vfs) �� Ant ����ĺ���ģ�顣�� wiki ���н��� ��blog ��Ҳ���ܽᡣ ����ڰ�ǰ��ʱ���ⶨ��˼·�ع��༭��������������ж� vfs ����һЩ���뷨�������ڲ�����ѹ������ķŵ��ع� vfs ���棬�ȼ�¼һ�¡� ������� vfs ��ʱ���Ǵ������ļ�ϵͳ�ĽǶȿ������ġ��Ұ�������Ϊһ������ git ����֯��ʽ�����汾���Ƶ������ļ�ϵͳ�����ԣ��ܶ����˼·��������������������ǣ���������Щ��������ع����Ҷ������˼·������һЩ���ɡ� ���У�����Ҫ��һ��������Ϸ����ʱ����Ϸ���򿴵��� vfs ��һ�����ṹ�Ĳ�����ա����������� git һ�����Ϳ�����һ�� Merkle tree �� hash ֵ�Ϳ��Դ���������գ�Ҳ���Է����ͨ������ͬ������ Ϊ��ʵ�ֱ༭�����������������ϴ���һЩ�������ñ༭������������ʱ��̬���޸��������ҽ��췴˼����������ա� ��һ���Ƿ��Ƕ���ģ����߲�����Ҫ���Լ����Ҳ�����ü򵥵ķ���ʵ���������еĹ��ܡ�...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[由全聚德亏损，说两句老字号衰败的问题]]></title>
         <id>https://codechina.org/?p=30656</id>

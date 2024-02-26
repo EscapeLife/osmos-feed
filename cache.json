@@ -72,6 +72,16 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=5826",
+          "author": "laixintao",
+          "description": "肯特岗，是我在新加坡度过时间最多的地方，因为我在这里上班。 这里地形很奇特，坐了三次电梯上楼，可以从另一个门出 […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/5826",
+          "publishedOn": "2024-02-25T15:01:55.000Z",
+          "wordCount": 909,
+          "title": "肯特岗",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=5816",
           "author": "laixintao",
           "description": "上回书说到被 MTU 问题小小坑了一下，问题最后解决了，但是留了一个疑问点没有证实：为什么在 MSS 协商失败 […]\nContinue reading...\n相关文章:\n\n你的Linux上有一个超酷的 TCP 代理！\n一次网络问题排查\nMTU 和 UDP (以及基于 UDP 的协议)\nGoogle BBR 拥塞控制算法简单介绍\nDebug 一个在 uWSGI 下使用 subprocess 卡住的问题",
@@ -107,16 +117,6 @@
           "wordCount": 1484,
           "title": "简单聊聊奥特曼中很有趣的细节",
           "imageUrl": "https://cdn.pixabay.com/photo/2023/02/08/15/10/sculpture-7776861_1280.jpg"
-        },
-        {
-          "id": "https://www.manjusaka.blog/posts/2024/02/10/CVE-2024-21626/",
-          "author": null,
-          "description": "<p>本来这篇文章应该在初一凌晨发的，但是拖延癌晚期，所以到现在才发，得反思下了</p>",
-          "link": "https://www.manjusaka.blog/posts/2024/02/10/CVE-2024-21626/",
-          "publishedOn": "2024-02-10T20:00:00.000Z",
-          "wordCount": 1906,
-          "title": "简单聊聊 CVE-2024-21626",
-          "imageUrl": "https://cdn.pixabay.com/photo/2023/01/14/19/50/flower-7718952_1280.jpg"
         }
       ]
     },
@@ -148,7 +148,18 @@
       "title": "李辉",
       "feedUrl": "https://greyli.com/feed",
       "siteUrl": "https://greyli.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://greyli.com/?p=5142",
+          "author": "李辉",
+          "description": "#清空草稿箱计划# 原文创建于 2023 年 6 月 24 日。 回上海的这一天上午，我需要去附近的乡里走一趟 […]",
+          "link": "https://greyli.com/happy-summer/",
+          "publishedOn": "2024-02-25T06:14:08.000Z",
+          "wordCount": 403,
+          "title": "夏天不是读书天",
+          "imageUrl": "https://greyli.com/wp-content/uploads/2020/07/avatar.jpg"
+        }
+      ]
     },
     {
       "title": "�Ʒ�� BLOG",

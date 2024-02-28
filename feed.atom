@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-02-27T00:39:36.715Z</updated>
+    <updated>2024-02-28T00:39:49.242Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[甲午海战中国为什么会败？从李鸿章和森有礼的对话谈起]]></title>
+        <id>https://codechina.org/?p=30660</id>
+        <link href="https://codechina.org/2024/02/lihongzhang/"/>
+        <updated>2024-02-27T01:14:42.000Z</updated>
+        <summary type="html"><![CDATA[92年，我初中的时候看过一个电视剧《北洋水师》，当时很流行，后来不知道为什么不怎么见重播了。其实这个剧当时很火 […]
+甲午海战中国为什么会败？从李鸿章和森有礼的对话谈起最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[肯特岗]]></title>
         <id>https://www.kawabangga.com/?p=5826</id>

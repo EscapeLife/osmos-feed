@@ -100,16 +100,6 @@
           "wordCount": 5058,
           "title": "真实世界中的 PMTUD",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=5803",
-          "author": "laixintao",
-          "description": "故事起因 我们需要在一个新的环境搭建 Jenkins （一个 Java 程序）。因为我们不想自己维护 Java […]\nContinue reading...\n相关文章:\n\nSRE&Devops 每周分享 Issue #5\n部署和维护开源软件的经验\n用油猴制作一个 Jenkins 日志窗口\nSRE&Devops 每周分享 Issue #6 Closing\n七个改变世界的Java项目",
-          "link": "https://www.kawabangga.com/posts/5803",
-          "publishedOn": "2024-02-15T04:08:36.000Z",
-          "wordCount": 1232,
-          "title": "一次网络问题排查",
-          "imageUrl": null
         }
       ]
     },

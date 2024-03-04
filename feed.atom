@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-03-03T00:42:12.583Z</updated>
+    <updated>2024-03-04T00:40:50.810Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[如何阅读火焰图]]></title>
+        <id>https://www.kawabangga.com/?p=5861</id>
+        <link href="https://www.kawabangga.com/posts/5861"/>
+        <updated>2024-03-03T06:06:42.000Z</updated>
+        <summary type="html"><![CDATA[这篇文章是火焰图阅读的简明教程。 火焰图是我们用来分析性能的可视化工具。很多 profile 工具输出的信息都 […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[再多来点 TCP 吧：Delay ACK 和 Nagle 算法]]></title>
         <id>https://www.kawabangga.com/?p=5845</id>
@@ -105,24 +116,6 @@ UTF-8是现在最流行的编码方式，它可以将unicode码表里的所有�
         <summary type="html"><![CDATA[ヒーロが必要なんだよ，金城君。ヒーローが必要なんだ！]]></summary>
         <author>
             <name>Manjusaka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[真实世界中的 PMTUD]]></title>
-        <id>https://www.kawabangga.com/?p=5816</id>
-        <link href="https://www.kawabangga.com/posts/5816"/>
-        <updated>2024-02-18T11:54:22.000Z</updated>
-        <summary type="html"><![CDATA[上回书说到被 MTU 问题小小坑了一下，问题最后解决了，但是留了一个疑问点没有证实：为什么在 MSS 协商失败 […]
-Continue reading...
-相关文章:
-
-你的Linux上有一个超酷的 TCP 代理！
-一次网络问题排查
-MTU 和 UDP (以及基于 UDP 的协议)
-Google BBR 拥塞控制算法简单介绍
-Debug 一个在 uWSGI 下使用 subprocess 卡住的问题]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

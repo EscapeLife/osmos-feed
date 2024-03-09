@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-03-08T00:39:59.258Z</updated>
+    <updated>2024-03-09T00:38:33.378Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -97,19 +97,6 @@ Continue reading...]]></summary>
         <summary type="html"><![CDATA[#清空草稿箱计划# 原文创建于 2023 年 6 月 24 日。 回上海的这一天上午，我需要去附近的乡里走一趟 […]]]></summary>
         <author>
             <name>李辉</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UTF-8 Overlong Encoding导致的安全问题]]></title>
-        <id>https://www.leavesongs.com/PENETRATION/utf-8-overlong-encoding.html</id>
-        <link href="https://www.leavesongs.com/PENETRATION/utf-8-overlong-encoding.html"/>
-        <updated>2024-02-23T12:22:00.000Z</updated>
-        <summary type="html"><![CDATA[「代码审计」知识星球中@1ue 发表了一篇有趣的文章《探索Java反序列化绕WAF新姿势》，深入研究了一下其中的原理，我发现这是一个对我来说很“新”，但实际上年纪已经很大的Trick。
-0x01 UTF-8编码原理
-UTF-8是现在最流行的编码方式，它可以将unicode码表里的所有字符，用某种计算方式转换成长度是1到4位字节的字符。
-参考这个表格，我们就可以很轻松地将unicode码转换成...]]></summary>
-        <author>
-            <name>phithon</name>
         </author>
     </entry>
     <entry>

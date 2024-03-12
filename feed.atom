@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-03-11T00:41:06.052Z</updated>
+    <updated>2024-03-12T00:39:28.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PDM 的内部实现(1)]]></title>
+        <id>https://frostming.com/2024/pdm-lockfile/</id>
+        <link href="https://frostming.com/2024/pdm-lockfile/"/>
+        <updated>2024-03-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lockfile]]></summary>
+        <author>
+            <name>mianghong@gmail.com (Frost Ming)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PDM Internals(1)]]></title>
+        <id>https://frostming.com/en/2024/pdm-lockfile/</id>
+        <link href="https://frostming.com/en/2024/pdm-lockfile/"/>
+        <updated>2024-03-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lock file]]></summary>
+        <author>
+            <name>mianghong@gmail.com (Frost Ming)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[探测 TCP 乱序问题]]></title>
         <id>https://www.kawabangga.com/?p=5876</id>
@@ -76,17 +96,6 @@ Continue reading...
 甲午海战中国为什么会败？从李鸿章和森有礼的对话谈起最先出现在Tinyfool的个人网站。]]></summary>
         <author>
             <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[肯特岗]]></title>
-        <id>https://www.kawabangga.com/?p=5826</id>
-        <link href="https://www.kawabangga.com/posts/5826"/>
-        <updated>2024-02-25T15:01:55.000Z</updated>
-        <summary type="html"><![CDATA[肯特岗，是我在新加坡度过时间最多的地方，因为我在这里上班。 这里地形很奇特，坐了三次电梯上楼，可以从另一个门出 […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

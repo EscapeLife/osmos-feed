@@ -110,16 +110,6 @@
           "wordCount": 1840,
           "title": "再多来点 TCP 吧：Delay ACK 和 Nagle 算法",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=5826",
-          "author": "laixintao",
-          "description": "肯特岗，是我在新加坡度过时间最多的地方，因为我在这里上班。 这里地形很奇特，坐了三次电梯上楼，可以从另一个门出 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/5826",
-          "publishedOn": "2024-02-25T15:01:55.000Z",
-          "wordCount": 909,
-          "title": "肯特岗",
-          "imageUrl": null
         }
       ]
     },
@@ -139,7 +129,28 @@
       "title": "Frost's Blog",
       "feedUrl": "https://frostming.com/feed.xml",
       "siteUrl": "https://frostming.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://frostming.com/2024/pdm-lockfile/",
+          "author": "mianghong@gmail.com (Frost Ming)",
+          "description": "Lockfile",
+          "link": "https://frostming.com/2024/pdm-lockfile/",
+          "publishedOn": "2024-03-11T00:00:00.000Z",
+          "wordCount": 3296,
+          "title": "PDM 的内部实现(1)",
+          "imageUrl": "https://frostming.com/api/og?title=PDM+%E7%9A%84%E5%86%85%E9%83%A8%E5%AE%9E%E7%8E%B0%281%29&tags=PDM"
+        },
+        {
+          "id": "https://frostming.com/en/2024/pdm-lockfile/",
+          "author": "mianghong@gmail.com (Frost Ming)",
+          "description": "Lock file",
+          "link": "https://frostming.com/en/2024/pdm-lockfile/",
+          "publishedOn": "2024-03-11T00:00:00.000Z",
+          "wordCount": 7272,
+          "title": "PDM Internals(1)",
+          "imageUrl": "https://frostming.com/api/og?title=PDM+Internals%281%29&tags=PDM"
+        }
+      ]
     },
     {
       "title": "Posts on Jiayuan Thoughts",

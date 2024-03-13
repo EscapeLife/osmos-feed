@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-03-12T00:39:28.427Z</updated>
+    <updated>2024-03-13T00:40:34.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google前工程师窃取Google人工智能相关技术机密被抓，可能被判10年甚至更久]]></title>
+        <id>https://codechina.org/?p=30692</id>
+        <link href="https://codechina.org/2024/03/google/"/>
+        <updated>2024-03-12T14:18:36.000Z</updated>
+        <summary type="html"><![CDATA[最近刚聊了人工智能专家都回国，能否拉平中美差距的问题。结果马上就出现了一个案例。 3月6号美国司法部就宣布，有 […]
+Google前工程师窃取Google人工智能相关技术机密被抓，可能被判10年甚至更久最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国最顶尖的人工智能专家1/3是中国人，如果他们回国，立即抹平中美之间的技术差距]]></title>
+        <id>https://codechina.org/?p=30686</id>
+        <link href="https://codechina.org/2024/03/ai-china/"/>
+        <updated>2024-03-12T13:57:31.000Z</updated>
+        <summary type="html"><![CDATA[上面视频讲话的这位朋友叫彭嘉昊，他是上海人工智能研究院数字化治理中心的主任，他在接受看看新闻网的采访。（有趣的 […]
+美国最顶尖的人工智能专家1/3是中国人，如果他们回国，立即抹平中美之间的技术差距最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PDM 的内部实现(1)]]></title>
         <id>https://frostming.com/2024/pdm-lockfile/</id>
@@ -85,17 +107,6 @@ Continue reading...
         <summary type="html"><![CDATA[�� skynet �У�����֮�䲢�����У���ÿ������������ҵ���Ǵ��еġ�һ�������ɿ����������зֳɶ��ʱ��Ƭ��ÿ��ʱ��Ƭ���������ڲ�ͬ�Ĺ����߳��ϡ��������������ÿ������������һ�� Lua ��������� coroutine �з�ʱ��Ƭ�������ӱ�д����ĽǶȿ��������������ġ� �����Ƶ�Ŀ���ǣ��ÿ������������ܵ���˴����Ĳ����������ƣ�ͬʱ�����д���̳߳�����������Ǹ����� �ù� skynet ��Ӧ�ö����������������ڷ����в�С�ĵ�����һ����ʱ�����ж������ص� C ���������ռһ�������̡߳�ͬʱ������������ķ���Ҳ�޷������µ���Ϣ��һ����������������������޽�ġ�����ͨ����Ϊ����������⵼�����������������skynet �Ŀ���ڼ�⵽�����������ʱ������� maybe in an endless loop �� ����� Lua ������������ѭ��������ͨ������ signal ��������������е� Lua ������������������ C �����У�ֻ���º�׷�� bug �ˡ�...]]></summary>
         <author>
             <name>�Ʒ�� BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[甲午海战中国为什么会败？从李鸿章和森有礼的对话谈起]]></title>
-        <id>https://codechina.org/?p=30660</id>
-        <link href="https://codechina.org/2024/02/lihongzhang/"/>
-        <updated>2024-02-27T01:14:42.000Z</updated>
-        <summary type="html"><![CDATA[92年，我初中的时候看过一个电视剧《北洋水师》，当时很流行，后来不知道为什么不怎么见重播了。其实这个剧当时很火 […]
-甲午海战中国为什么会败？从李鸿章和森有礼的对话谈起最先出现在Tinyfool的个人网站。]]></summary>
-        <author>
-            <name>tinyfool</name>
         </author>
     </entry>
     <entry>

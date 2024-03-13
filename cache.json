@@ -49,6 +49,26 @@
       "siteUrl": "https://codechina.org/",
       "articles": [
         {
+          "id": "https://codechina.org/?p=30692",
+          "author": "tinyfool",
+          "description": "最近刚聊了人工智能专家都回国，能否拉平中美差距的问题。结果马上就出现了一个案例。 3月6号美国司法部就宣布，有 […]\nGoogle前工程师窃取Google人工智能相关技术机密被抓，可能被判10年甚至更久最先出现在Tinyfool的个人网站。",
+          "link": "https://codechina.org/2024/03/google/",
+          "publishedOn": "2024-03-12T14:18:36.000Z",
+          "wordCount": 1224,
+          "title": "Google前工程师窃取Google人工智能相关技术机密被抓，可能被判10年甚至更久",
+          "imageUrl": "https://codechina.org/wp-content/uploads/2024/03/RD_tweet.png"
+        },
+        {
+          "id": "https://codechina.org/?p=30686",
+          "author": "tinyfool",
+          "description": "上面视频讲话的这位朋友叫彭嘉昊，他是上海人工智能研究院数字化治理中心的主任，他在接受看看新闻网的采访。（有趣的 […]\n美国最顶尖的人工智能专家1/3是中国人，如果他们回国，立即抹平中美之间的技术差距最先出现在Tinyfool的个人网站。",
+          "link": "https://codechina.org/2024/03/ai-china/",
+          "publishedOn": "2024-03-12T13:57:31.000Z",
+          "wordCount": 1291,
+          "title": "美国最顶尖的人工智能专家1/3是中国人，如果他们回国，立即抹平中美之间的技术差距",
+          "imageUrl": "https://codechina.org/wp-content/uploads/2024/03/Shanghai-Hongqiao-Station-Concourse-1024x683.jpg"
+        },
+        {
           "id": "https://codechina.org/?p=30674",
           "author": "tinyfool",
           "description": "我们今天聊聊贾玲的新电影《热辣滚烫》。她这个电影是最近几年中国最火的电影之一。票房上非常成功。 这个电影获得巨 […]\n对贾玲热辣滚烫的质疑和我们源远流长的阿Q精神历史最先出现在Tinyfool的个人网站。",
@@ -57,16 +77,6 @@
           "wordCount": 1260,
           "title": "对贾玲热辣滚烫的质疑和我们源远流长的阿Q精神历史",
           "imageUrl": "https://codechina.org/wp-content/uploads/2024/03/热辣滚烫新海报.jpg"
-        },
-        {
-          "id": "https://codechina.org/?p=30660",
-          "author": "tinyfool",
-          "description": "92年，我初中的时候看过一个电视剧《北洋水师》，当时很流行，后来不知道为什么不怎么见重播了。其实这个剧当时很火 […]\n甲午海战中国为什么会败？从李鸿章和森有礼的对话谈起最先出现在Tinyfool的个人网站。",
-          "link": "https://codechina.org/2024/02/lihongzhang/",
-          "publishedOn": "2024-02-27T01:14:42.000Z",
-          "wordCount": 1189,
-          "title": "甲午海战中国为什么会败？从李鸿章和森有礼的对话谈起",
-          "imageUrl": "https://codechina.org/wp-content/uploads/2024/02/北洋水师-电视剧.png"
         }
       ]
     },

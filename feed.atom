@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-03-15T00:40:18.951Z</updated>
+    <updated>2024-03-16T00:38:52.763Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -118,16 +118,6 @@ Continue reading...
 四层负载均衡漫谈]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[�Է�������ʽִ��һ������]]></title>
-        <id>https://blog.codingnow.com/2024/03/skynet_none_blocking_function.html</id>
-        <link href="https://blog.codingnow.com/2024/03/skynet_none_blocking_function.html"/>
-        <updated>2024-03-01T10:46:14.000Z</updated>
-        <summary type="html"><![CDATA[�� skynet �У�����֮�䲢�����У���ÿ������������ҵ���Ǵ��еġ�һ�������ɿ����������зֳɶ��ʱ��Ƭ��ÿ��ʱ��Ƭ���������ڲ�ͬ�Ĺ����߳��ϡ��������������ÿ������������һ�� Lua ��������� coroutine �з�ʱ��Ƭ�������ӱ�д����ĽǶȿ��������������ġ� �����Ƶ�Ŀ���ǣ��ÿ������������ܵ���˴����Ĳ����������ƣ�ͬʱ�����д���̳߳�����������Ǹ����� �ù� skynet ��Ӧ�ö����������������ڷ����в�С�ĵ�����һ����ʱ�����ж������ص� C ���������ռһ�������̡߳�ͬʱ������������ķ���Ҳ�޷������µ���Ϣ��һ����������������������޽�ġ�����ͨ����Ϊ����������⵼�����������������skynet �Ŀ���ڼ�⵽�����������ʱ������� maybe in an endless loop �� ����� Lua ������������ѭ��������ͨ������ signal ��������������е� Lua ������������������ C �����У�ֻ���º�׷�� bug �ˡ�...]]></summary>
-        <author>
-            <name>�Ʒ�� BLOG</name>
         </author>
     </entry>
     <entry>

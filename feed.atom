@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-03-17T00:42:57.897Z</updated>
+    <updated>2024-03-18T00:41:14.148Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -92,32 +92,6 @@ Google BBR 拥塞控制算法简单介绍]]></summary>
 对贾玲热辣滚烫的质疑和我们源远流长的阿Q精神历史最先出现在Tinyfool的个人网站。]]></summary>
         <author>
             <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何阅读火焰图]]></title>
-        <id>https://www.kawabangga.com/?p=5861</id>
-        <link href="https://www.kawabangga.com/posts/5861"/>
-        <updated>2024-03-03T06:06:42.000Z</updated>
-        <summary type="html"><![CDATA[这篇文章是火焰图阅读的简明教程。 火焰图是我们用来分析性能的可视化工具。很多 profile 工具输出的信息都 […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[再多来点 TCP 吧：Delay ACK 和 Nagle 算法]]></title>
-        <id>https://www.kawabangga.com/?p=5845</id>
-        <link href="https://www.kawabangga.com/posts/5845"/>
-        <updated>2024-03-02T13:14:31.000Z</updated>
-        <summary type="html"><![CDATA[教科书介绍的 TCP 内容通常比较基础：包括三次握手，四次挥手，数据发送通过收到 ACK 来保证可靠传输等等。 […]
-Continue reading...
-相关文章:
-
-有关 MTU 和 MSS 的一切
-四层负载均衡漫谈]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

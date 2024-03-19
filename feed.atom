@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-03-18T00:41:14.148Z</updated>
+    <updated>2024-03-19T00:40:07.172Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -81,17 +81,6 @@ Continue reading...
 Google BBR 拥塞控制算法简单介绍]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对贾玲热辣滚烫的质疑和我们源远流长的阿Q精神历史]]></title>
-        <id>https://codechina.org/?p=30674</id>
-        <link href="https://codechina.org/2024/03/jialing-jianfei/"/>
-        <updated>2024-03-04T02:38:28.000Z</updated>
-        <summary type="html"><![CDATA[我们今天聊聊贾玲的新电影《热辣滚烫》。她这个电影是最近几年中国最火的电影之一。票房上非常成功。 这个电影获得巨 […]
-对贾玲热辣滚烫的质疑和我们源远流长的阿Q精神历史最先出现在Tinyfool的个人网站。]]></summary>
-        <author>
-            <name>tinyfool</name>
         </author>
     </entry>
     <entry>

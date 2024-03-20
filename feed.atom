@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-03-19T00:40:07.172Z</updated>
+    <updated>2024-03-20T00:39:51.644Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -67,20 +67,6 @@ Google前工程师窃取Google人工智能相关技术机密被抓，可能被�
         <summary type="html"><![CDATA[Lock file]]></summary>
         <author>
             <name>mianghong@gmail.com (Frost Ming)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[探测 TCP 乱序问题]]></title>
-        <id>https://www.kawabangga.com/?p=5876</id>
-        <link href="https://www.kawabangga.com/posts/5876"/>
-        <updated>2024-03-05T01:23:00.000Z</updated>
-        <summary type="html"><![CDATA[TCP 协议是基于 IP 协议的。IP 协议不保证顺序，只能说尽力保证包的顺序。如果发生乱序，TCP 的性能就 […]
-Continue reading...
-相关文章:
-
-Google BBR 拥塞控制算法简单介绍]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-03-25T00:42:15.553Z</updated>
+    <updated>2024-03-26T00:40:13.256Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -57,26 +57,6 @@ Google前工程师窃取Google人工智能相关技术机密被抓，可能被�
 美国最顶尖的人工智能专家1/3是中国人，如果他们回国，立即抹平中美之间的技术差距最先出现在Tinyfool的个人网站。]]></summary>
         <author>
             <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PDM 的内部实现(1)]]></title>
-        <id>https://frostming.com/2024/pdm-lockfile/</id>
-        <link href="https://frostming.com/2024/pdm-lockfile/"/>
-        <updated>2024-03-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lockfile]]></summary>
-        <author>
-            <name>mianghong@gmail.com (Frost Ming)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PDM Internals(1)]]></title>
-        <id>https://frostming.com/en/2024/pdm-lockfile/</id>
-        <link href="https://frostming.com/en/2024/pdm-lockfile/"/>
-        <updated>2024-03-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lock file]]></summary>
-        <author>
-            <name>mianghong@gmail.com (Frost Ming)</name>
         </author>
     </entry>
     <entry>

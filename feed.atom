@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-03-26T00:40:13.256Z</updated>
+    <updated>2024-03-27T00:40:18.625Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Netflix版本《三体》的文革描写真实可靠么？我们为什么需要更多的描写文革的影视剧？]]></title>
+        <id>https://codechina.org/?p=30710</id>
+        <link href="https://codechina.org/2024/03/netflix-3-body/"/>
+        <updated>2024-03-22T04:04:00.000Z</updated>
+        <summary type="html"><![CDATA[今天我们聊一聊这个网飞版本Netflix版本的《三体》，特别是它对文革的描写是否可靠，以及为什么我们需要更多的 […]
+Netflix版本《三体》的文革描写真实可靠么？我们为什么需要更多的描写文革的影视剧？最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[�ع� ltask �����������]]></title>
         <id>https://blog.codingnow.com/2024/03/ltask_schedule.html</id>
@@ -14,6 +25,17 @@
         <summary type="html"><![CDATA[ltask �� Ant engine �Ļ�����ʩ֮һ���ڶ� Ant engine profile �Ĺ����У����Ƿ����� ltask ��һЩֵ�������ĵط��� ����ϣ�������ܵ�������Ϸ֡�ʣ�������Ⱦÿһ֡�ĵ�ʱ�䡣��Ϊ Ant engine ���ɺܶಢ�����񹹳ɵģ�����������Ĳ��Ի�ֱ��Ӱ�쵥֡��Ҫ��ʱ�䡣 ltask ��Ȼ�� skynet ������������һ���ģ����� m ���̣߳�����/���񣩣������������� n �� cpu �����ϡ������ǵ�Ӧ�ó�����ͬ��ltask Ŀǰ������Ϸ�ͻ��ˣ�����һ�����ظ�����������ɵ͸������񹹳ɣ��Ż�Ŀ���ǵ��ӳ٣��� skynet ��Ҫ���ڷ������ϣ�������ǧ�Ƶ����Ƹ��ɵ����񹹳ɣ��Ż�Ŀ���Ǹ߸��ء�...]]></summary>
         <author>
             <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[回旋镖满天飞：从被网暴的农夫山泉，再谈为什么我们的舆论场变的越来越可笑]]></title>
+        <id>https://codechina.org/?p=30748</id>
+        <link href="https://codechina.org/2024/03/nongfushanquan/"/>
+        <updated>2024-03-14T13:50:00.000Z</updated>
+        <summary type="html"><![CDATA[大家知道最近互联网上充斥着对农夫山泉的网暴，特别是抖音和微博上。最近的一个新的故事是，本来小米是深受各种粉红全 […]
+回旋镖满天飞：从被网暴的农夫山泉，再谈为什么我们的舆论场变的越来越可笑最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
         </author>
     </entry>
     <entry>

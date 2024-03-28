@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-03-27T00:40:18.625Z</updated>
+    <updated>2024-03-28T00:41:11.311Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -57,28 +57,6 @@ Netflix版本《三体》的文革描写真实可靠么？我们为什么需要�
         <summary type="html"><![CDATA[我们在墨问小程序这个产品的设置里有一个加入墨问社群的入口，这样就会有源源不断的用 … Continue reading →]]></summary>
         <author>
             <name>MacTalk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google前工程师窃取Google人工智能相关技术机密被抓，可能被判10年甚至更久]]></title>
-        <id>https://codechina.org/?p=30692</id>
-        <link href="https://codechina.org/2024/03/google/"/>
-        <updated>2024-03-12T14:18:36.000Z</updated>
-        <summary type="html"><![CDATA[最近刚聊了人工智能专家都回国，能否拉平中美差距的问题。结果马上就出现了一个案例。 3月6号美国司法部就宣布，有 […]
-Google前工程师窃取Google人工智能相关技术机密被抓，可能被判10年甚至更久最先出现在Tinyfool的个人网站。]]></summary>
-        <author>
-            <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国最顶尖的人工智能专家1/3是中国人，如果他们回国，立即抹平中美之间的技术差距]]></title>
-        <id>https://codechina.org/?p=30686</id>
-        <link href="https://codechina.org/2024/03/ai-china/"/>
-        <updated>2024-03-12T13:57:31.000Z</updated>
-        <summary type="html"><![CDATA[上面视频讲话的这位朋友叫彭嘉昊，他是上海人工智能研究院数字化治理中心的主任，他在接受看看新闻网的采访。（有趣的 […]
-美国最顶尖的人工智能专家1/3是中国人，如果他们回国，立即抹平中美之间的技术差距最先出现在Tinyfool的个人网站。]]></summary>
-        <author>
-            <name>tinyfool</name>
         </author>
     </entry>
     <entry>

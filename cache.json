@@ -88,7 +88,28 @@
       "title": "Frost's Blog",
       "feedUrl": "https://frostming.com/feed.xml",
       "siteUrl": "https://frostming.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://frostming.com/2024/pdm-lock-strategy/",
+          "author": "mianghong@gmail.com (Frost Ming)",
+          "description": "Lock 策略",
+          "link": "https://frostming.com/2024/pdm-lock-strategy/",
+          "publishedOn": "2024-04-01T00:00:00.000Z",
+          "wordCount": 862,
+          "title": "PDM 的内部实现(2)",
+          "imageUrl": "https://frostming.com/api/og?title=PDM+%E7%9A%84%E5%86%85%E9%83%A8%E5%AE%9E%E7%8E%B0%282%29&tags=PDM"
+        },
+        {
+          "id": "https://frostming.com/en/2024/pdm-lock-strategy/",
+          "author": "mianghong@gmail.com (Frost Ming)",
+          "description": "Lock strategy",
+          "link": "https://frostming.com/en/2024/pdm-lock-strategy/",
+          "publishedOn": "2024-04-01T00:00:00.000Z",
+          "wordCount": 3913,
+          "title": "PDM Internals(2)",
+          "imageUrl": "https://frostming.com/api/og?title=PDM+Internals%282%29&tags=PDM"
+        }
+      ]
     },
     {
       "title": "Posts on Jiayuan Thoughts",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-04-05T00:41:17.821Z</updated>
+    <updated>2024-04-06T00:39:47.811Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -24,27 +24,6 @@
         <summary type="html"><![CDATA[Lock strategy]]></summary>
         <author>
             <name>mianghong@gmail.com (Frost Ming)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix版本《三体》的文革描写真实可靠么？我们为什么需要更多的描写文革的影视剧？]]></title>
-        <id>https://codechina.org/?p=30710</id>
-        <link href="https://codechina.org/2024/03/netflix-3-body/"/>
-        <updated>2024-03-22T04:04:00.000Z</updated>
-        <summary type="html"><![CDATA[今天我们聊一聊这个网飞版本Netflix版本的《三体》，特别是它对文革的描写是否可靠，以及为什么我们需要更多的 […]
-Netflix版本《三体》的文革描写真实可靠么？我们为什么需要更多的描写文革的影视剧？最先出现在Tinyfool的个人网站。]]></summary>
-        <author>
-            <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[�ع� ltask �����������]]></title>
-        <id>https://blog.codingnow.com/2024/03/ltask_schedule.html</id>
-        <link href="https://blog.codingnow.com/2024/03/ltask_schedule.html"/>
-        <updated>2024-03-22T02:30:37.000Z</updated>
-        <summary type="html"><![CDATA[ltask �� Ant engine �Ļ�����ʩ֮һ���ڶ� Ant engine profile �Ĺ����У����Ƿ����� ltask ��һЩֵ�������ĵط��� ����ϣ�������ܵ�������Ϸ֡�ʣ�������Ⱦÿһ֡�ĵ�ʱ�䡣��Ϊ Ant engine ���ɺܶಢ�����񹹳ɵģ�����������Ĳ��Ի�ֱ��Ӱ�쵥֡��Ҫ��ʱ�䡣 ltask ��Ȼ�� skynet ������������һ���ģ����� m ���̣߳�����/���񣩣������������� n �� cpu �����ϡ������ǵ�Ӧ�ó�����ͬ��ltask Ŀǰ������Ϸ�ͻ��ˣ�����һ�����ظ�����������ɵ͸������񹹳ɣ��Ż�Ŀ���ǵ��ӳ٣��� skynet ��Ҫ���ڷ������ϣ�������ǧ�Ƶ����Ƹ��ɵ����񹹳ɣ��Ż�Ŀ���Ǹ߸��ء�...]]></summary>
-        <author>
-            <name>�Ʒ�� BLOG</name>
         </author>
     </entry>
     <entry>

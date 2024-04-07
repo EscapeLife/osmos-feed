@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-04-06T00:39:47.811Z</updated>
+    <updated>2024-04-07T00:45:44.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[iowait 的含义]]></title>
+        <id>https://www.kawabangga.com/?p=5903</id>
+        <link href="https://www.kawabangga.com/posts/5903"/>
+        <updated>2024-04-06T04:53:23.000Z</updated>
+        <summary type="html"><![CDATA[iowait 是 CPU 的一种状态，表示此时 CPU 正处于 idle 状态，并且至少有一个进程正在等待 I […]
+Continue reading...
+相关文章:
+
+Docker (容器) 的原理]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PDM 的内部实现(2)]]></title>
         <id>https://frostming.com/2024/pdm-lock-strategy/</id>

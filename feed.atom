@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-04-12T00:41:42.385Z</updated>
+    <updated>2024-04-13T00:34:50.196Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ant Engine ��һЩ�Ż�]]></title>
+        <id>https://blog.codingnow.com/2024/04/ant_engine_optimization.html</id>
+        <link href="https://blog.codingnow.com/2024/04/ant_engine_optimization.html"/>
+        <updated>2024-04-12T05:08:41.000Z</updated>
+        <summary type="html"><![CDATA[���һ��ʱ�䶼�ڹ�˾��Ѱ����Ŀ���Ժ����ƽ� Ant Engine ��ʹ�á��Ҿ������������һ����Ҫ�����������ǿ�����Ծ�����Ϸ���õ��������Ż�����Ŀ���豸Ӳ�����������ķ����ڣ��ѻ��������ͽ��������������á���ͬ�����Ż��ֶΣ���ͨ����ҵ���������������ѵĶ࣬�����޷�˳����ɡ� ������ Ant Engine �����ĵ�һ����Ϸ Red Frontier ��һ��ǰ��������ȫ�����ġ����� iPhone 8 ���������ﲻ�� 30fps ���޷�������Ϸ���ܶ�������������֪���⣬���������� Lua ����������棬һ��ʼֻ����������ṹ����ȷ�ԣ������ܸ�����һ�ߴ������ٴ����� �Ż�������һ��ʼ����õģ����� lua ecs ��ܣ������ݽṹ���� C �ڴ��У���Ҫʱ�����ƹ� Lua ���룬ֱ���� C ������ƺ������ݡ����ǻ��˴�Լ 3 �����µ�ʱ�佫������Ⱦϵͳ�� C ��д�󣬾Ͱ���������� 1 �����������ϡ�������̿���˵��һֱ���������У����ƻ��ƽ��� ����ʹ��������Ϸ������ 60fps �£��Ż���Ŀ��ҲԶԶû�дﵽ��������Ϊ�����ֻ��豸��˵���û������ײ����������ǡ��ڹ̶���λ�ϲ��ŵ��������� PC ��Ϸ����Ҳ���ȥ����Ϸ�����˶��ٵ磻��ʹ�� switch...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当Nashorn失去括号：非典型Java命令执行绕过]]></title>
+        <id>https://www.leavesongs.com/PENETRATION/nashorn-rce-without-parentheses.html</id>
+        <link href="https://www.leavesongs.com/PENETRATION/nashorn-rce-without-parentheses.html"/>
+        <updated>2024-04-12T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[昨天『代码审计』知识星球里有同学向我提了一个有趣的问题：
+
+简单来说就是，在Java的Nashorn脚本中，如果不允许使用小括号(、)和中括号[、]，如何执行任意命令？
+0x01 浏览器JavaScript无括号XSS
+我们知道，Nashorn脚本本质上是JavaScript，而无括号的XSS Payload其实是一个老问题了。因为JavaScript在执行函数的时候需要使用括号，所以解决问...]]></summary>
+        <author>
+            <name>phithon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iowait 的含义]]></title>
         <id>https://www.kawabangga.com/?p=5903</id>

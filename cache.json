@@ -88,7 +88,18 @@
       "title": "Frost's Blog",
       "feedUrl": "https://frostming.com/feed.xml",
       "siteUrl": "https://frostming.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://frostming.com/2024/diversity/",
+          "author": "mianghong@gmail.com (Frost Ming)",
+          "description": "醉后不知天在水，满船清梦压星河",
+          "link": "https://frostming.com/2024/diversity/",
+          "publishedOn": "2024-04-19T00:00:00.000Z",
+          "wordCount": 154,
+          "title": "我们生活在差异里",
+          "imageUrl": "https://frostming.com/api/og?title=%E6%88%91%E4%BB%AC%E7%94%9F%E6%B4%BB%E5%9C%A8%E5%B7%AE%E5%BC%82%E9%87%8C&tags=%E7%A2%8E%E7%A2%8E%E5%BF%B5"
+        }
+      ]
     },
     {
       "title": "Posts on Jiayuan Thoughts",

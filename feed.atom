@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-04-19T00:41:14.869Z</updated>
+    <updated>2024-04-20T00:41:57.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[我们生活在差异里]]></title>
+        <id>https://frostming.com/2024/diversity/</id>
+        <link href="https://frostming.com/2024/diversity/"/>
+        <updated>2024-04-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[醉后不知天在水，满船清梦压星河]]></summary>
+        <author>
+            <name>mianghong@gmail.com (Frost Ming)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[����]]></title>
         <id>https://blog.codingnow.com/2024/04/death.html</id>

@@ -47,7 +47,18 @@
       "title": "Tinyfool的个人网站",
       "feedUrl": "http://feeds.feedburner.com/Tinyfoolblog",
       "siteUrl": "https://codechina.org/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://codechina.org/?p=30772",
+          "author": "tinyfool",
+          "description": "在 Swift 中，@available 是一个属性标注（Attribute），它用来表示一个类、结构体、枚举 […]\nSwift编程中应用@available和deprecated在自己的编程中提供便利最先出现在Tinyfool的个人网站。",
+          "link": "https://codechina.org/2024/04/available-deprecated/",
+          "publishedOn": "2024-04-25T02:52:49.000Z",
+          "wordCount": 1284,
+          "title": "Swift编程中应用@available和deprecated在自己的编程中提供便利",
+          "imageUrl": "https://codechina.org/wp-content/uploads/2024/04/截屏2024-04-25-10.51.11-1.png"
+        }
+      ]
     },
     {
       "title": "ChangeLog of KDr2.com",

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-04-25T00:44:02.909Z</updated>
+    <updated>2024-04-26T00:41:50.421Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Swift编程中应用@available和deprecated在自己的编程中提供便利]]></title>
+        <id>https://codechina.org/?p=30772</id>
+        <link href="https://codechina.org/2024/04/available-deprecated/"/>
+        <updated>2024-04-25T02:52:49.000Z</updated>
+        <summary type="html"><![CDATA[在 Swift 中，@available 是一个属性标注（Attribute），它用来表示一个类、结构体、枚举 […]
+Swift编程中应用@available和deprecated在自己的编程中提供便利最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[去悉尼]]></title>
         <id>https://www.kawabangga.com/?p=5518</id>

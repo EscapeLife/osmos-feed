@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-05-04T00:41:31.435Z</updated>
+    <updated>2024-05-05T00:45:07.141Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -25,17 +25,6 @@
 Swift编程中应用@available和deprecated在自己的编程中提供便利最先出现在Tinyfool的个人网站。]]></summary>
         <author>
             <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[去悉尼]]></title>
-        <id>https://www.kawabangga.com/?p=5518</id>
-        <link href="https://www.kawabangga.com/posts/5518"/>
-        <updated>2024-04-20T11:58:46.000Z</updated>
-        <summary type="html"><![CDATA[上个月看到飞澳大利亚机票很便宜，于是就想去澳洲旅行一下。 算得上是一场说走就走的旅行了。（虽然最后算了一下，机 […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

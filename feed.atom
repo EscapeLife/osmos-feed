@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-05-06T00:43:07.770Z</updated>
+    <updated>2024-05-07T00:43:01.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[��������]]></title>
+        <id>https://blog.codingnow.com/2024/05/farewell.html</id>
+        <link href="https://blog.codingnow.com/2024/05/farewell.html"/>
+        <updated>2024-05-06T01:51:56.000Z</updated>
+        <summary type="html"><![CDATA[���죬�����ڹ��ݰ������İ칫�����һ�졣��Ȼ Last day �趨���� 5 �� 20 �գ�������ȫ���Ǽ��ڣ�Ӧ�ò����ٻ��������Щ�������Ҷ�û���ù������ǵ�����Զ����ϣ�����������ȫ��һС�룩�ˡ� �ع��ҵ�ְҵ���ģ�2001 ��֮ǰ�ڱ��������˴�ҵ�������ֶ��ݵĹ��������¡�֮��������׹�����ʮ�� ��ֱ�� 2011 ���뿪 ��2011 ��ף����Ǵ����˼��ã�ԭ����Ϊ�����ҹ�˾һֱ����ȥ�����ڸ��ֻ�Ե�£��� 2017 ��ױ�����Ͱ��չ���֮���ұ��˳���˾�Ĺ�����ר�Ŀ�����Ϸ���档 ÿ�ξ�����ӡ֤�Ų�ͬ���ľ������˵��ǣ�ÿ�ο�ʼ�ͽ����������ҵ�����ѡ�񡣸�л��Щ�������ҵ����ԵĻ�飬����ִ�����Լ��뷨��ͬʱ��Ҳ�ر���������ˡ�...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[����������ģ�͵��Ż�]]></title>
         <id>https://blog.codingnow.com/2024/05/skinmesh_instancing.html</id>

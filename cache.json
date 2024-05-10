@@ -47,18 +47,7 @@
       "title": "Tinyfool的个人网站",
       "feedUrl": "http://feeds.feedburner.com/Tinyfoolblog",
       "siteUrl": "https://codechina.org/",
-      "articles": [
-        {
-          "id": "https://codechina.org/?p=30772",
-          "author": "tinyfool",
-          "description": "在 Swift 中，@available 是一个属性标注（Attribute），它用来表示一个类、结构体、枚举 […]\nSwift编程中应用@available和deprecated在自己的编程中提供便利最先出现在Tinyfool的个人网站。",
-          "link": "https://codechina.org/2024/04/available-deprecated/",
-          "publishedOn": "2024-04-25T02:52:49.000Z",
-          "wordCount": 1284,
-          "title": "Swift编程中应用@available和deprecated在自己的编程中提供便利",
-          "imageUrl": "https://codechina.org/wp-content/uploads/2024/04/截屏2024-04-25-10.51.11-1.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "ChangeLog of KDr2.com",
@@ -88,7 +77,18 @@
       "title": "Frost's Blog",
       "feedUrl": "https://frostming.com/feed.xml",
       "siteUrl": "https://frostming.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://frostming.com/2024/friendly-python-reuse/",
+          "author": "mianghong@gmail.com (Frost Ming)",
+          "description": "醉后不知天在水，满船清梦压星河",
+          "link": "https://frostming.com/2024/friendly-python-reuse/",
+          "publishedOn": "2024-05-09T00:00:00.000Z",
+          "wordCount": 2317,
+          "title": "友好的 Python：封装和复用",
+          "imageUrl": "https://frostming.com/api/og?title=%E5%8F%8B%E5%A5%BD%E7%9A%84+Python%EF%BC%9A%E5%B0%81%E8%A3%85%E5%92%8C%E5%A4%8D%E7%94%A8&tags=friendly+python%2CPython"
+        }
+      ]
     },
     {
       "title": "Posts on Jiayuan Thoughts",

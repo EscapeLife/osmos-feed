@@ -59,13 +59,45 @@
       "title": "卡瓦邦噶！",
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.kawabangga.com/?p=5945",
+          "author": "laixintao",
+          "description": "在高楼林立的东京呆够了，我们去了南边的伊豆半岛。 一如东京城市的交通一样，去伊豆的路线也有很多，也很复杂。为了 […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/5945",
+          "publishedOn": "2024-05-11T11:34:30.000Z",
+          "wordCount": 956,
+          "title": "去伊豆",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.kawabangga.com/?p=5943",
+          "author": "laixintao",
+          "description": "一直想去日本旅行， 这一次终于成行了。日本的第一站是首都东京。 签证办的非常顺利，在网上预约好时间，然后携带指 […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/5943",
+          "publishedOn": "2024-05-11T11:29:39.000Z",
+          "wordCount": 1206,
+          "title": "去东京",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "https://www.manjusaka.blog/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.manjusaka.blog/posts/2024/05/11/where-are-my-package/",
+          "author": null,
+          "description": "<p>这算是新开的一个系列，主要是记录一些 SRE 日常帮自己/帮人调试问题的经历。会完整的记录排查的过程。希望能帮上大家的忙</p>\n<p>这篇是一个非常常见的问题，我的包去哪了？</p>",
+          "link": "https://www.manjusaka.blog/posts/2024/05/11/where-are-my-package/",
+          "publishedOn": "2024-05-11T17:00:00.000Z",
+          "wordCount": 1870,
+          "title": "SRE 日志：我的包去哪了？",
+          "imageUrl": "https://cdn.pixabay.com/photo/2023/02/04/07/38/cherry-blossoms-7766587_1280.jpg"
+        }
+      ]
     },
     {
       "title": "laike9m's blog",

@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-05-11T00:43:03.322Z</updated>
+    <updated>2024-05-12T00:46:48.008Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE 日志：我的包去哪了？]]></title>
+        <id>https://www.manjusaka.blog/posts/2024/05/11/where-are-my-package/</id>
+        <link href="https://www.manjusaka.blog/posts/2024/05/11/where-are-my-package/"/>
+        <updated>2024-05-11T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>这算是新开的一个系列，主要是记录一些 SRE 日常帮自己/帮人调试问题的经历。会完整的记录排查的过程。希望能帮上大家的忙</p>
+<p>这篇是一个非常常见的问题，我的包去哪了？</p>]]></summary>
+        <author>
+            <name>Manjusaka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[去伊豆]]></title>
+        <id>https://www.kawabangga.com/?p=5945</id>
+        <link href="https://www.kawabangga.com/posts/5945"/>
+        <updated>2024-05-11T11:34:30.000Z</updated>
+        <summary type="html"><![CDATA[在高楼林立的东京呆够了，我们去了南边的伊豆半岛。 一如东京城市的交通一样，去伊豆的路线也有很多，也很复杂。为了 […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[去东京]]></title>
+        <id>https://www.kawabangga.com/?p=5943</id>
+        <link href="https://www.kawabangga.com/posts/5943"/>
+        <updated>2024-05-11T11:29:39.000Z</updated>
+        <summary type="html"><![CDATA[一直想去日本旅行， 这一次终于成行了。日本的第一站是首都东京。 签证办的非常顺利，在网上预约好时间，然后携带指 […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[友好的 Python：封装和复用]]></title>
         <id>https://frostming.com/2024/friendly-python-reuse/</id>

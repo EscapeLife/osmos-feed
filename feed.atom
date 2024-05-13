@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-05-12T00:46:48.008Z</updated>
+    <updated>2024-05-13T00:44:08.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -15,6 +15,19 @@
 <p>这篇是一个非常常见的问题，我的包去哪了？</p>]]></summary>
         <author>
             <name>Manjusaka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Obsidian多端同步方案]]></title>
+        <id>https://www.escapelife.site/posts/55f95be9.html</id>
+        <link href="https://www.escapelife.site/posts/55f95be9.html"/>
+        <updated>2024-05-11T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p><strong>记笔记的目的不是记忆过去，记忆过去是为了改变未来。</strong></p>
+</blockquote>
+<p>目前，市面上有很多 <code>Obsidian</code>]]></summary>
+        <author>
+            <name>Escape</name>
         </author>
     </entry>
     <entry>

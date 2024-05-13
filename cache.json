@@ -4,7 +4,18 @@
       "title": "Escape",
       "feedUrl": "https://www.escapelife.site/atom.xml",
       "siteUrl": "https://www.escapelife.site/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.escapelife.site/posts/55f95be9.html",
+          "author": null,
+          "description": "<blockquote>\n<p><strong>记笔记的目的不是记忆过去，记忆过去是为了改变未来。</strong></p>\n</blockquote>\n<p>目前，市面上有很多 <code>Obsidian</code>",
+          "link": "https://www.escapelife.site/posts/55f95be9.html",
+          "publishedOn": "2024-05-11T12:00:00.000Z",
+          "wordCount": 1325,
+          "title": "Obsidian多端同步方案",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "酷 壳 – CoolShell",

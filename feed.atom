@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-05-22T00:43:25.509Z</updated>
+    <updated>2024-05-23T00:43:09.594Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[《成长是孩子自己的旅程》]]></title>
+        <id>https://www.escapelife.site/posts/3ea9d869.html</id>
+        <link href="https://www.escapelife.site/posts/3ea9d869.html"/>
+        <updated>2024-05-22T08:25:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p><strong>一本记录孩子日常生活的碎碎念，意义不大！</strong></p>
+</blockquote>
+<p>本书是一部以子女教育和培养为中心议题的随笔集。作为一个受过良好教育，且在自己珍视的事业上颇为成功的母亲，作者表现出的对子女教育和培]]></summary>
+        <author>
+            <name>Escape</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[村上春树的爱好 – 这个时代该读读村上系列]]></title>
         <id>https://macshuo.com/?p=1912</id>

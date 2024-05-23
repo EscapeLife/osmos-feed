@@ -6,6 +6,16 @@
       "siteUrl": "https://www.escapelife.site/atom.xml",
       "articles": [
         {
+          "id": "https://www.escapelife.site/posts/3ea9d869.html",
+          "author": null,
+          "description": "<blockquote>\n<p><strong>一本记录孩子日常生活的碎碎念，意义不大！</strong></p>\n</blockquote>\n<p>本书是一部以子女教育和培养为中心议题的随笔集。作为一个受过良好教育，且在自己珍视的事业上颇为成功的母亲，作者表现出的对子女教育和培",
+          "link": "https://www.escapelife.site/posts/3ea9d869.html",
+          "publishedOn": "2024-05-22T08:25:00.000Z",
+          "wordCount": 1194,
+          "title": "《成长是孩子自己的旅程》",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.escapelife.site/posts/55f95be9.html",
           "author": null,
           "description": "<blockquote>\n<p><strong>记笔记的目的不是记忆过去，记忆过去是为了改变未来。</strong></p>\n</blockquote>\n<p>目前，市面上有很多 <code>Obsidian</code>",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-05-23T00:43:09.594Z</updated>
+    <updated>2024-05-24T00:43:47.145Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -73,16 +73,6 @@ Continue reading...]]></summary>
 Continue reading...]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[友好的 Python：封装和复用]]></title>
-        <id>https://frostming.com/2024/friendly-python-reuse/</id>
-        <link href="https://frostming.com/2024/friendly-python-reuse/"/>
-        <updated>2024-05-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[醉后不知天在水，满船清梦压星河]]></summary>
-        <author>
-            <name>mianghong@gmail.com (Frost Ming)</name>
         </author>
     </entry>
     <entry>

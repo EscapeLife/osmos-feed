@@ -120,6 +120,16 @@
       "siteUrl": "https://www.manjusaka.blog/atom.xml",
       "articles": [
         {
+          "id": "https://www.manjusaka.blog/posts/2024/05/24/a-tour-to-make-a-nes-simulator-nametable-caculate/",
+          "author": null,
+          "description": "<p>随便记录一些写 NES 中的笔记，这次写一下关于 nametable 的 mirror 计算。</p>",
+          "link": "https://www.manjusaka.blog/posts/2024/05/24/a-tour-to-make-a-nes-simulator-nametable-caculate/",
+          "publishedOn": "2024-05-24T17:00:00.000Z",
+          "wordCount": 1826,
+          "title": "实现 NES 中的一些笔记：nametable 的 mirror 计算",
+          "imageUrl": "https://cdn.pixabay.com/photo/2023/02/04/07/38/cherry-blossoms-7766587_1280.jpg"
+        },
+        {
           "id": "https://www.manjusaka.blog/posts/2024/05/11/where-are-my-package/",
           "author": null,
           "description": "<p>这算是新开的一个系列，主要是记录一些 SRE 日常帮自己/帮人调试问题的经历。会完整的记录排查的过程。希望能帮上大家的忙</p>\n<p>这篇是一个非常常见的问题，我的包去哪了？</p>",

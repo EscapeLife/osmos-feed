@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-05-24T00:43:47.145Z</updated>
+    <updated>2024-05-25T00:42:21.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[实现 NES 中的一些笔记：nametable 的 mirror 计算]]></title>
+        <id>https://www.manjusaka.blog/posts/2024/05/24/a-tour-to-make-a-nes-simulator-nametable-caculate/</id>
+        <link href="https://www.manjusaka.blog/posts/2024/05/24/a-tour-to-make-a-nes-simulator-nametable-caculate/"/>
+        <updated>2024-05-24T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>随便记录一些写 NES 中的笔记，这次写一下关于 nametable 的 mirror 计算。</p>]]></summary>
+        <author>
+            <name>Manjusaka</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《成长是孩子自己的旅程》]]></title>
         <id>https://www.escapelife.site/posts/3ea9d869.html</id>

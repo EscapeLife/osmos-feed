@@ -132,7 +132,18 @@
       "title": "Frost's Blog",
       "feedUrl": "https://frostming.com/feed.xml",
       "siteUrl": "https://frostming.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://frostming.com/2024/meet-with-paul/",
+          "author": null,
+          "description": "Programming and Life",
+          "link": "https://frostming.com/2024/meet-with-paul/",
+          "publishedOn": "2024-05-30T00:00:00.000Z",
+          "wordCount": 315,
+          "title": "我「接见」了诺奖得主",
+          "imageUrl": "https://frostming.com/images/default-cover.png"
+        }
+      ]
     },
     {
       "title": "Posts on Jiayuan Thoughts",
@@ -169,6 +180,16 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/42367.html",
+          "author": null,
+          "description": "<p>在爬虫与反爬虫斗争愈演愈烈的情况下，各大网站和 App 的风控检测越来越强，其中一项就是 IP 封禁。</p>\n<p>为了解决 IP 封禁的困扰，一个有效的方式就是设置代理，设置代理之后，爬虫可以借助代理的 IP 来伪装自己的真实 IP 地址，从而突破反爬虫的限制。</p>",
+          "link": "https://cuiqingcai.com/42367.html",
+          "publishedOn": "2024-05-30T16:41:06.000Z",
+          "wordCount": 1342,
+          "title": "移动蜂窝代理对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/wed8yf.png"
+        },
         {
           "id": "https://cuiqingcai.com/42350.html",
           "author": null,

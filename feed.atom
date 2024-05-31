@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-05-30T00:44:16.869Z</updated>
+    <updated>2024-05-31T00:45:01.487Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[移动蜂窝代理对接说明]]></title>
+        <id>https://cuiqingcai.com/42367.html</id>
+        <link href="https://cuiqingcai.com/42367.html"/>
+        <updated>2024-05-30T16:41:06.000Z</updated>
+        <summary type="html"><![CDATA[<p>在爬虫与反爬虫斗争愈演愈烈的情况下，各大网站和 App 的风控检测越来越强，其中一项就是 IP 封禁。</p>
+<p>为了解决 IP 封禁的困扰，一个有效的方式就是设置代理，设置代理之后，爬虫可以借助代理的 IP 来伪装自己的真实 IP 地址，从而突破反爬虫的限制。</p>]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我「接见」了诺奖得主]]></title>
+        <id>https://frostming.com/2024/meet-with-paul/</id>
+        <link href="https://frostming.com/2024/meet-with-paul/"/>
+        <updated>2024-05-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Programming and Life]]></summary>
+        <author>
+            <name>Frost's Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[搭建一个自己的 MidJourney 平台：开启你的赚钱之旅]]></title>
         <id>https://cuiqingcai.com/42350.html</id>

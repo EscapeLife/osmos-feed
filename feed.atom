@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-06-02T00:48:03.066Z</updated>
+    <updated>2024-06-03T00:45:22.767Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[四层负载均衡分析：Google Maglev]]></title>
+        <id>https://www.kawabangga.com/?p=5759</id>
+        <link href="https://www.kawabangga.com/posts/5759"/>
+        <updated>2024-06-02T03:42:43.000Z</updated>
+        <summary type="html"><![CDATA[之前的博客中，四层负载均衡漫谈 介绍和总结了四层负载均衡的相关技术。接下来的博客，会分析一些不同公司的四层负载 […]
+Continue reading...
+相关文章:
+
+一次网络问题排查
+使用 mtr 检查网络问题，以及注意事项
+四层负载均衡漫谈
+真实世界中的 PMTUD
+有关 TLS/SSL 证书的一切]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[移动蜂窝代理对接说明]]></title>
         <id>https://cuiqingcai.com/42367.html</id>

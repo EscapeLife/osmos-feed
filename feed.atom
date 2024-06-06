@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-06-05T00:44:11.741Z</updated>
+    <updated>2024-06-06T00:43:51.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「不可以用路由器？」]]></title>
+        <id>https://www.kawabangga.com/?p=6178</id>
+        <link href="https://www.kawabangga.com/posts/6178"/>
+        <updated>2024-06-05T14:52:44.000Z</updated>
+        <summary type="html"><![CDATA[小李是一个刚上大学的大学生，来到学生宿舍，小李和他的舍友一起办了宽带。接好路由器，准备在宿舍进行上网冲浪的时候 […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[计算机网络实用技术：序章]]></title>
+        <id>https://www.kawabangga.com/?p=6097</id>
+        <link href="https://www.kawabangga.com/posts/6097"/>
+        <updated>2024-06-05T14:49:50.000Z</updated>
+        <summary type="html"><![CDATA[Hi，我是信涛，喜欢抓包。 我打算写一个以现实应用的网络技术为主题的系列文章，姑且将其称之为「书」吧。（还从没 […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高位买了房、车，现在意难平怎么办？]]></title>
+        <id>https://codechina.org/?p=30792</id>
+        <link href="https://codechina.org/2024/06/%e9%ab%98%e4%bd%8d%e4%b9%b0%e4%ba%86%e6%88%bf%e3%80%81%e8%bd%a6%ef%bc%8c%e7%8e%b0%e5%9c%a8%e6%84%8f%e9%9a%be%e5%b9%b3%e6%80%8e%e4%b9%88%e5%8a%9e%ef%bc%9f/"/>
+        <updated>2024-06-05T02:52:34.000Z</updated>
+        <summary type="html"><![CDATA[这个问题是偶然看到的，在某社交平台上，一个朋友晒了一个程序员网站 V2ex 上面的帖子，如下： 题目是，高位买 […]
+高位买了房、车，现在意难平怎么办？最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ant ����Դ�ڴ����]]></title>
         <id>https://blog.codingnow.com/2024/06/asset_mgr_rework.html</id>
@@ -137,19 +170,6 @@ Continue reading...]]></summary>
         <summary type="html"><![CDATA[<p>随便记录一些写 NES 中的笔记，这次写一下关于 nametable 的 mirror 计算。</p>]]></summary>
         <author>
             <name>Manjusaka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《成长是孩子自己的旅程》]]></title>
-        <id>https://www.escapelife.site/posts/3ea9d869.html</id>
-        <link href="https://www.escapelife.site/posts/3ea9d869.html"/>
-        <updated>2024-05-22T08:25:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p><strong>一本记录孩子日常生活的碎碎念，意义不大！</strong></p>
-</blockquote>
-<p>本书是一部以子女教育和培养为中心议题的随笔集。作为一个受过良好教育，且在自己珍视的事业上颇为成功的母亲，作者表现出的对子女教育和培]]></summary>
-        <author>
-            <name>Escape</name>
         </author>
     </entry>
     <entry>

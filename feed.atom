@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-06-06T00:43:51.949Z</updated>
+    <updated>2024-06-07T00:45:42.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WWDC 2024将近，苹果的AI革命会给基于AI的独立开发者带来灭顶之灾么？]]></title>
+        <id>https://codechina.org/?p=30798</id>
+        <link href="https://codechina.org/2024/06/wwdc-2024%e5%b0%86%e8%bf%91%ef%bc%8c%e8%8b%b9%e6%9e%9c%e7%9a%84ai%e9%9d%a9%e5%91%bd%e4%bc%9a%e7%bb%99%e5%9f%ba%e4%ba%8eai%e7%9a%84%e7%8b%ac%e7%ab%8b%e5%bc%80%e5%8f%91%e8%80%85%e5%b8%a6%e6%9d%a5/"/>
+        <updated>2024-06-06T01:20:00.000Z</updated>
+        <summary type="html"><![CDATA[6月11日，WWDC 2024 就要召开了。每年 WWDC 召开以后，随着苹果发布一堆新的内嵌功能，就会在推特 […]
+WWDC 2024将近，苹果的AI革命会给基于AI的独立开发者带来灭顶之灾么？最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「不可以用路由器？」]]></title>
         <id>https://www.kawabangga.com/?p=6178</id>

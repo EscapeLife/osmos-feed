@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-06-07T00:45:42.970Z</updated>
+    <updated>2024-06-08T00:44:26.194Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[填报志愿]]></title>
+        <id>https://www.kawabangga.com/?p=6086</id>
+        <link href="https://www.kawabangga.com/posts/6086"/>
+        <updated>2024-06-07T15:35:01.000Z</updated>
+        <summary type="html"><![CDATA[妹妹打电话来问我怎么填报志愿。 在我回忆我们县里的几个高中，分别有何优劣，分数线分别是多少，应该选哪一个的时候 […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[四层负载均衡分析：Cloudflare Unimog]]></title>
+        <id>https://www.kawabangga.com/?p=6167</id>
+        <link href="https://www.kawabangga.com/posts/6167"/>
+        <updated>2024-06-07T15:24:00.000Z</updated>
+        <summary type="html"><![CDATA[在 四层负载均衡漫谈 介绍了四层负载均衡需要解决的问题，和一些常用的解决方案之后，通过学习一些其他公司的四层技 […]
+Continue reading...
+相关文章:
+
+为什么 Cloudflare 提供免费的服务？
+欧格玛教会与言论自由
+博客迁移到 Cloudflare
+Side Project 成本最小化运行
+DNS 解析的原理]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[һ����Ϸ�ĵ���]]></title>
+        <id>https://blog.codingnow.com/2024/06/game_idea.html</id>
+        <link href="https://blog.codingnow.com/2024/06/game_idea.html"/>
+        <updated>2024-06-07T04:53:51.000Z</updated>
+        <summary type="html"><![CDATA[լ�ڼ���һ�����ˡ�һֱ���룬���������ӭ���г������˼�����������Ӧ����һ����������Ϸ�������Լ������������еõ����㡣 ����ǰ�����μӹ�һ����ͬ�¾۲͡���֯��˵�����������Ķ�������Ϸ�������ˣ����򡢲߻�������ȫ���ˣ������ǲ���Ǯ���������Ҫ��Ҫ�ո��֣���������ɶ��Ϸ��������������һ���Ĭ��ֱ��������˵������ûʲô�뷨���������ϵ��˷׷׵�ͷ��ת���˻��⡣ ǰ�βμ�һ��������Ϸ�������Щ�����ѡ���λͬѧ����Ϸ�ܶ����ˣ�˵����Щ��ľ���������ͷ�����Ǹ��ϰ�򹤣����������˼�С��˾�Լ�����û��ǮҲû׬Ǯ�����������о�����˸�Ա���򹤡�Ϊ�˿��Գ����������ʣ�ÿ������ܴ�æ����������ڲ�ϲ������Ϸ��Ŀ�Ϻĵ���̫��ʱ�䡣���ڸɴ���ŶӰ��ٺã�һ���˳������ú����뵽��Ҫ��ʲô�� �ɼ����������ʲô���ѡ�����һ�˵�״̬Ҳ���ѵã�û��̫��������ţ���Ϊ�����¶����������������� ���ȣ�������һ����Ϸ������ӹ���ɡ�����Ϸ������Щ�����İ��á����� steam ����Щ��ͻ���������Сʱ��switch ��Ҳ�м�ǧСʱ��������������Ϸ�Ĺ����л����Ҫ�Ķ����� ��Σ���һ����Ϸ��Ŀ�Ĳ���Ϊ�����롣�Ҷ���������Ҫ�󼫵ͣ�����Ҫ��Ǯ����������������Ҫ����һ������Ϸ����Ȼ������Ϸ�Ŀ���ֻ���Լ���ͥ���ճ�������������Щ��Ļ����ѹ�������������ϲ������Ϸ������Ҫ̫���ӵ������ʲ����ⷽ�沢����Ҫ�����Ͷ�롣 ��һ���棬��Ҳ����Ҫ����Ϸ�ֺ��������óɾ͸У�����Ҫ��һ����Ʒ��֤���Լ�����Щ�ɾ͸е����鶼���й�����������׷��Ķ����� ���ԣ�������Ҫ�����������̴����ĳ������飬���Լ������Լ�����һ����������¡�����ϲ�����ó�����ʵ�ǣ��������⣬������ǡ�...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[走出高考梦魇]]></title>
+        <id>https://codechina.org/?p=30811</id>
+        <link href="https://codechina.org/2024/06/bad-dream/"/>
+        <updated>2024-06-07T02:21:31.000Z</updated>
+        <summary type="html"><![CDATA[昨天，和菜头写了一篇文章《又到高考发梦季》，描述了每年高考在即，他就会梦到大学和高考的事情。我留言道：我已经早 […]
+走出高考梦魇最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WWDC 2024将近，苹果的AI革命会给基于AI的独立开发者带来灭顶之灾么？]]></title>
         <id>https://codechina.org/?p=30798</id>

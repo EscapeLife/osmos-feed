@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-06-08T00:44:26.194Z</updated>
+    <updated>2024-06-09T00:50:15.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[《剑桥中国史》阅读小感]]></title>
+        <id>https://codechina.org/?p=30817</id>
+        <link href="https://codechina.org/2024/06/history/"/>
+        <updated>2024-06-08T03:47:10.000Z</updated>
+        <summary type="html"><![CDATA[最近都在微信读书在听《剑桥中国史》，从开头听到明史部分了，当然是泛听有一搭无一搭的听的。 不过最近有点想法。每 […]
+《剑桥中国史》阅读小感最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[填报志愿]]></title>
         <id>https://www.kawabangga.com/?p=6086</id>
@@ -211,26 +222,6 @@ Continue reading...]]></summary>
         <summary type="html"><![CDATA[<p>在这个数字化时代，人工智能技术正以惊人的速度改变着我们的生活方式和创造方式。音乐作为一种最直接、最感性的艺术形式，自然也成为了人工智能技术的应用场景之一。今天，我们将以 Vue 和 Node.js 为基础，利用现有的 API 来快速搭建一个 Suno AI 音乐站点。让我们]]></summary>
         <author>
             <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Demanding Modern Society]]></title>
-        <id>https://laike9m.com/blog/the-demanding-modern-society,157/</id>
-        <link href="https://laike9m.com/blog/the-demanding-modern-society,157/"/>
-        <updated>2024-05-25T05:10:11.000Z</updated>
-        <summary type="html"><![CDATA[没有简介, 请去看原文吧]]></summary>
-        <author>
-            <name>laike9m's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[实现 NES 中的一些笔记：nametable 的 mirror 计算]]></title>
-        <id>https://www.manjusaka.blog/posts/2024/05/24/a-tour-to-make-a-nes-simulator-nametable-caculate/</id>
-        <link href="https://www.manjusaka.blog/posts/2024/05/24/a-tour-to-make-a-nes-simulator-nametable-caculate/"/>
-        <updated>2024-05-24T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>随便记录一些写 NES 中的笔记，这次写一下关于 nametable 的 mirror 计算。</p>]]></summary>
-        <author>
-            <name>Manjusaka</name>
         </author>
     </entry>
     <entry>

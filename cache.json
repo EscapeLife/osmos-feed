@@ -49,6 +49,16 @@
       "siteUrl": "https://codechina.org/",
       "articles": [
         {
+          "id": "https://codechina.org/?p=30817",
+          "author": "tinyfool",
+          "description": "最近都在微信读书在听《剑桥中国史》，从开头听到明史部分了，当然是泛听有一搭无一搭的听的。 不过最近有点想法。每 […]\n《剑桥中国史》阅读小感最先出现在Tinyfool的个人网站。",
+          "link": "https://codechina.org/2024/06/history/",
+          "publishedOn": "2024-06-08T03:47:10.000Z",
+          "wordCount": 1260,
+          "title": "《剑桥中国史》阅读小感",
+          "imageUrl": "https://codechina.org/wp-content/uploads/2024/06/Ancient-China-History.webp"
+        },
+        {
           "id": "https://codechina.org/?p=30811",
           "author": "tinyfool",
           "description": "昨天，和菜头写了一篇文章《又到高考发梦季》，描述了每年高考在即，他就会梦到大学和高考的事情。我留言道：我已经早 […]\n走出高考梦魇最先出现在Tinyfool的个人网站。",
@@ -157,35 +167,13 @@
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "https://www.manjusaka.blog/atom.xml",
-      "articles": [
-        {
-          "id": "https://www.manjusaka.blog/posts/2024/05/24/a-tour-to-make-a-nes-simulator-nametable-caculate/",
-          "author": null,
-          "description": "<p>随便记录一些写 NES 中的笔记，这次写一下关于 nametable 的 mirror 计算。</p>",
-          "link": "https://www.manjusaka.blog/posts/2024/05/24/a-tour-to-make-a-nes-simulator-nametable-caculate/",
-          "publishedOn": "2024-05-24T17:00:00.000Z",
-          "wordCount": 1826,
-          "title": "实现 NES 中的一些笔记：nametable 的 mirror 计算",
-          "imageUrl": "https://cdn.pixabay.com/photo/2023/02/04/07/38/cherry-blossoms-7766587_1280.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "laike9m's blog",
       "feedUrl": "https://laike9m.com/blog/rss",
       "siteUrl": "https://laike9m.com/blog/rss",
-      "articles": [
-        {
-          "id": "https://laike9m.com/blog/the-demanding-modern-society,157/",
-          "author": null,
-          "description": "没有简介, 请去看原文吧",
-          "link": "https://laike9m.com/blog/the-demanding-modern-society,157/",
-          "publishedOn": "2024-05-25T05:10:11.000Z",
-          "wordCount": 376,
-          "title": "The Demanding Modern Society",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Frost's Blog",

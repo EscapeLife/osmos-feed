@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-06-09T00:50:15.743Z</updated>
+    <updated>2024-06-10T00:46:43.635Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[四层负载均衡分析：美团 MGW]]></title>
+        <id>https://www.kawabangga.com/?p=6240</id>
+        <link href="https://www.kawabangga.com/posts/6240"/>
+        <updated>2024-06-09T10:59:40.000Z</updated>
+        <summary type="html"><![CDATA[之前的文章中，分析过 Google 和 Cloudflare 的四层负载均衡设计，都是使用了 DSR 的模式， […]
+Continue reading...
+相关文章:
+
+欧格玛教会与言论自由
+四层负载均衡分析：Cloudflare Unimog
+DNS 解析的原理
+四层负载均衡分析：Google Maglev
+真实世界中的 PMTUD]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《剑桥中国史》阅读小感]]></title>
         <id>https://codechina.org/?p=30817</id>

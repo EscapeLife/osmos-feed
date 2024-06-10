@@ -102,6 +102,16 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=6240",
+          "author": "laixintao",
+          "description": "之前的文章中，分析过 Google 和 Cloudflare 的四层负载均衡设计，都是使用了 DSR 的模式， […]\nContinue reading...\n相关文章:\n\n欧格玛教会与言论自由\n四层负载均衡分析：Cloudflare Unimog\nDNS 解析的原理\n四层负载均衡分析：Google Maglev\n真实世界中的 PMTUD",
+          "link": "https://www.kawabangga.com/posts/6240",
+          "publishedOn": "2024-06-09T10:59:40.000Z",
+          "wordCount": 1560,
+          "title": "四层负载均衡分析：美团 MGW",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=6086",
           "author": "laixintao",
           "description": "妹妹打电话来问我怎么填报志愿。 在我回忆我们县里的几个高中，分别有何优劣，分数线分别是多少，应该选哪一个的时候 […]\nContinue reading...",

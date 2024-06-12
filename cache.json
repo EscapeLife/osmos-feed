@@ -102,6 +102,16 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=6269",
+          "author": "laixintao",
+          "description": "推荐一些适合 SRE 或者想要从事 SRE 的读者阅读的书籍。 其中，最里面的虚线框推荐学生阅读，非科班转 S […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/6269",
+          "publishedOn": "2024-06-11T15:01:10.000Z",
+          "wordCount": 909,
+          "title": "SRE 书单推荐",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=6240",
           "author": "laixintao",
           "description": "之前的文章中，分析过 Google 和 Cloudflare 的四层负载均衡设计，都是使用了 DSR 的模式， […]\nContinue reading...\n相关文章:\n\n欧格玛教会与言论自由\n四层负载均衡分析：Cloudflare Unimog\nDNS 解析的原理\n四层负载均衡分析：Google Maglev\n真实世界中的 PMTUD",
@@ -225,6 +235,16 @@
       "feedUrl": "https://blog.codingnow.com/atom.xml",
       "siteUrl": "https://blog.codingnow.com/",
       "articles": [
+        {
+          "id": "https://blog.codingnow.com/2024/06/lua_object_monitor.html",
+          "author": null,
+          "description": "��������������Ϸ demo �У����ж����߼��϶������ڶ�ά�ռ䣬���� Ant Engine ��ͨ�� 3d ��Ⱦ��ʽ���Ƴ����� ��ϣ����һ����� API �����ҿ�����Щ�������Ⱦ��ֻ�ǿ������ǵ�λ���Լ��� Y ���ϵ���ת����Ant Engine ���ó������������ entity ��Ⱦʱ�Ŀռ�״̬���������ڵ�ʹ�õ��� 3d �ռ�� SRT �����š���ת��λ�ơ�����ֻ��Ҫ�������е������������ϵĿռ�λ���Լ�һ����ת���ϵ���ת����ֱ���޸� SRT ̫�������ˡ����ң�ʹ������ʱ������Ҫÿ֡��Ǳ��޸Ĺ��ĳ��������Ӧ�� entity ����Ҳ���鷳�� �� ECS �ṹ�£���򵥵ķ�ʽ��Ϊ��Щ entity ����һ������������������ x y r ����ֵ��ͨ��һ�� system ������ת���������ڵ��� 3d �ռ��µ� SRT ����С������ÿ֡��ȫ��ת��һ���Եö��࣬�Ͼ��󲿷�...",
+          "link": "https://blog.codingnow.com/2024/06/lua_object_monitor.html",
+          "publishedOn": "2024-06-11T02:12:07.000Z",
+          "wordCount": 335,
+          "title": "���� Lua ������޸�",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.codingnow.com/2024/06/game_idea.html",
           "author": null,

@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-06-11T00:45:01.930Z</updated>
+    <updated>2024-06-12T00:45:33.987Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE 书单推荐]]></title>
+        <id>https://www.kawabangga.com/?p=6269</id>
+        <link href="https://www.kawabangga.com/posts/6269"/>
+        <updated>2024-06-11T15:01:10.000Z</updated>
+        <summary type="html"><![CDATA[推荐一些适合 SRE 或者想要从事 SRE 的读者阅读的书籍。 其中，最里面的虚线框推荐学生阅读，非科班转 S […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[���� Lua ������޸�]]></title>
+        <id>https://blog.codingnow.com/2024/06/lua_object_monitor.html</id>
+        <link href="https://blog.codingnow.com/2024/06/lua_object_monitor.html"/>
+        <updated>2024-06-11T02:12:07.000Z</updated>
+        <summary type="html"><![CDATA[��������������Ϸ demo �У����ж����߼��϶������ڶ�ά�ռ䣬���� Ant Engine ��ͨ�� 3d ��Ⱦ��ʽ���Ƴ����� ��ϣ����һ����� API �����ҿ�����Щ�������Ⱦ��ֻ�ǿ������ǵ�λ���Լ��� Y ���ϵ���ת����Ant Engine ���ó������������ entity ��Ⱦʱ�Ŀռ�״̬���������ڵ�ʹ�õ��� 3d �ռ�� SRT �����š���ת��λ�ơ�����ֻ��Ҫ�������е������������ϵĿռ�λ���Լ�һ����ת���ϵ���ת����ֱ���޸� SRT ̫�������ˡ����ң�ʹ������ʱ������Ҫÿ֡��Ǳ��޸Ĺ��ĳ��������Ӧ�� entity ����Ҳ���鷳�� �� ECS �ṹ�£���򵥵ķ�ʽ��Ϊ��Щ entity ����һ������������������ x y r ����ֵ��ͨ��һ�� system ������ת���������ڵ��� 3d �ռ��µ� SRT ����С������ÿ֡��ȫ��ת��һ���Եö��࣬�Ͼ��󲿷�...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[四层负载均衡分析：美团 MGW]]></title>
         <id>https://www.kawabangga.com/?p=6240</id>

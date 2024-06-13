@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-06-12T00:45:33.987Z</updated>
+    <updated>2024-06-13T00:44:50.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -240,17 +240,6 @@ Continue reading...
         <summary type="html"><![CDATA[<p>我们知道，市面上一些问答 API 的对接还是相对没那么容易的，比如说 OpenAI 的 Chat Completions API，它有一个 <code>messages</code> 字段，如果要完成连续对话，需要我们把所有的上下文历史全部传递，同时还需要处理 Token]]></summary>
         <author>
             <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[厨艺见长]]></title>
-        <id>https://www.kawabangga.com/?p=5602</id>
-        <link href="https://www.kawabangga.com/posts/5602"/>
-        <updated>2024-05-29T12:44:00.000Z</updated>
-        <summary type="html"><![CDATA[最近感觉厨艺见长，但是仔细想想又说不出来“长”在哪里，好像炒菜还是和以前一样炒法，也没有悟到什么窍门，就觉得炒 […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

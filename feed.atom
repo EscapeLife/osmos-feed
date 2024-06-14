@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-06-13T00:44:50.062Z</updated>
+    <updated>2024-06-14T00:44:45.976Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[网工闯了什么祸？]]></title>
+        <id>https://www.kawabangga.com/?p=6286</id>
+        <link href="https://www.kawabangga.com/posts/6286"/>
+        <updated>2024-06-13T11:04:59.000Z</updated>
+        <summary type="html"><![CDATA[上一篇很多读者一下就发现了答案，暂时先不写答案和分析，卖个关子，继续出一题。下一篇一起揭晓答案。 小王（就是你 […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《玫瑰的故事》是不是高配版玛丽苏？]]></title>
+        <id>https://codechina.org/?p=30829</id>
+        <link href="https://codechina.org/2024/06/rose/"/>
+        <updated>2024-06-13T09:31:38.000Z</updated>
+        <summary type="html"><![CDATA[前两天，在社交媒体听说了，正在热播的《玫瑰的故事》。朋友说，“黄玫瑰这个角色确实只能让刘亦菲演。为了多看刘亦菲 […]
+《玫瑰的故事》是不是高配版玛丽苏？最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE 书单推荐]]></title>
         <id>https://www.kawabangga.com/?p=6269</id>
@@ -185,59 +207,6 @@ Continue reading...
         <updated>2024-05-30T16:41:06.000Z</updated>
         <summary type="html"><![CDATA[<p>在爬虫与反爬虫斗争愈演愈烈的情况下，各大网站和 App 的风控检测越来越强，其中一项就是 IP 封禁。</p>
 <p>为了解决 IP 封禁的困扰，一个有效的方式就是设置代理，设置代理之后，爬虫可以借助代理的 IP 来伪装自己的真实 IP 地址，从而突破反爬虫的限制。</p>]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我「接见」了诺奖得主]]></title>
-        <id>https://frostming.com/2024/meet-with-paul/</id>
-        <link href="https://frostming.com/2024/meet-with-paul/"/>
-        <updated>2024-05-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Programming and Life]]></summary>
-        <author>
-            <name>Frost's Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[搭建一个自己的 MidJourney 平台：开启你的赚钱之旅]]></title>
-        <id>https://cuiqingcai.com/42350.html</id>
-        <link href="https://cuiqingcai.com/42350.html"/>
-        <updated>2024-05-29T21:24:30.000Z</updated>
-        <summary type="html"><![CDATA[<p>在当今数字化时代，越来越多的人开始寻找在线赚钱的机会。无论你是一个技术爱好者，还是一个创业新手，搭建 MidJourney 并将其转化为一个盈利项目，都是一个绝佳的选择。本文将带你了解如何零代码搭建一个 MidJourney 绘画平台，并通过这个项目实现盈利。</p>
-<h]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suno API 的申请及使用]]></title>
-        <id>https://cuiqingcai.com/42348.html</id>
-        <link href="https://cuiqingcai.com/42348.html"/>
-        <updated>2024-05-29T20:46:22.000Z</updated>
-        <summary type="html"><![CDATA[<p>随着 AI 的应用变广，各类 AI 程序已逐渐普及。AI 已逐渐深入到人们的工作生活方方面面。而 AI 涉及的行业也越来越多，从最初的写作，到医疗教育，再到现在的音乐。</p>
-<p>Suno 是一个专业高质量的 AI 歌曲和音乐创作平台，用户只需输入简单的文本提示词，即可]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Midjourney Imagine API 申请及使用]]></title>
-        <id>https://cuiqingcai.com/42347.html</id>
-        <link href="https://cuiqingcai.com/42347.html"/>
-        <updated>2024-05-29T20:35:22.000Z</updated>
-        <summary type="html"><![CDATA[<p>在人工智能绘图领域，想必大家听说过 Midjourney 的大名吧！</p>
-<p>Midjourney 是一款非常强大的 AI 绘图工具，只要输入关键字，就能在短短一两分钟生成十分精美的图像。Midjourney 以其出色的绘图能力在业界独树一帜，如今，Midjourne]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何用 AI 问答 API 彻底改变用户体验！]]></title>
-        <id>https://cuiqingcai.com/42346.html</id>
-        <link href="https://cuiqingcai.com/42346.html"/>
-        <updated>2024-05-29T20:09:22.000Z</updated>
-        <summary type="html"><![CDATA[<p>我们知道，市面上一些问答 API 的对接还是相对没那么容易的，比如说 OpenAI 的 Chat Completions API，它有一个 <code>messages</code> 字段，如果要完成连续对话，需要我们把所有的上下文历史全部传递，同时还需要处理 Token]]></summary>
         <author>
             <name>静觅</name>
         </author>

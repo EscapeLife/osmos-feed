@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-06-15T00:44:33.273Z</updated>
+    <updated>2024-06-16T00:50:01.693Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[四层负载均衡分析：GitHub GLB]]></title>
+        <id>https://www.kawabangga.com/?p=6313</id>
+        <link href="https://www.kawabangga.com/posts/6313"/>
+        <updated>2024-06-15T12:08:35.000Z</updated>
+        <summary type="html"><![CDATA[今天我们来赏析 GitHub 的四层 LB 设计。 GitHub 的 GLB 是开源产品（当然了！），从架构上 […]
+Continue reading...
+相关文章:
+
+四层负载均衡分析：Cloudflare Unimog
+Twitter机器人：今年还要工作多少天？
+Ubuntu终端和Vim使用Solarized配色
+推荐一个快速在Github打开当前代码行的Vim插件
+搭建自己的静态 Wiki 站点（Vimwiki+Pages）]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[端午节游玩：徒步、骑行、跑山]]></title>
         <id>https://blog.k8s.li/travel-in-june.html</id>

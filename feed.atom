@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-06-19T00:45:55.133Z</updated>
+    <updated>2024-06-20T00:44:03.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Debug 日志：CPython GH-120437]]></title>
+        <id>https://www.manjusaka.blog/posts/2024/06/19/a-live-debug-gh120437/</id>
+        <link href="https://www.manjusaka.blog/posts/2024/06/19/a-live-debug-gh120437/"/>
+        <updated>2024-06-19T19:40:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>和 SRE 日志 系列一样，Debug 日志用来复盘我一些可以公开的调试经历，希望能帮助到大家。</p>
+<p>这篇是 Python 3.13 Beta 下 JIT/Tier 2 优化器的一个 Bug ，前后历时五天，最终修改点很小，非常有趣</p>]]></summary>
+        <author>
+            <name>Manjusaka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网络中的环路和防环技术]]></title>
+        <id>https://www.kawabangga.com/?p=6291</id>
+        <link href="https://www.kawabangga.com/posts/6291"/>
+        <updated>2024-06-19T13:54:00.000Z</updated>
+        <summary type="html"><![CDATA[不可以用路由器？一文的答案 这个题目很有趣，即使没有什么思路，当你打开 Wireshark 的时候，估计也能发 […]
+Continue reading...
+相关文章:
+
+Tcpdump 从 TCP_option_address 中根据真实 IP 过滤
+不可以用路由器？
+计算机网络实用技术：序章
+用 Wireshark 分析 TCP 吞吐瓶颈
+由一个子网掩码配置错误所想到的]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开源音频驱动人像动画(对口型)项目列表]]></title>
         <id>https://codechina.org/?p=30852</id>
@@ -198,17 +227,6 @@ Continue reading...]]></summary>
 Continue reading...]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高位买了房、车，现在意难平怎么办？]]></title>
-        <id>https://codechina.org/?p=30792</id>
-        <link href="https://codechina.org/2024/06/%e9%ab%98%e4%bd%8d%e4%b9%b0%e4%ba%86%e6%88%bf%e3%80%81%e8%bd%a6%ef%bc%8c%e7%8e%b0%e5%9c%a8%e6%84%8f%e9%9a%be%e5%b9%b3%e6%80%8e%e4%b9%88%e5%8a%9e%ef%bc%9f/"/>
-        <updated>2024-06-05T02:52:34.000Z</updated>
-        <summary type="html"><![CDATA[这个问题是偶然看到的，在某社交平台上，一个朋友晒了一个程序员网站 V2ex 上面的帖子，如下： 题目是，高位买 […]
-高位买了房、车，现在意难平怎么办？最先出现在Tinyfool的个人网站。]]></summary>
-        <author>
-            <name>tinyfool</name>
         </author>
     </entry>
     <entry>

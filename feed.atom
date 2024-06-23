@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-06-22T00:44:24.475Z</updated>
+    <updated>2024-06-23T00:49:24.829Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[һЩ�ǽ���̫��վ��������Ϸ]]></title>
+        <id>https://blog.codingnow.com/2024/06/starship_gamelist.html</id>
+        <link href="https://blog.codingnow.com/2024/06/starship_gamelist.html"/>
+        <updated>2024-06-22T08:39:52.000Z</updated>
+        <summary type="html"><![CDATA[��Ϊ����һЩ�ǽ���̫��վ���������Ϸ��������С�ÿ����Ϸ���ܸ���һЩ��������Ϊ��Ķ����࣬���ԾͲ������ˣ�ֻ�����б���¼����Щ��û�г����ȼ��˸�Ը������ Adaptory Astro Colony Cosmoteer Deep Space Outpost Facteroids Factorio mod : Space Exploration Factorio mod : Warp Drive Machine Far Sector Generation Nova Generation Ship Ostranauts Oxygen Not Included DLC: Spaced Out Rimworld mod : Save Our Ship 2...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Debug 日志：CPython GH-120437]]></title>
         <id>https://www.manjusaka.blog/posts/2024/06/19/a-live-debug-gh120437/</id>
@@ -131,46 +141,6 @@ Continue reading...
 DNS 解析的原理
 四层负载均衡分析：Google Maglev
 真实世界中的 PMTUD]]></summary>
-        <author>
-            <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《剑桥中国史》阅读小感]]></title>
-        <id>https://codechina.org/?p=30817</id>
-        <link href="https://codechina.org/2024/06/history/"/>
-        <updated>2024-06-08T03:47:10.000Z</updated>
-        <summary type="html"><![CDATA[最近都在微信读书在听《剑桥中国史》，从开头听到明史部分了，当然是泛听有一搭无一搭的听的。 不过最近有点想法。每 […]
-《剑桥中国史》阅读小感最先出现在Tinyfool的个人网站。]]></summary>
-        <author>
-            <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[填报志愿]]></title>
-        <id>https://www.kawabangga.com/?p=6086</id>
-        <link href="https://www.kawabangga.com/posts/6086"/>
-        <updated>2024-06-07T15:35:01.000Z</updated>
-        <summary type="html"><![CDATA[妹妹打电话来问我怎么填报志愿。 在我回忆我们县里的几个高中，分别有何优劣，分数线分别是多少，应该选哪一个的时候 […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[四层负载均衡分析：Cloudflare Unimog]]></title>
-        <id>https://www.kawabangga.com/?p=6167</id>
-        <link href="https://www.kawabangga.com/posts/6167"/>
-        <updated>2024-06-07T15:24:00.000Z</updated>
-        <summary type="html"><![CDATA[在 四层负载均衡漫谈 介绍了四层负载均衡需要解决的问题，和一些常用的解决方案之后，通过学习一些其他公司的四层技 […]
-Continue reading...
-相关文章:
-
-为什么 Cloudflare 提供免费的服务？
-欧格玛教会与言论自由
-博客迁移到 Cloudflare
-Side Project 成本最小化运行
-DNS 解析的原理]]></summary>
         <author>
             <name>laixintao</name>
         </author>

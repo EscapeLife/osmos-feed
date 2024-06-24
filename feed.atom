@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-06-23T00:49:24.829Z</updated>
+    <updated>2024-06-24T00:47:00.558Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[出去旅游一圈]]></title>
+        <id>https://codechina.org/?p=30872</id>
+        <link href="https://codechina.org/2024/06/kunming-trip/"/>
+        <updated>2024-06-23T05:11:09.000Z</updated>
+        <summary type="html"><![CDATA[最近状态很差，又回到了混吃等死的状态。 一方面可以认为是看韩剧上瘾，最近一直在看金裕贞的电视剧，看了好几个了， […]
+出去旅游一圈最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[һЩ�ǽ���̫��վ��������Ϸ]]></title>
         <id>https://blog.codingnow.com/2024/06/starship_gamelist.html</id>
@@ -125,24 +136,6 @@ Continue reading...]]></summary>
         <summary type="html"><![CDATA[��������������Ϸ demo �У����ж����߼��϶������ڶ�ά�ռ䣬���� Ant Engine ��ͨ�� 3d ��Ⱦ��ʽ���Ƴ����� ��ϣ����һ����� API �����ҿ�����Щ�������Ⱦ��ֻ�ǿ������ǵ�λ���Լ��� Y ���ϵ���ת����Ant Engine ���ó������������ entity ��Ⱦʱ�Ŀռ�״̬���������ڵ�ʹ�õ��� 3d �ռ�� SRT �����š���ת��λ�ơ�����ֻ��Ҫ�������е������������ϵĿռ�λ���Լ�һ����ת���ϵ���ת����ֱ���޸� SRT ̫�������ˡ����ң�ʹ������ʱ������Ҫÿ֡��Ǳ��޸Ĺ��ĳ��������Ӧ�� entity ����Ҳ���鷳�� �� ECS �ṹ�£���򵥵ķ�ʽ��Ϊ��Щ entity ����һ������������������ x y r ����ֵ��ͨ��һ�� system ������ת���������ڵ��� 3d �ռ��µ� SRT ����С������ÿ֡��ȫ��ת��һ���Եö��࣬�Ͼ��󲿷�...]]></summary>
         <author>
             <name>�Ʒ�� BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[四层负载均衡分析：美团 MGW]]></title>
-        <id>https://www.kawabangga.com/?p=6240</id>
-        <link href="https://www.kawabangga.com/posts/6240"/>
-        <updated>2024-06-09T10:59:40.000Z</updated>
-        <summary type="html"><![CDATA[之前的文章中，分析过 Google 和 Cloudflare 的四层负载均衡设计，都是使用了 DSR 的模式， […]
-Continue reading...
-相关文章:
-
-欧格玛教会与言论自由
-四层负载均衡分析：Cloudflare Unimog
-DNS 解析的原理
-四层负载均衡分析：Google Maglev
-真实世界中的 PMTUD]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

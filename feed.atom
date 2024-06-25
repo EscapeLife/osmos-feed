@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-06-24T00:47:00.558Z</updated>
+    <updated>2024-06-25T00:45:08.697Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[《刻意练习》]]></title>
+        <id>https://www.escapelife.site/posts/35becf99.html</id>
+        <link href="https://www.escapelife.site/posts/35becf99.html"/>
+        <updated>2024-06-24T12:10:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p><strong>一本记录孩子日常生活的碎碎念，意义不大！</strong></p>
+</blockquote>
+<p>《刻意练习：如何从新手到大师》是由安德斯·艾利克森（<code>Anders]]></summary>
+        <author>
+            <name>Escape</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[出去旅游一圈]]></title>
         <id>https://codechina.org/?p=30872</id>

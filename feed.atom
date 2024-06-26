@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-06-25T00:45:08.697Z</updated>
+    <updated>2024-06-26T00:45:42.673Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -139,16 +139,6 @@ Continue reading...]]></summary>
 Continue reading...]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[���� Lua ������޸�]]></title>
-        <id>https://blog.codingnow.com/2024/06/lua_object_monitor.html</id>
-        <link href="https://blog.codingnow.com/2024/06/lua_object_monitor.html"/>
-        <updated>2024-06-11T02:12:07.000Z</updated>
-        <summary type="html"><![CDATA[��������������Ϸ demo �У����ж����߼��϶������ڶ�ά�ռ䣬���� Ant Engine ��ͨ�� 3d ��Ⱦ��ʽ���Ƴ����� ��ϣ����һ����� API �����ҿ�����Щ�������Ⱦ��ֻ�ǿ������ǵ�λ���Լ��� Y ���ϵ���ת����Ant Engine ���ó������������ entity ��Ⱦʱ�Ŀռ�״̬���������ڵ�ʹ�õ��� 3d �ռ�� SRT �����š���ת��λ�ơ�����ֻ��Ҫ�������е������������ϵĿռ�λ���Լ�һ����ת���ϵ���ת����ֱ���޸� SRT ̫�������ˡ����ң�ʹ������ʱ������Ҫÿ֡��Ǳ��޸Ĺ��ĳ��������Ӧ�� entity ����Ҳ���鷳�� �� ECS �ṹ�£���򵥵ķ�ʽ��Ϊ��Щ entity ����һ������������������ x y r ����ֵ��ͨ��һ�� system ������ת���������ڵ��� 3d �ռ��µ� SRT ����С������ÿ֡��ȫ��ת��һ���Եö��࣬�Ͼ��󲿷�...]]></summary>
-        <author>
-            <name>�Ʒ�� BLOG</name>
         </author>
     </entry>
     <entry>

@@ -60,6 +60,16 @@
       "siteUrl": "https://codechina.org/",
       "articles": [
         {
+          "id": "https://codechina.org/?p=30876",
+          "author": "tinyfool",
+          "description": "前两天苹果的 WWDC 2024结束，每次苹果召开 WWDC 都是苹果平台开发者的节日。听完 Keynote， […]\n用 Xcode cloud 解决 Xcode-beta 无法提交 App 的问题最先出现在Tinyfool的个人网站。",
+          "link": "https://codechina.org/2024/06/xcode-cloud-beta-app/",
+          "publishedOn": "2024-06-26T03:55:17.000Z",
+          "wordCount": 1560,
+          "title": "用 Xcode cloud 解决 Xcode-beta 无法提交 App 的问题",
+          "imageUrl": "https://codechina.org/wp-content/uploads/2024/06/DALL·E-Xcode-Cloud.webp"
+        },
+        {
           "id": "https://codechina.org/?p=30872",
           "author": "tinyfool",
           "description": "最近状态很差，又回到了混吃等死的状态。 一方面可以认为是看韩剧上瘾，最近一直在看金裕贞的电视剧，看了好几个了， […]\n出去旅游一圈最先出现在Tinyfool的个人网站。",
@@ -130,16 +140,6 @@
           "publishedOn": "2024-06-13T11:04:59.000Z",
           "wordCount": 915,
           "title": "网工闯了什么祸？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=6269",
-          "author": "laixintao",
-          "description": "推荐一些适合 SRE 或者想要从事 SRE 的读者阅读的书籍。 其中，最里面的虚线框推荐学生阅读，非科班转 S […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/6269",
-          "publishedOn": "2024-06-11T15:01:10.000Z",
-          "wordCount": 909,
-          "title": "SRE 书单推荐",
           "imageUrl": null
         }
       ]

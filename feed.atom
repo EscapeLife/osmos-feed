@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-06-27T00:45:32.173Z</updated>
+    <updated>2024-06-28T00:45:27.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -117,28 +117,6 @@ Ubuntu终端和Vim使用Solarized配色
         <summary type="html"><![CDATA[<p>转瞬间距上一次更新博客快半年了，主要是这段时间在享<a]]></summary>
         <author>
             <name>Reimu's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网工闯了什么祸？]]></title>
-        <id>https://www.kawabangga.com/?p=6286</id>
-        <link href="https://www.kawabangga.com/posts/6286"/>
-        <updated>2024-06-13T11:04:59.000Z</updated>
-        <summary type="html"><![CDATA[上一篇很多读者一下就发现了答案，暂时先不写答案和分析，卖个关子，继续出一题。下一篇一起揭晓答案。 小王（就是你 […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《玫瑰的故事》是不是高配版玛丽苏？]]></title>
-        <id>https://codechina.org/?p=30829</id>
-        <link href="https://codechina.org/2024/06/rose/"/>
-        <updated>2024-06-13T09:31:38.000Z</updated>
-        <summary type="html"><![CDATA[前两天，在社交媒体听说了，正在热播的《玫瑰的故事》。朋友说，“黄玫瑰这个角色确实只能让刘亦菲演。为了多看刘亦菲 […]
-《玫瑰的故事》是不是高配版玛丽苏？最先出现在Tinyfool的个人网站。]]></summary>
-        <author>
-            <name>tinyfool</name>
         </author>
     </entry>
     <entry>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-07-01T00:52:40.525Z</updated>
+    <updated>2024-07-02T00:45:57.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -103,17 +103,6 @@ Tcpdump 从 TCP_option_address 中根据真实 IP 过滤
 由一个子网掩码配置错误所想到的]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源音频驱动人像动画(对口型)项目列表]]></title>
-        <id>https://codechina.org/?p=30852</id>
-        <link href="https://codechina.org/2024/06/live-speech-portraits/"/>
-        <updated>2024-06-16T16:24:15.000Z</updated>
-        <summary type="html"><![CDATA[项目名 首页 论文 代码 LiveDemo 时间 EMO 🌍 📑 ❌ ❌ 2024年2月27日 Live Sp […]
-开源音频驱动人像动画(对口型)项目列表最先出现在Tinyfool的个人网站。]]></summary>
-        <author>
-            <name>tinyfool</name>
         </author>
     </entry>
     <entry>

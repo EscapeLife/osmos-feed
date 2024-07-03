@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-07-02T00:45:57.794Z</updated>
+    <updated>2024-07-03T00:45:56.947Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[��ɫ����ϵͳ]]></title>
+        <id>https://blog.codingnow.com/2024/07/avatar_animation.html</id>
+        <link href="https://blog.codingnow.com/2024/07/avatar_animation.html"/>
+        <updated>2024-07-02T06:38:37.000Z</updated>
+        <summary type="html"><![CDATA[Ant ����Ľ�ɫ����ϵͳ����Ҫ���ơ� ֮ǰ������ Ant ���濪������Ϸ�Ի�еװ��Ϊ�������Բ�����Ҫ���ͽ�ɫ���������������ɫ�����Ķ������ƣ�����и��������֧�֡� ͨ������ɫ�߼��ϵ����ԺͶ������ִ���һ��ӳ���ϵ��һ����ɫ�����߼��ϵĻ������Կ���ֻ���ڿռ��е����ꡣ���Ǳ�д���������ʱ��ֻ��������������ǣ������������ʱ������Ҫ���ݿռ�������������ԣ�ת��Ϊ�������ţ������ɫ��ֹ�������Ͳ��� idle ��������������˶����Ͳ��� walk ������...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024年第二季度总结]]></title>
         <id>https://www.escapelife.site/posts/b1048b04.html</id>

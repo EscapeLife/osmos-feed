@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-07-07T00:51:47.980Z</updated>
+    <updated>2024-07-08T00:48:15.290Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -63,17 +63,6 @@ Continue reading...
 <p>《刻意练习：如何从新手到大师》是由安德斯·艾利克森（<code>Anders]]></summary>
         <author>
             <name>Escape</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[出去旅游一圈]]></title>
-        <id>https://codechina.org/?p=30872</id>
-        <link href="https://codechina.org/2024/06/kunming-trip/"/>
-        <updated>2024-06-23T05:11:09.000Z</updated>
-        <summary type="html"><![CDATA[最近状态很差，又回到了混吃等死的状态。 一方面可以认为是看韩剧上瘾，最近一直在看金裕贞的电视剧，看了好几个了， […]
-出去旅游一圈最先出现在Tinyfool的个人网站。]]></summary>
-        <author>
-            <name>tinyfool</name>
         </author>
     </entry>
     <entry>

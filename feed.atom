@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-07-10T00:47:23.089Z</updated>
+    <updated>2024-07-11T00:47:30.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[延迟增加了多少？]]></title>
+        <id>https://www.kawabangga.com/?p=6372</id>
+        <link href="https://www.kawabangga.com/posts/6372"/>
+        <updated>2024-07-10T12:00:53.000Z</updated>
+        <summary type="html"><![CDATA[小周（就是你！）所在的团队管理着一个服务 A，这个服务 A 需要访问服务 B 的 HTTP 接口。服务 A 和 […]
+Continue reading...
+相关文章:
+
+使用 ngx_lua （openresty）正确读取 HTTP 请求 body
+部署 Django 项目背后的原理：为什么需要 Nginx 和 Gunicron这些东西？
+Socat 魔法：内网穿透
+Python 3.5的新特性
+爬虫如何判断一个页面更新了？]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[���ڿ�������ģ��]]></title>
+        <id>https://blog.codingnow.com/2024/07/air_flow_simulation.html</id>
+        <link href="https://blog.codingnow.com/2024/07/air_flow_simulation.html"/>
+        <updated>2024-07-10T02:50:27.000Z</updated>
+        <summary type="html"><![CDATA[����Ʒɴ��������Ϸʱ��������һ������������ģ��ϵͳ��������һ�������ķ�������֪���ò��ã��ȼ�¼һ�£� �ռ����ɶ�ά�������θ��ӹ��ɵģ���Щ������ǽ�����ֹ����������ÿ���������¶����Լ����������ļ�¼����ͬ�������ͬʱ������ͬһ���ڣ�����������¼���¶ȴ���ϵͳ������ơ� ÿ����Ϸ tick ��ÿ��������һ�ζ������㣬�����¶�ֵ����һ�����ʣ�������ʾ����˸ø���������Χ��չ�ı����� �¶�Խ�ߣ�Խ���ܽ��������������ƽ����ɢ������ڽӵ� 8 ��ռ䡣 ��������Ϊ��ǽ�����¿ռ�仯ʱ���Ѹø�������ȫ����ɢ���ٽӸ񣬵�����������޷�����ʱ������������ǽ���ڣ�������ʧ���ȴ��Ժ���������������ɢ��ȥ��...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nixos use old version software]]></title>
         <id>https://vim0.com/post/nix_use_old_version/</id>
@@ -63,17 +91,6 @@ Continue reading...
 四层负载均衡漫谈]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用 Xcode cloud 解决 Xcode-beta 无法提交 App 的问题]]></title>
-        <id>https://codechina.org/?p=30876</id>
-        <link href="https://codechina.org/2024/06/xcode-cloud-beta-app/"/>
-        <updated>2024-06-26T03:55:17.000Z</updated>
-        <summary type="html"><![CDATA[前两天苹果的 WWDC 2024结束，每次苹果召开 WWDC 都是苹果平台开发者的节日。听完 Keynote， […]
-用 Xcode cloud 解决 Xcode-beta 无法提交 App 的问题最先出现在Tinyfool的个人网站。]]></summary>
-        <author>
-            <name>tinyfool</name>
         </author>
     </entry>
     <entry>

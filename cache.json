@@ -72,6 +72,16 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=6378",
+          "author": "laixintao",
+          "description": "本文是对《延迟增加了多少？》一文的答案和分析。 总延迟应该是 900ms 左右。 Ping 的延迟指的是 RT […]\nContinue reading...\n相关文章:\n\n延迟增加了多少？\n网工闯了什么祸？\n使用 mtr 检查网络问题，以及注意事项\n由一个子网掩码配置错误所想到的\n连接池中的连接失效的几种处理方案",
+          "link": "https://www.kawabangga.com/posts/6378",
+          "publishedOn": "2024-07-12T00:04:00.000Z",
+          "wordCount": 1059,
+          "title": "TCP 延迟分析",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=6372",
           "author": "laixintao",
           "description": "小周（就是你！）所在的团队管理着一个服务 A，这个服务 A 需要访问服务 B 的 HTTP 接口。服务 A 和 […]\nContinue reading...\n相关文章:\n\n使用 ngx_lua （openresty）正确读取 HTTP 请求 body\n部署 Django 项目背后的原理：为什么需要 Nginx 和 Gunicron这些东西？\nSocat 魔法：内网穿透\nPython 3.5的新特性\n爬虫如何判断一个页面更新了？",
@@ -173,6 +183,16 @@
       "feedUrl": "https://vim0.com/index.xml",
       "siteUrl": "https://vim0.com/",
       "articles": [
+        {
+          "id": "https://vim0.com/post/neovim_no_crash_incremental_selection/",
+          "author": null,
+          "description": "When I use neovim treesitter incremental selection, it randomly crashes, but I cannot stable reproduce it. And I found some issues and complaints about this issue, but no solution. So I decide to write a blog post to record this issue and the solution.\nrelated issues:\n https://www.reddit.com/r/neovim/comments/10wwkft/comment/j7qla2q/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button https://github.com/neovim/neovim/issues/24336 https://github.com/neovim/neovim/issues/25254 https://www.reddit.com/r/neovim/comments/18dn4qt/treesitter_incremental_selection/  TL;DR paste this https://github.com/xiantang/nvim-conf/blob/7c0d6cbf6d9fd7b6a8960de887db1109332419bf/lua/plugins/treesitter.lua#L62-L132 into your neovim configuration file.\nthis is my treesitter incremental selection configuration:\n1 2 3 4 5 6 7 8 9  incremental_selection = { enable = true, keymaps = { init_selection = true, node_incremental = \"v\", node_decremental = \"<BS>\", }, },   sometime when I use v to expand the selection, it crashes, and it’s a Segmentation fault, and I have the report:",
+          "link": "https://vim0.com/post/neovim_no_crash_incremental_selection/",
+          "publishedOn": "2024-07-11T15:16:09.000Z",
+          "wordCount": 960,
+          "title": "Neovim: No Crash Incremental Selection",
+          "imageUrl": "https://vim0.com/post/main_cover.png"
+        },
         {
           "id": "https://vim0.com/post/nix_use_old_version/",
           "author": null,

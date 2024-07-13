@@ -90,16 +90,6 @@
           "wordCount": 943,
           "title": "延迟增加了多少？",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=6357",
-          "author": "laixintao",
-          "description": "Hot Potato Routing——烫手的山芋。指的是 ISP 在路由转发的时候，不会选择最优的路线，而是 […]\nContinue reading...\n相关文章:\n\n由一个子网掩码配置错误所想到的\n四层负载均衡漫谈",
-          "link": "https://www.kawabangga.com/posts/6357",
-          "publishedOn": "2024-06-28T10:35:35.000Z",
-          "wordCount": 970,
-          "title": "Hot Potato Routing",
-          "imageUrl": null
         }
       ]
     },

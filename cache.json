@@ -72,6 +72,16 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=6383",
+          "author": "laixintao",
+          "description": "在教科书上，我们学过 TCP 的 3 次握手和 4 次挥手，请读者思考一下：TCP 握手一定会使用 3 个包吗 […]\nContinue reading...\n相关文章:\n\nTCP 延迟分析\nTCP可以使用两次握手建立连接吗？\n用 Wireshark 分析 TCP 吞吐瓶颈",
+          "link": "https://www.kawabangga.com/posts/6383",
+          "publishedOn": "2024-07-13T04:27:00.000Z",
+          "wordCount": 1011,
+          "title": "重新认识 TCP 的握手和挥手",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=6378",
           "author": "laixintao",
           "description": "本文是对《延迟增加了多少？》一文的答案和分析。 总延迟应该是 900ms 左右。 Ping 的延迟指的是 RT […]\nContinue reading...\n相关文章:\n\n延迟增加了多少？\n网工闯了什么祸？\n使用 mtr 检查网络问题，以及注意事项\n由一个子网掩码配置错误所想到的\n连接池中的连接失效的几种处理方案",

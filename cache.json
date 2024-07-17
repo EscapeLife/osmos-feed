@@ -106,7 +106,18 @@
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "https://www.manjusaka.blog/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.manjusaka.blog/posts/2024/07/16/a-live-debug-gh121528/",
+          "author": null,
+          "description": "<p>Debug 日志系列第二篇，CPython 的 GH-121528，也是很有趣的调试和讨论过程，写出来希望帮助大家</p>\n<p>太长不看的版：Python 3.13 Beta 版本中，因为 PEP 683 的实现+周边的改动，导致低版本下编译的一些扩展无法在 Python 3.13 中运行</p>",
+          "link": "https://www.manjusaka.blog/posts/2024/07/16/a-live-debug-gh121528/",
+          "publishedOn": "2024-07-16T18:20:00.000Z",
+          "wordCount": 2185,
+          "title": "Debug 日志：CPython GH-121528",
+          "imageUrl": "https://cdn.pixabay.com/photo/2023/02/04/07/38/cherry-blossoms-7766588_1280.jpg"
+        }
+      ]
     },
     {
       "title": "laike9m's blog",
@@ -144,6 +155,16 @@
       "siteUrl": "https://blog.codingnow.com/",
       "articles": [
         {
+          "id": "https://blog.codingnow.com/2024/07/building_system.html",
+          "author": null,
+          "description": "�����ǹ�����ȱ������Ե���綼�д����� mod ������ͨ�������Ϸ���ƣ��ѱ�����Ϸ�������ȫ���鲻ͬ����Ϸ����Щ����� mod ��������һ������ɵġ������Ҿ��ã���Ȼ��Ϸ������淨�������������飬����ʵ�������ܹ����������󡣶��ң�һ���淨�����⣬Ҳ�����޸ġ� �ҵ���Ϸ�����ƻ��������һЩ�ײ����ϵͳ���ٿ���������Ϸ��ȫò��û���ϲ��淨֧�ţ����еײ�ϵͳ������һ���ѵ���ζ��������Ϊ��������ƺͿ���������Ҫ��һ���� �ڽ�һ��ʵ�� demo ֮ǰ���������һ�·ɴ��Ľ���ϵͳ��...",
+          "link": "https://blog.codingnow.com/2024/07/building_system.html",
+          "publishedOn": "2024-07-16T08:35:58.000Z",
+          "wordCount": 117,
+          "title": "�ɴ����貿�ֵ���Ʋݰ�",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.codingnow.com/2024/07/air_flow_simulation.html",
           "author": null,
           "description": "����Ʒɴ��������Ϸʱ��������һ������������ģ��ϵͳ��������һ�������ķ�������֪���ò��ã��ȼ�¼һ�£� �ռ����ɶ�ά�������θ��ӹ��ɵģ���Щ������ǽ�����ֹ����������ÿ���������¶����Լ����������ļ�¼����ͬ�������ͬʱ������ͬһ���ڣ�����������¼���¶ȴ���ϵͳ������ơ� ÿ����Ϸ tick ��ÿ��������һ�ζ������㣬�����¶�ֵ����һ�����ʣ�������ʾ����˸ø���������Χ��չ�ı����� �¶�Խ�ߣ�Խ���ܽ��������������ƽ����ɢ������ڽӵ� 8 ��ռ䡣 ��������Ϊ��ǽ�����¿ռ�仯ʱ���Ѹø�������ȫ����ɢ���ٽӸ񣬵�����������޷�����ʱ������������ǽ���ڣ�������ʧ���ȴ��Ժ���������������ɢ��ȥ��...",
@@ -151,16 +172,6 @@
           "publishedOn": "2024-07-10T02:50:27.000Z",
           "wordCount": 91,
           "title": "���ڿ�������ģ��",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.codingnow.com/2024/07/avatar_animation.html",
-          "author": null,
-          "description": "Ant ����Ľ�ɫ����ϵͳ����Ҫ���ơ� ֮ǰ������ Ant ���濪������Ϸ�Ի�еװ��Ϊ�������Բ�����Ҫ���ͽ�ɫ���������������ɫ�����Ķ������ƣ�����и��������֧�֡� ͨ������ɫ�߼��ϵ����ԺͶ������ִ���һ��ӳ���ϵ��һ����ɫ�����߼��ϵĻ������Կ���ֻ���ڿռ��е����ꡣ���Ǳ�д���������ʱ��ֻ��������������ǣ������������ʱ������Ҫ���ݿռ�������������ԣ�ת��Ϊ�������ţ������ɫ��ֹ�������Ͳ��� idle ��������������˶����Ͳ��� walk ������...",
-          "link": "https://blog.codingnow.com/2024/07/avatar_animation.html",
-          "publishedOn": "2024-07-02T06:38:37.000Z",
-          "wordCount": 148,
-          "title": "��ɫ����ϵͳ",
           "imageUrl": null
         }
       ]
@@ -200,16 +211,6 @@
           "publishedOn": "2024-07-08T15:42:39.000Z",
           "wordCount": 394,
           "title": "Nixos use old version software",
-          "imageUrl": "https://vim0.com/post/main_cover.png"
-        },
-        {
-          "id": "https://vim0.com/post/yabai_window_sometime_in_the_below/",
-          "author": null,
-          "description": "Yabai Sometimes Puts Windows Below Other Windows I’ve been using yabai on my company’s MacBook and noticed it sometimes places windows below others, a behavior not observed on my personal MacBook.\nBy running yabai -m query --windows, I discovered differences in window layouts between the two machines:\n1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35  [ { \"id\": 140, \"pid\": 1087, \"app\": \"iTerm2\", \"space\": 2, \"level\": 0, \"layer\": \"normal\", \"opacity\": 1.",
-          "link": "https://vim0.com/post/yabai_window_sometime_in_the_below/",
-          "publishedOn": "2024-07-01T15:08:16.000Z",
-          "wordCount": 397,
-          "title": "Yabai Sometimes Puts Windows Below Other Windows",
           "imageUrl": "https://vim0.com/post/main_cover.png"
         }
       ]

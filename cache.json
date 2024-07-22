@@ -61,6 +61,26 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=6430",
+          "author": "laixintao",
+          "description": "数据中心里面是一个个的机架（Rack），机架里面放着服务器，怎么把这些服务器连接起来呢？如果是 ToR （To […]\nContinue reading...\n相关文章:\n\n网络中的环路和防环技术\n四层负载均衡分析：GitHub GLB\n四层负载均衡分析：Google Maglev\n有关 TLS/SSL 证书的一切\n四层负载均衡分析：Cloudflare Unimog",
+          "link": "https://www.kawabangga.com/posts/6430",
+          "publishedOn": "2024-07-21T07:14:04.000Z",
+          "wordCount": 2699,
+          "title": "数据中心网络高可用技术之从服务器到交换机：active-backup",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.kawabangga.com/?p=6417",
+          "author": "laixintao",
+          "description": "数据中心的网络和家用网络有很大不同，家用网络一个小路由器就够了，挂了的话，就忍受一下没有网络的时间，然后去网上 […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/6417",
+          "publishedOn": "2024-07-21T05:50:14.000Z",
+          "wordCount": 1153,
+          "title": "数据中心网络高可用技术：序",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=6295",
           "author": "laixintao",
           "description": "虽然刚接触网络的时候，就首先学习了分层的模型，大部分的教材也是会在最开始就讲解网络的分层模型，但是与网络分层相 […]\nContinue reading...",

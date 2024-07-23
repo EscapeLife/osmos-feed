@@ -239,7 +239,18 @@
       "title": "离别歌",
       "feedUrl": "https://www.leavesongs.com/feed",
       "siteUrl": "https://www.leavesongs.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.leavesongs.com/THINK/using-euicc-card-to-support-esim.html",
+          "author": "phithon",
+          "description": "虽然离开中国已经快三年了，但是我现在仍然在用国内时候购买的国行iPhone 12手机。我在《2022年欧洲游记》这篇文章里也提到过，实体sim卡导致我出门旅游很不方便，每次都要提前至少一个月时间在淘宝买到旅游卡，然后海运来新加坡。如果在Shopee上买，时间虽然短一点，但价格会贵很多。\n去年10月去印尼bromo火山，我尝试了另一种方案，因为当时在公司申请了一台pixel 4xl测试机，这台...",
+          "link": "https://www.leavesongs.com/THINK/using-euicc-card-to-support-esim.html",
+          "publishedOn": "2024-07-22T02:00:00.000Z",
+          "wordCount": 201,
+          "title": "使用eUICC卡片将手机变成eSIM手机",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "张戈博客",

@@ -61,6 +61,16 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=6467",
+          "author": "laixintao",
+          "description": "本文是重新认识 TCP 的握手和挥手一文的答案和解析。 第一题，3个。 Wireshark 选择 Statis […]\nContinue reading...\n相关文章:\n\n重新认识 TCP 的握手和挥手\nTcpdump 从 TCP_option_address 中根据真实 IP 过滤\n计算机网络实用技术：序章\n用 Wireshark 分析 TCP 吞吐瓶颈\n网络中的环路和防环技术",
+          "link": "https://www.kawabangga.com/posts/6467",
+          "publishedOn": "2024-07-23T14:56:21.000Z",
+          "wordCount": 1154,
+          "title": "重新认识 TCP 的握手和挥手：答案和解析",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=6430",
           "author": "laixintao",
           "description": "数据中心里面是一个个的机架（Rack），机架里面放着服务器，怎么把这些服务器连接起来呢？如果是 ToR （To […]\nContinue reading...\n相关文章:\n\n网络中的环路和防环技术\n四层负载均衡分析：GitHub GLB\n四层负载均衡分析：Google Maglev\n有关 TLS/SSL 证书的一切\n四层负载均衡分析：Cloudflare Unimog",
@@ -221,16 +231,6 @@
           "publishedOn": "2024-07-11T15:16:09.000Z",
           "wordCount": 960,
           "title": "Neovim: No Crash Incremental Selection",
-          "imageUrl": "https://vim0.com/post/main_cover.png"
-        },
-        {
-          "id": "https://vim0.com/post/nix_use_old_version/",
-          "author": null,
-          "description": "NixOS users often face situations where the latest software versions have issues, but the NixOS channel only offers the fixed versions. Here’s how to use an older version of software:\nAccording to the blog post How to use old versions of software in NixOS, you can follow these steps to use an older software version:\nSearch for the old version of the software Use https://lazamar.co.uk/nix-versions/ to search for old packages.",
-          "link": "https://vim0.com/post/nix_use_old_version/",
-          "publishedOn": "2024-07-08T15:42:39.000Z",
-          "wordCount": 394,
-          "title": "Nixos use old version software",
           "imageUrl": "https://vim0.com/post/main_cover.png"
         }
       ]

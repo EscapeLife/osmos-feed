@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-07-23T00:48:02.699Z</updated>
+    <updated>2024-07-24T00:48:48.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[重新认识 TCP 的握手和挥手：答案和解析]]></title>
+        <id>https://www.kawabangga.com/?p=6467</id>
+        <link href="https://www.kawabangga.com/posts/6467"/>
+        <updated>2024-07-23T14:56:21.000Z</updated>
+        <summary type="html"><![CDATA[本文是重新认识 TCP 的握手和挥手一文的答案和解析。 第一题，3个。 Wireshark 选择 Statis […]
+Continue reading...
+相关文章:
+
+重新认识 TCP 的握手和挥手
+Tcpdump 从 TCP_option_address 中根据真实 IP 过滤
+计算机网络实用技术：序章
+用 Wireshark 分析 TCP 吞吐瓶颈
+网络中的环路和防环技术]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用eUICC卡片将手机变成eSIM手机]]></title>
         <id>https://www.leavesongs.com/THINK/using-euicc-card-to-support-esim.html</id>
@@ -152,18 +170,6 @@ Python 3.5的新特性
         <summary type="html"><![CDATA[����Ʒɴ��������Ϸʱ��������һ������������ģ��ϵͳ��������һ�������ķ�������֪���ò��ã��ȼ�¼һ�£� �ռ����ɶ�ά�������θ��ӹ��ɵģ���Щ������ǽ�����ֹ����������ÿ���������¶����Լ����������ļ�¼����ͬ�������ͬʱ������ͬһ���ڣ�����������¼���¶ȴ���ϵͳ������ơ� ÿ����Ϸ tick ��ÿ��������һ�ζ������㣬�����¶�ֵ����һ�����ʣ�������ʾ����˸ø���������Χ��չ�ı����� �¶�Խ�ߣ�Խ���ܽ��������������ƽ����ɢ������ڽӵ� 8 ��ռ䡣 ��������Ϊ��ǽ�����¿ռ�仯ʱ���Ѹø�������ȫ����ɢ���ٽӸ񣬵�����������޷�����ʱ������������ǽ���ڣ�������ʧ���ȴ��Ժ���������������ɢ��ȥ��...]]></summary>
         <author>
             <name>�Ʒ�� BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nixos use old version software]]></title>
-        <id>https://vim0.com/post/nix_use_old_version/</id>
-        <link href="https://vim0.com/post/nix_use_old_version/"/>
-        <updated>2024-07-08T15:42:39.000Z</updated>
-        <summary type="html"><![CDATA[NixOS users often face situations where the latest software versions have issues, but the NixOS channel only offers the fixed versions. Here’s how to use an older version of software:
-According to the blog post How to use old versions of software in NixOS, you can follow these steps to use an older software version:
-Search for the old version of the software Use https://lazamar.co.uk/nix-versions/ to search for old packages.]]></summary>
-        <author>
-            <name>xiantang - Self-discipline set me free.</name>
         </author>
     </entry>
     <entry>

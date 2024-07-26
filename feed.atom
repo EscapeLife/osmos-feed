@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-07-25T00:47:38.813Z</updated>
+    <updated>2024-07-26T00:47:05.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[�����������ϵͳ]]></title>
+        <id>https://blog.codingnow.com/2024/07/task_system.html</id>
+        <link href="https://blog.codingnow.com/2024/07/task_system.html"/>
+        <updated>2024-07-25T07:49:47.000Z</updated>
+        <summary type="html"><![CDATA[�ڰ���Ҫ�� like ����Ϸ�У�����һ�׻��ڹ��˵�����ַ�ϵͳ�����ͨ�������� RTS ������ֱ�Ӳ�������ȥ���������Ƕ�Ҫ���������´����񣬵��Ź�������ȥ��ɡ� ������������ͨ��Զ���ڹ����������������ַ�ϵͳ�д���������ȼ����ã���������������������ɵĽ��С��������ȼ������������ٿص�����������������Ϸ�����е㲻ϰ�ߣ��о�������΢�۲���ֱ�����Լ����������顣����ʯͷ�Ž�ָ���ֿ�����£��޷����� RTS ��Ϸ�������ȵ�ѡ���ˣ������ʯͷ����ʰȡָ��� ��ϰ��֮�󣬿����ֻز�ȥ�ˡ����������� Ratopia ʱ���ͶԲٿ�����ֱ�Ӹɻ�겻�ѡ� ������Ϸ�������ʱ��Ƚϳ�������������ʱ������Ϊ��ȱ�� (ONI) ����Ե���� (Rimworld)������Ҫ�� (DF)�������� Songs of Syx ��Prison Architect �Ⱥܶ�Ҳ�������ԡ���ʵ����Щ��Ϸ����ƹ�������ϵͳ��ϸ����Ҳ������ͬ�� ������Ϸʱ�����ȱ���ͱ�Ե������Ƚϣ�ͬ�����ṩ��������ٿص�������Rimworld ���Ը����˵��������ֱ���´�ָ�����ӽ� RTS ���淨������ ONI ����ͨ�������������������ȼ�ʵ�ֵġ�ONI ����˾��������񣬿���Խ��һ�����ȼ��趨��ǿ��������ɡ���Ȼ ONI Ҳ������ָ�ӵ���С���ƶ���ָ��λ�ã���ʵ����Ϸ�м���ûʲô�á� ����ʰȡ��Ʒ��Rimworld ���Է�������������Ʒ���� ONI û�������ơ�ONI �Ĺ��˼������������ѵ��ϵĶ�������ֿ⣬�����´���ɨָ� ��Щϸ�ڵĲ�ͬ��������Դ���������ʱ��˼ά�켣���ܴ�̶���Ҳȡ������Ϸ�������淨������ Rimworld ƫ���ֿسɷֺ��ص�ս������ ONI...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《21世纪》与主流文化]]></title>
         <id>https://frostming.com/2024/21-centry-trend/</id>

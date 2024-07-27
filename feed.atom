@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-07-26T00:47:05.069Z</updated>
+    <updated>2024-07-27T00:46:53.628Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -130,38 +130,6 @@ TCP可以使用两次握手建立连接吗？
 用 Wireshark 分析 TCP 吞吐瓶颈]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TCP 延迟分析]]></title>
-        <id>https://www.kawabangga.com/?p=6378</id>
-        <link href="https://www.kawabangga.com/posts/6378"/>
-        <updated>2024-07-12T00:04:00.000Z</updated>
-        <summary type="html"><![CDATA[本文是对《延迟增加了多少？》一文的答案和分析。 总延迟应该是 900ms 左右。 Ping 的延迟指的是 RT […]
-Continue reading...
-相关文章:
-
-延迟增加了多少？
-网工闯了什么祸？
-使用 mtr 检查网络问题，以及注意事项
-由一个子网掩码配置错误所想到的
-连接池中的连接失效的几种处理方案]]></summary>
-        <author>
-            <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neovim: No Crash Incremental Selection]]></title>
-        <id>https://vim0.com/post/neovim_no_crash_incremental_selection/</id>
-        <link href="https://vim0.com/post/neovim_no_crash_incremental_selection/"/>
-        <updated>2024-07-11T15:16:09.000Z</updated>
-        <summary type="html"><![CDATA[When I use neovim treesitter incremental selection, it randomly crashes, but I cannot stable reproduce it. And I found some issues and complaints about this issue, but no solution. So I decide to write a blog post to record this issue and the solution.
-related issues:
- https://www.reddit.com/r/neovim/comments/10wwkft/comment/j7qla2q/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button https://github.com/neovim/neovim/issues/24336 https://github.com/neovim/neovim/issues/25254 https://www.reddit.com/r/neovim/comments/18dn4qt/treesitter_incremental_selection/  TL;DR paste this https://github.com/xiantang/nvim-conf/blob/7c0d6cbf6d9fd7b6a8960de887db1109332419bf/lua/plugins/treesitter.lua#L62-L132 into your neovim configuration file.
-this is my treesitter incremental selection configuration:
-1 2 3 4 5 6 7 8 9  incremental_selection = { enable = true, keymaps = { init_selection = true, node_incremental = "v", node_decremental = "<BS>", }, },   sometime when I use v to expand the selection, it crashes, and it’s a Segmentation fault, and I have the report:]]></summary>
-        <author>
-            <name>xiantang - Self-discipline set me free.</name>
         </author>
     </entry>
     <entry>

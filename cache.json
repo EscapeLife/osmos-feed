@@ -99,16 +99,6 @@
           "wordCount": 1252,
           "title": "理解网络的分层模型",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=6383",
-          "author": "laixintao",
-          "description": "在教科书上，我们学过 TCP 的 3 次握手和 4 次挥手，请读者思考一下：TCP 握手一定会使用 3 个包吗 […]\nContinue reading...\n相关文章:\n\nTCP 延迟分析\nTCP可以使用两次握手建立连接吗？\n用 Wireshark 分析 TCP 吞吐瓶颈",
-          "link": "https://www.kawabangga.com/posts/6383",
-          "publishedOn": "2024-07-13T04:27:00.000Z",
-          "wordCount": 1011,
-          "title": "重新认识 TCP 的握手和挥手",
-          "imageUrl": null
         }
       ]
     },

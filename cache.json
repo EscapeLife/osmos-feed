@@ -89,16 +89,6 @@
           "wordCount": 1153,
           "title": "数据中心网络高可用技术：序",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=6295",
-          "author": "laixintao",
-          "description": "虽然刚接触网络的时候，就首先学习了分层的模型，大部分的教材也是会在最开始就讲解网络的分层模型，但是与网络分层相 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/6295",
-          "publishedOn": "2024-07-14T04:21:07.000Z",
-          "wordCount": 1252,
-          "title": "理解网络的分层模型",
-          "imageUrl": null
         }
       ]
     },
@@ -197,7 +187,18 @@
       "title": "静觅",
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://cuiqingcai.com/42368.html",
+          "author": null,
+          "description": "<p><span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL0FjZURhdGFDbG91ZC9OZXhpb3I=\">Nexior<i class=\"fa fa-external-link-alt\"></i></span>",
+          "link": "https://cuiqingcai.com/42368.html",
+          "publishedOn": "2024-07-29T12:01:22.000Z",
+          "wordCount": 1301,
+          "title": "利用 Vercel 快速搭建 Nexior AI 平台",
+          "imageUrl": "https://cdn.acedata.cloud/3zf2hx.png"
+        }
+      ]
     },
     {
       "title": "xiantang - Self-discipline set me free.",

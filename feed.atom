@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-07-30T00:48:18.021Z</updated>
+    <updated>2024-07-31T00:39:39.381Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[数据中心网络高可用技术之从服务器到交换机：balance-tlb 和 balance-alb]]></title>
+        <id>https://www.kawabangga.com/?p=6485</id>
+        <link href="https://www.kawabangga.com/posts/6485"/>
+        <updated>2024-07-30T10:55:35.000Z</updated>
+        <summary type="html"><![CDATA[在上一篇文章中我们讨论了 active-backup 的模式，能够在一张线路出现故障的时候快速切换，配置也比较 […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[利用 Vercel 快速搭建 Nexior AI 平台]]></title>
         <id>https://cuiqingcai.com/42368.html</id>
@@ -103,16 +114,6 @@ Continue reading...]]></summary>
 <p>太长不看的版：Python 3.13 Beta 版本中，因为 PEP 683 的实现+周边的改动，导致低版本下编译的一些扩展无法在 Python 3.13 中运行</p>]]></summary>
         <author>
             <name>Manjusaka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[�ɴ����貿�ֵ���Ʋݰ�]]></title>
-        <id>https://blog.codingnow.com/2024/07/building_system.html</id>
-        <link href="https://blog.codingnow.com/2024/07/building_system.html"/>
-        <updated>2024-07-16T08:35:58.000Z</updated>
-        <summary type="html"><![CDATA[�����ǹ�����ȱ������Ե���綼�д����� mod ������ͨ�������Ϸ���ƣ��ѱ�����Ϸ�������ȫ���鲻ͬ����Ϸ����Щ����� mod ��������һ������ɵġ������Ҿ��ã���Ȼ��Ϸ������淨�������������飬����ʵ�������ܹ����������󡣶��ң�һ���淨�����⣬Ҳ�����޸ġ� �ҵ���Ϸ�����ƻ��������һЩ�ײ����ϵͳ���ٿ���������Ϸ��ȫò��û���ϲ��淨֧�ţ����еײ�ϵͳ������һ���ѵ���ζ��������Ϊ��������ƺͿ���������Ҫ��һ���� �ڽ�һ��ʵ�� demo ֮ǰ���������һ�·ɴ��Ľ���ϵͳ��...]]></summary>
-        <author>
-            <name>�Ʒ�� BLOG</name>
         </author>
     </entry>
     <entry>

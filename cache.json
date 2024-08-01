@@ -106,18 +106,7 @@
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "https://www.manjusaka.blog/atom.xml",
-      "articles": [
-        {
-          "id": "https://www.manjusaka.blog/posts/2024/07/16/a-live-debug-gh121528/",
-          "author": null,
-          "description": "<p>Debug 日志系列第二篇，CPython 的 GH-121528，也是很有趣的调试和讨论过程，写出来希望帮助大家</p>\n<p>太长不看的版：Python 3.13 Beta 版本中，因为 PEP 683 的实现+周边的改动，导致低版本下编译的一些扩展无法在 Python 3.13 中运行</p>",
-          "link": "https://www.manjusaka.blog/posts/2024/07/16/a-live-debug-gh121528/",
-          "publishedOn": "2024-07-16T18:20:00.000Z",
-          "wordCount": 2185,
-          "title": "Debug 日志：CPython GH-121528",
-          "imageUrl": "https://cdn.pixabay.com/photo/2023/02/04/07/38/cherry-blossoms-7766588_1280.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "laike9m's blog",

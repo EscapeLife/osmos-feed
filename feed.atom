@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-08-04T00:53:19.599Z</updated>
+    <updated>2024-08-05T00:51:01.253Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[数据中心网络高可用技术之从服务器到交换机：链路聚合 (balance-xor, balance-rr, broadcast)]]></title>
+        <id>https://www.kawabangga.com/?p=6460</id>
+        <link href="https://www.kawabangga.com/posts/6460"/>
+        <updated>2024-08-04T11:55:47.000Z</updated>
+        <summary type="html"><![CDATA[到现在我们讨论了 3 种 Linux bonding 模式：active-backup, balance-tl […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数据中心网络高可用技术之从服务器到交换机：balance-tlb 和 balance-alb]]></title>
         <id>https://www.kawabangga.com/?p=6485</id>
@@ -74,35 +85,6 @@ Tcpdump 从 TCP_option_address 中根据真实 IP 过滤
 去年10月去印尼bromo火山，我尝试了另一种方案，因为当时在公司申请了一台pixel 4xl测试机，这台...]]></summary>
         <author>
             <name>phithon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据中心网络高可用技术之从服务器到交换机：active-backup]]></title>
-        <id>https://www.kawabangga.com/?p=6430</id>
-        <link href="https://www.kawabangga.com/posts/6430"/>
-        <updated>2024-07-21T07:14:04.000Z</updated>
-        <summary type="html"><![CDATA[数据中心里面是一个个的机架（Rack），机架里面放着服务器，怎么把这些服务器连接起来呢？如果是 ToR （To […]
-Continue reading...
-相关文章:
-
-网络中的环路和防环技术
-四层负载均衡分析：GitHub GLB
-四层负载均衡分析：Google Maglev
-有关 TLS/SSL 证书的一切
-四层负载均衡分析：Cloudflare Unimog]]></summary>
-        <author>
-            <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据中心网络高可用技术：序]]></title>
-        <id>https://www.kawabangga.com/?p=6417</id>
-        <link href="https://www.kawabangga.com/posts/6417"/>
-        <updated>2024-07-21T05:50:14.000Z</updated>
-        <summary type="html"><![CDATA[数据中心的网络和家用网络有很大不同，家用网络一个小路由器就够了，挂了的话，就忍受一下没有网络的时间，然后去网上 […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

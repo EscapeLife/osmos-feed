@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-08-06T00:48:54.886Z</updated>
+    <updated>2024-08-07T00:49:33.230Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TCP 下载速度为什么这么慢？]]></title>
+        <id>https://www.kawabangga.com/?p=6570</id>
+        <link href="https://www.kawabangga.com/posts/6570"/>
+        <updated>2024-08-06T16:04:09.000Z</updated>
+        <summary type="html"><![CDATA[最近，某团队在上线一个 AI 训练服务，运行在美国。AI 训练需要从另一个服务加载一些数据，数据因为欧洲国家的 […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据中心网络高可用技术之从服务器到交换机：802.3 ad]]></title>
+        <id>https://www.kawabangga.com/?p=6509</id>
+        <link href="https://www.kawabangga.com/posts/6509"/>
+        <updated>2024-08-06T05:39:06.000Z</updated>
+        <summary type="html"><![CDATA[我们距离双线双活的完美方案越来越近了。在上文的链路聚合方案中，服务器和交换机之间的多条线路可以虚拟成一条，唯一 […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数据中心网络高可用技术之从服务器到交换机：链路聚合 (balance-xor, balance-rr, broadcast)]]></title>
         <id>https://www.kawabangga.com/?p=6460</id>

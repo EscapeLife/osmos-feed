@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-08-07T00:49:33.230Z</updated>
+    <updated>2024-08-08T00:48:47.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -68,34 +68,6 @@ Continue reading...]]></summary>
         <summary type="html"><![CDATA[�ڰ���Ҫ�� like ����Ϸ�У�����һ�׻��ڹ��˵�����ַ�ϵͳ�����ͨ�������� RTS ������ֱ�Ӳ�������ȥ���������Ƕ�Ҫ���������´����񣬵��Ź�������ȥ��ɡ� ������������ͨ��Զ���ڹ����������������ַ�ϵͳ�д���������ȼ����ã���������������������ɵĽ��С��������ȼ������������ٿص�����������������Ϸ�����е㲻ϰ�ߣ��о�������΢�۲���ֱ�����Լ����������顣����ʯͷ�Ž�ָ���ֿ�����£��޷����� RTS ��Ϸ�������ȵ�ѡ���ˣ������ʯͷ����ʰȡָ��� ��ϰ��֮�󣬿����ֻز�ȥ�ˡ����������� Ratopia ʱ���ͶԲٿ�����ֱ�Ӹɻ�겻�ѡ� ������Ϸ�������ʱ��Ƚϳ�������������ʱ������Ϊ��ȱ�� (ONI) ����Ե���� (Rimworld)������Ҫ�� (DF)�������� Songs of Syx ��Prison Architect �Ⱥܶ�Ҳ�������ԡ���ʵ����Щ��Ϸ����ƹ�������ϵͳ��ϸ����Ҳ������ͬ�� ������Ϸʱ�����ȱ���ͱ�Ե������Ƚϣ�ͬ�����ṩ��������ٿص�������Rimworld ���Ը����˵��������ֱ���´�ָ�����ӽ� RTS ���淨������ ONI ����ͨ�������������������ȼ�ʵ�ֵġ�ONI ����˾��������񣬿���Խ��һ�����ȼ��趨��ǿ��������ɡ���Ȼ ONI Ҳ������ָ�ӵ���С���ƶ���ָ��λ�ã���ʵ����Ϸ�м���ûʲô�á� ����ʰȡ��Ʒ��Rimworld ���Է�������������Ʒ���� ONI û�������ơ�ONI �Ĺ��˼������������ѵ��ϵĶ�������ֿ⣬�����´���ɨָ� ��Щϸ�ڵĲ�ͬ��������Դ���������ʱ��˼ά�켣���ܴ�̶���Ҳȡ������Ϸ�������淨������ Rimworld ƫ���ֿسɷֺ��ص�ս������ ONI...]]></summary>
         <author>
             <name>�Ʒ�� BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《21世纪》与主流文化]]></title>
-        <id>https://frostming.com/2024/21-centry-trend/</id>
-        <link href="https://frostming.com/2024/21-centry-trend/"/>
-        <updated>2024-07-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Programming and Life]]></summary>
-        <author>
-            <name>Frost's Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重新认识 TCP 的握手和挥手：答案和解析]]></title>
-        <id>https://www.kawabangga.com/?p=6467</id>
-        <link href="https://www.kawabangga.com/posts/6467"/>
-        <updated>2024-07-23T14:56:21.000Z</updated>
-        <summary type="html"><![CDATA[本文是重新认识 TCP 的握手和挥手一文的答案和解析。 第一题，3个。 Wireshark 选择 Statis […]
-Continue reading...
-相关文章:
-
-重新认识 TCP 的握手和挥手
-Tcpdump 从 TCP_option_address 中根据真实 IP 过滤
-计算机网络实用技术：序章
-用 Wireshark 分析 TCP 吞吐瓶颈
-网络中的环路和防环技术]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

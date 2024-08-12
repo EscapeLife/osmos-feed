@@ -72,6 +72,16 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=6594",
+          "author": "laixintao",
+          "description": "在前面的系列文章中，二层交换技术已经讨论的差不多了。我们现在知道了一个包经过交换机去往同子网下的其他主机都有哪 […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/6594",
+          "publishedOn": "2024-08-11T14:59:07.000Z",
+          "wordCount": 1927,
+          "title": "数据中心网络高可用技术之从服务器到网关：首跳冗余协议 VRRP",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=6537",
           "author": "laixintao",
           "description": "在上一篇文章结束对链路聚合的讨论之后，我们发现一个问题——我们只能用多条线连接到同一个 switch 上面，这 […]\nContinue reading...",

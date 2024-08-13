@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-08-12T00:51:12.261Z</updated>
+    <updated>2024-08-13T00:50:24.847Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -91,16 +91,6 @@ Continue reading...]]></summary>
 Continue reading...]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[利用 Vercel 快速搭建 Nexior AI 平台]]></title>
-        <id>https://cuiqingcai.com/42368.html</id>
-        <link href="https://cuiqingcai.com/42368.html"/>
-        <updated>2024-07-29T12:01:22.000Z</updated>
-        <summary type="html"><![CDATA[<p><span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL0FjZURhdGFDbG91ZC9OZXhpb3I=">Nexior<i class="fa fa-external-link-alt"></i></span>]]></summary>
-        <author>
-            <name>静觅</name>
         </author>
     </entry>
     <entry>

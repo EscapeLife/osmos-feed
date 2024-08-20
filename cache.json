@@ -72,6 +72,16 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=6616",
+          "author": "laixintao",
+          "description": "先来说TCP 下载速度为什么这么慢？一文的答案：是因为接收端窗口太小。 这是一个典型「长肥管道」的问题。长，是 […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/6616",
+          "publishedOn": "2024-08-15T01:54:11.000Z",
+          "wordCount": 1160,
+          "title": "TCP 长肥管道性能分析",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=6594",
           "author": "laixintao",
           "description": "在前面的系列文章中，二层交换技术已经讨论的差不多了。我们现在知道了一个包经过交换机去往同子网下的其他主机都有哪 […]\nContinue reading...",
@@ -110,26 +120,6 @@
           "wordCount": 1565,
           "title": "数据中心网络高可用技术之从服务器到交换机：802.3 ad",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=6460",
-          "author": "laixintao",
-          "description": "到现在我们讨论了 3 种 Linux bonding 模式：active-backup, balance-tl […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/6460",
-          "publishedOn": "2024-08-04T11:55:47.000Z",
-          "wordCount": 1580,
-          "title": "数据中心网络高可用技术之从服务器到交换机：链路聚合 (balance-xor, balance-rr, broadcast)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=6485",
-          "author": "laixintao",
-          "description": "在上一篇文章中我们讨论了 active-backup 的模式，能够在一张线路出现故障的时候快速切换，配置也比较 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/6485",
-          "publishedOn": "2024-07-30T10:55:35.000Z",
-          "wordCount": 2393,
-          "title": "数据中心网络高可用技术之从服务器到交换机：balance-tlb 和 balance-alb",
-          "imageUrl": null
         }
       ]
     },
@@ -137,13 +127,45 @@
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "https://www.manjusaka.blog/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.manjusaka.blog/posts/2024/08/19/benchmark-for-python-web-framework-2024-part1-cn/",
+          "author": null,
+          "description": "<p>Gevent 还是 asyncio 这一直是个经典的问题，在这里我们直接用数据来帮助大家做一下决策</p>",
+          "link": "https://www.manjusaka.blog/posts/2024/08/19/benchmark-for-python-web-framework-2024-part1-cn/",
+          "publishedOn": "2024-08-19T17:00:00.000Z",
+          "wordCount": 1821,
+          "title": "2024 年了，是 Gevent 还是选择 asyncio Part 1？",
+          "imageUrl": "https://cdn.pixabay.com/photo/2023/02/06/16/46/sea-7772372_1280.jpg"
+        },
+        {
+          "id": "https://www.manjusaka.blog/posts/2024/08/19/benchmark-for-python-web-framework-2024-part1-en/",
+          "author": null,
+          "description": "<p>The choice between Gevent and asyncio has always been a classic question. Here, we’ll use data to help you make a decision.</p>",
+          "link": "https://www.manjusaka.blog/posts/2024/08/19/benchmark-for-python-web-framework-2024-part1-en/",
+          "publishedOn": "2024-08-19T17:00:00.000Z",
+          "wordCount": 2114,
+          "title": "In 2024, Gevent or asyncio? Part 1",
+          "imageUrl": "https://cdn.pixabay.com/photo/2023/02/08/15/10/sculpture-7776861_1280.jpg"
+        }
+      ]
     },
     {
       "title": "laike9m's blog",
       "feedUrl": "https://laike9m.com/blog/rss",
       "siteUrl": "https://laike9m.com/blog/rss",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://laike9m.com/blog/the-unexpected-emotional-cost-of-being-an-indiehacker,158/",
+          "author": null,
+          "description": "Coming from the open source world, I didn't expect being an indiehacker to have such a high emotional cost 😔",
+          "link": "https://laike9m.com/blog/the-unexpected-emotional-cost-of-being-an-indiehacker,158/",
+          "publishedOn": "2024-08-16T18:59:04.000Z",
+          "wordCount": 719,
+          "title": "The unexpected emotional cost of being an indiehacker",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Frost's Blog",
@@ -175,6 +197,26 @@
       "siteUrl": "https://blog.codingnow.com/",
       "articles": [
         {
+          "id": "https://blog.codingnow.com/2024/08/handle_generation.html",
+          "author": null,
+          "description": "���������� C ������ʹ������ handle ��������ָ�롣��������Ҫ�������õ�ʱ�� ����Ϊ��һ���õ� handle �����㷨��Ӧ�����㣺 ��ʹ handle �������ˣ����������ҲӦ�ñ���������Ӧ�ñ��µ� handle ���á�posix api ����ļ� id �Ͳ�������һ�㡣 �ṩһ�� api �����ж�һ�� handle �Ƿ���Ч����ʱ�临�Ӷ�Ϊ O(1) �� �� handle ��ӦΪ������ڴ��ַ��ʱ�临�Ӷ�Ӧ��Ϊ O(1) ����Ӧ�ñ�ָ�������Ե��������⡣��Ȼ hash �������Ͽ������� O(1) ��ʱ�临�Ӷȣ��������ĳ�����hash ��ײ����ʱ�������ܱ�֤��һ�㡣 ���� handle ʱ�临�Ӷ�ҲΪ O(1) �� handle...",
+          "link": "https://blog.codingnow.com/2024/08/handle_generation.html",
+          "publishedOn": "2024-08-18T07:44:13.000Z",
+          "wordCount": 362,
+          "title": "32 λ handle ��һ�����ɷ���",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.codingnow.com/2024/08/base_building_game.html",
+          "author": null,
+          "description": "������˼����һ�£����ڹ��������Ļ��ؽ�������Ϸ������ṩ�ĺ������鵽����ʲô���Լ�������ȥ�걻ȡ������Ϸ���׻����ʲô����������Ҫ��������Ϸ��ע�ص�Ӧ������� �����ʱ��Ƚϳ����������ؽ�������Ϸ�����ǹ�����ȱ�������ǵ��淨��ʵ����ܴ󣬵�ȴ����һЩ���Ƶ����顣����������⣬������ܶ�Σ��ó��Ľ����ǣ����ǵ�ȷ��һЩ��֮ͨ���� ���������������Ϸʱ�����������̷ǳ����ƣ������������ģ�...",
+          "link": "https://blog.codingnow.com/2024/08/base_building_game.html",
+          "publishedOn": "2024-08-13T13:14:40.000Z",
+          "wordCount": 165,
+          "title": "���ؽ��裨����������Ϸ���������",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.codingnow.com/2024/08/gameplay_framework.html",
           "author": null,
           "description": "��Ϸ��ҵ��ҵ 20 ���꣬һֱ�����ײ㿪������ʹ�ǰ��������Ŷ�д�ϲ���Ϸ�߼���Ҳ����ʵ��ĳЩ�ض��Ĺ���ģ�顣ֱ����������뵥��������Ϸ���źú�������Ӹ���ô� �������ԭʼ demo ��ʼ������ȱ�����飬д��д�ž�����ʧ�صĸо�������һ���������ع�����������������ĵ�ʱ��ͣ��������������ȫ����дҲ��̫��ν���������˳����һ�㣬�о���Ҫ����һ��˼·������дһƪ blog ��¼һ�¡� �κθ��ӵ��������⣬������ͨ�����Ϊ������������ٸ��Ӷȡ� ����Ϊ����Ϸ���ϲ��߼����� gameplay ���֣���Ҫ��Ϊ���飺����ģ�͡����ڱ��ֺ��˻������� ������ģ�͡��� gameplay �ĺ��Ĳ��֣�������Ϸ�Ļ�������ڱ����Լ�ͼ�ν��桢�������ƣ������̿������ȣ��Ȱ����Ķ���������ж�һ��ģ���Ƿ���������ģ�ͣ��Ƿ��в��������Ĳ���û�в�ֳ�ȥ����򵥵ķ����ǿ����Ƿ���ֱ�ӵ�����Ϸ����Ĵ��롣��ָɾ�����鲻Ӧ�ð����κ���ͼ�Ρ����桢ʱ�ӡ����������йصĽӿڡ�����һЩ��Ҫ���ļ� IO �ӿڣ���Ҫ��������ȡ gameplay ��صĲ߻����ݣ�д log �������ݳ־û��ȣ���Ҳ��Ӧ���漰�κ� OS �� API �� ���������ǾͿ��Է���Ķ������������ֲ��Ĳ��ԡ���Ҫʱ�����Ը�����Ϸ���棬�������ı� roguelike ���� 3D ���ֶ�������Ӱ�졣 �����ڱ��֡���Ȼ��ָ��Ϸ�Ļ�����֡�������Ч�ȵȣ�ͨ��������Ϸ����ʵ�֣��������д����Ĵ�������� gameplay ��ʵ���С���һ�����Ҳ��ά��������״̬���������漰���ݳ־û����򵥵��жϷ����ǣ������Ϸ�������ʱ���������������״̬�������������´ζ�ȡ���Ⱥ���Щ״̬���ܱ��ؽ�������Ҳ���о���ʧ���κ����ݡ� ���˻�����������Ϸ������Ҫ�Ĳ��֣����û�С��ˡ��Ĵ��ڣ���ϷҲ��û�������ˡ�����Ϊ�������֣�ͼ�ν�������չʾ��Ϸ�����ݸ��˿���ͬʱ����һЩ��������ļ�����룻���������������������ֱ������̴������ȣ�����Ϸ��ֱ�ӿ��ơ� ����������Ϸ����Ӧ�������Ĵ�飺���������롱����ƪ blog �����۷�������Ϸ��...",
@@ -188,8 +230,8 @@
     },
     {
       "title": "piglei",
-      "feedUrl": "https://www.zlovezl.cn/feeds/latest",
-      "siteUrl": "http://www.zlovezl.cn/",
+      "feedUrl": "https://www.piglei.com/feeds/latest",
+      "siteUrl": "http://www.piglei.com/",
       "articles": []
     },
     {
@@ -208,7 +250,18 @@
       "title": "离别歌",
       "feedUrl": "https://www.leavesongs.com/feed",
       "siteUrl": "https://www.leavesongs.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.leavesongs.com/PENETRATION/use-tls-proxy-to-exploit-ldaps.html",
+          "author": "phithon",
+          "description": "前段时间看到群友问了这样一个问题：\n\nldap:和rmi:关键字被拦截了，是否还可以进行JNDI注入。方法很简单，就是使用ldaps，但后来发现很多人并不知道怎么搭建LDAPS服务器，正好CoNote里有这个功能，写篇简单的文章讲讲。\n0x01 LDAPs是什么\n在Java JNDI注入的过程中，用户传入一个URL，Java会根据URL的scheme来判断具体使用哪个包来处理，这些包的位置在...",
+          "link": "https://www.leavesongs.com/PENETRATION/use-tls-proxy-to-exploit-ldaps.html",
+          "publishedOn": "2024-08-16T15:16:00.000Z",
+          "wordCount": 331,
+          "title": "如何巧妙构建“LDAPS”服务器利用JNDI注入",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "张戈博客",

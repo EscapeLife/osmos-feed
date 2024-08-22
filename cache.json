@@ -110,16 +110,6 @@
           "wordCount": 991,
           "title": "数据中心网络高可用技术之从交换机到交换机：MLAG, 堆叠技术",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=6570",
-          "author": "laixintao",
-          "description": "最近，某团队在上线一个 AI 训练服务，运行在美国。AI 训练需要从另一个服务加载一些数据，数据因为欧洲国家的 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/6570",
-          "publishedOn": "2024-08-06T16:04:09.000Z",
-          "wordCount": 890,
-          "title": "TCP 下载速度为什么这么慢？",
-          "imageUrl": null
         }
       ]
     },

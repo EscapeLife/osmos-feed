@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-08-22T00:50:15.805Z</updated>
+    <updated>2024-08-23T00:48:49.810Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -98,38 +98,6 @@ Continue reading...]]></summary>
         <link href="https://www.kawabangga.com/posts/6594"/>
         <updated>2024-08-11T14:59:07.000Z</updated>
         <summary type="html"><![CDATA[在前面的系列文章中，二层交换技术已经讨论的差不多了。我们现在知道了一个包经过交换机去往同子网下的其他主机都有哪 […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gameplay �������ܽ�]]></title>
-        <id>https://blog.codingnow.com/2024/08/gameplay_framework.html</id>
-        <link href="https://blog.codingnow.com/2024/08/gameplay_framework.html"/>
-        <updated>2024-08-08T05:57:48.000Z</updated>
-        <summary type="html"><![CDATA[��Ϸ��ҵ��ҵ 20 ���꣬һֱ�����ײ㿪������ʹ�ǰ��������Ŷ�д�ϲ���Ϸ�߼���Ҳ����ʵ��ĳЩ�ض��Ĺ���ģ�顣ֱ����������뵥��������Ϸ���źú�������Ӹ���ô� �������ԭʼ demo ��ʼ������ȱ�����飬д��д�ž�����ʧ�صĸо�������һ���������ع�����������������ĵ�ʱ��ͣ��������������ȫ����дҲ��̫��ν���������˳����һ�㣬�о���Ҫ����һ��˼·������дһƪ blog ��¼һ�¡� �κθ��ӵ��������⣬������ͨ�����Ϊ������������ٸ��Ӷȡ� ����Ϊ����Ϸ���ϲ��߼����� gameplay ���֣���Ҫ��Ϊ���飺����ģ�͡����ڱ��ֺ��˻������� ������ģ�͡��� gameplay �ĺ��Ĳ��֣�������Ϸ�Ļ�������ڱ����Լ�ͼ�ν��桢�������ƣ������̿������ȣ��Ȱ����Ķ���������ж�һ��ģ���Ƿ���������ģ�ͣ��Ƿ��в��������Ĳ���û�в�ֳ�ȥ����򵥵ķ����ǿ����Ƿ���ֱ�ӵ�����Ϸ����Ĵ��롣��ָɾ�����鲻Ӧ�ð����κ���ͼ�Ρ����桢ʱ�ӡ����������йصĽӿڡ�����һЩ��Ҫ���ļ� IO �ӿڣ���Ҫ��������ȡ gameplay ��صĲ߻����ݣ�д log �������ݳ־û��ȣ���Ҳ��Ӧ���漰�κ� OS �� API �� ���������ǾͿ��Է���Ķ������������ֲ��Ĳ��ԡ���Ҫʱ�����Ը�����Ϸ���棬�������ı� roguelike ���� 3D ���ֶ�������Ӱ�졣 �����ڱ��֡���Ȼ��ָ��Ϸ�Ļ�����֡�������Ч�ȵȣ�ͨ��������Ϸ����ʵ�֣��������д����Ĵ�������� gameplay ��ʵ���С���һ�����Ҳ��ά��������״̬���������漰���ݳ־û����򵥵��жϷ����ǣ������Ϸ�������ʱ���������������״̬�������������´ζ�ȡ���Ⱥ���Щ״̬���ܱ��ؽ�������Ҳ���о���ʧ���κ����ݡ� ���˻�����������Ϸ������Ҫ�Ĳ��֣����û�С��ˡ��Ĵ��ڣ���ϷҲ��û�������ˡ�����Ϊ�������֣�ͼ�ν�������չʾ��Ϸ�����ݸ��˿���ͬʱ����һЩ��������ļ�����룻���������������������ֱ������̴������ȣ�����Ϸ��ֱ�ӿ��ơ� ����������Ϸ����Ӧ�������Ĵ�飺���������롱����ƪ blog �����۷�������Ϸ��...]]></summary>
-        <author>
-            <name>�Ʒ�� BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪怕明天就死，也应该坚持长期主义]]></title>
-        <id>https://codechina.org/?p=30892</id>
-        <link href="https://codechina.org/2024/08/long/"/>
-        <updated>2024-08-08T02:16:46.000Z</updated>
-        <summary type="html"><![CDATA[美股投资的长期主义 7月底的时候，有油管的观众写邮件给我，问我美股震荡，刚刚买的美股基金，亏了一些。他说，听说 […]
-哪怕明天就死，也应该坚持长期主义最先出现在Tinyfool的个人网站。]]></summary>
-        <author>
-            <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据中心网络高可用技术之从交换机到交换机：MLAG, 堆叠技术]]></title>
-        <id>https://www.kawabangga.com/?p=6537</id>
-        <link href="https://www.kawabangga.com/posts/6537"/>
-        <updated>2024-08-08T02:04:25.000Z</updated>
-        <summary type="html"><![CDATA[在上一篇文章结束对链路聚合的讨论之后，我们发现一个问题——我们只能用多条线连接到同一个 switch 上面，这 […]
 Continue reading...]]></summary>
         <author>
             <name>laixintao</name>

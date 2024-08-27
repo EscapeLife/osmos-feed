@@ -79,16 +79,6 @@
           "wordCount": 1160,
           "title": "TCP 长肥管道性能分析",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=6594",
-          "author": "laixintao",
-          "description": "在前面的系列文章中，二层交换技术已经讨论的差不多了。我们现在知道了一个包经过交换机去往同子网下的其他主机都有哪 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/6594",
-          "publishedOn": "2024-08-11T14:59:07.000Z",
-          "wordCount": 1927,
-          "title": "数据中心网络高可用技术之从服务器到网关：首跳冗余协议 VRRP",
-          "imageUrl": null
         }
       ]
     },

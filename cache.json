@@ -69,16 +69,6 @@
           "wordCount": 873,
           "title": "钟表",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=6616",
-          "author": "laixintao",
-          "description": "先来说TCP 下载速度为什么这么慢？一文的答案：是因为接收端窗口太小。 这是一个典型「长肥管道」的问题。长，是 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/6616",
-          "publishedOn": "2024-08-15T01:54:11.000Z",
-          "wordCount": 1160,
-          "title": "TCP 长肥管道性能分析",
-          "imageUrl": null
         }
       ]
     },

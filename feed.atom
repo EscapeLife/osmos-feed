@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-08-29T00:51:20.157Z</updated>
+    <updated>2024-08-30T00:51:51.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -103,17 +103,6 @@ ldap:和rmi:关键字被拦截了，是否还可以进行JNDI注入。方法很�
 在Java JNDI注入的过程中，用户传入一个URL，Java会根据URL的scheme来判断具体使用哪个包来处理，这些包的位置在...]]></summary>
         <author>
             <name>phithon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TCP 长肥管道性能分析]]></title>
-        <id>https://www.kawabangga.com/?p=6616</id>
-        <link href="https://www.kawabangga.com/posts/6616"/>
-        <updated>2024-08-15T01:54:11.000Z</updated>
-        <summary type="html"><![CDATA[先来说TCP 下载速度为什么这么慢？一文的答案：是因为接收端窗口太小。 这是一个典型「长肥管道」的问题。长，是 […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

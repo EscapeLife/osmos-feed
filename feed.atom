@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-08-30T00:51:51.344Z</updated>
+    <updated>2024-08-31T00:51:25.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[推广独立开发产品，我做了哪些尝试，效果如何]]></title>
+        <id>https://laike9m.com/blog/tui-yan-du-li-kai-fa-chan-pin-wo-zuo-liao-na-xie-chang-shi-xiao-guo-ru-he,159/</id>
+        <link href="https://laike9m.com/blog/tui-yan-du-li-kai-fa-chan-pin-wo-zuo-liao-na-xie-chang-shi-xiao-guo-ru-he,159/"/>
+        <updated>2024-08-30T09:09:47.000Z</updated>
+        <summary type="html"><![CDATA[如果采访十个独立开发者：“你觉得独立开发最难的地方在哪？”，估计有九个人都会说是 marketing/市场推广。最近开始做 Xylect，我对此才真正有了体感。这里记录一下我的各种尝试，或许能帮到一些人。]]></summary>
+        <author>
+            <name>laike9m's blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[程序员阅读清单：我喜欢的 100 篇技术文章（1-20）]]></title>
         <id>https://www.piglei.com/articles/programmer-reading-list-1/</id>

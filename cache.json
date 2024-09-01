@@ -105,6 +105,16 @@
       "siteUrl": "https://laike9m.com/blog/rss",
       "articles": [
         {
+          "id": "https://laike9m.com/blog/tui-yan-du-li-kai-fa-chan-pin-wo-zuo-liao-na-xie-chang-shi,159/",
+          "author": null,
+          "description": "如果采访十个独立开发者：“你觉得独立开发最难的地方在哪？”，估计有九个人都会说是 marketing/市场推广。最近开始做 Xylect，我对此才真正有了体感。这里记录一下我的各种尝试，或许能帮到一些人。",
+          "link": "https://laike9m.com/blog/tui-yan-du-li-kai-fa-chan-pin-wo-zuo-liao-na-xie-chang-shi,159/",
+          "publishedOn": "2024-08-30T09:09:47.000Z",
+          "wordCount": 686,
+          "title": "推广独立开发产品，我做了哪些尝试",
+          "imageUrl": null
+        },
+        {
           "id": "https://laike9m.com/blog/tui-yan-du-li-kai-fa-chan-pin-wo-zuo-liao-na-xie-chang-shi-xiao-guo-ru-he,159/",
           "author": null,
           "description": "如果采访十个独立开发者：“你觉得独立开发最难的地方在哪？”，估计有九个人都会说是 marketing/市场推广。最近开始做 Xylect，我对此才真正有了体感。这里记录一下我的各种尝试，或许能帮到一些人。",
@@ -112,16 +122,6 @@
           "publishedOn": "2024-08-30T09:09:47.000Z",
           "wordCount": 686,
           "title": "推广独立开发产品，我做了哪些尝试，效果如何",
-          "imageUrl": null
-        },
-        {
-          "id": "https://laike9m.com/blog/the-unexpected-emotional-cost-of-being-an-indiehacker,158/",
-          "author": null,
-          "description": "Coming from the open source world, I didn't expect being an indiehacker to have such a high emotional cost 😔",
-          "link": "https://laike9m.com/blog/the-unexpected-emotional-cost-of-being-an-indiehacker,158/",
-          "publishedOn": "2024-08-16T18:59:04.000Z",
-          "wordCount": 719,
-          "title": "The unexpected emotional cost of being an indiehacker",
           "imageUrl": null
         }
       ]
@@ -210,18 +210,7 @@
       "title": "离别歌",
       "feedUrl": "https://www.leavesongs.com/feed",
       "siteUrl": "https://www.leavesongs.com",
-      "articles": [
-        {
-          "id": "https://www.leavesongs.com/PENETRATION/use-tls-proxy-to-exploit-ldaps.html",
-          "author": "phithon",
-          "description": "前段时间看到群友问了这样一个问题：\n\nldap:和rmi:关键字被拦截了，是否还可以进行JNDI注入。方法很简单，就是使用ldaps，但后来发现很多人并不知道怎么搭建LDAPS服务器，正好CoNote里有这个功能，写篇简单的文章讲讲。\n0x01 LDAPs是什么\n在Java JNDI注入的过程中，用户传入一个URL，Java会根据URL的scheme来判断具体使用哪个包来处理，这些包的位置在...",
-          "link": "https://www.leavesongs.com/PENETRATION/use-tls-proxy-to-exploit-ldaps.html",
-          "publishedOn": "2024-08-16T15:16:00.000Z",
-          "wordCount": 331,
-          "title": "如何巧妙构建“LDAPS”服务器利用JNDI注入",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "张戈博客",

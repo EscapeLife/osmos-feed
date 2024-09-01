@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-08-31T00:51:25.507Z</updated>
+    <updated>2024-09-01T01:00:17.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[推广独立开发产品，我做了哪些尝试]]></title>
+        <id>https://laike9m.com/blog/tui-yan-du-li-kai-fa-chan-pin-wo-zuo-liao-na-xie-chang-shi,159/</id>
+        <link href="https://laike9m.com/blog/tui-yan-du-li-kai-fa-chan-pin-wo-zuo-liao-na-xie-chang-shi,159/"/>
+        <updated>2024-08-30T09:09:47.000Z</updated>
+        <summary type="html"><![CDATA[如果采访十个独立开发者：“你觉得独立开发最难的地方在哪？”，估计有九个人都会说是 marketing/市场推广。最近开始做 Xylect，我对此才真正有了体感。这里记录一下我的各种尝试，或许能帮到一些人。]]></summary>
+        <author>
+            <name>laike9m's blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[推广独立开发产品，我做了哪些尝试，效果如何]]></title>
         <id>https://laike9m.com/blog/tui-yan-du-li-kai-fa-chan-pin-wo-zuo-liao-na-xie-chang-shi-xiao-guo-ru-he,159/</id>
@@ -89,30 +99,6 @@ Continue reading...]]></summary>
         <summary type="html"><![CDATA[���������� C ������ʹ������ handle ��������ָ�롣��������Ҫ�������õ�ʱ�� ����Ϊ��һ���õ� handle �����㷨��Ӧ�����㣺 ��ʹ handle �������ˣ����������ҲӦ�ñ���������Ӧ�ñ��µ� handle ���á�posix api ����ļ� id �Ͳ�������һ�㡣 �ṩһ�� api �����ж�һ�� handle �Ƿ���Ч����ʱ�临�Ӷ�Ϊ O(1) �� �� handle ��ӦΪ������ڴ��ַ��ʱ�临�Ӷ�Ӧ��Ϊ O(1) ����Ӧ�ñ�ָ�������Ե��������⡣��Ȼ hash �������Ͽ������� O(1) ��ʱ�临�Ӷȣ��������ĳ�����hash ��ײ����ʱ�������ܱ�֤��һ�㡣 ���� handle ʱ�临�Ӷ�ҲΪ O(1) �� handle...]]></summary>
         <author>
             <name>�Ʒ�� BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The unexpected emotional cost of being an indiehacker]]></title>
-        <id>https://laike9m.com/blog/the-unexpected-emotional-cost-of-being-an-indiehacker,158/</id>
-        <link href="https://laike9m.com/blog/the-unexpected-emotional-cost-of-being-an-indiehacker,158/"/>
-        <updated>2024-08-16T18:59:04.000Z</updated>
-        <summary type="html"><![CDATA[Coming from the open source world, I didn't expect being an indiehacker to have such a high emotional cost 😔]]></summary>
-        <author>
-            <name>laike9m's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何巧妙构建“LDAPS”服务器利用JNDI注入]]></title>
-        <id>https://www.leavesongs.com/PENETRATION/use-tls-proxy-to-exploit-ldaps.html</id>
-        <link href="https://www.leavesongs.com/PENETRATION/use-tls-proxy-to-exploit-ldaps.html"/>
-        <updated>2024-08-16T15:16:00.000Z</updated>
-        <summary type="html"><![CDATA[前段时间看到群友问了这样一个问题：
-
-ldap:和rmi:关键字被拦截了，是否还可以进行JNDI注入。方法很简单，就是使用ldaps，但后来发现很多人并不知道怎么搭建LDAPS服务器，正好CoNote里有这个功能，写篇简单的文章讲讲。
-0x01 LDAPs是什么
-在Java JNDI注入的过程中，用户传入一个URL，Java会根据URL的scheme来判断具体使用哪个包来处理，这些包的位置在...]]></summary>
-        <author>
-            <name>phithon</name>
         </author>
     </entry>
     <entry>

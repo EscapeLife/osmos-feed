@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-09-01T01:00:17.761Z</updated>
+    <updated>2024-09-02T00:52:43.963Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -89,16 +89,6 @@ Continue reading...]]></summary>
         <summary type="html"><![CDATA[<p>The choice between Gevent and asyncio has always been a classic question. Here, we’ll use data to help you make a decision.</p>]]></summary>
         <author>
             <name>Manjusaka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[32 λ handle ��һ�����ɷ���]]></title>
-        <id>https://blog.codingnow.com/2024/08/handle_generation.html</id>
-        <link href="https://blog.codingnow.com/2024/08/handle_generation.html"/>
-        <updated>2024-08-18T07:44:13.000Z</updated>
-        <summary type="html"><![CDATA[���������� C ������ʹ������ handle ��������ָ�롣��������Ҫ�������õ�ʱ�� ����Ϊ��һ���õ� handle �����㷨��Ӧ�����㣺 ��ʹ handle �������ˣ����������ҲӦ�ñ���������Ӧ�ñ��µ� handle ���á�posix api ����ļ� id �Ͳ�������һ�㡣 �ṩһ�� api �����ж�һ�� handle �Ƿ���Ч����ʱ�临�Ӷ�Ϊ O(1) �� �� handle ��ӦΪ������ڴ��ַ��ʱ�临�Ӷ�Ӧ��Ϊ O(1) ����Ӧ�ñ�ָ�������Ե��������⡣��Ȼ hash �������Ͽ������� O(1) ��ʱ�临�Ӷȣ��������ĳ�����hash ��ײ����ʱ�������ܱ�֤��һ�㡣 ���� handle ʱ�临�Ӷ�ҲΪ O(1) �� handle...]]></summary>
-        <author>
-            <name>�Ʒ�� BLOG</name>
         </author>
     </entry>
     <entry>

@@ -164,16 +164,6 @@
           "wordCount": 96,
           "title": "һ���򵥵� C ģ�������",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.codingnow.com/2024/08/handle_generation.html",
-          "author": null,
-          "description": "���������� C ������ʹ������ handle ��������ָ�롣��������Ҫ�������õ�ʱ�� ����Ϊ��һ���õ� handle �����㷨��Ӧ�����㣺 ��ʹ handle �������ˣ����������ҲӦ�ñ���������Ӧ�ñ��µ� handle ���á�posix api ����ļ� id �Ͳ�������һ�㡣 �ṩһ�� api �����ж�һ�� handle �Ƿ���Ч����ʱ�临�Ӷ�Ϊ O(1) �� �� handle ��ӦΪ������ڴ��ַ��ʱ�临�Ӷ�Ӧ��Ϊ O(1) ����Ӧ�ñ�ָ�������Ե��������⡣��Ȼ hash �������Ͽ������� O(1) ��ʱ�临�Ӷȣ��������ĳ�����hash ��ײ����ʱ�������ܱ�֤��һ�㡣 ���� handle ʱ�临�Ӷ�ҲΪ O(1) �� handle...",
-          "link": "https://blog.codingnow.com/2024/08/handle_generation.html",
-          "publishedOn": "2024-08-18T07:44:13.000Z",
-          "wordCount": 362,
-          "title": "32 λ handle ��һ�����ɷ���",
-          "imageUrl": null
         }
       ]
     },

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-09-03T00:50:53.567Z</updated>
+    <updated>2024-09-04T00:51:52.151Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ant �����һЩ�Ľ��ƻ�]]></title>
+        <id>https://blog.codingnow.com/2024/09/ant_plans.html</id>
+        <link href="https://blog.codingnow.com/2024/09/ant_plans.html"/>
+        <updated>2024-09-03T03:21:09.000Z</updated>
+        <summary type="html"><![CDATA[�Ҷ��Կ�����Ϸ�Ѿ����������ˡ�������������� Ant Engine Ψһ��Ծ�û�������һ���ܺõĻ������ھ����һ��������Ϸ��������˵��������Щ�ط���ȱʧ���ֽ׶Σ��һ���ϣ���Ѿ���������Ϸ�����϶�һЩ���������淽��ǡǡ���þͺá���Ȼ��������������������������죬��Ϊ��Щ���������ұȽ�˳����������������������ࣻ��һ���˿�����Ϸ�������ʱ�����ָ������Ķ������ķ��ơ� �һ�������սһ���Լ�������Ϸ��ƺã�ʵ�ֺá����淽������飬���뵽�Ķ����ȼ�¼һ�¡����������ͷ����Ϸ��Ŀ���������࣬�ٻ�ͷ�����棬���øи�ǿһЩ�� ���ȣ����ӻ��༭�� ������˵����Ҫ��������ʱ�Ͳ�ά���ˡ��Ҹ���Ҫ����һЩ������֤������Ϸ������뷨�Ĺ��ܣ���Щ������Ϸ demo ��˳��ʵ�־ͺã�������û��Ҫ���ڱ༭�������ֽ׶�û����������Ҳ�й�ϵ����Ϊ�����Լ���������Ϸ��˵���Ҳ��ں��������ȣ������������Ǻ��������������Ǻܴ󡣱������Լ���ϲ����ͳ roguelike ������ ascii �ַ������Բ����е��������֡����룬��Ϸԭ�ͽ׶ξͲ���Ҫ�����ڱ༭�����������ˣ���һЩ������͹��á���Ҳ��Ϊʲô����������ǰ�������Ƶľ��� Ant ������Ԥ�Ƽ����� ������ܵ�ԭ�� ����ʹ�� Ant �����ʱ�򣬷�����Ϊȱ������ API �ĵ���ֻ�ܲ��ϵ��Ķ�Դ���루�Ͼ��кܶ�ģ�鲻�����Լ�����д�ģ��޷�ȫ����Ȼ���ģ������Ҳ���ÿ��ģ�����ƶ����⣬�����Ҿ������޸�����ĳ嶯������һ��ʱ������ҵ�һ���������������������⡣�ҿ��Զ�������һ�������Ŀ�ܣ���Ŀǰ������Ϸ�����󣬴�������Ĺ������������ơ��������ܸ��������Ѿ����õĲ��֣����õ�ģ��ֱ����һЩǳ��װ��������Ĳ��ֿ��Զ໨Щ�����������루�ƻ��ϴ��룩�ĸĽ��� ����������Ϸ���͵Ĳ�ͬ��ʹ������ķ�ʽ�ͻ��кܴ���졣��ϣ�������в�ͬ�������Ŀ����Ծ���������Ϸ�����η�װ���������ڶ��η�װ��д��Ϸ�Ļ�������Ϳ��Ը����ĵĲü��ײ�ʵ�֡��Ҹ�ϣ���� ECS ��ܻ�ԭ�ɸ�ԭʼ����ƣ��������ݣ���������̫��ĸ���ģ�顣...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[推广独立开发产品，我做了哪些尝试]]></title>
         <id>https://laike9m.com/blog/tui-yan-du-li-kai-fa-chan-pin-wo-zuo-liao-na-xie-chang-shi,159/</id>
@@ -58,37 +68,6 @@
         <summary type="html"><![CDATA[������ C ������Ŀ�������Ǻ� Lua ���ʹ��ʱ��һֱ��ͷ�� C û��һ��ͳһ��ģ���������Lua ��ģ�������Ȼ�򵥣����Ͼ����ҹ��á�һ�ַ����ǰ� C ģ���װ��һ���� Lua ģ�飬�� Lua ����������ÿ�� C ģ���Ƕ����ģ��໥���ɼ��� ���� C ģ��֮�䷢����ϵʱ���ͱȽ��鷳����Ȼ���򵥵ķ�����ͨ�������������Ƕ�������һ��ͨ��������ǰ׺�����֡��������ò���ϵͳ�Ķ�̬�������������ģ�顣 �������һ����Ȥ���뷨������һ������ģ���������ʵ���ӶȲ����ߡ����˰��칦��ʵ����һ�£��о��������� https://github.com/cloudwu/cmod/...]]></summary>
         <author>
             <name>�Ʒ�� BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[钟表]]></title>
-        <id>https://www.kawabangga.com/?p=6635</id>
-        <link href="https://www.kawabangga.com/posts/6635"/>
-        <updated>2024-08-20T02:03:48.000Z</updated>
-        <summary type="html"><![CDATA[一首小诗～ 钟表店里摆满了各种各样的钟表每一个的时间都不一样顾客问怎么商品的时间不对也不调？店主说我这里每一个 […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 年了，是 Gevent 还是选择 asyncio Part 1？]]></title>
-        <id>https://www.manjusaka.blog/posts/2024/08/19/benchmark-for-python-web-framework-2024-part1-cn/</id>
-        <link href="https://www.manjusaka.blog/posts/2024/08/19/benchmark-for-python-web-framework-2024-part1-cn/"/>
-        <updated>2024-08-19T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>Gevent 还是 asyncio 这一直是个经典的问题，在这里我们直接用数据来帮助大家做一下决策</p>]]></summary>
-        <author>
-            <name>Manjusaka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In 2024, Gevent or asyncio? Part 1]]></title>
-        <id>https://www.manjusaka.blog/posts/2024/08/19/benchmark-for-python-web-framework-2024-part1-en/</id>
-        <link href="https://www.manjusaka.blog/posts/2024/08/19/benchmark-for-python-web-framework-2024-part1-en/"/>
-        <updated>2024-08-19T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>The choice between Gevent and asyncio has always been a classic question. Here, we’ll use data to help you make a decision.</p>]]></summary>
-        <author>
-            <name>Manjusaka</name>
         </author>
     </entry>
     <entry>

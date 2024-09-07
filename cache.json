@@ -166,7 +166,18 @@
       "title": "静觅",
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://cuiqingcai.com/42369.html",
+          "author": null,
+          "description": "<p>随着 AI 的应用变广，各类 AI 程序已逐渐普及。AI 已逐渐深入到人们的工作生活方方面面。而 AI 涉及的行业也越来越多，从最初的写作，到医疗教育，再到现在的视频。</p>\n<p>Luma 是一个专业高质量的视频生成平台，用户只需上传素材，即可根据不同风格和效果自动生成",
+          "link": "https://cuiqingcai.com/42369.html",
+          "publishedOn": "2024-09-06T12:01:22.000Z",
+          "wordCount": 1555,
+          "title": "Luma 视频生成 API 对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/nyq0xz.png"
+        }
+      ]
     },
     {
       "title": "xiantang - Self-discipline set me free.",

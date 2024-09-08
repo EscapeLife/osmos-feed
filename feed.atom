@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-09-07T00:50:53.270Z</updated>
+    <updated>2024-09-08T00:56:25.866Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -69,16 +69,6 @@
 开发一个通知…]]></summary>
         <author>
             <name>piglei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[һ���򵥵� C ģ�������]]></title>
-        <id>https://blog.codingnow.com/2024/08/cmod.html</id>
-        <link href="https://blog.codingnow.com/2024/08/cmod.html"/>
-        <updated>2024-08-24T10:14:21.000Z</updated>
-        <summary type="html"><![CDATA[������ C ������Ŀ�������Ǻ� Lua ���ʹ��ʱ��һֱ��ͷ�� C û��һ��ͳһ��ģ���������Lua ��ģ�������Ȼ�򵥣����Ͼ����ҹ��á�һ�ַ����ǰ� C ģ���װ��һ���� Lua ģ�飬�� Lua ����������ÿ�� C ģ���Ƕ����ģ��໥���ɼ��� ���� C ģ��֮�䷢����ϵʱ���ͱȽ��鷳����Ȼ���򵥵ķ�����ͨ�������������Ƕ�������һ��ͨ��������ǰ׺�����֡��������ò���ϵͳ�Ķ�̬�������������ģ�顣 �������һ����Ȥ���뷨������һ������ģ���������ʵ���ӶȲ����ߡ����˰��칦��ʵ����һ�£��о��������� https://github.com/cloudwu/cmod/...]]></summary>
-        <author>
-            <name>�Ʒ�� BLOG</name>
         </author>
     </entry>
     <entry>

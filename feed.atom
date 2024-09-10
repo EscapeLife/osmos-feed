@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-09-09T00:53:54.560Z</updated>
+    <updated>2024-09-10T00:52:54.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[No One Builds in Public]]></title>
+        <id>https://laike9m.com/blog/no-one-builds-in-public,160/</id>
+        <link href="https://laike9m.com/blog/no-one-builds-in-public,160/"/>
+        <updated>2024-09-09T03:14:58.000Z</updated>
+        <summary type="html"><![CDATA[When everyone builds in public, no one builds in public.]]></summary>
+        <author>
+            <name>laike9m's blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Luma 视频生成 API 对接说明]]></title>
         <id>https://cuiqingcai.com/42369.html</id>
@@ -45,30 +55,6 @@
         <summary type="html"><![CDATA[如果采访十个独立开发者：“你觉得独立开发最难的地方在哪？”，估计有九个人都会说是 marketing/市场推广。最近开始做 Xylect，我对此才真正有了体感。这里记录一下我的各种尝试，或许能帮到一些人。]]></summary>
         <author>
             <name>laike9m's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[程序员阅读清单：我喜欢的 100 篇技术文章（1-20）]]></title>
-        <id>https://www.piglei.com/articles/programmer-reading-list-1/</id>
-        <link href="https://www.piglei.com/articles/programmer-reading-list-1/"/>
-        <updated>2024-08-25T23:48:57.000Z</updated>
-        <summary type="html"><![CDATA[程序员们也许是互联网上最爱分享的群体之一，他们不仅喜欢开源自己写的软件，也爱通过写文章来分享知识。从业以来，我阅读过大量技术文章，其中不乏一些佳作。这些佳作中，有些凭借深刻的技术洞见令我深受启发，也有些以庖丁解牛般的精湛手法解释一项技术，让我读后大呼过瘾。
-作为“爱分享”的程序员中的一份子，我想当一次推荐人，将读过的好文章分享给大家。我给这个系列起名为《程序员阅读清单：我喜欢的 100 篇技术文章》。
-受限于本人的专业与兴趣所在，清单中的文章对以下几个领域有所偏重：程序员通识、软件工程、后端开发、技术写作、Python 语言、Go 语言。
-下面是阅读清单的第一部分，包含第 1 到 20 篇文章。
-清单
-1. 《开发者应学习的 10 件有关“学习”的事》
-原文链接：10 Things Software Developers Should Learn about Learning
-作者：Neil C.C. Brown, Felienne F. J. Hermans, and Lauren E. Margulieux
-学习对于任何一个人都很重要，对于软件开发者来说更是如此。这是一篇有关“学习”的科普类文章，从介绍人类记忆的工作原理开始，引出专家与新手的区别、间隔与重复的重要性等主题。
-文章中的一些观点相当具有启发性。比如“抽象和具象”：新知识对于初学者来说先是抽象的，然后通过大量例子将其具象化，最终彻底掌握后又重新变回抽象。又比如：做智力题和编程能力并没有关联性——这和我们认知中的“聪明人更会编程”大不相同。
-2. 《开发者如何管理自驱力》
-原文链接：Managing My Motivation, as a Solo Dev
-作者：Marcus Buffett
-作者是一名单兵作战的开发者，分享在管理自驱力方面的心得。文章提供了许多提高自驱力的切实可行的小点子，比如：
-开发一个通知…]]></summary>
-        <author>
-            <name>piglei</name>
         </author>
     </entry>
     <entry>

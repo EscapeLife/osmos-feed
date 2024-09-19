@@ -76,7 +76,18 @@
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "https://www.manjusaka.blog/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.manjusaka.blog/posts/2024/09/18/a-live-debug-ecapture-gh-604/",
+          "author": null,
+          "description": "<p>Debug 日志系列第二篇，eCapture 的 GH-604， 一个和 Go， Glibc，静态编译相关的问题</p>\n<p>太长不看版：在 eCapture 中，由于在静态链接时 glibc 版本的差异，导致在 Ubuntu 下编译的二进制会在特定发行版上 Segment fault</p>",
+          "link": "https://www.manjusaka.blog/posts/2024/09/18/a-live-debug-ecapture-gh-604/",
+          "publishedOn": "2024-09-18T14:00:00.000Z",
+          "wordCount": 2918,
+          "title": "Debug 日志：eCapture GH-604",
+          "imageUrl": "https://cdn.pixabay.com/photo/2023/02/06/16/46/sea-7772372_1280.jpg"
+        }
+      ]
     },
     {
       "title": "laike9m's blog",

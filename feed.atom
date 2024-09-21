@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-09-20T00:53:08.806Z</updated>
+    <updated>2024-09-21T00:52:15.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -36,17 +36,6 @@ Continue reading...]]></summary>
         <summary type="html"><![CDATA[When everyone builds in public, no one builds in public.]]></summary>
         <author>
             <name>laike9m's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Luma 视频生成 API 对接说明]]></title>
-        <id>https://cuiqingcai.com/42369.html</id>
-        <link href="https://cuiqingcai.com/42369.html"/>
-        <updated>2024-09-06T12:01:22.000Z</updated>
-        <summary type="html"><![CDATA[<p>随着 AI 的应用变广，各类 AI 程序已逐渐普及。AI 已逐渐深入到人们的工作生活方方面面。而 AI 涉及的行业也越来越多，从最初的写作，到医疗教育，再到现在的视频。</p>
-<p>Luma 是一个专业高质量的视频生成平台，用户只需上传素材，即可根据不同风格和效果自动生成]]></summary>
-        <author>
-            <name>静觅</name>
         </author>
     </entry>
     <entry>

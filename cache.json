@@ -93,18 +93,7 @@
       "title": "laike9m's blog",
       "feedUrl": "https://laike9m.com/blog/rss",
       "siteUrl": "https://laike9m.com/blog/rss",
-      "articles": [
-        {
-          "id": "https://laike9m.com/blog/no-one-builds-in-public,160/",
-          "author": null,
-          "description": "When everyone builds in public, no one builds in public.",
-          "link": "https://laike9m.com/blog/no-one-builds-in-public,160/",
-          "publishedOn": "2024-09-09T03:14:58.000Z",
-          "wordCount": 1157,
-          "title": "No One Builds in Public",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Frost's Blog",
@@ -134,7 +123,18 @@
       "title": "�Ʒ�� BLOG",
       "feedUrl": "https://blog.codingnow.com/atom.xml",
       "siteUrl": "https://blog.codingnow.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://blog.codingnow.com/2024/09/few_games.html",
+          "author": null,
+          "description": "�����û��дʲô�����³�ͣ����ͷ�Ŀ�������������һ��ʱ�䣬��Ϊ Indieplay ��ί������ 200 �����ѡ��Ϸ�е� 100 ��������������֮ͣ���ҾͶ�ǰ�����¶��Լ���������Ϸ�����������ɻ���Ȼд�˲��ٴ��룬�������ڻ����淨�����ڹ��ܣ���ʵ����һ�������Ʊ�Ե�����ȱ����Ĺ���ϵͳ����С�˿����ڳ����л�������ɼ����ʣ����轨�����û�������ͨ�ϵ���ת��������ԭ�ϼӹ�Ϊ��Ʒ������Щ�ƺ�ֻ��һ��ģ����̣���������Ϸ�� �Ҹо��Լ�����Ϸ������չ����������Ϸ����û����������ʶ����Ȼ����ƪ�ɷ��� Ҳ�ᵽ����ȱ�����������ǣ���ϣ��������Ϸ������һ�����ŵģ���Ȼ�򵥵ģ�ģ��֮�ϡ������Ҿ���ģ��Ͼ�������Ϸ�����Ը�����ṩ�ḻ����Ϸ���顣����˵�����ٶ�������������ң�û����������ϷĿ�����ս�ǲ��еġ����ң�ʵ��һ���ḻ����Ϸ����ģ�����ٵ���ս�����ڻ��޷������������ڵ��£��ⲻ�������������Ķ����� �Ҹ���Ϸ���µĻ����ǻ��ؽ����������ս���ͣ�����Ӧ����һЩ��Դ������ Roguelike Ԫ�ء����˹������Զ���Ԫ�����ұȽ�ϲ���ģ��������ǧСʱ������Ϸ���Ҹо���ЩԪ��ֻ�Ǹ�����������һ���ֶΣ�����Ŀ�ġ�������ĳ���ض��淨������Ҳ����Ȥ��������ȴ����ྶͥ��...",
+          "link": "https://blog.codingnow.com/2024/09/few_games.html",
+          "publishedOn": "2024-09-23T08:47:19.000Z",
+          "wordCount": 176,
+          "title": "�����ļ�����Ϸ",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "piglei",

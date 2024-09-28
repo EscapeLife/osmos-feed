@@ -59,18 +59,7 @@
       "title": "卡瓦邦噶！",
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
-      "articles": [
-        {
-          "id": "https://www.kawabangga.com/?p=6624",
-          "author": "laixintao",
-          "description": "一个数据中心有一万台机器，如何将这些机器连接起来？ 最直观的方式是在每一个 Rack （机柜）上放一个交换机  […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/6624",
-          "publishedOn": "2024-09-13T02:04:47.000Z",
-          "wordCount": 2735,
-          "title": "Google 的十年五代网络架构",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Manjusaka",

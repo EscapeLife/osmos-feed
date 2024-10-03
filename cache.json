@@ -67,6 +67,26 @@
       "siteUrl": "https://www.manjusaka.blog/atom.xml",
       "articles": [
         {
+          "id": "https://www.manjusaka.blog/posts/2024/10/02/how-to-extend-the-wasi-python-by-using-host-function-cn/",
+          "author": null,
+          "description": "<p>国庆节搞了一个活，利用 wasmtime 来执行编译成 WASM/WASI 字节码的 CPython 虚拟机，并在宿主机一侧利用 Python 实现的 Host Function 来扩展它。</p>\n<p>再次声明一下，这个只是我个人想搞的活，没有再任何生产环境中得到验证，just for fun（XDDD</p>",
+          "link": "https://www.manjusaka.blog/posts/2024/10/02/how-to-extend-the-wasi-python-by-using-host-function-cn/",
+          "publishedOn": "2024-10-02T13:00:00.000Z",
+          "wordCount": 2325,
+          "title": "如何使用 WASMTIME 来运行 CPython for WASI，然后利用 Python 实现的 HostFunction 来扩展它？",
+          "imageUrl": "https://cdn.pixabay.com/photo/2023/02/06/16/46/sea-7772372_1280.jpg"
+        },
+        {
+          "id": "https://www.manjusaka.blog/posts/2024/10/02/how-to-extend-the-wasi-python-by-using-host-function-en/",
+          "author": null,
+          "description": "<p>During the National Day holiday, I worked on a project to use wasmtime to execute CPython virtual machine compiled into WASM/WASI bytecode, and extend it with Host Functions implemented in Python on the host side.</p>\n<p>I’d like to clarify again that this is just a personal project I wanted to work on, without any validation in production environments, just for fun (XDDD</p>",
+          "link": "https://www.manjusaka.blog/posts/2024/10/02/how-to-extend-the-wasi-python-by-using-host-function-en/",
+          "publishedOn": "2024-10-02T13:00:00.000Z",
+          "wordCount": 3021,
+          "title": "How to Run CPython for WASI Using WASMTIME and Extend It with Python-Implemented Host Functions?",
+          "imageUrl": "https://cdn.pixabay.com/photo/2023/02/06/01/14/superb-fairywren-7770904_1280.jpg"
+        },
+        {
           "id": "https://www.manjusaka.blog/posts/2024/09/18/a-live-debug-ecapture-gh-604/",
           "author": null,
           "description": "<p>Debug 日志系列第二篇，eCapture 的 GH-604， 一个和 Go， Glibc，静态编译相关的问题</p>\n<p>太长不看版：在 eCapture 中，由于在静态链接时 glibc 版本的差异，导致在 Ubuntu 下编译的二进制会在特定发行版上 Segment fault</p>",

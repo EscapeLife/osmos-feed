@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-10-02T00:54:46.751Z</updated>
+    <updated>2024-10-03T00:54:59.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[如何使用 WASMTIME 来运行 CPython for WASI，然后利用 Python 实现的 HostFunction 来扩展它？]]></title>
+        <id>https://www.manjusaka.blog/posts/2024/10/02/how-to-extend-the-wasi-python-by-using-host-function-cn/</id>
+        <link href="https://www.manjusaka.blog/posts/2024/10/02/how-to-extend-the-wasi-python-by-using-host-function-cn/"/>
+        <updated>2024-10-02T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>国庆节搞了一个活，利用 wasmtime 来执行编译成 WASM/WASI 字节码的 CPython 虚拟机，并在宿主机一侧利用 Python 实现的 Host Function 来扩展它。</p>
+<p>再次声明一下，这个只是我个人想搞的活，没有再任何生产环境中得到验证，just for fun（XDDD</p>]]></summary>
+        <author>
+            <name>Manjusaka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Run CPython for WASI Using WASMTIME and Extend It with Python-Implemented Host Functions?]]></title>
+        <id>https://www.manjusaka.blog/posts/2024/10/02/how-to-extend-the-wasi-python-by-using-host-function-en/</id>
+        <link href="https://www.manjusaka.blog/posts/2024/10/02/how-to-extend-the-wasi-python-by-using-host-function-en/"/>
+        <updated>2024-10-02T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>During the National Day holiday, I worked on a project to use wasmtime to execute CPython virtual machine compiled into WASM/WASI bytecode, and extend it with Host Functions implemented in Python on the host side.</p>
+<p>I’d like to clarify again that this is just a personal project I wanted to work on, without any validation in production environments, just for fun (XDDD</p>]]></summary>
+        <author>
+            <name>Manjusaka</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[�����ļ�����Ϸ]]></title>
         <id>https://blog.codingnow.com/2024/09/few_games.html</id>

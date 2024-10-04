@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-10-03T00:54:59.108Z</updated>
+    <updated>2024-10-04T00:54:58.864Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -36,17 +36,6 @@
         <summary type="html"><![CDATA[�����û��дʲô�����³�ͣ����ͷ�Ŀ�������������һ��ʱ�䣬��Ϊ Indieplay ��ί������ 200 �����ѡ��Ϸ�е� 100 ��������������֮ͣ���ҾͶ�ǰ�����¶��Լ���������Ϸ�����������ɻ���Ȼд�˲��ٴ��룬�������ڻ����淨�����ڹ��ܣ���ʵ����һ�������Ʊ�Ե�����ȱ����Ĺ���ϵͳ����С�˿����ڳ����л�������ɼ����ʣ����轨�����û�������ͨ�ϵ���ת��������ԭ�ϼӹ�Ϊ��Ʒ������Щ�ƺ�ֻ��һ��ģ����̣���������Ϸ�� �Ҹо��Լ�����Ϸ������չ����������Ϸ����û����������ʶ����Ȼ����ƪ�ɷ��� Ҳ�ᵽ����ȱ�����������ǣ���ϣ��������Ϸ������һ�����ŵģ���Ȼ�򵥵ģ�ģ��֮�ϡ������Ҿ���ģ��Ͼ�������Ϸ�����Ը�����ṩ�ḻ����Ϸ���顣����˵�����ٶ�������������ң�û����������ϷĿ�����ս�ǲ��еġ����ң�ʵ��һ���ḻ����Ϸ����ģ�����ٵ���ս�����ڻ��޷������������ڵ��£��ⲻ�������������Ķ����� �Ҹ���Ϸ���µĻ����ǻ��ؽ����������ս���ͣ�����Ӧ����һЩ��Դ������ Roguelike Ԫ�ء����˹������Զ���Ԫ�����ұȽ�ϲ���ģ��������ǧСʱ������Ϸ���Ҹо���ЩԪ��ֻ�Ǹ�����������һ���ֶΣ�����Ŀ�ġ�������ĳ���ض��淨������Ҳ����Ȥ��������ȴ����ྶͥ��...]]></summary>
         <author>
             <name>�Ʒ�� BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debug 日志：eCapture GH-604]]></title>
-        <id>https://www.manjusaka.blog/posts/2024/09/18/a-live-debug-ecapture-gh-604/</id>
-        <link href="https://www.manjusaka.blog/posts/2024/09/18/a-live-debug-ecapture-gh-604/"/>
-        <updated>2024-09-18T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>Debug 日志系列第二篇，eCapture 的 GH-604， 一个和 Go， Glibc，静态编译相关的问题</p>
-<p>太长不看版：在 eCapture 中，由于在静态链接时 glibc 版本的差异，导致在 Ubuntu 下编译的二进制会在特定发行版上 Segment fault</p>]]></summary>
-        <author>
-            <name>Manjusaka</name>
         </author>
     </entry>
     <entry>

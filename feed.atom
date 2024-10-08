@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-10-07T00:56:46.654Z</updated>
+    <updated>2024-10-08T00:54:46.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -26,16 +26,6 @@
 <p>I’d like to clarify again that this is just a personal project I wanted to work on, without any validation in production environments, just for fun (XDDD</p>]]></summary>
         <author>
             <name>Manjusaka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[�����ļ�����Ϸ]]></title>
-        <id>https://blog.codingnow.com/2024/09/few_games.html</id>
-        <link href="https://blog.codingnow.com/2024/09/few_games.html"/>
-        <updated>2024-09-23T08:47:19.000Z</updated>
-        <summary type="html"><![CDATA[�����û��дʲô�����³�ͣ����ͷ�Ŀ�������������һ��ʱ�䣬��Ϊ Indieplay ��ί������ 200 �����ѡ��Ϸ�е� 100 ��������������֮ͣ���ҾͶ�ǰ�����¶��Լ���������Ϸ�����������ɻ���Ȼд�˲��ٴ��룬�������ڻ����淨�����ڹ��ܣ���ʵ����һ�������Ʊ�Ե�����ȱ����Ĺ���ϵͳ����С�˿����ڳ����л�������ɼ����ʣ����轨�����û�������ͨ�ϵ���ת��������ԭ�ϼӹ�Ϊ��Ʒ������Щ�ƺ�ֻ��һ��ģ����̣���������Ϸ�� �Ҹо��Լ�����Ϸ������չ����������Ϸ����û����������ʶ����Ȼ����ƪ�ɷ��� Ҳ�ᵽ����ȱ�����������ǣ���ϣ��������Ϸ������һ�����ŵģ���Ȼ�򵥵ģ�ģ��֮�ϡ������Ҿ���ģ��Ͼ�������Ϸ�����Ը�����ṩ�ḻ����Ϸ���顣����˵�����ٶ�������������ң�û����������ϷĿ�����ս�ǲ��еġ����ң�ʵ��һ���ḻ����Ϸ����ģ�����ٵ���ս�����ڻ��޷������������ڵ��£��ⲻ�������������Ķ����� �Ҹ���Ϸ���µĻ����ǻ��ؽ����������ս���ͣ�����Ӧ����һЩ��Դ������ Roguelike Ԫ�ء����˹������Զ���Ԫ�����ұȽ�ϲ���ģ��������ǧСʱ������Ϸ���Ҹо���ЩԪ��ֻ�Ǹ�����������һ���ֶΣ�����Ŀ�ġ�������ĳ���ض��淨������Ҳ����Ȥ��������ȴ����ྶͥ��...]]></summary>
-        <author>
-            <name>�Ʒ�� BLOG</name>
         </author>
     </entry>
     <entry>

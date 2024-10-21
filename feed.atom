@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-10-20T00:59:47.961Z</updated>
+    <updated>2024-10-21T00:56:52.606Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[表达的阈值]]></title>
+        <id>https://frostming.com/2024/express-threshold/</id>
+        <link href="https://frostming.com/2024/express-threshold/"/>
+        <updated>2024-10-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Programming and Life]]></summary>
+        <author>
+            <name>Frost's Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[�ҶԵ�����Ϸ�ķ���]]></title>
         <id>https://blog.codingnow.com/2024/10/classification_of_games.html</id>

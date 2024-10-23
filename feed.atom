@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-10-22T00:55:49.549Z</updated>
+    <updated>2024-10-23T00:54:37.732Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[程序员阅读清单：我喜欢的 100 篇技术文章（21-40）]]></title>
+        <id>https://www.piglei.com/articles/programmer-reading-list-2/</id>
+        <link href="https://www.piglei.com/articles/programmer-reading-list-2/"/>
+        <updated>2024-10-23T00:36:27.000Z</updated>
+        <summary type="html"><![CDATA[程序员们也许是互联网上最爱分享的群体之一，他们不仅喜欢开源自己写的软件，也爱通过写文章来分享知识。从业以来，我阅读过大量技术文章，其中不乏一些佳作。这些佳作中，有些凭借深刻的技术洞见令我深受启发，也有些以庖丁解牛般的精湛手法解释一项技术，让我读后大呼过瘾。
+作为“爱分享”的程序员中的一份子，我想当一次推荐人，将读过的好文章分享给大家。我给这个系列起名为《程序员阅读清单：我喜欢的 100 篇技术文章》。
+受限于本人的专业与兴趣所在，清单中的文章对以下几个领域有所偏重：程序员通识、软件工程、后端开发、技术写作、Python 语言、Go 语言。
+下面是阅读清单的第二部分，包含第 21 到 40 篇文章。
+系列索引：
+第一部分（1-20）：链接
+第二部分（21-40）：链接
+清单
+21. 《人生短暂》
+原文链接：Life Is Short
+作者：Paul Graham
+人生很短，到底该如何花费自己的时间？传奇投资人、程序员 Paul Graham 在文章中给出了他的建议。总结起来，一共 3 条：尽你所能地避免 bullshit 类事务，比如无用会议、网上吵架；对重要的事情不拖拉，意识到有些东西不会永远停在原地等你；珍惜你所拥有的每一滴时间。
+从任何角度看，上面这些建议都称不上有多新奇。但是，作者通过真诚地分享自身经历和感受，给内容注入了不一样的灵魂。或许你会像我一样，读后能获得一些新的感悟。
+22. 《有“产品意识”的软件工程师》
+原文链接：The Product-Minded Software Engineer
+作者：Gergely Orosz
+从事程序员越久，你大概率会越来越频繁地听到一个词：“产品意识”。人人都说产品意识好，但是它看不见摸不着，到底是个什么东西？是指程序员该自己画线框图？还是说程序员应该写用户故事？
+本文作者以软件工程师的视角，对“产品意识”做了全面的解读。简…]]></summary>
+        <author>
+            <name>piglei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于小程序，2017 年的时候，我还写过这么一段话]]></title>
+        <id>https://macshuo.com/?p=1918</id>
+        <link href="https://macshuo.com/?p=1918"/>
+        <updated>2024-10-22T16:29:30.000Z</updated>
+        <summary type="html"><![CDATA[墨问现在成了我的知识库，只有这样，未来才会迭代出足够满足一个知识库的需求。现在几 … Continue reading →]]></summary>
+        <author>
+            <name>MacTalk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[表达的阈值]]></title>
         <id>https://frostming.com/2024/express-threshold/</id>

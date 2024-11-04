@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-11-03T00:59:13.110Z</updated>
+    <updated>2024-11-04T00:57:02.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -82,16 +82,6 @@
         <summary type="html"><![CDATA[墨问现在成了我的知识库，只有这样，未来才会迭代出足够满足一个知识库的需求。现在几 … Continue reading →]]></summary>
         <author>
             <name>MacTalk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[表达的阈值]]></title>
-        <id>https://frostming.com/2024/express-threshold/</id>
-        <link href="https://frostming.com/2024/express-threshold/"/>
-        <updated>2024-10-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Programming and Life]]></summary>
-        <author>
-            <name>Frost's Blog</name>
         </author>
     </entry>
     <entry>

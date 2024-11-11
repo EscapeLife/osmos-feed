@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-11-10T00:57:44.751Z</updated>
+    <updated>2024-11-11T00:55:36.871Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[代码厨房开源松 x PyCon China 2024]]></title>
+        <id>https://greyli.com/?p=5460</id>
+        <link href="https://greyli.com/codekitchen-soos-pycon-china-2024/"/>
+        <updated>2024-11-10T10:43:52.000Z</updated>
+        <summary type="html"><![CDATA[七月我们突破了屏幕的限制，在戴尔五角场办公室举办了第一次线下代码厨房开源松。而这一次开源松 Sprint 6  […]]]></summary>
+        <author>
+            <name>李辉</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARP Flux 问题和解决方法]]></title>
+        <id>https://www.kawabangga.com/?p=6701</id>
+        <link href="https://www.kawabangga.com/posts/6701"/>
+        <updated>2024-11-10T09:08:35.000Z</updated>
+        <summary type="html"><![CDATA[我们写程序不需要写 ARP request 和 response 相关的逻辑，因为这部分是操作系统帮我们做的。 […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[功不唐捐]]></title>
         <id>https://frostming.com/2024/efforts/</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-11-12T00:53:45.583Z</updated>
+    <updated>2024-11-13T00:55:00.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -56,16 +56,6 @@ Continue reading...]]></summary>
         <summary type="html"><![CDATA[没有简介, 请去看原文吧]]></summary>
         <author>
             <name>laike9m's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一辆自行车多久会被偷]]></title>
-        <id>https://greyli.com/?p=5441</id>
-        <link href="https://greyli.com/bicycle-thief/"/>
-        <updated>2024-10-28T13:48:32.000Z</updated>
-        <summary type="html"><![CDATA[已经很久没有真正锁车了。今天终于决定扔掉车锁，想看看哪天车子会被偷。如果没有人偷，说明我的车子太破，根本就不会 […]]]></summary>
-        <author>
-            <name>李辉</name>
         </author>
     </entry>
     <entry>

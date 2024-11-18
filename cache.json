@@ -61,6 +61,16 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=6722",
+          "author": "laixintao",
+          "description": "事情要从上周的一次事故说起，我们用 docker 部署的程序有一点问题，要马上回滚到上一个版本。 这个 doc […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/6722",
+          "publishedOn": "2024-11-17T10:50:44.000Z",
+          "wordCount": 902,
+          "title": "Docker 命令行小技巧：runlike",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=6701",
           "author": "laixintao",
           "description": "我们写程序不需要写 ARP request 和 response 相关的逻辑，因为这部分是操作系统帮我们做的。 […]\nContinue reading...",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-11-19T00:58:26.496Z</updated>
+    <updated>2024-11-20T00:57:26.060Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -46,17 +46,6 @@ Continue reading...]]></summary>
         <summary type="html"><![CDATA[Programming and Life]]></summary>
         <author>
             <name>Frost's Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特殊的 ARP 用法：Gratuitous ARP, ARP Probe 和 ARP Announce]]></title>
-        <id>https://www.kawabangga.com/?p=6698</id>
-        <link href="https://www.kawabangga.com/posts/6698"/>
-        <updated>2024-11-05T05:42:41.000Z</updated>
-        <summary type="html"><![CDATA[在 Ethernet 环境中，所有的数据最终都要以二层 Ethernet Frame 的形式发送，要添加 Sr […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

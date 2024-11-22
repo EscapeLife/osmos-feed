@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-11-21T00:57:27.423Z</updated>
+    <updated>2024-11-22T00:58:22.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -46,16 +46,6 @@ Continue reading...]]></summary>
 Continue reading...]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[功不唐捐]]></title>
-        <id>https://frostming.com/2024/efforts/</id>
-        <link href="https://frostming.com/2024/efforts/"/>
-        <updated>2024-11-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Programming and Life]]></summary>
-        <author>
-            <name>Frost's Blog</name>
         </author>
     </entry>
     <entry>

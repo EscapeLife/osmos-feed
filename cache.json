@@ -98,18 +98,7 @@
       "title": "Frost's Blog",
       "feedUrl": "https://frostming.com/feed.xml",
       "siteUrl": "https://frostming.com/",
-      "articles": [
-        {
-          "id": "https://frostming.com/2024/efforts/",
-          "author": null,
-          "description": "Programming and Life",
-          "link": "https://frostming.com/2024/efforts/",
-          "publishedOn": "2024-11-07T00:00:00.000Z",
-          "wordCount": 182,
-          "title": "功不唐捐",
-          "imageUrl": "https://images.unsplash.com/photo-1477468572316-36979010099d?q=80&w=3864&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Posts on Jiayuan Thoughts",

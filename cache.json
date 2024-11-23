@@ -47,7 +47,18 @@
       "title": "Tinyfool的个人网站",
       "feedUrl": "http://feeds.feedburner.com/Tinyfoolblog",
       "siteUrl": "https://codechina.org/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://codechina.org/?p=30926",
+          "author": "tinyfool",
+          "description": "最近看到国外著名 SEO 站点的一篇新文章《Quality SEO Content: The QRIES Ap […]\n自媒体写作的 QRIES 方法论，初学者如何写出让人信服的好文章最先出现在Tinyfool的个人网站。",
+          "link": "https://codechina.org/2024/11/media-qries/",
+          "publishedOn": "2024-11-22T06:57:58.000Z",
+          "wordCount": 1122,
+          "title": "自媒体写作的 QRIES 方法论，初学者如何写出让人信服的好文章",
+          "imageUrl": "https://codechina.org/wp-content/uploads/2024/11/1.webp"
+        }
+      ]
     },
     {
       "title": "ChangeLog of KDr2.com",

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-11-22T00:58:22.164Z</updated>
+    <updated>2024-11-23T00:56:47.497Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自媒体写作的 QRIES 方法论，初学者如何写出让人信服的好文章]]></title>
+        <id>https://codechina.org/?p=30926</id>
+        <link href="https://codechina.org/2024/11/media-qries/"/>
+        <updated>2024-11-22T06:57:58.000Z</updated>
+        <summary type="html"><![CDATA[最近看到国外著名 SEO 站点的一篇新文章《Quality SEO Content: The QRIES Ap […]
+自媒体写作的 QRIES 方法论，初学者如何写出让人信服的好文章最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[���ǹ���̫��ʱ����Ϸ�ܽ�]]></title>
         <id>https://blog.codingnow.com/2024/11/factorio_spaceage.html</id>

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-11-25T00:59:29.786Z</updated>
+    <updated>2024-11-26T00:58:30.434Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[放弃幻想，不要摇摆，坚持向前]]></title>
+        <id>https://codechina.org/?p=30942</id>
+        <link href="https://codechina.org/2024/11/no-z-turn/"/>
+        <updated>2024-11-25T02:17:49.000Z</updated>
+        <summary type="html"><![CDATA[前两天跟一个朋友聊天，他又开始咨询我一个年经问题。就是每年他都会问我的一个问题。 他问，我要不要辞职去做自媒体 […]
+放弃幻想，不要摇摆，坚持向前最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自媒体写作的 QRIES 方法论，初学者如何写出让人信服的好文章]]></title>
         <id>https://codechina.org/?p=30926</id>

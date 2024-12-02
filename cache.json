@@ -41,7 +41,18 @@
       "title": "MacTalk-池建强的随想录",
       "feedUrl": "https://macshuo.com/?feed=rss2",
       "siteUrl": "https://macshuo.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://macshuo.com/?p=1922",
+          "author": "MacTalk",
+          "description": "2022 年 11 月 28 日，我们发布了一款非常简单的小程序，叫做墨问便签。 … Continue reading →",
+          "link": "https://macshuo.com/?p=1922",
+          "publishedOn": "2024-12-01T06:13:32.000Z",
+          "wordCount": 666,
+          "title": "创业两年半，墨问推出 Pro 功能",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Tinyfool的个人网站",
@@ -90,18 +101,7 @@
       "title": "卡瓦邦噶！",
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
-      "articles": [
-        {
-          "id": "https://www.kawabangga.com/?p=6722",
-          "author": "laixintao",
-          "description": "事情要从上周的一次事故说起，我们用 docker 部署的程序有一点问题，要马上回滚到上一个版本。 这个 doc […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/6722",
-          "publishedOn": "2024-11-17T10:50:44.000Z",
-          "wordCount": 902,
-          "title": "Docker 命令行小技巧：runlike",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Manjusaka",
@@ -182,7 +182,18 @@
       "title": "咸糖 - 自律者自由",
       "feedUrl": "https://vim0.com/index.xml",
       "siteUrl": "https://vim0.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://vim0.com/post/2024_recap/",
+          "author": null,
+          "description": "今天是 2024 即将收尾的最后一个月，我看到很多平台都有在发年度的 recap，像 reddit 啥的，我也想写一篇年度总结，记录一下这一年发生的事情。 2024 年终总结 一",
+          "link": "https://vim0.com/post/2024_recap/",
+          "publishedOn": "2024-12-01T07:31:25.000Z",
+          "wordCount": 379,
+          "title": "2024 年终总结",
+          "imageUrl": "https://vim0.com/post/main_cover.png"
+        }
+      ]
     },
     {
       "title": "离别歌",

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-12-01T01:08:59.208Z</updated>
+    <updated>2024-12-02T01:01:23.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2024 年终总结]]></title>
+        <id>https://vim0.com/post/2024_recap/</id>
+        <link href="https://vim0.com/post/2024_recap/"/>
+        <updated>2024-12-01T07:31:25.000Z</updated>
+        <summary type="html"><![CDATA[今天是 2024 即将收尾的最后一个月，我看到很多平台都有在发年度的 recap，像 reddit 啥的，我也想写一篇年度总结，记录一下这一年发生的事情。 2024 年终总结 一]]></summary>
+        <author>
+            <name>咸糖 - 自律者自由</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[创业两年半，墨问推出 Pro 功能]]></title>
+        <id>https://macshuo.com/?p=1922</id>
+        <link href="https://macshuo.com/?p=1922"/>
+        <updated>2024-12-01T06:13:32.000Z</updated>
+        <summary type="html"><![CDATA[2022 年 11 月 28 日，我们发布了一款非常简单的小程序，叫做墨问便签。 … Continue reading →]]></summary>
+        <author>
+            <name>MacTalk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ʹ��]]></title>
         <id>https://blog.codingnow.com/2024/11/podalgia.html</id>
@@ -57,17 +77,6 @@
         <summary type="html"><![CDATA[����ɽ���ҵ����һ�죬���ǹ�����̫��ʱ����չ�������ˡ��ص����оͿ�ʼ�棬���� 300 ��Сʱ��ǰ����������ͨ���ˡ�׼ȷ˵��ϵͳ������Ӯ������Ϸ������֪�����滹�кܶ�����Ҫ������ԭ��һ������Ȼ�����������Ӯ������Ϸ������ƿ�Ƽ����ڻ��֮����еģ���εִ�����ϵ��Ե�͸�����Ӯ������Ϸ�������ؿƼ�������ƿ����ԭ�϶�û�������������ҵ���ʱ��һ�ţ�����������Ϸ�ϻ���������ʱ�䣬��û��������顣��дһƪ�ܽᣬ���������̫�࣬��Ҫ��¼һ�¡���Ȼ�Ⱥ������˾����ˡ� ��Ȼ̫��ʱ����ʵĲ����������������������������鲻ͬ�ķ�ʽ�������Ϸ����������̸̸ 2.0 �ڻ���ϵͳ�������Ĺ�����...]]></summary>
         <author>
             <name>�Ʒ�� BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Docker 命令行小技巧：runlike]]></title>
-        <id>https://www.kawabangga.com/?p=6722</id>
-        <link href="https://www.kawabangga.com/posts/6722"/>
-        <updated>2024-11-17T10:50:44.000Z</updated>
-        <summary type="html"><![CDATA[事情要从上周的一次事故说起，我们用 docker 部署的程序有一点问题，要马上回滚到上一个版本。 这个 doc […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

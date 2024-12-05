@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-12-04T01:00:49.812Z</updated>
+    <updated>2024-12-05T01:00:24.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -67,16 +67,6 @@
 自媒体写作的 QRIES 方法论，初学者如何写出让人信服的好文章最先出现在Tinyfool的个人网站。]]></summary>
         <author>
             <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[���ǹ���̫��ʱ����Ϸ�ܽ�]]></title>
-        <id>https://blog.codingnow.com/2024/11/factorio_spaceage.html</id>
-        <link href="https://blog.codingnow.com/2024/11/factorio_spaceage.html"/>
-        <updated>2024-11-20T06:16:26.000Z</updated>
-        <summary type="html"><![CDATA[����ɽ���ҵ����һ�죬���ǹ�����̫��ʱ����չ�������ˡ��ص����оͿ�ʼ�棬���� 300 ��Сʱ��ǰ����������ͨ���ˡ�׼ȷ˵��ϵͳ������Ӯ������Ϸ������֪�����滹�кܶ�����Ҫ������ԭ��һ������Ȼ�����������Ӯ������Ϸ������ƿ�Ƽ����ڻ��֮����еģ���εִ�����ϵ��Ե�͸�����Ӯ������Ϸ�������ؿƼ�������ƿ����ԭ�϶�û�������������ҵ���ʱ��һ�ţ�����������Ϸ�ϻ���������ʱ�䣬��û��������顣��дһƪ�ܽᣬ���������̫�࣬��Ҫ��¼һ�¡���Ȼ�Ⱥ������˾����ˡ� ��Ȼ̫��ʱ����ʵĲ����������������������������鲻ͬ�ķ�ʽ�������Ϸ����������̸̸ 2.0 �ڻ���ϵͳ�������Ĺ�����...]]></summary>
-        <author>
-            <name>�Ʒ�� BLOG</name>
         </author>
     </entry>
     <entry>

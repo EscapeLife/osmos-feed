@@ -43,6 +43,16 @@
       "siteUrl": "https://macshuo.com",
       "articles": [
         {
+          "id": "https://macshuo.com/?p=1928",
+          "author": "MacTalk",
+          "description": "今天早上我转了一篇微信输入法的笔记，是望月老师写的。微信输入法现在发展得越来越成 … Continue reading →",
+          "link": "https://macshuo.com/?p=1928",
+          "publishedOn": "2024-12-05T15:50:05.000Z",
+          "wordCount": 681,
+          "title": "选择从众，还是走小众路线",
+          "imageUrl": null
+        },
+        {
           "id": "https://macshuo.com/?p=1922",
           "author": "MacTalk",
           "description": "2022 年 11 月 28 日，我们发布了一款非常简单的小程序，叫做墨问便签。 … Continue reading →",

@@ -88,16 +88,6 @@
           "wordCount": 1003,
           "title": "放弃幻想，不要摇摆，坚持向前",
           "imageUrl": "https://codechina.org/wp-content/uploads/2024/11/放弃幻想坚持向前_副本.png"
-        },
-        {
-          "id": "https://codechina.org/?p=30926",
-          "author": "tinyfool",
-          "description": "最近看到国外著名 SEO 站点的一篇新文章《Quality SEO Content: The QRIES Ap […]\n自媒体写作的 QRIES 方法论，初学者如何写出让人信服的好文章最先出现在Tinyfool的个人网站。",
-          "link": "https://codechina.org/2024/11/media-qries/",
-          "publishedOn": "2024-11-22T06:57:58.000Z",
-          "wordCount": 1122,
-          "title": "自媒体写作的 QRIES 方法论，初学者如何写出让人信服的好文章",
-          "imageUrl": "https://codechina.org/wp-content/uploads/2024/11/1.webp"
         }
       ]
     },
@@ -111,13 +101,35 @@
       "title": "卡瓦邦噶！",
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.kawabangga.com/?p=6726",
+          "author": "laixintao",
+          "description": "最近排查的一个网络问题，两个 IP 之间的网络不通，经过在 Linux 上一个一个 interface 上抓包 […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/6726",
+          "publishedOn": "2024-12-06T14:16:26.000Z",
+          "wordCount": 1089,
+          "title": "iptables 拦截 bridge 包的问题排查",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "https://www.manjusaka.blog/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.manjusaka.blog/posts/2024/12/06/ok-I-got-all-you-know/",
+          "author": null,
+          "description": "<p>最近给朋友介绍了一下我对于一些外部资料的吸收的经验。我想了想整理了下聊天记录，将我整个思路以博客的形式展现出来。希望能帮到看这篇博客的人。</p>",
+          "link": "https://www.manjusaka.blog/posts/2024/12/06/ok-I-got-all-you-know/",
+          "publishedOn": "2024-12-06T18:00:00.000Z",
+          "wordCount": 1900,
+          "title": "好了，现在你的知识也是我的了.jpg",
+          "imageUrl": "https://cdn.pixabay.com/photo/2023/02/08/15/10/sculpture-7776861_1280.jpg"
+        }
+      ]
     },
     {
       "title": "laike9m's blog",

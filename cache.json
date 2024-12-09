@@ -135,7 +135,18 @@
       "title": "laike9m's blog",
       "feedUrl": "https://laike9m.com/blog/rss",
       "siteUrl": "https://laike9m.com/blog/rss",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://laike9m.com/blog/popular-hackernews-title,162/",
+          "author": null,
+          "description": "I discovered four patterns in popular Hacker News posts' title:\r\nfun & curiosity, pain points, relate, in-depth technical",
+          "link": "https://laike9m.com/blog/popular-hackernews-title,162/",
+          "publishedOn": "2024-12-08T19:15:47.000Z",
+          "wordCount": 432,
+          "title": "Good Title for Your Next Hacker News Post",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Frost's Blog",

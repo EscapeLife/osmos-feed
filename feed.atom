@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-12-08T01:04:52.572Z</updated>
+    <updated>2024-12-09T01:02:03.938Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Good Title for Your Next Hacker News Post]]></title>
+        <id>https://laike9m.com/blog/popular-hackernews-title,162/</id>
+        <link href="https://laike9m.com/blog/popular-hackernews-title,162/"/>
+        <updated>2024-12-08T19:15:47.000Z</updated>
+        <summary type="html"><![CDATA[I discovered four patterns in popular Hacker News posts' title:
+fun & curiosity, pain points, relate, in-depth technical]]></summary>
+        <author>
+            <name>laike9m's blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[好了，现在你的知识也是我的了.jpg]]></title>
         <id>https://www.manjusaka.blog/posts/2024/12/06/ok-I-got-all-you-know/</id>

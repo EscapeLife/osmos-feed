@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-12-09T01:02:03.938Z</updated>
+    <updated>2024-12-10T01:01:17.424Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[4 月以来墨问便签小程序的发布节奏]]></title>
+        <id>https://macshuo.com/?p=1931</id>
+        <link href="https://macshuo.com/?p=1931"/>
+        <updated>2024-12-09T05:33:43.000Z</updated>
+        <summary type="html"><![CDATA[四月以来墨问发布的新功能： 置顶笔记折叠、标签云、特别关注、个人主页改版、画廊、 … Continue reading →]]></summary>
+        <author>
+            <name>MacTalk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基建狂魔，世界工厂，为什么食品安全和卫生巾、日用品的质量都做不好？]]></title>
+        <id>https://codechina.org/?p=30966</id>
+        <link href="https://codechina.org/2024/12/30966/"/>
+        <updated>2024-12-09T04:17:25.000Z</updated>
+        <summary type="html"><![CDATA[一、卫生巾这样的生活必需品都存在安全隐患 我相信大家对最近的新闻都有所耳闻。前些日子刚出现的报道中显示，国内许 […]
+基建狂魔，世界工厂，为什么食品安全和卫生巾、日用品的质量都做不好？最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[警察殴打校园霸凌施暴者是否有情可原，兼谈追寻珠海群死群伤恐怖事件施暴者的动机是否有价值]]></title>
+        <id>https://codechina.org/?p=30962</id>
+        <link href="https://codechina.org/2024/12/30962/"/>
+        <updated>2024-12-09T03:42:42.000Z</updated>
+        <summary type="html"><![CDATA[今天聊这个话题，是因为前不久有一个事件。一段非常清晰的监控视频里出现两位警察拦住一个学生，并对他进行了殴打。  […]
+警察殴打校园霸凌施暴者是否有情可原，兼谈追寻珠海群死群伤恐怖事件施暴者的动机是否有价值最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Good Title for Your Next Hacker News Post]]></title>
         <id>https://laike9m.com/blog/popular-hackernews-title,162/</id>
@@ -81,7 +113,7 @@ Continue reading...]]></summary>
     <entry>
         <title type="html"><![CDATA[前体操世界冠军吴流芳性感热舞，被指擦边，从粉丝暴涨到被禁止关注]]></title>
         <id>https://codechina.org/?p=30946</id>
-        <link href="https://codechina.org/2024/11/56s/"/>
+        <link href="https://codechina.org/2024/11/30946/"/>
         <updated>2024-11-26T13:09:04.000Z</updated>
         <summary type="html"><![CDATA[最近抖音有个热门事件，没看过的可以去看看。 上图的女孩儿叫做吴柳芳，这位曾在世界锦标赛中获得单项冠军的体操选手 […]
 前体操世界冠军吴流芳性感热舞，被指擦边，从粉丝暴涨到被禁止关注最先出现在Tinyfool的个人网站。]]></summary>
@@ -90,12 +122,12 @@ Continue reading...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[放弃幻想，不要摇摆，坚持向前]]></title>
-        <id>https://codechina.org/?p=30942</id>
-        <link href="https://codechina.org/2024/11/no-z-turn/"/>
-        <updated>2024-11-25T02:17:49.000Z</updated>
-        <summary type="html"><![CDATA[前两天跟一个朋友聊天，他又开始咨询我一个年经问题。就是每年他都会问我的一个问题。 他问，我要不要辞职去做自媒体 […]
-放弃幻想，不要摇摆，坚持向前最先出现在Tinyfool的个人网站。]]></summary>
+        <title type="html"><![CDATA[前体操世界冠军吴流芳性感热舞，被指擦边，从粉丝暴涨到被禁止关注]]></title>
+        <id>https://codechina.org/?p=30946</id>
+        <link href="https://codechina.org/2024/11/56s/"/>
+        <updated>2024-11-26T13:09:04.000Z</updated>
+        <summary type="html"><![CDATA[最近抖音有个热门事件，没看过的可以去看看。 上图的女孩儿叫做吴柳芳，这位曾在世界锦标赛中获得单项冠军的体操选手 […]
+前体操世界冠军吴流芳性感热舞，被指擦边，从粉丝暴涨到被禁止关注最先出现在Tinyfool的个人网站。]]></summary>
         <author>
             <name>tinyfool</name>
         </author>

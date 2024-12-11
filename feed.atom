@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-12-10T01:01:17.424Z</updated>
+    <updated>2024-12-11T01:00:13.298Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[86岁的告别：琼瑶、金庸与那个特殊时代的文艺复兴]]></title>
+        <id>https://codechina.org/?p=30973</id>
+        <link href="https://codechina.org/2024/12/30973/"/>
+        <updated>2024-12-10T16:23:27.000Z</updated>
+        <summary type="html"><![CDATA[今天想跟大家聊聊刚刚去世的琼瑶阿姨。我叫她“阿姨”问题不大，因为她跟我父辈年龄也差不多。 琼瑶阿姨在中国大陆火 […]
+86岁的告别：琼瑶、金庸与那个特殊时代的文艺复兴最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4 月以来墨问便签小程序的发布节奏]]></title>
         <id>https://macshuo.com/?p=1931</id>

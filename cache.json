@@ -43,6 +43,16 @@
       "siteUrl": "https://macshuo.com",
       "articles": [
         {
+          "id": "https://macshuo.com/?p=1939",
+          "author": "MacTalk",
+          "description": "如何优雅的发布一条小红书笔记？ 小红书的产品逻辑挺有意思的，发图文笔记，只能发  … Continue reading →",
+          "link": "https://macshuo.com/?p=1939",
+          "publishedOn": "2024-12-12T05:31:32.000Z",
+          "wordCount": 651,
+          "title": "小红书切图笔记发布",
+          "imageUrl": null
+        },
+        {
           "id": "https://macshuo.com/?p=1931",
           "author": "MacTalk",
           "description": "四月以来墨问发布的新功能： 置顶笔记折叠、标签云、特别关注、个人主页改版、画廊、 … Continue reading →",
@@ -152,6 +162,16 @@
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
+        {
+          "id": "https://www.kawabangga.com/?p=6732",
+          "author": "laixintao",
+          "description": "在之前的文章中，已经介绍过很多次 ECMP 了，它的原理非常简单：在路由协议中，如果下一跳有多个路径可以选择， […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/6732",
+          "publishedOn": "2024-12-12T11:33:25.000Z",
+          "wordCount": 1071,
+          "title": "数据中心网络高可用技术：ECMP",
+          "imageUrl": null
+        },
         {
           "id": "https://www.kawabangga.com/?p=6726",
           "author": "laixintao",

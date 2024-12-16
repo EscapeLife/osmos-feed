@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-12-15T01:05:10.142Z</updated>
+    <updated>2024-12-16T01:02:27.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[人脸年龄变化 API 对接说明]]></title>
+        <id>https://cuiqingcai.com/42371.html</id>
+        <link href="https://cuiqingcai.com/42371.html"/>
+        <updated>2024-12-15T12:01:22.000Z</updated>
+        <summary type="html"><![CDATA[<p>本文将介绍一种 人脸年龄变化 API 对接说明，它可以通过输入图片和年龄，从而来改变图片中人脸的年龄图片，大致的用法是用户上传一张人脸图片，基于人脸编辑与生成算法，输出一张人脸变老或变年轻的图片，支持实现人脸不同年龄的变化。</p>
+<p>接下来介绍下 人脸年龄变化 API]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenDAL 0.51 版本代号 “本当の僕らをありがとう。” 背后的故事]]></title>
+        <id>https://www.manjusaka.blog/posts/2024/12/14/the-story-behind-the-opendal-0.51/</id>
+        <link href="https://www.manjusaka.blog/posts/2024/12/14/the-story-behind-the-opendal-0.51/"/>
+        <updated>2024-12-14T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Apache OpenDAL v0.51.0 第一个 RC 版本发布了，这个大版本有些特殊，是我第三个负责 Release 的版本，也是第一个带有 Subtitle 的版本</p>
+<p>这个版本的副标题为 “本当の僕らをありがとう” ，意为 “向真实的我们致谢”</p>
+<p>聊聊这个版本背后的一些故事吧</p>]]></summary>
+        <author>
+            <name>Manjusaka</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[二维码耍出新花样，充满创意艺术]]></title>
         <id>https://cuiqingcai.com/42370.html</id>
@@ -161,26 +184,6 @@ Continue reading...]]></summary>
         <link href="https://macshuo.com/?p=1928"/>
         <updated>2024-12-05T15:50:05.000Z</updated>
         <summary type="html"><![CDATA[今天早上我转了一篇微信输入法的笔记，是望月老师写的。微信输入法现在发展得越来越成 … Continue reading →]]></summary>
-        <author>
-            <name>MacTalk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 年终总结]]></title>
-        <id>https://vim0.com/post/2024_recap/</id>
-        <link href="https://vim0.com/post/2024_recap/"/>
-        <updated>2024-12-01T07:31:25.000Z</updated>
-        <summary type="html"><![CDATA[今天是 2024 即将收尾的最后一个月，我看到很多平台都有在发年度的 recap，像 reddit 啥的，我也想写一篇年度总结，记录一下这一年发生的事情。 2024 年终总结 一]]></summary>
-        <author>
-            <name>咸糖 - 自律者自由</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[创业两年半，墨问推出 Pro 功能]]></title>
-        <id>https://macshuo.com/?p=1922</id>
-        <link href="https://macshuo.com/?p=1922"/>
-        <updated>2024-12-01T06:13:32.000Z</updated>
-        <summary type="html"><![CDATA[2022 年 11 月 28 日，我们发布了一款非常简单的小程序，叫做墨问便签。 … Continue reading →]]></summary>
         <author>
             <name>MacTalk</name>
         </author>

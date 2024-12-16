@@ -71,16 +71,6 @@
           "wordCount": 681,
           "title": "选择从众，还是走小众路线",
           "imageUrl": null
-        },
-        {
-          "id": "https://macshuo.com/?p=1922",
-          "author": "MacTalk",
-          "description": "2022 年 11 月 28 日，我们发布了一款非常简单的小程序，叫做墨问便签。 … Continue reading →",
-          "link": "https://macshuo.com/?p=1922",
-          "publishedOn": "2024-12-01T06:13:32.000Z",
-          "wordCount": 666,
-          "title": "创业两年半，墨问推出 Pro 功能",
-          "imageUrl": null
         }
       ]
     },
@@ -190,6 +180,16 @@
       "siteUrl": "https://www.manjusaka.blog/atom.xml",
       "articles": [
         {
+          "id": "https://www.manjusaka.blog/posts/2024/12/14/the-story-behind-the-opendal-0.51/",
+          "author": null,
+          "description": "<p>Apache OpenDAL v0.51.0 第一个 RC 版本发布了，这个大版本有些特殊，是我第三个负责 Release 的版本，也是第一个带有 Subtitle 的版本</p>\n<p>这个版本的副标题为 “本当の僕らをありがとう” ，意为 “向真实的我们致谢”</p>\n<p>聊聊这个版本背后的一些故事吧</p>",
+          "link": "https://www.manjusaka.blog/posts/2024/12/14/the-story-behind-the-opendal-0.51/",
+          "publishedOn": "2024-12-14T18:30:00.000Z",
+          "wordCount": 1703,
+          "title": "OpenDAL 0.51 版本代号 “本当の僕らをありがとう。” 背后的故事",
+          "imageUrl": "https://cdn.pixabay.com/photo/2023/02/04/07/50/flower-7766608_1280.jpg"
+        },
+        {
           "id": "https://www.manjusaka.blog/posts/2024/12/06/ok-I-got-all-you-know/",
           "author": null,
           "description": "<p>最近给朋友介绍了一下我对于一些外部资料的吸收的经验。我想了想整理了下聊天记录，将我整个思路以博客的形式展现出来。希望能帮到看这篇博客的人。</p>",
@@ -271,6 +271,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/42371.html",
+          "author": null,
+          "description": "<p>本文将介绍一种 人脸年龄变化 API 对接说明，它可以通过输入图片和年龄，从而来改变图片中人脸的年龄图片，大致的用法是用户上传一张人脸图片，基于人脸编辑与生成算法，输出一张人脸变老或变年轻的图片，支持实现人脸不同年龄的变化。</p>\n<p>接下来介绍下 人脸年龄变化 API",
+          "link": "https://cuiqingcai.com/42371.html",
+          "publishedOn": "2024-12-15T12:01:22.000Z",
+          "wordCount": 1268,
+          "title": "人脸年龄变化 API 对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/q6ytrc.png"
+        },
+        {
           "id": "https://cuiqingcai.com/42370.html",
           "author": null,
           "description": "<p>艺术二维码是一种创新的技术产品，它将二维码与美观的背景图像相结合，创造出既实用又美观的作品。它们不仅具有传统二维码的功能性，能被智能设备快速扫描识别，还加入了艺术元素，增强了视觉吸引力和品牌识别度。其中，部分艺术二维码甚至由人工智能生成，充分利用了现代技术，展示出无与伦比的",
@@ -286,18 +296,7 @@
       "title": "咸糖 - 自律者自由",
       "feedUrl": "https://vim0.com/index.xml",
       "siteUrl": "https://vim0.com/",
-      "articles": [
-        {
-          "id": "https://vim0.com/post/2024_recap/",
-          "author": null,
-          "description": "今天是 2024 即将收尾的最后一个月，我看到很多平台都有在发年度的 recap，像 reddit 啥的，我也想写一篇年度总结，记录一下这一年发生的事情。 2024 年终总结 一",
-          "link": "https://vim0.com/post/2024_recap/",
-          "publishedOn": "2024-12-01T07:31:25.000Z",
-          "wordCount": 379,
-          "title": "2024 年终总结",
-          "imageUrl": "https://vim0.com/post/main_cover.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "离别歌",

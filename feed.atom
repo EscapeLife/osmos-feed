@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-12-16T01:02:27.973Z</updated>
+    <updated>2024-12-17T01:00:28.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[极越汽车闪电崩盘事件不断反转 为什么疯狂内卷的不仅是个人，也是每个行业。发达国家粉碎机是否也粉碎了自己变成发达国家的机会？]]></title>
+        <id>https://codechina.org/?p=31008</id>
+        <link href="https://codechina.org/2024/12/31008/"/>
+        <updated>2024-12-16T05:08:42.000Z</updated>
+        <summary type="html"><![CDATA[今天我们聊聊极越汽车“闪电崩盘事件”的不断反转。借着这个话题，其实也想谈谈为什么我们每个人都感受到社会的“个人 […]
+极越汽车闪电崩盘事件不断反转 为什么疯狂内卷的不仅是个人，也是每个行业。发达国家粉碎机是否也粉碎了自己变成发达国家的机会？最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人脸年龄变化 API 对接说明]]></title>
         <id>https://cuiqingcai.com/42371.html</id>

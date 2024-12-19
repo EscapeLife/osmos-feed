@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-12-18T00:57:53.916Z</updated>
+    <updated>2024-12-19T00:58:28.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[一个 monkeypatch 引起的循环引用问题]]></title>
+        <id>https://frostming.com/2024/circular-ref-monkeypatch/</id>
+        <link href="https://frostming.com/2024/circular-ref-monkeypatch/"/>
+        <updated>2024-12-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Programming and Life]]></summary>
+        <author>
+            <name>Frost's Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[极越汽车闪电崩盘事件不断反转 为什么疯狂内卷的不仅是个人，也是每个行业。发达国家粉碎机是否也粉碎了自己变成发达国家的机会？]]></title>
         <id>https://codechina.org/?p=31008</id>

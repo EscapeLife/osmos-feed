@@ -232,7 +232,18 @@
       "title": "Frost's Blog",
       "feedUrl": "https://frostming.com/feed.xml",
       "siteUrl": "https://frostming.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://frostming.com/2024/circular-ref-monkeypatch/",
+          "author": null,
+          "description": "Programming and Life",
+          "link": "https://frostming.com/2024/circular-ref-monkeypatch/",
+          "publishedOn": "2024-12-18T00:00:00.000Z",
+          "wordCount": 332,
+          "title": "一个 monkeypatch 引起的循环引用问题",
+          "imageUrl": "https://static.frostming.com/images/circular-reference.webp"
+        }
+      ]
     },
     {
       "title": "Posts on Jiayuan Thoughts",

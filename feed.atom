@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-12-21T00:54:26.832Z</updated>
+    <updated>2024-12-22T00:59:55.093Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -187,27 +187,6 @@ Apple AI进中国为什么选择了百度，为什么只能选择百度，以及
 fun & curiosity, pain points, relate, in-depth technical]]></summary>
         <author>
             <name>laike9m's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好了，现在你的知识也是我的了.jpg]]></title>
-        <id>https://www.manjusaka.blog/posts/2024/12/06/ok-I-got-all-you-know/</id>
-        <link href="https://www.manjusaka.blog/posts/2024/12/06/ok-I-got-all-you-know/"/>
-        <updated>2024-12-06T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>最近给朋友介绍了一下我对于一些外部资料的吸收的经验。我想了想整理了下聊天记录，将我整个思路以博客的形式展现出来。希望能帮到看这篇博客的人。</p>]]></summary>
-        <author>
-            <name>Manjusaka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iptables 拦截 bridge 包的问题排查]]></title>
-        <id>https://www.kawabangga.com/?p=6726</id>
-        <link href="https://www.kawabangga.com/posts/6726"/>
-        <updated>2024-12-06T14:16:26.000Z</updated>
-        <summary type="html"><![CDATA[最近排查的一个网络问题，两个 IP 之间的网络不通，经过在 Linux 上一个一个 interface 上抓包 […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

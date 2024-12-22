@@ -171,16 +171,6 @@
           "wordCount": 1071,
           "title": "数据中心网络高可用技术：ECMP",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=6726",
-          "author": "laixintao",
-          "description": "最近排查的一个网络问题，两个 IP 之间的网络不通，经过在 Linux 上一个一个 interface 上抓包 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/6726",
-          "publishedOn": "2024-12-06T14:16:26.000Z",
-          "wordCount": 1089,
-          "title": "iptables 拦截 bridge 包的问题排查",
-          "imageUrl": null
         }
       ]
     },
@@ -198,16 +188,6 @@
           "wordCount": 1703,
           "title": "OpenDAL 0.51 版本代号 “本当の僕らをありがとう。” 背后的故事",
           "imageUrl": "https://cdn.pixabay.com/photo/2023/02/04/07/50/flower-7766608_1280.jpg"
-        },
-        {
-          "id": "https://www.manjusaka.blog/posts/2024/12/06/ok-I-got-all-you-know/",
-          "author": null,
-          "description": "<p>最近给朋友介绍了一下我对于一些外部资料的吸收的经验。我想了想整理了下聊天记录，将我整个思路以博客的形式展现出来。希望能帮到看这篇博客的人。</p>",
-          "link": "https://www.manjusaka.blog/posts/2024/12/06/ok-I-got-all-you-know/",
-          "publishedOn": "2024-12-06T18:00:00.000Z",
-          "wordCount": 1900,
-          "title": "好了，现在你的知识也是我的了.jpg",
-          "imageUrl": "https://cdn.pixabay.com/photo/2023/02/08/15/10/sculpture-7776861_1280.jpg"
         }
       ]
     },

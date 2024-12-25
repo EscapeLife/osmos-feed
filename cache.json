@@ -123,6 +123,16 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=6751",
+          "author": "laixintao",
+          "description": "明天是圣诞节，今天是平安夜，公司给提前下班。但是年假还有二十多天，不用也是浪费了，今天就请假休息一下。 从 1 […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/6751",
+          "publishedOn": "2024-12-24T12:57:51.000Z",
+          "wordCount": 1126,
+          "title": "由 ICMP Redirect 消息引起的丢包问题排查",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=6747",
           "author": "laixintao",
           "description": "来新加坡四年整了，记录一下。\nContinue reading...",
@@ -173,6 +183,16 @@
       "siteUrl": "https://frostming.com/",
       "articles": [
         {
+          "id": "https://frostming.com/2024/review/",
+          "author": null,
+          "description": "Programming and Life",
+          "link": "https://frostming.com/2024/review/",
+          "publishedOn": "2024-12-24T00:00:00.000Z",
+          "wordCount": 312,
+          "title": "我的 2024",
+          "imageUrl": "https://static.frostming.com/images/2024-art.webp"
+        },
+        {
           "id": "https://frostming.com/2024/circular-ref-monkeypatch/",
           "author": null,
           "description": "Programming and Life",
@@ -207,6 +227,16 @@
       "feedUrl": "https://blog.codingnow.com/atom.xml",
       "siteUrl": "https://blog.codingnow.com/",
       "articles": [
+        {
+          "id": "https://blog.codingnow.com/2024/12/deck_building_game.html",
+          "author": null,
+          "description": "���������������Ϸ���е�����ϷҲ�����Ρ���Ҫ������õ����⿨�ƹ�������Ϸ����Ƶ㣬�ش����Լ�����ƹ����е�һЩ���ʡ�����дһƪ���ڿ��ƹ�������Ϸ���ܽᡣ ���ƹ�����ĵ�����Ϸ������ 2017 ��� Slay the Spire ɱ¾����������������ǧ�Ƶ�������Ϸ������׷��Դͷ���ǴӸ�������ο�ʼ�����ԣ��Ҷ�������͵���������һЩ�о�����������Ȥ��ͬѧ�����Ƽ� Youtube �ϵ� How to design a DECK BUILDING board game �������˷ǳ��������ܽᡣ��Ҳ���ڿ��������Ƶ���˽⵽һЩ��ȥû��������Ρ� �����еĿ��ƹ������ƣ�ʼ�� 2007 ����Ǽ����ԡ����ǵ�������ϲ��������֮һ������������ĩ������������������ȱ������Ҫ�ر�������ռ䣬���м����ϻ�һ�����¼�����һ����Ϸ�����Ѿ���һ����񣬴󳡵��׵ã�����ȴ�����޷������ˡ���ʱ�����ʱ����δ��ʶ�����е�ս�������淨������һ���»��ƣ�ֻ�Ǿ�����Ȥ������Ϸ�У����ſƼ����������Դӿ����й���һЩ�µĸ߼���ս�����ŵ��Լ����ƿ��У����ӻ���ǿ�Լ�ս����ʤ�ļ��ʡ����ƺ���һ���������Ӹ��õ�����������ڴ�֮ǰ��ͬ����Ҫ��һ����������� Axis &amp; Allies ������Ҫ�������������л������������ӡ� ������һ��Χ�������Ϸ������Ƶ������� 2008 ��� Dominion ������������֮ǰ��Ҳ������ò�ͬ���ƹ�����һ������Լ����ƿ����Ϸ�����羭��������ƺ���Ϸ�������������������ǣ�����������������ƶѹ�������������Ϸ��ʼ֮ǰ����������������Ϸ���Թ̶����Ż�������ɵ��ƿ⿪ʼ������Ϸ�������������Լ����ƿ⡣��������ȫ�µ����飺������Ҫ�þ�����ϵĿ��ƻ��ܶ��֣���Ҫѡ������ĳɳ���·���� BoardGameGeek ��վ�ϣ��������Ƶ��鿨���Ƴ�Ϊ Deck Construction �����������Ļ��ƹ�Ϊ Deck, Bag, and Pool...",
+          "link": "https://blog.codingnow.com/2024/12/deck_building_game.html",
+          "publishedOn": "2024-12-24T12:00:20.000Z",
+          "wordCount": 247,
+          "title": "���ƹ�������ϷС��",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.codingnow.com/2024/12/deckbuilding_game.html",
           "author": null,

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-12-26T00:54:48.792Z</updated>
+    <updated>2024-12-27T00:55:10.442Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -90,37 +90,6 @@ Continue reading...]]></summary>
 <p>聊聊这个版本背后的一些故事吧</p>]]></summary>
         <author>
             <name>Manjusaka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[二维码耍出新花样，充满创意艺术]]></title>
-        <id>https://cuiqingcai.com/42370.html</id>
-        <link href="https://cuiqingcai.com/42370.html"/>
-        <updated>2024-12-12T12:01:22.000Z</updated>
-        <summary type="html"><![CDATA[<p>艺术二维码是一种创新的技术产品，它将二维码与美观的背景图像相结合，创造出既实用又美观的作品。它们不仅具有传统二维码的功能性，能被智能设备快速扫描识别，还加入了艺术元素，增强了视觉吸引力和品牌识别度。其中，部分艺术二维码甚至由人工智能生成，充分利用了现代技术，展示出无与伦比的]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据中心网络高可用技术：ECMP]]></title>
-        <id>https://www.kawabangga.com/?p=6732</id>
-        <link href="https://www.kawabangga.com/posts/6732"/>
-        <updated>2024-12-12T11:33:25.000Z</updated>
-        <summary type="html"><![CDATA[在之前的文章中，已经介绍过很多次 ECMP 了，它的原理非常简单：在路由协议中，如果下一跳有多个路径可以选择， […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小红书切图笔记发布]]></title>
-        <id>https://macshuo.com/?p=1939</id>
-        <link href="https://macshuo.com/?p=1939"/>
-        <updated>2024-12-12T05:31:32.000Z</updated>
-        <summary type="html"><![CDATA[如何优雅的发布一条小红书笔记？ 小红书的产品逻辑挺有意思的，发图文笔记，只能发  … Continue reading →]]></summary>
-        <author>
-            <name>MacTalk</name>
         </author>
     </entry>
     <entry>

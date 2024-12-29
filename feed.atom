@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-12-28T00:54:05.400Z</updated>
+    <updated>2024-12-29T01:00:31.626Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux interface Vlan 和 Bond 配置错误问题排查]]></title>
+        <id>https://www.kawabangga.com/?p=6767</id>
+        <link href="https://www.kawabangga.com/posts/6767"/>
+        <updated>2024-12-28T09:25:57.000Z</updated>
+        <summary type="html"><![CDATA[昨天同事报告了一个 Linux 机器网络问题，现象是：一台服务器无法 ping 192.168.1.253，但 […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[菠萝]]></title>
         <id>https://www.kawabangga.com/?p=6758</id>

@@ -72,6 +72,16 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=6767",
+          "author": "laixintao",
+          "description": "昨天同事报告了一个 Linux 机器网络问题，现象是：一台服务器无法 ping 192.168.1.253，但 […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/6767",
+          "publishedOn": "2024-12-28T09:25:57.000Z",
+          "wordCount": 1582,
+          "title": "Linux interface Vlan 和 Bond 配置错误问题排查",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=6758",
           "author": "laixintao",
           "description": "体检的诊所送了我们两张 Toast Box 的券，Toast Box 和 BreadTalk （面包新语）是一 […]\nContinue reading...",

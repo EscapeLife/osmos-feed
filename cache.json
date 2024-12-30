@@ -49,6 +49,16 @@
       "siteUrl": "https://codechina.org/",
       "articles": [
         {
+          "id": "https://codechina.org/?p=31015",
+          "author": "tinyfool",
+          "description": "前些日子两天，北京大学和复旦大学一同发起的一项中国人私生活质量调查。这里头得到的一个结论是，这有6800多份有 […]\n中国年轻人中产阶级的“性萧条”的成因和未来展望，人类的分化未来 | 性服务非罪化 | 色情产业非罪化是否是解决之道最先出现在Tinyfool的个人网站。",
+          "link": "https://codechina.org/2024/12/31015/",
+          "publishedOn": "2024-12-29T17:33:59.000Z",
+          "wordCount": 1075,
+          "title": "中国年轻人中产阶级的“性萧条”的成因和未来展望，人类的分化未来 | 性服务非罪化 | 色情产业非罪化是否是解决之道",
+          "imageUrl": "https://codechina.org/wp-content/uploads/2024/12/桥本隆则-日本色情业.jpg"
+        },
+        {
           "id": "https://codechina.org/?p=31008",
           "author": "tinyfool",
           "description": "今天我们聊聊极越汽车“闪电崩盘事件”的不断反转。借着这个话题，其实也想谈谈为什么我们每个人都感受到社会的“个人 […]\n极越汽车闪电崩盘事件不断反转 为什么疯狂内卷的不仅是个人，也是每个行业。发达国家粉碎机是否也粉碎了自己变成发达国家的机会？最先出现在Tinyfool的个人网站。",
@@ -71,6 +81,26 @@
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
+        {
+          "id": "https://www.kawabangga.com/?p=6793",
+          "author": "laixintao",
+          "description": "最近上线了一组规格比较高的 CPU 的机器。36 cores x 2 threads x 2 Sockets， […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/6793",
+          "publishedOn": "2024-12-29T12:56:16.000Z",
+          "wordCount": 1127,
+          "title": "CPU 越多，延迟越高的问题排查",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.kawabangga.com/?p=6781",
+          "author": "laixintao",
+          "description": "用户报告问题，说在虚拟机里面启动的 Keepalived 有脑裂问题，一启动就开始脑裂了。 Keepalive […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/6781",
+          "publishedOn": "2024-12-29T09:08:58.000Z",
+          "wordCount": 1112,
+          "title": "Keepalived 脑裂问题排查",
+          "imageUrl": null
+        },
         {
           "id": "https://www.kawabangga.com/?p=6767",
           "author": "laixintao",
@@ -117,18 +147,7 @@
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "https://www.manjusaka.blog/atom.xml",
-      "articles": [
-        {
-          "id": "https://www.manjusaka.blog/posts/2024/12/14/the-story-behind-the-opendal-0.51/",
-          "author": null,
-          "description": "<p>Apache OpenDAL v0.51.0 第一个 RC 版本发布了，这个大版本有些特殊，是我第三个负责 Release 的版本，也是第一个带有 Subtitle 的版本</p>\n<p>这个版本的副标题为 “本当の僕らをありがとう” ，意为 “向真实的我们致谢”</p>\n<p>聊聊这个版本背后的一些故事吧</p>",
-          "link": "https://www.manjusaka.blog/posts/2024/12/14/the-story-behind-the-opendal-0.51/",
-          "publishedOn": "2024-12-14T18:30:00.000Z",
-          "wordCount": 1703,
-          "title": "OpenDAL 0.51 版本代号 “本当の僕らをありがとう。” 背后的故事",
-          "imageUrl": "https://cdn.pixabay.com/photo/2023/02/04/07/50/flower-7766608_1280.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "laike9m's blog",
@@ -208,18 +227,7 @@
       "title": "静觅",
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
-      "articles": [
-        {
-          "id": "https://cuiqingcai.com/42371.html",
-          "author": null,
-          "description": "<p>本文将介绍一种 人脸年龄变化 API 对接说明，它可以通过输入图片和年龄，从而来改变图片中人脸的年龄图片，大致的用法是用户上传一张人脸图片，基于人脸编辑与生成算法，输出一张人脸变老或变年轻的图片，支持实现人脸不同年龄的变化。</p>\n<p>接下来介绍下 人脸年龄变化 API",
-          "link": "https://cuiqingcai.com/42371.html",
-          "publishedOn": "2024-12-15T12:01:22.000Z",
-          "wordCount": 1268,
-          "title": "人脸年龄变化 API 对接说明",
-          "imageUrl": "https://cdn.acedata.cloud/q6ytrc.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "咸糖 - 自律者自由",

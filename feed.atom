@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2024-12-31T00:55:12.939Z</updated>
+    <updated>2025-01-01T01:00:22.635Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[本当の僕らをありがとう]]></title>
+        <id>https://www.manjusaka.blog/posts/2024/12/31/at-the-end-of-2024/</id>
+        <link href="https://www.manjusaka.blog/posts/2024/12/31/at-the-end-of-2024/"/>
+        <updated>2024-12-31T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>每年都会选择一句话来总结自己这一年，前年是“但行好事，莫问前程”，去年是 “Per aspera, Ad astra”。那么今年我选择是 “本当の僕らをありがとう”。</p>
+<p>这句出自 《Angel Beats!》的片尾曲《My Song》。含义为“向最真实的我们致谢”</p>]]></summary>
+        <author>
+            <name>Manjusaka</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[个人养老金账户，我要开吗？既不必心存恐惧，这是个好事儿，但是也不要过分期待]]></title>
         <id>https://codechina.org/?p=31037</id>

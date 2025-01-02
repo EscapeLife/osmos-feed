@@ -191,16 +191,6 @@
           "wordCount": 312,
           "title": "我的 2024",
           "imageUrl": "https://static.frostming.com/images/2024-art.webp"
-        },
-        {
-          "id": "https://frostming.com/2024/circular-ref-monkeypatch/",
-          "author": null,
-          "description": "Programming and Life",
-          "link": "https://frostming.com/2024/circular-ref-monkeypatch/",
-          "publishedOn": "2024-12-18T00:00:00.000Z",
-          "wordCount": 332,
-          "title": "一个 monkeypatch 引起的循环引用问题",
-          "imageUrl": "https://static.frostming.com/images/circular-reference.webp"
         }
       ]
     },
@@ -217,7 +207,7 @@
       "articles": []
     },
     {
-      "title": "李辉",
+      "title": "李辉 / Grey Li",
       "feedUrl": "https://greyli.com/feed",
       "siteUrl": "https://greyli.com",
       "articles": []

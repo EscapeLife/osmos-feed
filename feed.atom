@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-01-02T00:55:12.425Z</updated>
+    <updated>2025-01-03T00:55:24.110Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -122,17 +122,6 @@ Continue reading...]]></summary>
         <summary type="html"><![CDATA[Programming and Life]]></summary>
         <author>
             <name>Frost's Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[十六个夏天]]></title>
-        <id>https://www.kawabangga.com/?p=6747</id>
-        <link href="https://www.kawabangga.com/posts/6747"/>
-        <updated>2024-12-19T02:11:00.000Z</updated>
-        <summary type="html"><![CDATA[来新加坡四年整了，记录一下。
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

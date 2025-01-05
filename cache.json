@@ -150,6 +150,16 @@
       "siteUrl": "https://www.manjusaka.blog/atom.xml",
       "articles": [
         {
+          "id": "https://www.manjusaka.blog/posts/2025/01/04/saka-is-baka/",
+          "author": null,
+          "description": "<p>这篇博客是我在刷题群内的 2025 年的第一次分享整理的演讲稿。主要是完整复盘了过去几年里我犯下的两个比较典型的低级错误。</p>\n<p>希望大家能看的开心</p>",
+          "link": "https://www.manjusaka.blog/posts/2025/01/04/saka-is-baka/",
+          "publishedOn": "2025-01-04T18:30:00.000Z",
+          "wordCount": 1862,
+          "title": "Saka 馬鹿",
+          "imageUrl": "https://cdn.pixabay.com/photo/2023/02/08/15/10/sculpture-7776861_1280.jpg"
+        },
+        {
           "id": "https://www.manjusaka.blog/posts/2024/12/31/at-the-end-of-2024/",
           "author": null,
           "description": "<p>每年都会选择一句话来总结自己这一年，前年是“但行好事，莫问前程”，去年是 “Per aspera, Ad astra”。那么今年我选择是 “本当の僕らをありがとう”。</p>\n<p>这句出自 《Angel Beats!》的片尾曲《My Song》。含义为“向最真实的我们致谢”</p>",

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-01-04T00:54:19.001Z</updated>
+    <updated>2025-01-05T01:00:00.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saka 馬鹿]]></title>
+        <id>https://www.manjusaka.blog/posts/2025/01/04/saka-is-baka/</id>
+        <link href="https://www.manjusaka.blog/posts/2025/01/04/saka-is-baka/"/>
+        <updated>2025-01-04T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>这篇博客是我在刷题群内的 2025 年的第一次分享整理的演讲稿。主要是完整复盘了过去几年里我犯下的两个比较典型的低级错误。</p>
+<p>希望大家能看的开心</p>]]></summary>
+        <author>
+            <name>Manjusaka</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本当の僕らをありがとう]]></title>
         <id>https://www.manjusaka.blog/posts/2024/12/31/at-the-end-of-2024/</id>

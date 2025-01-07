@@ -93,6 +93,16 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=6816",
+          "author": "laixintao",
+          "description": "看了一个视频，Endianness Explained, 对 Endianness 介绍的非常好。尤其是对常见 […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/6816",
+          "publishedOn": "2025-01-06T01:39:28.000Z",
+          "wordCount": 1089,
+          "title": "Little Endian vs Big Endian",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=6793",
           "author": "laixintao",
           "description": "最近上线了一组规格比较高的 CPU 的机器。36 cores x 2 threads x 2 Sockets， […]\nContinue reading...",

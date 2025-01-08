@@ -93,6 +93,16 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=6825",
+          "author": "laixintao",
+          "description": "我和我的同事们排查网路问题非常喜欢 MTR，它是 traceroute 和 ping 的结合，可以快速告诉我们 […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/6825",
+          "publishedOn": "2025-01-08T00:00:00.000Z",
+          "wordCount": 1593,
+          "title": "用 LD_PRELOAD 写魔法程序",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=6816",
           "author": "laixintao",
           "description": "看了一个视频，Endianness Explained, 对 Endianness 介绍的非常好。尤其是对常见 […]\nContinue reading...",
@@ -191,18 +201,7 @@
       "title": "Frost's Blog",
       "feedUrl": "https://frostming.com/feed.xml",
       "siteUrl": "https://frostming.com/",
-      "articles": [
-        {
-          "id": "https://frostming.com/2024/review/",
-          "author": null,
-          "description": "Programming and Life",
-          "link": "https://frostming.com/2024/review/",
-          "publishedOn": "2024-12-24T00:00:00.000Z",
-          "wordCount": 312,
-          "title": "我的 2024",
-          "imageUrl": "https://static.frostming.com/images/2024-art.webp"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Posts on Jiayuan Thoughts",
@@ -226,18 +225,7 @@
       "title": "�Ʒ�� BLOG",
       "feedUrl": "https://blog.codingnow.com/atom.xml",
       "siteUrl": "https://blog.codingnow.com/",
-      "articles": [
-        {
-          "id": "https://blog.codingnow.com/2024/12/deck_building_game.html",
-          "author": null,
-          "description": "���������������Ϸ���е�����ϷҲ�����Ρ���Ҫ������õ����⿨�ƹ�������Ϸ����Ƶ㣬�ش����Լ�����ƹ����е�һЩ���ʡ�����дһƪ���ڿ��ƹ�������Ϸ���ܽᡣ ���ƹ�����ĵ�����Ϸ������ 2017 ��� Slay the Spire ɱ¾����������������ǧ�Ƶ�������Ϸ������׷��Դͷ���ǴӸ�������ο�ʼ�����ԣ��Ҷ�������͵���������һЩ�о�����������Ȥ��ͬѧ�����Ƽ� Youtube �ϵ� How to design a DECK BUILDING board game �������˷ǳ��������ܽᡣ��Ҳ���ڿ��������Ƶ���˽⵽һЩ��ȥû��������Ρ� �����еĿ��ƹ������ƣ�ʼ�� 2007 ����Ǽ����ԡ����ǵ�������ϲ��������֮һ������������ĩ������������������ȱ������Ҫ�ر�������ռ䣬���м����ϻ�һ�����¼�����һ����Ϸ�����Ѿ���һ����񣬴󳡵��׵ã�����ȴ�����޷������ˡ���ʱ�����ʱ����δ��ʶ�����е�ս�������淨������һ���»��ƣ�ֻ�Ǿ�����Ȥ������Ϸ�У����ſƼ����������Դӿ����й���һЩ�µĸ߼���ս�����ŵ��Լ����ƿ��У����ӻ���ǿ�Լ�ս����ʤ�ļ��ʡ����ƺ���һ���������Ӹ��õ�����������ڴ�֮ǰ��ͬ����Ҫ��һ����������� Axis &amp; Allies ������Ҫ�������������л������������ӡ� ������һ��Χ�������Ϸ������Ƶ������� 2008 ��� Dominion ������������֮ǰ��Ҳ������ò�ͬ���ƹ�����һ������Լ����ƿ����Ϸ�����羭��������ƺ���Ϸ�������������������ǣ�����������������ƶѹ�������������Ϸ��ʼ֮ǰ����������������Ϸ���Թ̶����Ż�������ɵ��ƿ⿪ʼ������Ϸ�������������Լ����ƿ⡣��������ȫ�µ����飺������Ҫ�þ�����ϵĿ��ƻ��ܶ��֣���Ҫѡ������ĳɳ���·���� BoardGameGeek ��վ�ϣ��������Ƶ��鿨���Ƴ�Ϊ Deck Construction �����������Ļ��ƹ�Ϊ Deck, Bag, and Pool...",
-          "link": "https://blog.codingnow.com/2024/12/deck_building_game.html",
-          "publishedOn": "2024-12-24T12:00:20.000Z",
-          "wordCount": 247,
-          "title": "���ƹ�������ϷС��",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "piglei",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-01-12T01:01:11.931Z</updated>
+    <updated>2025-01-13T00:58:47.441Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -111,28 +111,6 @@ Continue reading...]]></summary>
 中国年轻人中产阶级的“性萧条”的成因和未来展望，人类的分化未来 | 性服务非罪化 | 色情产业非罪化是否是解决之道最先出现在Tinyfool的个人网站。]]></summary>
         <author>
             <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CPU 越多，延迟越高的问题排查]]></title>
-        <id>https://www.kawabangga.com/?p=6793</id>
-        <link href="https://www.kawabangga.com/posts/6793"/>
-        <updated>2024-12-29T12:56:16.000Z</updated>
-        <summary type="html"><![CDATA[最近上线了一组规格比较高的 CPU 的机器。36 cores x 2 threads x 2 Sockets， […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keepalived 脑裂问题排查]]></title>
-        <id>https://www.kawabangga.com/?p=6781</id>
-        <link href="https://www.kawabangga.com/posts/6781"/>
-        <updated>2024-12-29T09:08:58.000Z</updated>
-        <summary type="html"><![CDATA[用户报告问题，说在虚拟机里面启动的 Keepalived 有脑裂问题，一启动就开始脑裂了。 Keepalive […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

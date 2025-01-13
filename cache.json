@@ -121,26 +121,6 @@
           "wordCount": 1089,
           "title": "Little Endian vs Big Endian",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=6793",
-          "author": "laixintao",
-          "description": "最近上线了一组规格比较高的 CPU 的机器。36 cores x 2 threads x 2 Sockets， […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/6793",
-          "publishedOn": "2024-12-29T12:56:16.000Z",
-          "wordCount": 1127,
-          "title": "CPU 越多，延迟越高的问题排查",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=6781",
-          "author": "laixintao",
-          "description": "用户报告问题，说在虚拟机里面启动的 Keepalived 有脑裂问题，一启动就开始脑裂了。 Keepalive […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/6781",
-          "publishedOn": "2024-12-29T09:08:58.000Z",
-          "wordCount": 1112,
-          "title": "Keepalived 脑裂问题排查",
-          "imageUrl": null
         }
       ]
     },

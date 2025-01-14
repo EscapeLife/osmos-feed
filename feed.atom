@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-01-13T00:58:47.441Z</updated>
+    <updated>2025-01-14T00:53:05.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[一个由 BGP Route Aggregation 引发的问题]]></title>
+        <id>https://www.kawabangga.com/?p=6851</id>
+        <link href="https://www.kawabangga.com/posts/6851"/>
+        <updated>2025-01-14T00:36:00.000Z</updated>
+        <summary type="html"><![CDATA[上周遇到的一个问题很有意思，后来搜索相关的资料，找到的也比较少，感觉有必要记录一下。 问题的场景很简单：我们有 […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[���ƹ��������κ��Ĺ���֮��]]></title>
         <id>https://blog.codingnow.com/2025/01/dbg_rules_2.html</id>
@@ -100,17 +111,6 @@ Continue reading...]]></summary>
         <summary type="html"><![CDATA[<h1 id="2024-年第三季度总结"><a href="#2024-年第三季度总结" class="headerlink" title="2024 年第三季度总结"></a>2024]]></summary>
         <author>
             <name>Escape</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国年轻人中产阶级的“性萧条”的成因和未来展望，人类的分化未来 | 性服务非罪化 | 色情产业非罪化是否是解决之道]]></title>
-        <id>https://codechina.org/?p=31015</id>
-        <link href="https://codechina.org/2024/12/31015/"/>
-        <updated>2024-12-29T17:33:59.000Z</updated>
-        <summary type="html"><![CDATA[前些日子两天，北京大学和复旦大学一同发起的一项中国人私生活质量调查。这里头得到的一个结论是，这有6800多份有 […]
-中国年轻人中产阶级的“性萧条”的成因和未来展望，人类的分化未来 | 性服务非罪化 | 色情产业非罪化是否是解决之道最先出现在Tinyfool的个人网站。]]></summary>
-        <author>
-            <name>tinyfool</name>
         </author>
     </entry>
     <entry>

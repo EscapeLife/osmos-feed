@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-01-15T00:54:42.118Z</updated>
+    <updated>2025-01-16T00:54:00.281Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -77,17 +77,6 @@ Continue reading...]]></summary>
         <updated>2025-01-04T18:30:00.000Z</updated>
         <summary type="html"><![CDATA[<p>这篇博客是我在刷题群内的 2025 年的第一次分享整理的演讲稿。主要是完整复盘了过去几年里我犯下的两个比较典型的低级错误。</p>
 <p>希望大家能看的开心</p>]]></summary>
-        <author>
-            <name>Manjusaka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本当の僕らをありがとう]]></title>
-        <id>https://www.manjusaka.blog/posts/2024/12/31/at-the-end-of-2024/</id>
-        <link href="https://www.manjusaka.blog/posts/2024/12/31/at-the-end-of-2024/"/>
-        <updated>2024-12-31T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>每年都会选择一句话来总结自己这一年，前年是“但行好事，莫问前程”，去年是 “Per aspera, Ad astra”。那么今年我选择是 “本当の僕らをありがとう”。</p>
-<p>这句出自 《Angel Beats!》的片尾曲《My Song》。含义为“向最真实的我们致谢”</p>]]></summary>
         <author>
             <name>Manjusaka</name>
         </author>

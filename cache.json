@@ -106,18 +106,7 @@
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "https://www.manjusaka.blog/atom.xml",
-      "articles": [
-        {
-          "id": "https://www.manjusaka.blog/posts/2025/01/04/saka-is-baka/",
-          "author": null,
-          "description": "<p>这篇博客是我在刷题群内的 2025 年的第一次分享整理的演讲稿。主要是完整复盘了过去几年里我犯下的两个比较典型的低级错误。</p>\n<p>希望大家能看的开心</p>",
-          "link": "https://www.manjusaka.blog/posts/2025/01/04/saka-is-baka/",
-          "publishedOn": "2025-01-04T18:30:00.000Z",
-          "wordCount": 1862,
-          "title": "Saka 馬鹿",
-          "imageUrl": "https://cdn.pixabay.com/photo/2023/02/08/15/10/sculpture-7776861_1280.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "laike9m's blog",

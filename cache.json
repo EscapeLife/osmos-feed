@@ -79,16 +79,6 @@
           "wordCount": 1046,
           "title": "2024 年的总结",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=6825",
-          "author": "laixintao",
-          "description": "我和我的同事们排查网路问题非常喜欢 MTR，它是 traceroute 和 ping 的结合，可以快速告诉我们 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/6825",
-          "publishedOn": "2025-01-08T00:00:00.000Z",
-          "wordCount": 1593,
-          "title": "用 LD_PRELOAD 写魔法程序",
-          "imageUrl": null
         }
       ]
     },

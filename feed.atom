@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-01-28T00:54:16.711Z</updated>
+    <updated>2025-01-29T00:54:13.915Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -38,17 +38,6 @@
 查看全文]]></summary>
         <author>
             <name>Jager</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个由 BGP Route Aggregation 引发的问题]]></title>
-        <id>https://www.kawabangga.com/?p=6851</id>
-        <link href="https://www.kawabangga.com/posts/6851"/>
-        <updated>2025-01-14T00:36:00.000Z</updated>
-        <summary type="html"><![CDATA[上周遇到的一个问题很有意思，后来搜索相关的资料，找到的也比较少，感觉有必要记录一下。 问题的场景很简单：我们有 […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

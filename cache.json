@@ -81,18 +81,7 @@
       "title": "卡瓦邦噶！",
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
-      "articles": [
-        {
-          "id": "https://www.kawabangga.com/?p=6851",
-          "author": "laixintao",
-          "description": "上周遇到的一个问题很有意思，后来搜索相关的资料，找到的也比较少，感觉有必要记录一下。 问题的场景很简单：我们有 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/6851",
-          "publishedOn": "2025-01-14T00:36:00.000Z",
-          "wordCount": 1138,
-          "title": "一个由 BGP Route Aggregation 引发的问题",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Manjusaka",

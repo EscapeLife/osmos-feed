@@ -153,18 +153,7 @@
       "title": "张戈博客",
       "feedUrl": "https://zhangge.net/feed",
       "siteUrl": "https://zhang.ge",
-      "articles": [
-        {
-          "id": "https://zhang.ge/?p=6325",
-          "author": "Jager",
-          "description": "概述 长话短说，最近发现微软的语音服务莫名扣费了，然后看着国内云服务动辄几千上万的语音合成服务资源包，一阵苦涩。搜了下，发现挺多基于 edge-tts 的白嫖项目，试用了下确实能用，就是和源阅读对接的体验有待提高。 因此决定自己封装一个更适合源阅读 APP 的语音合成服务，以下是介绍，有需要的直接拿。 项目介绍 本项目基于 Edge-TTS 和 FastFlyer 开发框架，可以直接私有化部署提供语音合成服务，支持和源阅读 APP 无缝对接。 项目地址：FastTTS 框架介绍 FastFlyer 是基于 FastAPI 设计的轻量级 API 开发框架。在 FastAPI 优异特性的基础上集成了一系列开箱即用的组件，包括 Redis、MySQL、Kafka 等。采用 SDK 接入方式，内置脚手架代码生成等辅助工具，让研发人员只需要专注于业务逻辑的实现，真正开箱即用！ 注：更多框架介绍请阅读：FastFlyer 快速部署 成功启动后，访问：http://<host>:8080/speech/docs 可以看到 Swagger 工具页面。 简单鉴权 如果需要外网访问，建议开启接口鉴权： 开启鉴权后，生成源阅读的配置也会自动带上鉴权头部，可以无缝对接。 对接源阅读 服务已集成和源阅读 APP 的配置生成、一键导入工具，请查看项目自述文件。 　» 特别提示：转载本站文章请使用超链接注明出处。　» 本文链接地址：https://zhang.ge/5170.html 　» 如果喜欢可以：点此订阅本站相关文章解决paramiko使用invoke_shell交互式命令超时问题gRPC开发过程中遇到的问题记录Python远程控制模块paramiko遇到的问题及解决记录分享一个自写的Python远程命令和文件（夹）传输类Flyer：基于FastAPI的轻量级API开发框架\n查看全文",
-          "link": "https://zhang.ge/5170.html",
-          "publishedOn": "2025-01-16T04:48:01.000Z",
-          "wordCount": 1009,
-          "title": "FastTTS：支持私有化部署和源阅读无缝对接的语音合成服务",
-          "imageUrl": ""
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Reimu's blog",

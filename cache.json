@@ -52,18 +52,7 @@
       "title": "MacTalk-池建强的随想录",
       "feedUrl": "https://macshuo.com/?feed=rss2",
       "siteUrl": "https://macshuo.com",
-      "articles": [
-        {
-          "id": "https://macshuo.com/?p=1948",
-          "author": "MacTalk",
-          "description": "昨天，字节跳动发布了类似 Cursor 的 AI Native IDE：Trae … Continue reading →",
-          "link": "https://macshuo.com/?p=1948",
-          "publishedOn": "2025-01-23T07:53:04.000Z",
-          "wordCount": 723,
-          "title": "字节跳动发布了一款 AI IDE：Trae",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Tinyfool的个人网站",

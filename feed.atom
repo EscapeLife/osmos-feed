@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-02-12T00:55:20.772Z</updated>
+    <updated>2025-02-13T00:55:40.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[老房子真是麻烦]]></title>
+        <id>https://codechina.org/?p=31045</id>
+        <link href="https://codechina.org/2025/02/31045/"/>
+        <updated>2025-02-12T03:27:23.000Z</updated>
+        <summary type="html"><![CDATA[前两天，我家厕所的下水道堵了，返上来无数的脏水，恶臭夹带着屎尿，还有烟头，我只好用大水桶收集从厨房的下水道倒掉 […]
+老房子真是麻烦最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[简单吐槽一下摇曳露营的台配]]></title>
         <id>https://www.manjusaka.blog/posts/2025/02/03/a-little-thought-about-translation-about-yuru-camp/</id>

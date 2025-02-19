@@ -76,18 +76,7 @@
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "https://www.manjusaka.blog/atom.xml",
-      "articles": [
-        {
-          "id": "https://www.manjusaka.blog/posts/2025/02/03/a-little-thought-about-translation-about-yuru-camp/",
-          "author": null,
-          "description": "<p>看了一下台配摇曳露营的 PV 放松，有些地方很想吐槽，写个短文聊一下</p>",
-          "link": "https://www.manjusaka.blog/posts/2025/02/03/a-little-thought-about-translation-about-yuru-camp/",
-          "publishedOn": "2025-02-03T18:00:00.000Z",
-          "wordCount": 1592,
-          "title": "简单吐槽一下摇曳露营的台配",
-          "imageUrl": "https://cdn.pixabay.com/photo/2023/02/07/14/45/snow-7774312_1280.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "laike9m's blog",

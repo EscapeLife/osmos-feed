@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-02-18T00:55:02.631Z</updated>
+    <updated>2025-02-19T00:55:43.151Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -25,16 +25,6 @@
 老房子真是麻烦最先出现在Tinyfool的个人网站。]]></summary>
         <author>
             <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[简单吐槽一下摇曳露营的台配]]></title>
-        <id>https://www.manjusaka.blog/posts/2025/02/03/a-little-thought-about-translation-about-yuru-camp/</id>
-        <link href="https://www.manjusaka.blog/posts/2025/02/03/a-little-thought-about-translation-about-yuru-camp/"/>
-        <updated>2025-02-03T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>看了一下台配摇曳露营的 PV 放松，有些地方很想吐槽，写个短文聊一下</p>]]></summary>
-        <author>
-            <name>Manjusaka</name>
         </author>
     </entry>
     <entry>

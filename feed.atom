@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-02-19T00:55:43.151Z</updated>
+    <updated>2025-02-20T00:55:50.974Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT 4o惊人的心理分析能力和洞见，以及它对我的分析]]></title>
+        <id>https://codechina.org/?p=31051</id>
+        <link href="https://codechina.org/2025/02/31051/"/>
+        <updated>2025-02-19T01:35:59.000Z</updated>
+        <summary type="html"><![CDATA[前两天，公众号橘子汽水铺分享了一个因为 ChatGPT 4o升级能力后，变得越来越好用而开始流行的的 prom […]
+ChatGPT 4o惊人的心理分析能力和洞见，以及它对我的分析最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[���ƹ��������κ��Ĺ���֮��]]></title>
         <id>https://blog.codingnow.com/2025/02/dbg_rules_4.html</id>

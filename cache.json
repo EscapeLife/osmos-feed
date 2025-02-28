@@ -131,7 +131,18 @@
       "title": "codedump的网络日志",
       "feedUrl": "https://www.codedump.info/index.xml",
       "siteUrl": "https://www.codedump.info/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.codedump.info/post/20250227-cook/",
+          "author": null,
+          "description": "过去的几年里，由于长期在家远程办公，多了很多自己做菜的机会，厨艺也精进了不少。目前一些普通的家常菜，即便我之前没有做过，但是可以根据网上的视频教程就能",
+          "link": "https://www.codedump.info/post/20250227-cook/",
+          "publishedOn": "2025-02-27T03:15:30.000Z",
+          "wordCount": 287,
+          "title": "写代码与做菜",
+          "imageUrl": "https://www.codedump.info/images/C.png"
+        }
+      ]
     },
     {
       "title": "李辉 / Grey Li",

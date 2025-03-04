@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-03-03T00:58:50.627Z</updated>
+    <updated>2025-03-04T00:57:50.455Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自建DerpServer中转节点]]></title>
+        <id>https://www.escapelife.site/posts/3bf82433.html</id>
+        <link href="https://www.escapelife.site/posts/3bf82433.html"/>
+        <updated>2025-03-03T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p><strong>DERP 是一个开源的、高性能的、基于 UDP 的 NAT 穿透解决方案，它可以帮助你在内网环境中搭建一个 VPN 服务。</strong></p>
+</blockquote>
+<p><code>Tailscale</code>]]></summary>
+        <author>
+            <name>Escape</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[写代码与做菜]]></title>
         <id>https://www.codedump.info/post/20250227-cook/</id>

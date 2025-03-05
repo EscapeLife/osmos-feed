@@ -14,6 +14,26 @@
           "wordCount": 2168,
           "title": "自建DerpServer中转节点",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.escapelife.site/posts/a1beaa94.html",
+          "author": null,
+          "description": "<blockquote>\n<p><strong>DERP 是一个开源的、高性能的、基于 UDP 的 NAT 穿透解决方案，它可以帮助你在内网环境中搭建一个 VPN 服务。</strong></p>\n</blockquote>\n<p>Tailscale 的",
+          "link": "https://www.escapelife.site/posts/a1beaa94.html",
+          "publishedOn": "2025-03-01T04:00:00.000Z",
+          "wordCount": 1328,
+          "title": "了解DERP协议的原理",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.escapelife.site/posts/c4d08ca6.html",
+          "author": null,
+          "description": "<blockquote>\n<p><strong>headscale-admin：你的 headscale 专属管理管家！</strong></p>\n</blockquote>\n<p><a",
+          "link": "https://www.escapelife.site/posts/c4d08ca6.html",
+          "publishedOn": "2025-02-24T12:42:09.000Z",
+          "wordCount": 1762,
+          "title": "自建Headscale的UI控制面板",
+          "imageUrl": null
         }
       ]
     },
@@ -59,6 +79,16 @@
       "feedUrl": "http://feeds.feedburner.com/Tinyfoolblog",
       "siteUrl": "https://codechina.org/",
       "articles": [
+        {
+          "id": "https://codechina.org/?p=31066",
+          "author": "tinyfool",
+          "description": "最近我在 Youtube 看王立群讲史记，这其实是当年百家讲坛的一个王牌内容。最近看到秦灭赵国的两场战争，长平 […]\n善战者无赫赫之功，聊聊职场中的隐形英雄以及我们该怎么做？最先出现在Tinyfool的个人网站。",
+          "link": "https://codechina.org/2025/03/31066/",
+          "publishedOn": "2025-03-04T04:00:25.000Z",
+          "wordCount": 1211,
+          "title": "善战者无赫赫之功，聊聊职场中的隐形英雄以及我们该怎么做？",
+          "imageUrl": "https://codechina.org/wp-content/uploads/2025/03/DALL·E-2025-03-04-01.34.48-A-strong-and-commanding-general-standing-in-the-foreground-exuding-authority-and-wisdom.-He-wears-traditional-Chinese-armor-detailed-with-intricate-.webp"
+        },
         {
           "id": "https://codechina.org/?p=31060",
           "author": "tinyfool",

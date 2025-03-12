@@ -78,16 +78,6 @@
           "wordCount": 1211,
           "title": "善战者无赫赫之功，聊聊职场中的隐形英雄以及我们该怎么做？",
           "imageUrl": "https://codechina.org/wp-content/uploads/2025/03/DALL·E-2025-03-04-01.34.48-A-strong-and-commanding-general-standing-in-the-foreground-exuding-authority-and-wisdom.-He-wears-traditional-Chinese-armor-detailed-with-intricate-.webp"
-        },
-        {
-          "id": "https://codechina.org/?p=31060",
-          "author": "tinyfool",
-          "description": "前两天周五，我过生日，但是因为牙疼，没做啥庆祝，反而去拔了一颗牙。第二天，拔牙的地方也长好了，但是还是觉得喝凉 […]\n人生如此虚幻，只能享受珍惜当下，努力奋斗最先出现在Tinyfool的个人网站。",
-          "link": "https://codechina.org/2025/02/31060/",
-          "publishedOn": "2025-02-25T03:29:59.000Z",
-          "wordCount": 1132,
-          "title": "人生如此虚幻，只能享受珍惜当下，努力奋斗",
-          "imageUrl": "https://codechina.org/wp-content/uploads/2025/02/DALL·E-2025-02-23-20.43.35-A-surreal-landscape-depicting-the-fleeting-nature-of-life.-A-person-stands-at-the-edge-of-a-vast-dreamlike-world-filled-with-floating-islands-glowin.webp"
         }
       ]
     },
@@ -165,7 +155,18 @@
       "title": "�Ʒ�� BLOG",
       "feedUrl": "https://blog.codingnow.com/atom.xml",
       "siteUrl": "https://blog.codingnow.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://blog.codingnow.com/2025/03/win10_associate_file_storeapp.html",
+          "author": null,
+          "description": "���� Windows 10 ��������ͨ�� store ��װ app ��������ʹ�ö�����������װ����������װ�� app ��Ƚϰ�ȫ��������Ϊ��Щ����İ�ȫ��ʩ����Щ��ȥ��������������ȴ����鷳�ˡ����磬��һ���ض����͵��ļ������� app �ϡ� ��ϰ���� IrfanView64 �鿴ͼƬ������Ϸ�����г����� .dds �ļ���Ҳ���Դ򿪣���Ҫ���ⰲװ�ٷ���������� IrfanView64 ���ύ store ����ʱû���ύ .dds �����׺�����⵼�� windows 10 �޷�ѡ�������� .dds �ļ�������ѡ���ض��ļ������ļ������ò˵������-Ĭ��Ӧ�ã�����ᷢ����ô���Ҳ������Ӧ�á�...",
+          "link": "https://blog.codingnow.com/2025/03/win10_associate_file_storeapp.html",
+          "publishedOn": "2025-03-11T03:13:58.000Z",
+          "wordCount": 160,
+          "title": "Windows 10 ��ΰ��ļ������� Store App ��",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "piglei",

@@ -81,7 +81,18 @@
       "title": "卡瓦邦噶！",
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.kawabangga.com/?p=6889",
+          "author": "laixintao",
+          "description": "网络系列文章许久不更新了，因为最近的工作比较忙，有很多其他的问题要解决。上个周花了很多时间研究 P2P，（和  […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/6889",
+          "publishedOn": "2025-03-16T09:00:57.000Z",
+          "wordCount": 1915,
+          "title": "Spegel 镜像分发介绍",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Manjusaka",
@@ -93,7 +104,18 @@
       "title": "laike9m's blog",
       "feedUrl": "https://laike9m.com/blog/rss",
       "siteUrl": "https://laike9m.com/blog/rss",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://laike9m.com/blog/memory-dividend,163/",
+          "author": null,
+          "description": "没有简介, 请去看原文吧",
+          "link": "https://laike9m.com/blog/memory-dividend,163/",
+          "publishedOn": "2025-03-17T00:47:14.000Z",
+          "wordCount": 379,
+          "title": "人生体验与记忆股息",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Frost's Blog",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-03-19T00:59:00.415Z</updated>
+    <updated>2025-03-20T00:57:59.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -82,16 +82,6 @@ Continue reading...]]></summary>
 原文链接：How to Design a Good API and Why it Matter…]]></summary>
         <author>
             <name>piglei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[再也别问 Singleton 了好吗？]]></title>
-        <id>https://frostming.com/2025/singleton/</id>
-        <link href="https://frostming.com/2025/singleton/"/>
-        <updated>2025-03-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Programming and Life]]></summary>
-        <author>
-            <name>Frost's Blog</name>
         </author>
     </entry>
     <entry>

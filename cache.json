@@ -109,18 +109,7 @@
       "title": "Frost's Blog",
       "feedUrl": "https://frostming.com/feed.xml",
       "siteUrl": "https://frostming.com/",
-      "articles": [
-        {
-          "id": "https://frostming.com/2025/singleton/",
-          "author": null,
-          "description": "Programming and Life",
-          "link": "https://frostming.com/2025/singleton/",
-          "publishedOn": "2025-03-05T00:00:00.000Z",
-          "wordCount": 508,
-          "title": "再也别问 Singleton 了好吗？",
-          "imageUrl": "https://images.unsplash.com/photo-1552154357-aaba12e68e64?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Posts on Jiayuan Thoughts",

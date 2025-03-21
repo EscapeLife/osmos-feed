@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-03-20T00:57:59.068Z</updated>
+    <updated>2025-03-21T00:59:37.680Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -56,32 +56,6 @@ Continue reading...]]></summary>
         <summary type="html"><![CDATA[���� Windows 10 ��������ͨ�� store ��װ app ��������ʹ�ö�����������װ����������װ�� app ��Ƚϰ�ȫ��������Ϊ��Щ����İ�ȫ��ʩ����Щ��ȥ��������������ȴ����鷳�ˡ����磬��һ���ض����͵��ļ������� app �ϡ� ��ϰ���� IrfanView64 �鿴ͼƬ������Ϸ�����г����� .dds �ļ���Ҳ���Դ򿪣���Ҫ���ⰲװ�ٷ���������� IrfanView64 ���ύ store ����ʱû���ύ .dds �����׺�����⵼�� windows 10 �޷�ѡ�������� .dds �ļ�������ѡ���ض��ļ������ļ������ò˵������-Ĭ��Ӧ�ã�����ᷢ����ô���Ҳ������Ӧ�á�...]]></summary>
         <author>
             <name>�Ʒ�� BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[程序员阅读清单：我喜欢的 100 篇技术文章（41-50）]]></title>
-        <id>https://www.piglei.com/articles/programmer-reading-list-3/</id>
-        <link href="https://www.piglei.com/articles/programmer-reading-list-3/"/>
-        <updated>2025-03-05T23:52:36.000Z</updated>
-        <summary type="html"><![CDATA[程序员们也许是互联网上最爱分享的群体之一，他们不仅喜欢开源自己写的软件，也爱通过写文章来分享知识。从业以来，我阅读过大量技术文章，其中不乏一些佳作。这些佳作中，有些凭借深刻的技术洞见令我深受启发，也有些以庖丁解牛般的精湛手法解释一项技术，让我读后大呼过瘾。
-作为“爱分享”的程序员中的一份子，我想当一次推荐人，将读过的好文章分享给大家。我给这个系列起名为 《程序员阅读清单：我喜欢的 100 篇技术文章》。
-受限于本人的专业与兴趣所在，清单中的文章对以下几个领域有所偏重：程序员通识、软件工程、后端开发、技术写作、Python 语言、Go 语言。
-下面是阅读清单的第二部分，包含第 21 到 40 篇文章。
-系列索引：
-第一部分（1-20）：链接
-第二部分（21-40）：链接
-第三部分（41-50）：链接
-清单
-41. 《抽象泄露法则》
-原文链接：The Law of Leaky Abstractions
-作者：Joel Spolsky
-用 AI，花 5 分钟开发一个新功能。验证时，却发现新功能在某个特殊情况下无法正常工作。为了解决这个 bug，你只能逐行排查调试。等修复好问题，一看表， 1 个小时过去了。
-上面的经历对你来说是否有些似曾相识？早在 2002 年，程序员 Joel Spolsky 就敏锐地发现了这类现象，并将它们总结为：“抽象泄露法则”。软件世界是一层抽象套着另一层的千层饼，就好像 HTTP 协议下有 TCP、TCP 下有 IP，每一层抽象都声称自己是完美的：“你无需关注在我之下的任何细节”。
-但事实却是，所有抽象必定泄露。而当抽象泄露时，就像要从 AI 的 1000 行代码里找到那个错误——事情非常棘手，但我们别无选择。
-42. 《如何设计一个好的 API 及其重要性》
-原文链接：How to Design a Good API and Why it Matter…]]></summary>
-        <author>
-            <name>piglei</name>
         </author>
     </entry>
     <entry>

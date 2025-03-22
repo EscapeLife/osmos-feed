@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-03-21T00:59:37.680Z</updated>
+    <updated>2025-03-22T00:57:30.768Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2024 年总结]]></title>
+        <id>https://greyli.com/?p=5532</id>
+        <link href="https://greyli.com/2024-summary/"/>
+        <updated>2025-03-21T14:44:45.000Z</updated>
+        <summary type="html"><![CDATA[2024 年和 2023 年差不多，可以说是陷入了一种结构性疲惫。上班本身还好，但上班之外的妄想太多，健康状况 […]]]></summary>
+        <author>
+            <name>李辉</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Golang 中的 One-function Interfaces]]></title>
         <id>https://www.kawabangga.com/?p=6903</id>

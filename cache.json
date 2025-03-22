@@ -127,7 +127,18 @@
       "title": "李辉 / Grey Li",
       "feedUrl": "https://greyli.com/feed",
       "siteUrl": "https://greyli.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://greyli.com/?p=5532",
+          "author": "李辉",
+          "description": "2024 年和 2023 年差不多，可以说是陷入了一种结构性疲惫。上班本身还好，但上班之外的妄想太多，健康状况 […]",
+          "link": "https://greyli.com/2024-summary/",
+          "publishedOn": "2025-03-21T14:44:45.000Z",
+          "wordCount": 543,
+          "title": "2024 年总结",
+          "imageUrl": "https://greyli.com/wp-content/uploads/2025/03/avatar-500-compressed.jpg"
+        }
+      ]
     },
     {
       "title": "�Ʒ�� BLOG",

@@ -86,7 +86,18 @@
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "https://www.manjusaka.blog/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.manjusaka.blog/posts/2025/03/23/a-simple-introduction-about-load-balance-algorithm/",
+          "author": null,
+          "description": "<p>这篇文章鸽了很久，最终决定还是老老实实写完，来介绍一下常见的一些负载均衡算法实现。本文的代码最终都会放在 <strong>load-balancer-algorithm</strong><a href=\"#refer-anchor-1\"><sup>1</sup></a> 这个 repo 中</p>\n<p><del>我从来没有觉得写博客快乐过</del></p>",
+          "link": "https://www.manjusaka.blog/posts/2025/03/23/a-simple-introduction-about-load-balance-algorithm/",
+          "publishedOn": "2025-03-23T12:00:00.000Z",
+          "wordCount": 2785,
+          "title": "简单聊聊常见的负载均衡算法",
+          "imageUrl": "https://www.manjusaka.blog/images/pixai-1860500966642493859-3.png"
+        }
+      ]
     },
     {
       "title": "laike9m's blog",

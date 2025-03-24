@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-03-23T01:03:04.131Z</updated>
+    <updated>2025-03-24T01:01:00.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[简单聊聊常见的负载均衡算法]]></title>
+        <id>https://www.manjusaka.blog/posts/2025/03/23/a-simple-introduction-about-load-balance-algorithm/</id>
+        <link href="https://www.manjusaka.blog/posts/2025/03/23/a-simple-introduction-about-load-balance-algorithm/"/>
+        <updated>2025-03-23T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>这篇文章鸽了很久，最终决定还是老老实实写完，来介绍一下常见的一些负载均衡算法实现。本文的代码最终都会放在 <strong>load-balancer-algorithm</strong><a href="#refer-anchor-1"><sup>1</sup></a> 这个 repo 中</p>
+<p><del>我从来没有觉得写博客快乐过</del></p>]]></summary>
+        <author>
+            <name>Manjusaka</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 年总结]]></title>
         <id>https://greyli.com/?p=5532</id>

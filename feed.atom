@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-03-30T01:04:06.580Z</updated>
+    <updated>2025-03-31T01:02:41.722Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -46,17 +46,6 @@ Continue reading...]]></summary>
         <summary type="html"><![CDATA[没有简介, 请去看原文吧]]></summary>
         <author>
             <name>laike9m's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spegel 镜像分发介绍]]></title>
-        <id>https://www.kawabangga.com/?p=6889</id>
-        <link href="https://www.kawabangga.com/posts/6889"/>
-        <updated>2025-03-16T09:00:57.000Z</updated>
-        <summary type="html"><![CDATA[网络系列文章许久不更新了，因为最近的工作比较忙，有很多其他的问题要解决。上个周花了很多时间研究 P2P，（和  […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

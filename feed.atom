@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-03-31T01:02:41.722Z</updated>
+    <updated>2025-04-01T01:06:51.676Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[压测的时候 QPS 为什么上不去？]]></title>
+        <id>https://www.kawabangga.com/?p=6910</id>
+        <link href="https://www.kawabangga.com/posts/6910"/>
+        <updated>2025-03-31T14:41:55.000Z</updated>
+        <summary type="html"><![CDATA[小陈最近为团队的 HTTP 服务开发了一个高性能网关，用户的请求会先经过小陈开发的网关，网关对 HTTP He […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[简单聊聊常见的负载均衡算法]]></title>
         <id>https://www.manjusaka.blog/posts/2025/03/23/a-simple-introduction-about-load-balance-algorithm/</id>
@@ -36,16 +47,6 @@
 Continue reading...]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人生体验与记忆股息]]></title>
-        <id>https://laike9m.com/blog/memory-dividend,163/</id>
-        <link href="https://laike9m.com/blog/memory-dividend,163/"/>
-        <updated>2025-03-17T00:47:14.000Z</updated>
-        <summary type="html"><![CDATA[没有简介, 请去看原文吧]]></summary>
-        <author>
-            <name>laike9m's blog</name>
         </author>
     </entry>
     <entry>

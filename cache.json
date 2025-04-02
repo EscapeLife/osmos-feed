@@ -69,16 +69,6 @@
           "wordCount": 1088,
           "title": "压测的时候 QPS 为什么上不去？",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=6903",
-          "author": "laixintao",
-          "description": "看到一个 Golang 的模式，用一个 function 来实现一个 interface，function 本 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/6903",
-          "publishedOn": "2025-03-17T15:56:05.000Z",
-          "wordCount": 1456,
-          "title": "Golang 中的 One-function Interfaces",
-          "imageUrl": null
         }
       ]
     },

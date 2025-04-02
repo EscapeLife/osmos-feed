@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-04-01T01:06:51.676Z</updated>
+    <updated>2025-04-02T01:00:26.808Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -36,17 +36,6 @@ Continue reading...]]></summary>
         <summary type="html"><![CDATA[2024 年和 2023 年差不多，可以说是陷入了一种结构性疲惫。上班本身还好，但上班之外的妄想太多，健康状况 […]]]></summary>
         <author>
             <name>李辉</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Golang 中的 One-function Interfaces]]></title>
-        <id>https://www.kawabangga.com/?p=6903</id>
-        <link href="https://www.kawabangga.com/posts/6903"/>
-        <updated>2025-03-17T15:56:05.000Z</updated>
-        <summary type="html"><![CDATA[看到一个 Golang 的模式，用一个 function 来实现一个 interface，function 本 […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

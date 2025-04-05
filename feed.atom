@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-04-04T00:59:17.357Z</updated>
+    <updated>2025-04-05T00:58:45.106Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[数据是如何转发的]]></title>
+        <id>https://www.kawabangga.com/?p=6919</id>
+        <link href="https://www.kawabangga.com/posts/6919"/>
+        <updated>2025-04-04T15:42:39.000Z</updated>
+        <summary type="html"><![CDATA[在之前的文章中介绍了网络的「分层」概念，那么这一篇继续科普一下网络的基础，即「转发」这个概念。 所有的转发都是 […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[压测的时候 QPS 为什么上不去？]]></title>
         <id>https://www.kawabangga.com/?p=6910</id>

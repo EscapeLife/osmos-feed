@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-04-05T00:58:45.106Z</updated>
+    <updated>2025-04-06T01:03:29.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -37,16 +37,6 @@ Continue reading...]]></summary>
 <p><del>我从来没有觉得写博客快乐过</del></p>]]></summary>
         <author>
             <name>Manjusaka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 年总结]]></title>
-        <id>https://greyli.com/?p=5532</id>
-        <link href="https://greyli.com/2024-summary/"/>
-        <updated>2025-03-21T14:44:45.000Z</updated>
-        <summary type="html"><![CDATA[2024 年和 2023 年差不多，可以说是陷入了一种结构性疲惫。上班本身还好，但上班之外的妄想太多，健康状况 […]]]></summary>
-        <author>
-            <name>李辉</name>
         </author>
     </entry>
     <entry>

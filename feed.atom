@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-04-08T00:59:55.099Z</updated>
+    <updated>2025-04-09T01:00:10.277Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[宫崎骏最新拍摄的刘邦的故事]]></title>
+        <id>https://codechina.org/?p=31083</id>
+        <link href="https://codechina.org/2025/04/31083/"/>
+        <updated>2025-04-08T16:08:41.000Z</updated>
+        <summary type="html"><![CDATA[刘邦做街溜子亭长的时候就有神异的故事，他老婆吕雉每次去他隐藏的地方找他都可以找到他，因为据说他头顶走势有龙气聚 […]
+宫崎骏最新拍摄的刘邦的故事最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[���ƹ��������κ��Ĺ���֮��]]></title>
+        <id>https://blog.codingnow.com/2025/04/dbg_rules_6.html</id>
+        <link href="https://blog.codingnow.com/2025/04/dbg_rules_6.html"/>
+        <updated>2025-04-08T13:10:54.000Z</updated>
+        <summary type="html"><![CDATA[��ν��������ڹ����������ߵĿ��ƹ��������Ρ���Ϸ������������������Ϊû�����İ棬��������û��ʲô�����档 ������ XenoShyft �����������ȫ��Ϊ XenoShyft: Onslaught (2015) �������ֳ���һ�����Զ��������չ XenoShyft: Dreadmire (2017) �� ���±����е����Ǻӽ��ӣ��������ʿ�ֿ����Ӵ������˵������һ��������Ϸ����Ϸ��Ϊ�������Σ�ÿ���������֣�һ��Ҫ��Ծ��ֳ�Ⱥ�ĳ�档...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[压测的时候 QPS 为什么上不去？答案和解析]]></title>
         <id>https://www.kawabangga.com/?p=6937</id>

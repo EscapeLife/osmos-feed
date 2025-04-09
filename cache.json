@@ -49,6 +49,16 @@
       "siteUrl": "https://codechina.org/",
       "articles": [
         {
+          "id": "https://codechina.org/?p=31083",
+          "author": "tinyfool",
+          "description": "刘邦做街溜子亭长的时候就有神异的故事，他老婆吕雉每次去他隐藏的地方找他都可以找到他，因为据说他头顶走势有龙气聚 […]\n宫崎骏最新拍摄的刘邦的故事最先出现在Tinyfool的个人网站。",
+          "link": "https://codechina.org/2025/04/31083/",
+          "publishedOn": "2025-04-08T16:08:41.000Z",
+          "wordCount": 1117,
+          "title": "宫崎骏最新拍摄的刘邦的故事",
+          "imageUrl": "https://codechina.org/wp-content/uploads/2025/04/01-传奇皇帝.png"
+        },
+        {
           "id": "https://codechina.org/?p=31071",
           "author": "tinyfool",
           "description": "陈胜吴广起义小时候就知道是前往戍边，失期当斩，但是那时候没注意去的是哪里戍边，最近一看，原来是渔阳，北京密云西 […]\n读史杂感 – 北京户口最先出现在Tinyfool的个人网站。",
@@ -143,7 +153,18 @@
       "title": "�Ʒ�� BLOG",
       "feedUrl": "https://blog.codingnow.com/atom.xml",
       "siteUrl": "https://blog.codingnow.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://blog.codingnow.com/2025/04/dbg_rules_6.html",
+          "author": null,
+          "description": "��ν��������ڹ����������ߵĿ��ƹ��������Ρ���Ϸ������������������Ϊû�����İ棬��������û��ʲô�����档 ������ XenoShyft �����������ȫ��Ϊ XenoShyft: Onslaught (2015) �������ֳ���һ�����Զ��������չ XenoShyft: Dreadmire (2017) �� ���±����е����Ǻӽ��ӣ��������ʿ�ֿ����Ӵ������˵������һ��������Ϸ����Ϸ��Ϊ�������Σ�ÿ���������֣�һ��Ҫ��Ծ��ֳ�Ⱥ�ĳ�档...",
+          "link": "https://blog.codingnow.com/2025/04/dbg_rules_6.html",
+          "publishedOn": "2025-04-08T13:10:54.000Z",
+          "wordCount": 184,
+          "title": "���ƹ��������κ��Ĺ���֮��",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "piglei",

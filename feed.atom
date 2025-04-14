@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-04-13T02:29:40.719Z</updated>
+    <updated>2025-04-14T01:03:08.480Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[网络抓包的技巧]]></title>
+        <id>https://www.kawabangga.com/?p=6950</id>
+        <link href="https://www.kawabangga.com/posts/6950"/>
+        <updated>2025-04-13T04:30:46.000Z</updated>
+        <summary type="html"><![CDATA[虽然这个系列的文章都是聚焦于如何通过分析网络抓包文件，结合网络知识，来解决实际的问题的，但是分析之前的步骤—— […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用海外产品（包括 AI）的时候，发现个秘密]]></title>
         <id>https://macshuo.com/?p=1967</id>

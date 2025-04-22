@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-04-21T01:04:09.575Z</updated>
+    <updated>2025-04-22T01:01:28.587Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[请求为什么超时了？]]></title>
+        <id>https://www.kawabangga.com/?p=6965</id>
+        <link href="https://www.kawabangga.com/posts/6965"/>
+        <updated>2025-04-20T22:03:00.000Z</updated>
+        <summary type="html"><![CDATA[小明是一名网络工程师，有一天，同事报告问题说：自己的程序发送 HTTP 请求在测试环境好好的，但是在线上环境就 […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[扒一扒h2database远程代码执行]]></title>
         <id>https://www.leavesongs.com/PENETRATION/talk-about-h2database-rce.html</id>
@@ -101,28 +112,6 @@ public class IndexController {
         <summary type="html"><![CDATA[��ν��������ڹ����������ߵĿ��ƹ��������Ρ���Ϸ������������������Ϊû�����İ棬��������û��ʲô�����档 ������ XenoShyft �����������ȫ��Ϊ XenoShyft: Onslaught (2015) �������ֳ���һ�����Զ��������չ XenoShyft: Dreadmire (2017) �� ���±����е����Ǻӽ��ӣ��������ʿ�ֿ����Ӵ������˵������һ��������Ϸ����Ϸ��Ϊ�������Σ�ÿ���������֣�һ��Ҫ��Ծ��ֳ�Ⱥ�ĳ�档...]]></summary>
         <author>
             <name>�Ʒ�� BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[压测的时候 QPS 为什么上不去？答案和解析]]></title>
-        <id>https://www.kawabangga.com/?p=6937</id>
-        <link href="https://www.kawabangga.com/posts/6937"/>
-        <updated>2025-04-07T11:17:18.000Z</updated>
-        <summary type="html"><![CDATA[这个问题实际的原因是客户端的端口不够用了。 为什么端口会不够用呢？因为一个 TCP 连接的标志是四元组： (s […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[读史杂感 – 北京户口]]></title>
-        <id>https://codechina.org/?p=31071</id>
-        <link href="https://codechina.org/2025/04/31071/"/>
-        <updated>2025-04-07T04:17:40.000Z</updated>
-        <summary type="html"><![CDATA[陈胜吴广起义小时候就知道是前往戍边，失期当斩，但是那时候没注意去的是哪里戍边，最近一看，原来是渔阳，北京密云西 […]
-读史杂感 – 北京户口最先出现在Tinyfool的个人网站。]]></summary>
-        <author>
-            <name>tinyfool</name>
         </author>
     </entry>
     <entry>

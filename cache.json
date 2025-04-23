@@ -43,6 +43,16 @@
       "siteUrl": "https://macshuo.com",
       "articles": [
         {
+          "id": "https://macshuo.com/?p=1969",
+          "author": "MacTalk",
+          "description": "墨问便签这款产品，最初是用来做 demo 的，试试小程序的能力。另外，有一点纪念 … Continue reading →",
+          "link": "https://macshuo.com/?p=1969",
+          "publishedOn": "2025-04-22T10:40:38.000Z",
+          "wordCount": 657,
+          "title": "墨问便签正成为历史",
+          "imageUrl": null
+        },
+        {
           "id": "https://macshuo.com/?p=1967",
           "author": "MacTalk",
           "description": "这个发现叫做慢操作 终于把 2025 墨问 AI 内参专栏的第一季交付完了。为了 … Continue reading →",

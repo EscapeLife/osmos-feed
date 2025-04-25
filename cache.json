@@ -66,16 +66,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://macshuo.com/?p=1958",
-          "author": "MacTalk",
-          "description": "前几天我看到段在雪球上说： 卖了点苹果以及其他的 put。懂王威武，感觉起码要折 … Continue reading →",
-          "link": "https://macshuo.com/?p=1958",
-          "publishedOn": "2025-04-10T04:00:52.000Z",
-          "wordCount": 718,
-          "title": "如何理解段永平这周的股市操作",
-          "imageUrl": null
         }
       ]
     },
@@ -222,16 +212,6 @@
           "publishedOn": "2025-04-11T02:00:00.000Z",
           "wordCount": 449,
           "title": "Java利用无外网（下）：ClassPathXmlApplicationContext的不出网利用",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.leavesongs.com/PENETRATION/jdbc-injection-with-hertzbeat-cve-2024-42323.html",
-          "author": "phithon",
-          "description": "上周日联合@Ar3h 师傅一起，在【代码审计知识星球】里发布了一个Springboot的小挑战：https://t.zsxq.com/tSBBZ，这个小挑战的核心目标是在无法连接外网的情况下，如何利用PSQL JDBC注入漏洞。我会分两篇文章来讲讲所谓的“不出网利用”，第一篇文章会介绍最近遇到的一个实际案例，也就是Vulhub里的Apache Hertzbeat的后台代码执行漏洞（CVE-2...",
-          "link": "https://www.leavesongs.com/PENETRATION/jdbc-injection-with-hertzbeat-cve-2024-42323.html",
-          "publishedOn": "2025-04-10T02:00:00.000Z",
-          "wordCount": 430,
-          "title": "Java利用无外网（上）：从HertzBeat聊聊SnakeYAML反序列化",
           "imageUrl": null
         }
       ]

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-05-08T01:03:49.723Z</updated>
+    <updated>2025-05-09T01:03:06.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[���ƹ��������κ��Ĺ���֮��]]></title>
+        <id>https://blog.codingnow.com/2025/05/dbg_rules_7.html</id>
+        <link href="https://blog.codingnow.com/2025/05/dbg_rules_7.html"/>
+        <updated>2025-05-08T06:48:19.000Z</updated>
+        <summary type="html"><![CDATA[��������Ϸ��������Ϸ�в�̫��������Һ�ϲ�����֡��Ͼ�������һ��������̫�����ף���Ȼ����Э�������ܿ���һ���˲ٿض෽���� solo �����վ�����Ϊ������Ϸ��Ƶġ�������ܵ�����˿�����Ϸ����û��ʵ��棬��ֻ��������ģ������������̡� ��һ���� Legacy of Yu (2023) ������ˮ����ʵ˵���ⲻ��һ��ơ���������Ϸ����Ȼ����Ϸ��������һ�����Ҫ���г��С������¿�Ƭ������Ϸ���̲�����Χ�ƹ������еġ���Щ���Ƹ���������Ʒ��...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python 3.14: Python 世界的一大步]]></title>
         <id>https://www.manjusaka.blog/posts/2025/04/26/3-14-is-one-of-the-best-python-version/</id>
@@ -14,17 +24,6 @@
         <summary type="html"><![CDATA[<p>Python 3.14 目前主要的一些主要的特性其实已经固定了，在我看来，Python 3.14 是一个未来很多年的一个核心版本。因为其确定了是时代的 Python<br>调试生态的基准，这篇文章将会来聊聊这个 Python 世界中的史诗级改进</p>]]></summary>
         <author>
             <name>Manjusaka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[请求为什么超时了？答案和解析]]></title>
-        <id>https://www.kawabangga.com/?p=6969</id>
-        <link href="https://www.kawabangga.com/posts/6969"/>
-        <updated>2025-04-23T22:45:00.000Z</updated>
-        <summary type="html"><![CDATA[首先，通过这个抓包文件前几个包可以发现，服务器的网络是没有问题的，因为访问 DNS 或者 ubuntu apt […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

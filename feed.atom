@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-05-11T01:07:32.641Z</updated>
+    <updated>2025-05-12T01:06:03.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -14,16 +14,6 @@
         <summary type="html"><![CDATA[��������Ϸ��������Ϸ�в�̫��������Һ�ϲ�����֡��Ͼ�������һ��������̫�����ף���Ȼ����Э�������ܿ���һ���˲ٿض෽���� solo �����վ�����Ϊ������Ϸ��Ƶġ�������ܵ�����˿�����Ϸ����û��ʵ��棬��ֻ��������ģ������������̡� ��һ���� Legacy of Yu (2023) ������ˮ����ʵ˵���ⲻ��һ��ơ���������Ϸ����Ȼ����Ϸ��������һ�����Ҫ���г��С������¿�Ƭ������Ϸ���̲�����Χ�ƹ������еġ���Щ���Ƹ���������Ʒ��...]]></summary>
         <author>
             <name>�Ʒ�� BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python 3.14: Python 世界的一大步]]></title>
-        <id>https://www.manjusaka.blog/posts/2025/04/26/3-14-is-one-of-the-best-python-version/</id>
-        <link href="https://www.manjusaka.blog/posts/2025/04/26/3-14-is-one-of-the-best-python-version/"/>
-        <updated>2025-04-26T14:49:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>Python 3.14 目前主要的一些主要的特性其实已经固定了，在我看来，Python 3.14 是一个未来很多年的一个核心版本。因为其确定了是时代的 Python<br>调试生态的基准，这篇文章将会来聊聊这个 Python 世界中的史诗级改进</p>]]></summary>
-        <author>
-            <name>Manjusaka</name>
         </author>
     </entry>
     <entry>

@@ -65,18 +65,7 @@
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "https://www.manjusaka.blog/atom.xml",
-      "articles": [
-        {
-          "id": "https://www.manjusaka.blog/posts/2025/04/26/3-14-is-one-of-the-best-python-version/",
-          "author": null,
-          "description": "<p>Python 3.14 目前主要的一些主要的特性其实已经固定了，在我看来，Python 3.14 是一个未来很多年的一个核心版本。因为其确定了是时代的 Python<br>调试生态的基准，这篇文章将会来聊聊这个 Python 世界中的史诗级改进</p>",
-          "link": "https://www.manjusaka.blog/posts/2025/04/26/3-14-is-one-of-the-best-python-version/",
-          "publishedOn": "2025-04-26T14:49:00.000Z",
-          "wordCount": 4502,
-          "title": "Python 3.14: Python 世界的一大步",
-          "imageUrl": "https://cdn.pixabay.com/photo/2023/02/06/16/46/sea-7772372_1280.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "laike9m's blog",

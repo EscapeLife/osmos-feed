@@ -77,7 +77,18 @@
       "title": "Frost's Blog",
       "feedUrl": "https://frostming.com/feed.xml",
       "siteUrl": "https://frostming.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://frostming.com/2025/henan/",
+          "author": null,
+          "description": "Programming and Life",
+          "link": "https://frostming.com/2025/henan/",
+          "publishedOn": "2025-05-11T00:00:00.000Z",
+          "wordCount": 275,
+          "title": "河南行拾遗",
+          "imageUrl": "https://webp.frostming.com/images/tinywow_IMG_7930_80200090.jpg"
+        }
+      ]
     },
     {
       "title": "Posts on Jiayuan Thoughts",
@@ -102,6 +113,16 @@
       "feedUrl": "https://blog.codingnow.com/atom.xml",
       "siteUrl": "https://blog.codingnow.com/",
       "articles": [
+        {
+          "id": "https://blog.codingnow.com/2025/05/a_star_pathfinding.html",
+          "author": null,
+          "description": "����Ҫһ���ӿڼ򵥵�Ѱ·ģ�飬���Խ���д��һ�� ����ʵ֮ǰҲд���ܶ�汾�������ϴ�����ʱ�ͷ������Լ��� github �˺�������ͬ���ֿ⡣������֮ǰ�İ汾�Ľӿ���Ʋ�̫���⣬ֱ��ɾ���ˣ�����ε��°汾�����ϵĲֿ����֡� ��ϣ���ﵽ��Ŀ���ǣ�C �ӿڼ����ã��Һ͵�ͼ���������ݽṹ�޹أ�ֻ�ṩѰ·���ܡ�����������չ����ͬӦ�ó����� ���ݽṹ�򵥣��ڴ濪���̶������㷨ִ�й����в���������ڴ档����Է�����ڶ��̻߳������С� �Ҳ���Ҫ�����ر��Ӻ͹�ģ�޴�ĵ�ͼ�����ֳ���Ӧ�ö�����һЩԤ���������������յ��·�߽������ʱ����ʹ�ڴ��ģ��ͼ�ϣ���Ӧ���нϺõ����ܡ�...",
+          "link": "https://blog.codingnow.com/2025/05/a_star_pathfinding.html",
+          "publishedOn": "2025-05-14T04:05:48.000Z",
+          "wordCount": 127,
+          "title": "һ���򵥵� A star Ѱ·�㷨ʵ��",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.codingnow.com/2025/05/dbg_rules_7.html",
           "author": null,

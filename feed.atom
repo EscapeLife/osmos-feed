@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-05-14T01:03:44.481Z</updated>
+    <updated>2025-05-15T01:01:26.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[һ���򵥵� A star Ѱ·�㷨ʵ��]]></title>
+        <id>https://blog.codingnow.com/2025/05/a_star_pathfinding.html</id>
+        <link href="https://blog.codingnow.com/2025/05/a_star_pathfinding.html"/>
+        <updated>2025-05-14T04:05:48.000Z</updated>
+        <summary type="html"><![CDATA[����Ҫһ���ӿڼ򵥵�Ѱ·ģ�飬���Խ���д��һ�� ����ʵ֮ǰҲд���ܶ�汾�������ϴ�����ʱ�ͷ������Լ��� github �˺�������ͬ���ֿ⡣������֮ǰ�İ汾�Ľӿ���Ʋ�̫���⣬ֱ��ɾ���ˣ�����ε��°汾�����ϵĲֿ����֡� ��ϣ���ﵽ��Ŀ���ǣ�C �ӿڼ����ã��Һ͵�ͼ���������ݽṹ�޹أ�ֻ�ṩѰ·���ܡ�����������չ����ͬӦ�ó����� ���ݽṹ�򵥣��ڴ濪���̶������㷨ִ�й����в���������ڴ档����Է�����ڶ��̻߳������С� �Ҳ���Ҫ�����ر��Ӻ͹�ģ�޴�ĵ�ͼ�����ֳ���Ӧ�ö�����һЩԤ���������������յ��·�߽������ʱ����ʹ�ڴ��ģ��ͼ�ϣ���Ӧ���нϺõ����ܡ�...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[河南行拾遗]]></title>
+        <id>https://frostming.com/2025/henan/</id>
+        <link href="https://frostming.com/2025/henan/"/>
+        <updated>2025-05-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Programming and Life]]></summary>
+        <author>
+            <name>Frost's Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[���ƹ��������κ��Ĺ���֮��]]></title>
         <id>https://blog.codingnow.com/2025/05/dbg_rules_7.html</id>

@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-05-21T01:04:30.185Z</updated>
+    <updated>2025-05-22T01:03:56.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[项目管理器工具uv使用]]></title>
+        <id>https://www.escapelife.site/posts/383e5fc8.html</id>
+        <link href="https://www.escapelife.site/posts/383e5fc8.html"/>
+        <updated>2025-05-19T08:59:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p><strong>主要聊聊，进阶与企业最佳实践！</strong></p>
+</blockquote>
+<p><a href="https://github.com/astral-sh/uv"><code>uv</code></a> 是一个基于]]></summary>
+        <author>
+            <name>Escape</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[һ���򵥵� A star Ѱ·�㷨ʵ��]]></title>
         <id>https://blog.codingnow.com/2025/05/a_star_pathfinding.html</id>

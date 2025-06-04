@@ -129,7 +129,18 @@
       "title": "piglei",
       "feedUrl": "https://www.piglei.com/feeds/latest",
       "siteUrl": "http://www.piglei.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.piglei.com/articles/the-software-design-I-see-thick-and-thin-clients/",
+          "author": null,
+          "description": "设计软件是一个不断产生疑问、解决疑问的过程。设计者们面对一个需求，会产生许许多多的疑问，在这些疑问中，有一个看似幼稚，却直击灵魂的小问题：“业务逻辑（复杂度）放在哪？” 项目每引入一个新功能，所增加的总复杂度几乎是确定的，但如何把这些复杂度分配到各模块中，其中的方式方法却变化无穷。\n比如，一个采用“客户端/服务端”架构的软件，在增加某项业务功能时，工程师们可能会发现：它既可以（主要）放在服务端实现，也可以放在客户端实现。不同决策直接影响后续的分工模式、开发效率以及功能扩展性等方方面面。\n此类场景中，一种常见的设计策略是 “瘦客户端，胖服务端” ，“胖/瘦”指的并非身材，而是组件所承担的职责多寡。采用“瘦客户端”设计，代表主要的业务逻辑均由服务端承担，客户端尽量简单。\n让我们通过 kubectl apply 命令的故事，看看如何把“瘦客户端”理念应用在现实世界的软件中。\nkubectl apply 的故事\n作为当下最流行的容器编排系统，Kubernetes 最为人所熟知的设计之一，是它的声明式资源配置功能。简单来说，人们将应用的“目标运行状态”写进一份 YAML 文件，然后执行 kubectl apply，Kubernetes 便会遵循描述，将应用运行起来。\n举个例子，以下是一个简单的 Nginx 应用的 Deployment 资源描述：\n# test_nginx.yaml\napiVersion: apps/v1\nkind: Deployment\nmetadata:\n  name: nginx-deployment\n  annotations:\n    the_app_name: nginx  # *一个小小的注解，“后面会考”*\nspec:\n  replicas: 1\n  selector:\n    matchLabels:\n      app: nginx\n  templ…",
+          "link": "https://www.piglei.com/articles/the-software-design-I-see-thick-and-thin-clients/",
+          "publishedOn": "2025-06-03T09:49:31.000Z",
+          "wordCount": 671,
+          "title": "我看见的软件设计：胖瘦客户端",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "静觅",

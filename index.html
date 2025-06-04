@@ -82,6 +82,72 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-06-03 datetime="2025-06-03T09:49:31.000Z">2025-06-03</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-06-03 datetime="2025-06-03T09:49:31.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >piglei</button>
+                  <a class="source-heading__link" href="http://www.piglei.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.piglei.com/articles/the-software-design-I-see-thick-and-thin-clients/"
+                        open
+                      >
+                        <summary class="article-expander__title">我看见的软件设计：胖瘦客户端</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.piglei.com/articles/the-software-design-I-see-thick-and-thin-clients/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>设计软件是一个不断产生疑问、解决疑问的过程。设计者们面对一个需求，会产生许许多多的疑问，在这些疑问中，有一个看似幼稚，却直击灵魂的小问题：“业务逻辑（复杂度）放在哪？” 项目每引入一个新功能，所增加的总复杂度几乎是确定的，但如何把这些复杂度分配到各模块中，其中的方式方法却变化无穷。
+比如，一个采用“客户端/服务端”架构的软件，在增加某项业务功能时，工程师们可能会发现：它既可以（主要）放在服务端实现，也可以放在客户端实现。不同决策直接影响后续的分工模式、开发效率以及功能扩展性等方方面面。
+此类场景中，一种常见的设计策略是 “瘦客户端，胖服务端” ，“胖/瘦”指的并非身材，而是组件所承担的职责多寡。采用“瘦客户端”设计，代表主要的业务逻辑均由服务端承担，客户端尽量简单。
+让我们通过 kubectl apply 命令的故事，看看如何把“瘦客户端”理念应用在现实世界的软件中。
+kubectl apply 的故事
+作为当下最流行的容器编排系统，Kubernetes 最为人所熟知的设计之一，是它的声明式资源配置功能。简单来说，人们将应用的“目标运行状态”写进一份 YAML 文件，然后执行 kubectl apply，Kubernetes 便会遵循描述，将应用运行起来。
+举个例子，以下是一个简单的 Nginx 应用的 Deployment 资源描述：
+# test_nginx.yaml
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: nginx-deployment
+  annotations:
+    the_app_name: nginx  # *一个小小的注解，“后面会考”*
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: nginx
+  templ…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-06-01 datetime="2025-06-01T14:23:57.000Z">2025-06-01</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-06-01 datetime="2025-06-01T14:23:57.000Z"></time>
           </button>
@@ -252,8 +318,8 @@ Continue reading...</span>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/EscapeLife/osmos-feed/actions/runs/15406137684">
-        <time id="build-timestamp" datetime="2025-06-03T01:05:58.434Z">2025-06-03T01:05:58.434Z</time>
+      <a class="footer-link" href="https://github.com/EscapeLife/osmos-feed/actions/runs/15431139204">
+        <time id="build-timestamp" datetime="2025-06-04T01:05:31.865Z">2025-06-04T01:05:31.865Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-06-08T01:11:22.824Z</updated>
+    <updated>2025-06-09T01:08:54.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[XDP 实现所有的 TCP 端口都接受 TCP 建立连接]]></title>
+        <id>https://www.kawabangga.com/?p=7015</id>
+        <link href="https://www.kawabangga.com/posts/7015"/>
+        <updated>2025-06-08T15:57:48.000Z</updated>
+        <summary type="html"><![CDATA[一个 XDP 练习程序：作为 TCP 的 server 端，用 XDP 实现所有的 TCP 端口都接受 TCP […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我看见的软件设计：胖瘦客户端]]></title>
         <id>https://www.piglei.com/articles/the-software-design-I-see-thick-and-thin-clients/</id>

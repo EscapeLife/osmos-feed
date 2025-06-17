@@ -41,18 +41,7 @@
       "title": "MacTalk-池建强的随想录",
       "feedUrl": "https://macshuo.com/?feed=rss2",
       "siteUrl": "https://macshuo.com",
-      "articles": [
-        {
-          "id": "https://macshuo.com/?p=1974",
-          "author": "MacTalk",
-          "description": "什么是 OpenAPI？ 简单来说，就是墨问提供了一系列接口，让开发者可以通过这 … Continue reading →",
-          "link": "https://macshuo.com/?p=1974",
-          "publishedOn": "2025-06-01T14:23:57.000Z",
-          "wordCount": 698,
-          "title": "墨问发布 OpenAI、社区版 mcp 和 chrome AI 剪藏助手",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Tinyfool的个人网站",
@@ -79,16 +68,6 @@
           "publishedOn": "2025-06-08T15:57:48.000Z",
           "wordCount": 2110,
           "title": "XDP 实现所有的 TCP 端口都接受 TCP 建立连接",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=6980",
-          "author": "laixintao",
-          "description": "Django ORM 是我最喜欢的 ORM，它自带了全套数据库管理的解决方案，开箱即用。但是到了某一家公司里就 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/6980",
-          "publishedOn": "2025-06-01T13:53:26.000Z",
-          "wordCount": 1982,
-          "title": "Django 全局禁用外键",
           "imageUrl": null
         }
       ]

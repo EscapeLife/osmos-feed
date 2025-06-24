@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-06-23T01:10:28.169Z</updated>
+    <updated>2025-06-24T01:06:18.474Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -34,38 +34,6 @@
         <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[���ݵĽ����͵���]]></title>
-        <id>https://blog.codingnow.com/2025/06/elevator.html</id>
-        <link href="https://blog.codingnow.com/2025/06/elevator.html"/>
-        <updated>2025-06-09T06:02:45.000Z</updated>
-        <summary type="html"><![CDATA[���������Ϻ����г���˵�����ݵĽ�����ƻ�����������ġ�һ����¥��ĵ�����������������������ť���ó˿ͱ����Լ���Ҫ���л������С�����ڵ�������ʾ���ݵ�ǰ����¥��Ļ����ͻ���������Ϊ������ָ�õ��ݽ����������У�����ָ�������¡�һ���������⣬�ͻ���������ָ� ����ÿ���й��ڸ߲�칫���ϰྭ���ĳ���Ա����������ݵ����㷨�����ۡ��������ڷ��㼷�����ǳ���Ա�ǵĹ�ͬ���䡣����һ�����㻰����������߲�����ʹ��Ч�ʣ���Ҳ�����⣬20 ��������������������������۹�������⡣������Ҳ���ü������ˣ��ƺ����԰ѹ�ȥ���ǹ��ķ�����¼һ�¡�...]]></summary>
-        <author>
-            <name>�Ʒ�� BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本地多语言AI字幕组：whisper实战教程]]></title>
-        <id>https://www.leavesongs.com/THINK/using-whisper-ai-to-generate-video-subtitles.html</id>
-        <link href="https://www.leavesongs.com/THINK/using-whisper-ai-to-generate-video-subtitles.html"/>
-        <updated>2025-06-09T01:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Whisper是OpenAI发布的一个开源自动语音识别（ASR）系统，它于 2022 年发布，目的是提供一个强大、通用、易于使用的语音转文本工具。
-自从Whisper发布以后，市面上就涌现出大量“视频生成字幕”工具，但大部分工具都是要付费的，而且能在Windows和Linux下使用的较少。其实这部分工具就是将Whisper包装一层以后使用，我们完全可以直接在本地电脑上运行Whisper模型，...]]></summary>
-        <author>
-            <name>phithon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XDP 实现所有的 TCP 端口都接受 TCP 建立连接]]></title>
-        <id>https://www.kawabangga.com/?p=7015</id>
-        <link href="https://www.kawabangga.com/posts/7015"/>
-        <updated>2025-06-08T15:57:48.000Z</updated>
-        <summary type="html"><![CDATA[一个 XDP 练习程序：作为 TCP 的 server 端，用 XDP 实现所有的 TCP 端口都接受 TCP […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

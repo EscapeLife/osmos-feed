@@ -84,7 +84,18 @@
       "title": "laike9m's blog",
       "feedUrl": "https://laike9m.com/blog/rss",
       "siteUrl": "https://laike9m.com/blog/rss",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://laike9m.com/blog/novice-investor,164/",
+          "author": null,
+          "description": "我想列举几个初入投资容易犯的错误，其中的坑我也踩过。",
+          "link": "https://laike9m.com/blog/novice-investor,164/",
+          "publishedOn": "2025-06-29T00:38:21.000Z",
+          "wordCount": 404,
+          "title": "初入投资容易犯的错误",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Frost's Blog",
@@ -108,7 +119,18 @@
       "title": "李辉 / Grey Li",
       "feedUrl": "https://greyli.com/feed",
       "siteUrl": "https://greyli.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://greyli.com/?p=5634",
+          "author": "李辉",
+          "description": "每一次的游记都拖到放弃。从 19 年第一次去台湾，到上次去日本，每次都想着记录一下，最后都不了了之。我想这一次 […]",
+          "link": "https://greyli.com/seattle-and-microsoft-trip/",
+          "publishedOn": "2025-06-28T03:52:14.000Z",
+          "wordCount": 634,
+          "title": "西雅图和微软 MVP 峰会游记",
+          "imageUrl": "https://greyli.com/wp-content/uploads/2025/03/avatar-500-compressed.jpg"
+        }
+      ]
     },
     {
       "title": "�Ʒ�� BLOG",

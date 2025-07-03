@@ -4,18 +4,7 @@
       "title": "Escape",
       "feedUrl": "https://www.escapelife.site/atom.xml",
       "siteUrl": "https://www.escapelife.site/atom.xml",
-      "articles": [
-        {
-          "id": "https://www.escapelife.site/posts/3ac10bcf.html",
-          "author": null,
-          "description": "<h1 id=\"让你彻底弄懂-MCP-的一切\"><a href=\"#让你彻底弄懂-MCP-的一切\" class=\"headerlink\" title=\"让你彻底弄懂 MCP 的一切\"></a>让你彻底弄懂 MCP",
-          "link": "https://www.escapelife.site/posts/3ac10bcf.html",
-          "publishedOn": "2025-06-18T06:25:00.000Z",
-          "wordCount": 1881,
-          "title": "让你彻底弄懂MCP的一切",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "酷 壳 – CoolShell",
@@ -78,7 +67,28 @@
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "https://www.manjusaka.blog/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.manjusaka.blog/posts/2025/07/02/tail-call-in-3-14-interpreter-en/",
+          "author": null,
+          "description": "<p>I’ve been overwhelmed by security work lately, so let me switch to something lighter to relax my mind.</p>\n<p>Python 3.14 has officially introduced a new mechanism called Tail Call Interpreter (Made by Ken Jin), which is undoubtedly another major milestone that lays the foundation for the future.</p>",
+          "link": "https://www.manjusaka.blog/posts/2025/07/02/tail-call-in-3-14-interpreter-en/",
+          "publishedOn": "2025-07-02T15:49:00.000Z",
+          "wordCount": 4380,
+          "title": "Further Performance Evolution in Python 3.14: Tail Call Interpreter",
+          "imageUrl": "https://cdn.pixabay.com/photo/2023/02/04/07/50/daisy-7766609_1280.jpg"
+        },
+        {
+          "id": "https://www.manjusaka.blog/posts/2025/07/02/tail-call-in-3-14-interpreter/",
+          "author": null,
+          "description": "<p>最近做安全做的我头晕脑胀，来点轻松的换换脑子，让自己放松下</p>\n<p>Python 3.14 正式引入了一个新的机制叫作 Tail Call Interpreter（Made by Ken Jin），这无疑又是一个奠定未来基础的重大工作</p>",
+          "link": "https://www.manjusaka.blog/posts/2025/07/02/tail-call-in-3-14-interpreter/",
+          "publishedOn": "2025-07-02T15:49:00.000Z",
+          "wordCount": 3498,
+          "title": "Python 3.14 的进一步性能进化: Tail Call Interpreter",
+          "imageUrl": "https://cdn.pixabay.com/photo/2023/02/04/07/38/cherry-blossoms-7766587_1280.jpg"
+        }
+      ]
     },
     {
       "title": "laike9m's blog",

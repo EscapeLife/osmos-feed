@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-07-02T01:06:38.255Z</updated>
+    <updated>2025-07-03T01:06:20.947Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Further Performance Evolution in Python 3.14: Tail Call Interpreter]]></title>
+        <id>https://www.manjusaka.blog/posts/2025/07/02/tail-call-in-3-14-interpreter-en/</id>
+        <link href="https://www.manjusaka.blog/posts/2025/07/02/tail-call-in-3-14-interpreter-en/"/>
+        <updated>2025-07-02T15:49:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>I’ve been overwhelmed by security work lately, so let me switch to something lighter to relax my mind.</p>
+<p>Python 3.14 has officially introduced a new mechanism called Tail Call Interpreter (Made by Ken Jin), which is undoubtedly another major milestone that lays the foundation for the future.</p>]]></summary>
+        <author>
+            <name>Manjusaka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python 3.14 的进一步性能进化: Tail Call Interpreter]]></title>
+        <id>https://www.manjusaka.blog/posts/2025/07/02/tail-call-in-3-14-interpreter/</id>
+        <link href="https://www.manjusaka.blog/posts/2025/07/02/tail-call-in-3-14-interpreter/"/>
+        <updated>2025-07-02T15:49:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>最近做安全做的我头晕脑胀，来点轻松的换换脑子，让自己放松下</p>
+<p>Python 3.14 正式引入了一个新的机制叫作 Tail Call Interpreter（Made by Ken Jin），这无疑又是一个奠定未来基础的重大工作</p>]]></summary>
+        <author>
+            <name>Manjusaka</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[初入投资容易犯的错误]]></title>
         <id>https://laike9m.com/blog/novice-investor,164/</id>
@@ -35,16 +57,6 @@
 <p>要使用 API，需要先到 <a href="https://platform.acedata.cloud/document]]></summary>
         <author>
             <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[让你彻底弄懂MCP的一切]]></title>
-        <id>https://www.escapelife.site/posts/3ac10bcf.html</id>
-        <link href="https://www.escapelife.site/posts/3ac10bcf.html"/>
-        <updated>2025-06-18T06:25:00.000Z</updated>
-        <summary type="html"><![CDATA[<h1 id="让你彻底弄懂-MCP-的一切"><a href="#让你彻底弄懂-MCP-的一切" class="headerlink" title="让你彻底弄懂 MCP 的一切"></a>让你彻底弄懂 MCP]]></summary>
-        <author>
-            <name>Escape</name>
         </author>
     </entry>
     <entry>

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-07-05T01:04:12.473Z</updated>
+    <updated>2025-07-06T01:12:56.151Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[梦的河流]]></title>
+        <id>https://greyli.com/?p=5670</id>
+        <link href="https://greyli.com/river/"/>
+        <updated>2025-07-05T03:43:40.000Z</updated>
+        <summary type="html"><![CDATA[家西边有一条小河。水源从山上来，经过幽深的地下，一路到这里，从一个废弃的水闸流出来。冬暖夏凉，清澈幽静。 对村 […]]]></summary>
+        <author>
+            <name>李辉</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[写给还在迷茫的你：我的三本大学回忆]]></title>
+        <id>https://vim0.com/post/university/</id>
+        <link href="https://vim0.com/post/university/"/>
+        <updated>2025-07-04T17:08:16.000Z</updated>
+        <summary type="html"><![CDATA[开头 前几天在网上看到一个快毕业的哥们儿抱怨，说大学没意义。这说法我觉得太片面了。以及还有就是我的高中同学总是认为学了计算机就能找到高薪工作，]]></summary>
+        <author>
+            <name>咸糖 - 自律者自由</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Further Performance Evolution in Python 3.14: Tail Call Interpreter]]></title>
         <id>https://www.manjusaka.blog/posts/2025/07/02/tail-call-in-3-14-interpreter-en/</id>

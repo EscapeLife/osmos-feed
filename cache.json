@@ -131,6 +131,16 @@
       "siteUrl": "https://greyli.com",
       "articles": [
         {
+          "id": "https://greyli.com/?p=5670",
+          "author": "李辉",
+          "description": "家西边有一条小河。水源从山上来，经过幽深的地下，一路到这里，从一个废弃的水闸流出来。冬暖夏凉，清澈幽静。 对村 […]",
+          "link": "https://greyli.com/river/",
+          "publishedOn": "2025-07-05T03:43:40.000Z",
+          "wordCount": 417,
+          "title": "梦的河流",
+          "imageUrl": "https://greyli.com/wp-content/uploads/2025/03/avatar-500-compressed.jpg"
+        },
+        {
           "id": "https://greyli.com/?p=5634",
           "author": "李辉",
           "description": "每一次的游记都拖到放弃。从 19 年第一次去台湾，到上次去日本，每次都想着记录一下，最后都不了了之。我想这一次 […]",
@@ -175,7 +185,18 @@
       "title": "咸糖 - 自律者自由",
       "feedUrl": "https://vim0.com/index.xml",
       "siteUrl": "https://vim0.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://vim0.com/post/university/",
+          "author": null,
+          "description": "开头 前几天在网上看到一个快毕业的哥们儿抱怨，说大学没意义。这说法我觉得太片面了。以及还有就是我的高中同学总是认为学了计算机就能找到高薪工作，",
+          "link": "https://vim0.com/post/university/",
+          "publishedOn": "2025-07-04T17:08:16.000Z",
+          "wordCount": 264,
+          "title": "写给还在迷茫的你：我的三本大学回忆",
+          "imageUrl": "https://vim0.com/post/main_cover.png"
+        }
+      ]
     },
     {
       "title": "离别歌",

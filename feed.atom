@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-07-08T01:07:15.233Z</updated>
+    <updated>2025-07-09T01:07:56.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -66,17 +66,6 @@
         <summary type="html"><![CDATA[每一次的游记都拖到放弃。从 19 年第一次去台湾，到上次去日本，每次都想着记录一下，最后都不了了之。我想这一次 […]]]></summary>
         <author>
             <name>李辉</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Riffusion Audios Generation API 对接说明]]></title>
-        <id>https://cuiqingcai.com/42372.html</id>
-        <link href="https://cuiqingcai.com/42372.html"/>
-        <updated>2025-06-24T12:01:22.000Z</updated>
-        <summary type="html"><![CDATA[<h2 id="申请流程"><a href="#申请流程" class="headerlink" title="申请流程"></a>申请流程</h2>
-<p>要使用 API，需要先到 <a href="https://platform.acedata.cloud/document]]></summary>
-        <author>
-            <name>静觅</name>
         </author>
     </entry>
     <entry>

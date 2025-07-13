@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-07-12T01:10:55.069Z</updated>
+    <updated>2025-07-13T01:15:04.772Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -56,16 +56,6 @@
         <summary type="html"><![CDATA[我想列举几个初入投资容易犯的错误，其中的坑我也踩过。]]></summary>
         <author>
             <name>laike9m's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西雅图和微软 MVP 峰会游记]]></title>
-        <id>https://greyli.com/?p=5634</id>
-        <link href="https://greyli.com/seattle-and-microsoft-trip/"/>
-        <updated>2025-06-28T03:52:14.000Z</updated>
-        <summary type="html"><![CDATA[每一次的游记都拖到放弃。从 19 年第一次去台湾，到上次去日本，每次都想着记录一下，最后都不了了之。我想这一次 […]]]></summary>
-        <author>
-            <name>李辉</name>
         </author>
     </entry>
     <entry>

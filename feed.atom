@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-07-16T01:09:58.200Z</updated>
+    <updated>2025-07-17T01:10:27.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[调整一下投资的思路]]></title>
+        <id>https://laike9m.com/blog/investment-Introspection,165/</id>
+        <link href="https://laike9m.com/blog/investment-Introspection,165/"/>
+        <updated>2025-07-16T06:51:00.000Z</updated>
+        <summary type="html"><![CDATA[我主要的问题是太过追求找到高 beta 的标的，却忽视了那些领头羊公司。]]></summary>
+        <author>
+            <name>laike9m's blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[���δ���� Deep Future �����ҵ�����]]></title>
         <id>https://blog.codingnow.com/2025/07/deep_future.html</id>

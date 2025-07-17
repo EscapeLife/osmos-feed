@@ -94,7 +94,18 @@
       "title": "laike9m's blog",
       "feedUrl": "https://laike9m.com/blog/rss",
       "siteUrl": "https://laike9m.com/blog/rss",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://laike9m.com/blog/investment-Introspection,165/",
+          "author": null,
+          "description": "我主要的问题是太过追求找到高 beta 的标的，却忽视了那些领头羊公司。",
+          "link": "https://laike9m.com/blog/investment-Introspection,165/",
+          "publishedOn": "2025-07-16T06:51:00.000Z",
+          "wordCount": 404,
+          "title": "调整一下投资的思路",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Frost's Blog",

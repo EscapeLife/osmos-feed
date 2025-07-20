@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-07-19T01:08:17.397Z</updated>
+    <updated>2025-07-20T01:16:44.995Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[IP 网段的几种常见表示方式]]></title>
+        <id>https://www.kawabangga.com/?p=7008</id>
+        <link href="https://www.kawabangga.com/posts/7008"/>
+        <updated>2025-07-19T06:06:47.000Z</updated>
+        <summary type="html"><![CDATA[IP Network 也叫做 CIDR (Classless Inter-Domain Routing)，表示 […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Burn out 逃生指南]]></title>
+        <id>https://www.kawabangga.com/?p=7005</id>
+        <link href="https://www.kawabangga.com/posts/7005"/>
+        <updated>2025-07-19T06:05:55.000Z</updated>
+        <summary type="html"><![CDATA[在同一家公司工作两年以上，有很大概率会 burn out（意思就是精疲力尽，俺不中了）。如果岗位又是 SRE， […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[c100m 问题]]></title>
+        <id>https://www.kawabangga.com/?p=7032</id>
+        <link href="https://www.kawabangga.com/posts/7032"/>
+        <updated>2025-07-19T06:02:44.000Z</updated>
+        <summary type="html"><![CDATA[互联网诞生以来，如何让一台服务器服务更多的用户就成为了软件工程师一直试图解决的难题。c10k 指的是如何让一台 […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[调整一下投资的思路]]></title>
         <id>https://laike9m.com/blog/investment-Introspection,165/</id>
@@ -24,26 +57,6 @@
         <summary type="html"><![CDATA[������� bgg ���й�ʱ�˽⵽�ˡ�Make-as-You-Play�������Ϸ�����ͣ��о��ǳ���Ȥ������һ����ֽ�� DIY ����� PnP Print and Play������Ϸ�����ֺʹ�ͳ DIY ��Ϸ��ͬ��������һ��ʼ����Ϸ����Ȼ�����棬���Ǳ������档����ǰ�ߣ����������� PnP ����רҵ�����̷��У�������������һ�׾������Ƴ�Ʒ���� Make as You Play ��ͬ�����Ĺ������޷�ȡ���ģ�����Ϸ�������һ���֡� ���δ�� Deep Future �ǡ��������桱���͵Ĵ���������̫�����ˣ��������зǳ������ұ��塢��Ƥ���ơ�����Ĺٷ� 1.6 �����btw �������� bgg �Ϻܻ�Ծ�����ڹٷ���̳����ǰ�Ĺ��������������˸�����ϸ�ڣ�ս���׶��Ƿ���Բ�����˿ڡ��ٴ򡱶�ֻ��Ϊ�˻�ö���ӳ�Ч�����������̾ͻظ��ˣ�����ʾ����δ���� 1.7 �������ϳ�����һ�㡣 ���������ȷ��Ҫһ��ʱ�䣬����������Ϸ��ƾ���󣬹�����ʵ������Ȼ��������Ϸ���̻��������������Ȼ������ϸ�ڷ�ɢ�ڹ����������ֻ�������֮��Ż�ע�⵽���ң����ˣ������������죬��Լ���˽ӽ� 100 �֣��������졣������Ϸ�Ĺ�������һ��̫�ո�������Ŀ�ӡ���ҵ��Ժ����������������������ʤ��ֻ��һ��֮ң���ź�������˥�䡢������������ RogueLike ��Ϸ�ľ����ѹ�����һᾭ����һ��ս�ۣ�Ϊֻ�����Լ�ս�۵ĿƼ���������ƾ����Ŀ�Ƭ�� ������˺ܶ����ϸ�ں��ҵĵ�һ��ս�����͵��˳�ʼ���������������Ҳ�ƺ����޷�˳��ʤ������һ�֡������Ҿ����ؿ�һ����Ϸ���µ�ս��ֻ���� 5 �̾��������ƽ����˵ڶ���Ԫ��ʤ��һ�Σ������ڵ�ͼ������������ӡ�ǣ��������˵�һ��������Ƭ����Щ����̵�Ӱ��ͬ��ս�۵ĺ�����Ϸ���̡� �Ҹо������������Ϸ�����㣺ÿ����Ϸ���Ƕ��صġ����ʱ��Խ������ǰ��Ϸ������ص����Խ��Խ��̵����⣺��������ʲô�ر�����򡢿Ƽ�����ͼ��ÿ�������в�ͬ���˾������ܶȣ������ս��ǿ�Ȼ����һЩ���� ��Ȼ��ֻ���˵���ģʽ������Ϸ֧��������ˡ�������Ϸ����Э��Ҳ���ԶԿ����������������ż��������������������̣���ͬ����һ�Ϊͬһ���������²�ͬ���Ų����ͺܶ��Ų�����Ϸ��ͬ�������ϷֻҪ�漸��һ�������µ�ʲô���������Ų�����Ϸ���Ǽ��亱���ġ�Ҳ����˵��ֻҪ����ȥ����һС�̶��Ὣ��Ϸ�޷���ת�ĸı䡣...]]></summary>
         <author>
             <name>�Ʒ�� BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[梦的河流]]></title>
-        <id>https://greyli.com/?p=5670</id>
-        <link href="https://greyli.com/river/"/>
-        <updated>2025-07-05T03:43:40.000Z</updated>
-        <summary type="html"><![CDATA[家西边有一条小河。水源从山上来，经过幽深的地下，一路到这里，从一个废弃的水闸流出来。冬暖夏凉，清澈幽静。 对村 […]]]></summary>
-        <author>
-            <name>李辉</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[写给还在迷茫的你：我的三本大学回忆]]></title>
-        <id>https://vim0.com/post/university/</id>
-        <link href="https://vim0.com/post/university/"/>
-        <updated>2025-07-04T17:08:16.000Z</updated>
-        <summary type="html"><![CDATA[开头 前几天在网上看到一个快毕业的哥们儿抱怨，说大学没意义。这说法我觉得太片面了。以及还有就是我的高中同学总是认为学了计算机就能找到高薪工作，]]></summary>
-        <author>
-            <name>咸糖 - 自律者自由</name>
         </author>
     </entry>
     <entry>

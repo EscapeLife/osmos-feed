@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-08-02T01:09:00.982Z</updated>
+    <updated>2025-08-03T01:18:06.856Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PDF 电子书重排和裁剪]]></title>
+        <id>https://www.kawabangga.com/?p=7048</id>
+        <link href="https://www.kawabangga.com/posts/7048"/>
+        <updated>2025-08-02T12:20:45.000Z</updated>
+        <summary type="html"><![CDATA[很久之前画重金买的阅读器是 A4 纸大小，无论是阅读电子书还是 paper 都很好。但是后来莫名其妙地屏幕部分 […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[����]]></title>
         <id>https://blog.codingnow.com/2025/07/jogging.html</id>
@@ -14,39 +25,6 @@
         <summary type="html"><![CDATA[������������ʱ�������������ã���ȥҰ�������Ҫ����ɽ�ӽ��Ļ������������ұ��¾��۸��������붯�ˡ������ǰ� 50 ���������һ�����������л����Ķࡣ��������ͨ�������˶�����һ���ķι��ܡ����ѽ������������ܡ� ȥ���ʹ�緢�� ��Ҳ���ǹ�����һЩ���أ���˵�����ڽ������ᡣ���е�����һֱû�п�ʼ�ܡ�...]]></summary>
         <author>
             <name>�Ʒ�� BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IP 网段的几种常见表示方式]]></title>
-        <id>https://www.kawabangga.com/?p=7008</id>
-        <link href="https://www.kawabangga.com/posts/7008"/>
-        <updated>2025-07-19T06:06:47.000Z</updated>
-        <summary type="html"><![CDATA[IP Network 也叫做 CIDR (Classless Inter-Domain Routing)，表示 […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Burn out 逃生指南]]></title>
-        <id>https://www.kawabangga.com/?p=7005</id>
-        <link href="https://www.kawabangga.com/posts/7005"/>
-        <updated>2025-07-19T06:05:55.000Z</updated>
-        <summary type="html"><![CDATA[在同一家公司工作两年以上，有很大概率会 burn out（意思就是精疲力尽，俺不中了）。如果岗位又是 SRE， […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[c100m 问题]]></title>
-        <id>https://www.kawabangga.com/?p=7032</id>
-        <link href="https://www.kawabangga.com/posts/7032"/>
-        <updated>2025-07-19T06:02:44.000Z</updated>
-        <summary type="html"><![CDATA[互联网诞生以来，如何让一台服务器服务更多的用户就成为了软件工程师一直试图解决的难题。c10k 指的是如何让一台 […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

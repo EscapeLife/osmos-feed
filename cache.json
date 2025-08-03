@@ -63,33 +63,13 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
-          "id": "https://www.kawabangga.com/?p=7008",
+          "id": "https://www.kawabangga.com/?p=7048",
           "author": "laixintao",
-          "description": "IP Network 也叫做 CIDR (Classless Inter-Domain Routing)，表示 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/7008",
-          "publishedOn": "2025-07-19T06:06:47.000Z",
-          "wordCount": 1021,
-          "title": "IP 网段的几种常见表示方式",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=7005",
-          "author": "laixintao",
-          "description": "在同一家公司工作两年以上，有很大概率会 burn out（意思就是精疲力尽，俺不中了）。如果岗位又是 SRE， […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/7005",
-          "publishedOn": "2025-07-19T06:05:55.000Z",
-          "wordCount": 1065,
-          "title": "Burn out 逃生指南",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=7032",
-          "author": "laixintao",
-          "description": "互联网诞生以来，如何让一台服务器服务更多的用户就成为了软件工程师一直试图解决的难题。c10k 指的是如何让一台 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/7032",
-          "publishedOn": "2025-07-19T06:02:44.000Z",
-          "wordCount": 1579,
-          "title": "c100m 问题",
+          "description": "很久之前画重金买的阅读器是 A4 纸大小，无论是阅读电子书还是 paper 都很好。但是后来莫名其妙地屏幕部分 […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/7048",
+          "publishedOn": "2025-08-02T12:20:45.000Z",
+          "wordCount": 1038,
+          "title": "PDF 电子书重排和裁剪",
           "imageUrl": null
         }
       ]

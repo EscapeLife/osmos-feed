@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-08-05T01:13:43.386Z</updated>
+    <updated>2025-08-06T01:12:31.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Veo Videos Generation API 对接说明]]></title>
+        <id>https://cuiqingcai.com/42373.html</id>
+        <link href="https://cuiqingcai.com/42373.html"/>
+        <updated>2025-08-05T12:01:22.000Z</updated>
+        <summary type="html"><![CDATA[<p>本文将介绍一种 Veo Videos Generation API 对接说明，它是可以通过输入自定义参数来生成Veo官方的视频。</p>
+<p>接下来介绍下 Veo Videos Generation API 的对接说明。</p>
+<h2 id="申请流程"><a href]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PDF 电子书重排和裁剪]]></title>
         <id>https://www.kawabangga.com/?p=7048</id>

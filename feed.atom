@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-08-09T01:06:15.362Z</updated>
+    <updated>2025-08-10T01:15:52.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SetWindowText ���������]]></title>
+        <id>https://blog.codingnow.com/2025/08/setwindowtext_deadlock.html</id>
+        <link href="https://blog.codingnow.com/2025/08/setwindowtext_deadlock.html"/>
+        <updated>2025-08-09T02:51:37.000Z</updated>
+        <summary type="html"><![CDATA[�����������д��С��Ϸ������ʱ�к�С�ĸ��ʺ�������ʹ�õ��� ltask ���߳̿�ܣ��ں���ʱ�о� ltask ��û��ֹͣ�������ƺ�ֻ�ǹ������ڵĲ��֣��߳�/���񣩿����ˡ� ���ڹ���ʹ�õ��� sokol_app ���Ķ�ƽ̨��װ����ֻ��һ����ǳ�ķ�װ�㣬���Ѿ����á��Ҿ������в�����ǣ�sokol_app �� frame �ص������Ƿ��� WinProc �У��� Windows ����Ϣѭ���������ȣ������Ƿ����������� GetMessage ѭ���С� ������ Windows �����У��߳�ͨ������������дһ�������� while ѭ����...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hailuo Videos Generation API 对接说明]]></title>
         <id>https://cuiqingcai.com/42374.html</id>

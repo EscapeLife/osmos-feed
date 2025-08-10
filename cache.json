@@ -114,7 +114,18 @@
       "title": "�Ʒ�� BLOG",
       "feedUrl": "https://blog.codingnow.com/atom.xml",
       "siteUrl": "https://blog.codingnow.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://blog.codingnow.com/2025/08/setwindowtext_deadlock.html",
+          "author": null,
+          "description": "�����������д��С��Ϸ������ʱ�к�С�ĸ��ʺ�������ʹ�õ��� ltask ���߳̿�ܣ��ں���ʱ�о� ltask ��û��ֹͣ�������ƺ�ֻ�ǹ������ڵĲ��֣��߳�/���񣩿����ˡ� ���ڹ���ʹ�õ��� sokol_app ���Ķ�ƽ̨��װ����ֻ��һ����ǳ�ķ�װ�㣬���Ѿ����á��Ҿ������в�����ǣ�sokol_app �� frame �ص������Ƿ��� WinProc �У��� Windows ����Ϣѭ���������ȣ������Ƿ����������� GetMessage ѭ���С� ������ Windows �����У��߳�ͨ������������дһ�������� while ѭ����...",
+          "link": "https://blog.codingnow.com/2025/08/setwindowtext_deadlock.html",
+          "publishedOn": "2025-08-09T02:51:37.000Z",
+          "wordCount": 351,
+          "title": "SetWindowText ���������",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "piglei",

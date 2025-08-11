@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-08-10T01:15:52.180Z</updated>
+    <updated>2025-08-11T01:13:01.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[我最喜欢的一期《捕蛇者说》]]></title>
+        <id>https://laike9m.com/blog/my-favorite-pythonhunter,166/</id>
+        <link href="https://laike9m.com/blog/my-favorite-pythonhunter,166/"/>
+        <updated>2025-08-10T07:49:55.000Z</updated>
+        <summary type="html"><![CDATA[没有简介, 请去看原文吧]]></summary>
+        <author>
+            <name>laike9m's blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SetWindowText ���������]]></title>
         <id>https://blog.codingnow.com/2025/08/setwindowtext_deadlock.html</id>

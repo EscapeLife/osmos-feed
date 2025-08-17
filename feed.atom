@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-08-16T01:04:35.870Z</updated>
+    <updated>2025-08-17T01:12:00.688Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -60,17 +60,6 @@
 <h2 id="申请流程"><a href]]></summary>
         <author>
             <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PDF 电子书重排和裁剪]]></title>
-        <id>https://www.kawabangga.com/?p=7048</id>
-        <link href="https://www.kawabangga.com/posts/7048"/>
-        <updated>2025-08-02T12:20:45.000Z</updated>
-        <summary type="html"><![CDATA[很久之前画重金买的阅读器是 A4 纸大小，无论是阅读电子书还是 paper 都很好。但是后来莫名其妙地屏幕部分 […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

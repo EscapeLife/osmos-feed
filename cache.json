@@ -157,16 +157,6 @@
           "wordCount": 1404,
           "title": "Hailuo Videos Generation API 对接说明",
           "imageUrl": "https://cdn.acedata.cloud/q6ytrc.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/42373.html",
-          "author": null,
-          "description": "<p>本文将介绍一种 Veo Videos Generation API 对接说明，它是可以通过输入自定义参数来生成Veo官方的视频。</p>\n<p>接下来介绍下 Veo Videos Generation API 的对接说明。</p>\n<h2 id=\"申请流程\"><a href",
-          "link": "https://cuiqingcai.com/42373.html",
-          "publishedOn": "2025-08-05T12:01:22.000Z",
-          "wordCount": 1567,
-          "title": "Veo Videos Generation API 对接说明",
-          "imageUrl": "https://cdn.acedata.cloud/q6ytrc.png"
         }
       ]
     },

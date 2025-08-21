@@ -147,16 +147,6 @@
           "wordCount": 1482,
           "title": "Flux Images Generation API 对接说明",
           "imageUrl": "https://cdn.acedata.cloud/q6ytrc.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/42374.html",
-          "author": null,
-          "description": "<p>本文将介绍一种 Hailuo Videos Generation API 对接说明，它是可以通过输入自定义参数来生成Hailuo官方的视频。</p>\n<p>接下来介绍下 Hailuo Videos Generation API 的对接说明。</p>\n<h2 id=\"申请流程",
-          "link": "https://cuiqingcai.com/42374.html",
-          "publishedOn": "2025-08-06T11:01:22.000Z",
-          "wordCount": 1404,
-          "title": "Hailuo Videos Generation API 对接说明",
-          "imageUrl": "https://cdn.acedata.cloud/q6ytrc.png"
         }
       ]
     },

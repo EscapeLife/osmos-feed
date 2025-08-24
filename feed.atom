@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-08-23T00:59:55.152Z</updated>
+    <updated>2025-08-24T01:09:18.619Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -36,16 +36,6 @@
         <summary type="html"><![CDATA[没有简介, 请去看原文吧]]></summary>
         <author>
             <name>laike9m's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SetWindowText ���������]]></title>
-        <id>https://blog.codingnow.com/2025/08/setwindowtext_deadlock.html</id>
-        <link href="https://blog.codingnow.com/2025/08/setwindowtext_deadlock.html"/>
-        <updated>2025-08-09T02:51:37.000Z</updated>
-        <summary type="html"><![CDATA[�����������д��С��Ϸ������ʱ�к�С�ĸ��ʺ�������ʹ�õ��� ltask ���߳̿�ܣ��ں���ʱ�о� ltask ��û��ֹͣ�������ƺ�ֻ�ǹ������ڵĲ��֣��߳�/���񣩿����ˡ� ���ڹ���ʹ�õ��� sokol_app ���Ķ�ƽ̨��װ����ֻ��һ����ǳ�ķ�װ�㣬���Ѿ����á��Ҿ������в�����ǣ�sokol_app �� frame �ص������Ƿ��� WinProc �У��� Windows ����Ϣѭ���������ȣ������Ƿ����������� GetMessage ѭ���С� ������ Windows �����У��߳�ͨ������������дһ�������� while ѭ����...]]></summary>
-        <author>
-            <name>�Ʒ�� BLOG</name>
         </author>
     </entry>
     <entry>

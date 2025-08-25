@@ -73,18 +73,7 @@
       "title": "laike9m's blog",
       "feedUrl": "https://laike9m.com/blog/rss",
       "siteUrl": "https://laike9m.com/blog/rss",
-      "articles": [
-        {
-          "id": "https://laike9m.com/blog/my-favorite-pythonhunter,166/",
-          "author": null,
-          "description": "没有简介, 请去看原文吧",
-          "link": "https://laike9m.com/blog/my-favorite-pythonhunter,166/",
-          "publishedOn": "2025-08-10T07:49:55.000Z",
-          "wordCount": 379,
-          "title": "我最喜欢的一期《捕蛇者说》",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Frost's Blog",

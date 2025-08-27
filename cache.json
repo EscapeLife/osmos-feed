@@ -97,13 +97,34 @@
       "title": "李辉 / Grey Li",
       "feedUrl": "https://greyli.com/feed",
       "siteUrl": "https://greyli.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://greyli.com/?p=5718",
+          "author": "李辉",
+          "description": "七月底，因为 SendGrid 不再提供免费额度，我开始寻找替代服务。在给 greyli.com 这个域名配置 […]",
+          "link": "https://greyli.com/email-accident/",
+          "publishedOn": "2025-08-26T11:09:03.000Z",
+          "wordCount": 409,
+          "title": "邮箱服务中断乌龙",
+          "imageUrl": "https://greyli.com/wp-content/uploads/2025/03/avatar-500-compressed.jpg"
+        }
+      ]
     },
     {
       "title": "�Ʒ�� BLOG",
       "feedUrl": "https://blog.codingnow.com/atom.xml",
       "siteUrl": "https://blog.codingnow.com/",
       "articles": [
+        {
+          "id": "https://blog.codingnow.com/2025/08/lua_class.html",
+          "author": null,
+          "description": "��ͨ���� Lua ����һ������ֻ��Ҫ�������� -- ����һ�� object �������� local object = {}; object.__index = object -- ���幹�� object �ĺ��� local function new_object(self) return setmetatable(self or {}, object) end -- �� object ����һ�� get ���� function object:get(what) return self[what] end -- ����һ��...",
+          "link": "https://blog.codingnow.com/2025/08/lua_class.html",
+          "publishedOn": "2025-08-26T00:37:50.000Z",
+          "wordCount": 829,
+          "title": "�� Lua �ж������͵ļ򵥷���",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.codingnow.com/2025/08/gamedev.html",
           "author": null,
@@ -126,18 +147,7 @@
       "title": "静觅",
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
-      "articles": [
-        {
-          "id": "https://cuiqingcai.com/42375.html",
-          "author": null,
-          "description": "<p>本文将介绍一种 Flux Images Generation API 对接说明，它是可以通过输入自定义参数来生成Flux官方的图片。</p>\n<p>接下来介绍下 Flux Images Generation API 的对接说明。</p>\n<h2 id=\"申请流程\"><a h",
-          "link": "https://cuiqingcai.com/42375.html",
-          "publishedOn": "2025-08-11T15:01:22.000Z",
-          "wordCount": 1482,
-          "title": "Flux Images Generation API 对接说明",
-          "imageUrl": "https://cdn.acedata.cloud/q6ytrc.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "咸糖 - 自律者自由",

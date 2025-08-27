@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-08-26T01:03:03.592Z</updated>
+    <updated>2025-08-27T01:01:04.763Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[邮箱服务中断乌龙]]></title>
+        <id>https://greyli.com/?p=5718</id>
+        <link href="https://greyli.com/email-accident/"/>
+        <updated>2025-08-26T11:09:03.000Z</updated>
+        <summary type="html"><![CDATA[七月底，因为 SendGrid 不再提供免费额度，我开始寻找替代服务。在给 greyli.com 这个域名配置 […]]]></summary>
+        <author>
+            <name>李辉</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[�� Lua �ж������͵ļ򵥷���]]></title>
+        <id>https://blog.codingnow.com/2025/08/lua_class.html</id>
+        <link href="https://blog.codingnow.com/2025/08/lua_class.html"/>
+        <updated>2025-08-26T00:37:50.000Z</updated>
+        <summary type="html"><![CDATA[��ͨ���� Lua ����һ������ֻ��Ҫ�������� -- ����һ�� object �������� local object = {}; object.__index = object -- ���幹�� object �ĺ��� local function new_object(self) return setmetatable(self or {}, object) end -- �� object ����һ�� get ���� function object:get(what) return self[what] end -- ����һ��...]]></summary>
+        <author>
+            <name>�Ʒ�� BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[��д��Ϸ�����һЩ��ʾ]]></title>
         <id>https://blog.codingnow.com/2025/08/gamedev.html</id>
@@ -14,18 +34,6 @@
         <summary type="html"><![CDATA[������ҿ��˸�����Ŀ������ deep future �ĵ��Ӱ档 ֮������������飬����Ϊ����ĺ�ϲ�������Ϸ������ȥһ�����ڹ�˼һ��������Ϸ���淨ʱ�������������ͬ������ҪһЩ�����У�����Ҫд����뱣��һ�¿���״̬��˼����ȥ����ȷ������һ���������εĵ��Ӱ���һ����������ϰ�����������Ϸ�ĵ����淨�ܽӽ�������Ϸ�е� 4x ���ͣ���Ҳ����ϲ���ģ��Ȼ�ԭ��ԭ�����ι������Ӧ�ÿ����Դ�Ϊ��������һЩ�ʺϵ�����Ϸ���ԵĶ������� ��һ���棬������Ϊ�˽���Ϸ��������Ļ��ÿ�����ص㵽������Ϸ�ļ���ԭ�����󲿷ֵĹ��̶�����ʵ�����������ܸо��ϲ�Ķ�������������Ϸ�淨�������Ȳ��ֿ�������û�еײ㣨���������沿�֣�˳������Ҳ�����ܶ�ʵ����Ϸ��Ŀ�Ŀ�������Զ����Ԥ�ڣ��ƺ�����ʱ�䱻Ͷ���˺ڶ��� �� GameJam ���������Ͽ�����������Ϸԭ�ͣ���������Ҫ���� 2,3 ��ʱ��ĥ���ɳ�Ʒ������Ū����������������������ѣ���Щ�����������ĵ��Ŀ���ʱ�䵽��ȥ�����...]]></summary>
         <author>
             <name>�Ʒ�� BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flux Images Generation API 对接说明]]></title>
-        <id>https://cuiqingcai.com/42375.html</id>
-        <link href="https://cuiqingcai.com/42375.html"/>
-        <updated>2025-08-11T15:01:22.000Z</updated>
-        <summary type="html"><![CDATA[<p>本文将介绍一种 Flux Images Generation API 对接说明，它是可以通过输入自定义参数来生成Flux官方的图片。</p>
-<p>接下来介绍下 Flux Images Generation API 的对接说明。</p>
-<h2 id="申请流程"><a h]]></summary>
-        <author>
-            <name>静觅</name>
         </author>
     </entry>
     <entry>

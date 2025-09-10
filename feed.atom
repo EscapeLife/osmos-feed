@@ -2,26 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-09-09T01:00:36.840Z</updated>
+    <updated>2025-09-10T00:58:15.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[邮箱服务中断乌龙]]></title>
-        <id>https://greyli.com/?p=5718</id>
-        <link href="https://greyli.com/email-accident/"/>
-        <updated>2025-08-26T11:09:03.000Z</updated>
-        <summary type="html"><![CDATA[七月底，因为 SendGrid 不再提供免费额度，我开始寻找替代服务。在给 greyli.com 这个域名配置 […]]]></summary>
-        <author>
-            <name>李辉</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[�� Lua �ж������͵ļ򵥷���]]></title>
-        <id>https://blog.codingnow.com/2025/08/lua_class.html</id>
-        <link href="https://blog.codingnow.com/2025/08/lua_class.html"/>
-        <updated>2025-08-26T00:37:50.000Z</updated>
-        <summary type="html"><![CDATA[��ͨ���� Lua ����һ������ֻ��Ҫ�������� -- ����һ�� object �������� local object = {}; object.__index = object -- ���幹�� object �ĺ��� local function new_object(self) return setmetatable(self or {}, object) end -- �� object ����һ�� get ���� function object:get(what) return self[what] end -- ����һ��...]]></summary>
+        <title type="html"><![CDATA[����ģʽ�µ���꽻������]]></title>
+        <id>https://blog.codingnow.com/2025/09/mouse_im_mode.html</id>
+        <link href="https://blog.codingnow.com/2025/09/mouse_im_mode.html"/>
+        <updated>2025-09-09T09:26:04.000Z</updated>
+        <summary type="html"><![CDATA[���������Ϸʱ������������ģʽ�����Ľ�������ʵ�ֵıȽϻ��ҡ� ��������ʱ���Ҽ��������������¼��� callback �ӿڡ�һ��ʼд��Ϸʱ��Ҳ���ǶԸ�һ��д�˼��д��룬���¿��Թ��������˴����º����Ž�������Խ��Խ���ӣ���ЩӦ���õĴ������Բ����ظ�����Խ��Խ��ı߽�����޷���ȷ�������ȵ�������ڽ����ϼ�һ�ֳ������ȷ�ϵĲ��������ֲ����������Ը���ȥ�ˣ��ͻ���һ�����ع������к���꽻����صĴ��롣 ֮ǰ������������ �����ϵͳ�������Ϣ���������ǿ��Դ�����������ƶ������¡�̧����¼�����������������ϵͳ�������ĵ����˫���ȵȸ����¼�������ѡ���Լ��ð��º�̧�����ж���Щ�����ǣ���Ϣ���Ʊ���������ģʽ����㣵ġ���������ģʽ��д��Ϸҵ���Լ���������õ��µ�״̬������Ȼ�ģ�������Ϣ������״̬������һ�����У���ÿ����Ϸ֡�У�����û����Ϣ��Ҳ�����ж�����Ϣ�����ֻ�Ǵ�������λ�úͰ���״̬����ô�������һ��״̬Ҳ���ԣ����ǣ�����������Ϊ�����Բ���˲���״̬�����ǹ�ȥһ��ʱ���״̬���Ӻ���¼���...]]></summary>
         <author>
             <name>�Ʒ�� BLOG</name>
         </author>

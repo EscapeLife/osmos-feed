@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-09-10T00:58:15.471Z</updated>
+    <updated>2025-09-11T00:59:35.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Claude 这条路在中国企业这里彻底断掉了]]></title>
+        <id>https://macshuo.com/?p=1980</id>
+        <link href="https://macshuo.com/?p=1980"/>
+        <updated>2025-09-10T04:49:45.000Z</updated>
+        <summary type="html"><![CDATA[9 月 5 日这一天，Anthropic 在官网发布了一则消息：立即停止 Cla … Continue reading →]]></summary>
+        <author>
+            <name>MacTalk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[����ģʽ�µ���꽻������]]></title>
         <id>https://blog.codingnow.com/2025/09/mouse_im_mode.html</id>

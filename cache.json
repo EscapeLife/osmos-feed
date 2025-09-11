@@ -43,7 +43,18 @@
       "title": "MacTalk-池建强的随想录",
       "feedUrl": "https://macshuo.com/?feed=rss2",
       "siteUrl": "https://macshuo.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://macshuo.com/?p=1980",
+          "author": "MacTalk",
+          "description": "9 月 5 日这一天，Anthropic 在官网发布了一则消息：立即停止 Cla … Continue reading →",
+          "link": "https://macshuo.com/?p=1980",
+          "publishedOn": "2025-09-10T04:49:45.000Z",
+          "wordCount": 946,
+          "title": "Claude 这条路在中国企业这里彻底断掉了",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Tinyfool的个人网站",

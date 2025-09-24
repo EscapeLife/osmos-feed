@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-09-23T00:58:50.113Z</updated>
+    <updated>2025-09-24T00:59:05.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PyCome]]></title>
+        <id>https://frostming.com/2025/pycon/</id>
+        <link href="https://frostming.com/2025/pycon/"/>
+        <updated>2025-09-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Programming and Life]]></summary>
+        <author>
+            <name>Frost's Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用手机拍摄：不用相机也能开启 YouTube 频道（2025 指南）]]></title>
         <id>https://codechina.org/?p=31121</id>
@@ -68,16 +78,6 @@
         <summary type="html"><![CDATA[9 月 5 日这一天，Anthropic 在官网发布了一则消息：立即停止 Cla … Continue reading →]]></summary>
         <author>
             <name>MacTalk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[����ģʽ�µ���꽻������]]></title>
-        <id>https://blog.codingnow.com/2025/09/mouse_im_mode.html</id>
-        <link href="https://blog.codingnow.com/2025/09/mouse_im_mode.html"/>
-        <updated>2025-09-09T09:26:04.000Z</updated>
-        <summary type="html"><![CDATA[���������Ϸʱ������������ģʽ�����Ľ�������ʵ�ֵıȽϻ��ҡ� ��������ʱ���Ҽ��������������¼��� callback �ӿڡ�һ��ʼд��Ϸʱ��Ҳ���ǶԸ�һ��д�˼��д��룬���¿��Թ��������˴����º����Ž�������Խ��Խ���ӣ���ЩӦ���õĴ������Բ����ظ�����Խ��Խ��ı߽�����޷���ȷ�������ȵ�������ڽ����ϼ�һ�ֳ������ȷ�ϵĲ��������ֲ����������Ը���ȥ�ˣ��ͻ���һ�����ع������к���꽻����صĴ��롣 ֮ǰ������������ �����ϵͳ�������Ϣ���������ǿ��Դ�����������ƶ������¡�̧����¼�����������������ϵͳ�������ĵ����˫���ȵȸ����¼�������ѡ���Լ��ð��º�̧�����ж���Щ�����ǣ���Ϣ���Ʊ���������ģʽ����㣵ġ���������ģʽ��д��Ϸҵ���Լ���������õ��µ�״̬������Ȼ�ģ�������Ϣ������״̬������һ�����У���ÿ����Ϸ֡�У�����û����Ϣ��Ҳ�����ж�����Ϣ�����ֻ�Ǵ�������λ�úͰ���״̬����ô�������һ��״̬Ҳ���ԣ����ǣ�����������Ϊ�����Բ���˲���״̬�����ǹ�ȥһ��ʱ���״̬���Ӻ���¼���...]]></summary>
-        <author>
-            <name>云风的 BLOG</name>
         </author>
     </entry>
     <entry>

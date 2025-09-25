@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-09-24T00:59:05.079Z</updated>
+    <updated>2025-09-25T00:59:28.078Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[如何创作 YouTube 的长青内容]]></title>
+        <id>https://codechina.org/?p=31129</id>
+        <link href="https://codechina.org/2025/09/31129/"/>
+        <updated>2025-09-24T16:28:19.000Z</updated>
+        <summary type="html"><![CDATA[翻译自：How to Create Evergreen YouTube Content 当你在打造一个 You […]
+如何创作 YouTube 的长青内容最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最近是我最抑郁的时光，但是我想陪大家一起努力过好我们的人生]]></title>
+        <id>https://codechina.org/?p=31126</id>
+        <link href="https://codechina.org/2025/09/31126/"/>
+        <updated>2025-09-24T01:53:31.000Z</updated>
+        <summary type="html"><![CDATA[老读者都知道我是一个受情绪影响很大的人。 心情好的时候恣意张狂，做什么事情都很热心，充满了人生力量。在那些阶段 […]
+最近是我最抑郁的时光，但是我想陪大家一起努力过好我们的人生最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PyCome]]></title>
         <id>https://frostming.com/2025/pycon/</id>
@@ -68,16 +90,6 @@
         <summary type="html"><![CDATA[好消息是：这个 blog 终于是 UTF-8 编码了。前些年老有人问我能不能把 RSS 输出改成 UTF-8 的，很多 RSS 阅读器不支持 gbk ，这次终于改过来了。 事情源于昨天下午的一次脑抽，我把网站机器的操作系统升级了。上次升级还是十多年前，真的是太老旧了。结果升完级一看，php 被强制升到了 7 ，我自己写的一些 php 程序（主要是留言板）坏掉了。 这些个程序是我在 2004 年重构 2002 年的代码完成的；而 2002 年是从网上随便找来的代码基础上改的。我正儿八经学习 PHP 是在 1997 年，2000 年后就没怎么更新 PHP 的知识了。上次网站升级的时候，PHP 从 4 强制升到 5 ，就乱改了一通，勉强让程序可以运行（开了一些兼容模式）。这次再看代码，简直是惨不忍睹。所以我在本地装了个 PHP8 ，打开...]]></summary>
         <author>
             <name>云风的 BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude 这条路在中国企业这里彻底断掉了]]></title>
-        <id>https://macshuo.com/?p=1980</id>
-        <link href="https://macshuo.com/?p=1980"/>
-        <updated>2025-09-10T04:49:45.000Z</updated>
-        <summary type="html"><![CDATA[9 月 5 日这一天，Anthropic 在官网发布了一则消息：立即停止 Cla … Continue reading →]]></summary>
-        <author>
-            <name>MacTalk</name>
         </author>
     </entry>
     <entry>

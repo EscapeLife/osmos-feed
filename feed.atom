@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-10-02T00:58:06.905Z</updated>
+    <updated>2025-10-03T00:58:39.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[成为榜样，但不要成为偶像]]></title>
+        <id>https://www.manjusaka.blog/posts/2025/10/02/be-a-good-example-not-be-an-idol/</id>
+        <link href="https://www.manjusaka.blog/posts/2025/10/02/be-a-good-example-not-be-an-idol/"/>
+        <updated>2025-10-02T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>最近刚把空轨 1st 打通关。差不多国庆假期也要结束了，要开始准备接下来的学习和工作了。趁着这个机会，写点东西，当个迟到的 PyCon China 2025 的总结吧</p>]]></summary>
+        <author>
+            <name>Manjusaka</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么只有3万订阅的频道能有1800万播放量？——Youtube长青内容的威力]]></title>
         <id>https://codechina.org/?p=31138</id>

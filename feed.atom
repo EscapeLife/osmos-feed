@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-10-06T01:00:15.800Z</updated>
+    <updated>2025-10-07T00:59:04.183Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -57,16 +57,6 @@
 最近是我最抑郁的时光，但是我想陪大家一起努力过好我们的人生最先出现在Tinyfool的个人网站。]]></summary>
         <author>
             <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyCome]]></title>
-        <id>https://frostming.com/2025/pycon/</id>
-        <link href="https://frostming.com/2025/pycon/"/>
-        <updated>2025-09-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Programming and Life]]></summary>
-        <author>
-            <name>Frost's Blog</name>
         </author>
     </entry>
     <entry>

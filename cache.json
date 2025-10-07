@@ -121,18 +121,7 @@
       "title": "Frost's Blog",
       "feedUrl": "https://frostming.com/feed.xml",
       "siteUrl": "https://frostming.com/",
-      "articles": [
-        {
-          "id": "https://frostming.com/2025/pycon/",
-          "author": null,
-          "description": "Programming and Life",
-          "link": "https://frostming.com/2025/pycon/",
-          "publishedOn": "2025-09-22T00:00:00.000Z",
-          "wordCount": 275,
-          "title": "PyCome",
-          "imageUrl": "https://webp.frostming.com/images/pycon.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Posts on Jiayuan Thoughts",

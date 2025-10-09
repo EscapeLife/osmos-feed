@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-10-08T00:58:24.589Z</updated>
+    <updated>2025-10-09T00:59:48.192Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -44,17 +44,6 @@
         <updated>2025-09-24T16:28:19.000Z</updated>
         <summary type="html"><![CDATA[翻译自：How to Create Evergreen YouTube Content 当你在打造一个 You […]
 如何创作 YouTube 的长青内容最先出现在Tinyfool的个人网站。]]></summary>
-        <author>
-            <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最近是我最抑郁的时光，但是我想陪大家一起努力过好我们的人生]]></title>
-        <id>https://codechina.org/?p=31126</id>
-        <link href="https://codechina.org/2025/09/31126/"/>
-        <updated>2025-09-24T01:53:31.000Z</updated>
-        <summary type="html"><![CDATA[老读者都知道我是一个受情绪影响很大的人。 心情好的时候恣意张狂，做什么事情都很热心，充满了人生力量。在那些阶段 […]
-最近是我最抑郁的时光，但是我想陪大家一起努力过好我们的人生最先出现在Tinyfool的个人网站。]]></summary>
         <author>
             <name>tinyfool</name>
         </author>

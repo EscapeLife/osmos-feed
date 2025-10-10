@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-10-09T00:59:48.192Z</updated>
+    <updated>2025-10-10T00:59:30.671Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -33,17 +33,6 @@
         <updated>2025-09-28T03:32:17.000Z</updated>
         <summary type="html"><![CDATA[翻译自：Why a YouTube Channel with Only 30K Subscribers Can […]
 为什么只有3万订阅的频道能有1800万播放量？——Youtube长青内容的威力最先出现在Tinyfool的个人网站。]]></summary>
-        <author>
-            <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何创作 YouTube 的长青内容]]></title>
-        <id>https://codechina.org/?p=31129</id>
-        <link href="https://codechina.org/2025/09/31129/"/>
-        <updated>2025-09-24T16:28:19.000Z</updated>
-        <summary type="html"><![CDATA[翻译自：How to Create Evergreen YouTube Content 当你在打造一个 You […]
-如何创作 YouTube 的长青内容最先出现在Tinyfool的个人网站。]]></summary>
         <author>
             <name>tinyfool</name>
         </author>

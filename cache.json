@@ -43,7 +43,18 @@
       "title": "MacTalk-池建强的随想录",
       "feedUrl": "https://macshuo.com/?feed=rss2",
       "siteUrl": "https://macshuo.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://macshuo.com/?p=1987",
+          "author": "MacTalk",
+          "description": "https://note.mowen.cn/note/detail?noteUu … Continue reading →",
+          "link": "https://macshuo.com/?p=1987",
+          "publishedOn": "2025-10-10T11:24:00.000Z",
+          "wordCount": 931,
+          "title": "开始构建墨问的 Web 版本",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Tinyfool的个人网站",

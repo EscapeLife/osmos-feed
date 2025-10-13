@@ -60,18 +60,7 @@
       "title": "Tinyfool的个人网站",
       "feedUrl": "http://feeds.feedburner.com/Tinyfoolblog",
       "siteUrl": "https://codechina.org/",
-      "articles": [
-        {
-          "id": "https://codechina.org/?p=31138",
-          "author": "tinyfool",
-          "description": "翻译自：Why a YouTube Channel with Only 30K Subscribers Can […]\n为什么只有3万订阅的频道能有1800万播放量？——Youtube长青内容的威力最先出现在Tinyfool的个人网站。",
-          "link": "https://codechina.org/2025/09/31138/",
-          "publishedOn": "2025-09-28T03:32:17.000Z",
-          "wordCount": 1132,
-          "title": "为什么只有3万订阅的频道能有1800万播放量？——Youtube长青内容的威力",
-          "imageUrl": "https://codechina.org/wp-content/uploads/2025/09/ChatGPT-Image-Sept-25-2025-2.jpeg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "ChangeLog of KDr2.com",
@@ -137,6 +126,16 @@
       "feedUrl": "https://blog.codingnow.com/atom.xml",
       "siteUrl": "https://blog.codingnow.com/",
       "articles": [
+        {
+          "id": "https://blog.codingnow.com/2025/10/boardgame_design_contest.html",
+          "author": null,
+          "description": "这一篇是前几个月研究桌游规则期间的另一篇小结。因为最近两个多月都在制作 Deep Future 的数字版，没空整理笔记。现在闲下来，汇总整理这么一篇记录。 今年夏天，我迷上了 DIY 类型的桌游。这类桌游最显设计灵感。商业桌游固然被打磨的更好，但设计/制作周期也更长。通常，规则也更复杂，游戏时间更长。我经常买到喜欢的游戏找不到人开。阅读和理解游戏规则也是颇花精力的事情。所以，我近年更倾向于有单人模式的游戏。这样至少学会了规则就能开始玩。但为单人游玩的商业桌游并不算多（不太好卖），而我对多年前玩过的几款 PnP （打印出来即可玩）类单人桌游印象颇为深刻：比如 Delve 和同期的 Utopia Engine (2010) 。 在 7 月初我逛 bgg 时，一款叫做 Under Falling Skies 的游戏吸引了我。这是一个只需要 9 张自制卡片加几个骰子就可以玩的单人游戏，规则书很短几分钟就理解了游戏机制，但直觉告诉我在这套规则下会有很丰富的变化。我当即用打印机自制了卡片（普通 A4 纸加 9 个卡套）试玩，果然其乐无穷。尤其是高难度模式颇有挑战。进一步探索，我发现这个游戏还有一个商业版本，添加了更长的战役。当即在淘宝上下了单（有中文版本)。 从这个游戏开始，我了解到了 9 卡微型 PnP 游戏设计大赛。从 2008 年开始，在 bgg (boardgamegeek) 上每年都会举办...",
+          "link": "https://blog.codingnow.com/2025/10/boardgame_design_contest.html",
+          "publishedOn": "2025-10-12T09:57:22.000Z",
+          "wordCount": 208,
+          "title": "关于桌游设计大赛的介绍",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.codingnow.com/2025/10/deepfuture_dev.html",
           "author": null,

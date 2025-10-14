@@ -119,7 +119,18 @@
       "title": "李辉 / Grey Li",
       "feedUrl": "https://greyli.com/feed",
       "siteUrl": "https://greyli.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://greyli.com/?p=5732",
+          "author": "李辉",
+          "description": "即将出版的新书（预计将于本月底发售）变成了一个超强 deadline，它提及的所有东西都要在发售前成为现实。比 […]",
+          "link": "https://greyli.com/flask-tutorial-v4/",
+          "publishedOn": "2025-10-13T13:12:29.000Z",
+          "wordCount": 451,
+          "title": "《Flask 入门教程》第 4 版发布",
+          "imageUrl": "https://greyli.com/wp-content/uploads/2025/03/avatar-500-compressed.jpg"
+        }
+      ]
     },
     {
       "title": "云风的 BLOG",

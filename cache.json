@@ -78,18 +78,7 @@
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "https://www.manjusaka.blog/atom.xml",
-      "articles": [
-        {
-          "id": "https://www.manjusaka.blog/posts/2025/10/02/be-a-good-example-not-be-an-idol/",
-          "author": null,
-          "description": "<p>最近刚把空轨 1st 打通关。差不多国庆假期也要结束了，要开始准备接下来的学习和工作了。趁着这个机会，写点东西，当个迟到的 PyCon China 2025 的总结吧</p>",
-          "link": "https://www.manjusaka.blog/posts/2025/10/02/be-a-good-example-not-be-an-idol/",
-          "publishedOn": "2025-10-02T20:00:00.000Z",
-          "wordCount": 1758,
-          "title": "成为榜样，但不要成为偶像",
-          "imageUrl": "https://cdn.pixabay.com/photo/2023/02/08/15/10/sculpture-7776861_1280.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "laike9m's blog",
@@ -120,6 +109,16 @@
       "feedUrl": "https://greyli.com/feed",
       "siteUrl": "https://greyli.com",
       "articles": [
+        {
+          "id": "https://greyli.com/?p=5742",
+          "author": "李辉",
+          "description": "五年了，终于等到这一天。《Flask Web 开发实战》的全新升级版《Flask 从入门到进阶：Python  […]",
+          "link": "https://greyli.com/flask-book-2025-signed/",
+          "publishedOn": "2025-10-17T10:58:36.000Z",
+          "wordCount": 443,
+          "title": "《Flask 从入门到进阶》签名版预售",
+          "imageUrl": "https://greyli.com/wp-content/uploads/2025/03/avatar-500-compressed.jpg"
+        },
         {
           "id": "https://greyli.com/?p=5732",
           "author": "李辉",
@@ -162,7 +161,7 @@
     {
       "title": "piglei",
       "feedUrl": "https://www.piglei.com/feeds/latest",
-      "siteUrl": "http://www.piglei.com/",
+      "siteUrl": "https://www.piglei.com/",
       "articles": []
     },
     {

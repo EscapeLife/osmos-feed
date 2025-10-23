@@ -60,7 +60,18 @@
       "title": "Tinyfool的个人网站",
       "feedUrl": "http://feeds.feedburner.com/Tinyfoolblog",
       "siteUrl": "https://codechina.org/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://codechina.org/?p=31147",
+          "author": "tinyfool",
+          "description": "十几天前，我开始做一个实验：我创建了一个 完全由 AI 制作 的 YouTube 频道。配 […]\n我做了一个全 AI 生成YouTube 频道，十天后我发现了这些真相最先出现在Tinyfool的个人网站。",
+          "link": "https://codechina.org/2025/10/31147/",
+          "publishedOn": "2025-10-22T03:45:36.000Z",
+          "wordCount": 1110,
+          "title": "我做了一个全 AI 生成YouTube 频道，十天后我发现了这些真相",
+          "imageUrl": "https://codechina.org/wp-content/uploads/2025/10/截屏2025-10-21-11.56.17.png"
+        }
+      ]
     },
     {
       "title": "ChangeLog of KDr2.com",

@@ -51,6 +51,16 @@
       "siteUrl": "https://codechina.org/",
       "articles": [
         {
+          "id": "https://codechina.org/?p=31171",
+          "author": "tinyfool",
+          "description": "我儿时的一位非常喜欢的歌手，郑智化最近又出名了。因为10月25日，他在微博发文，指责深圳机场“对残疾人是最没人 […]\n我们都需要感谢郑智化的撒娇和矫情最先出现在Tinyfool的个人网站。",
+          "link": "https://codechina.org/2025/10/31171/",
+          "publishedOn": "2025-10-28T02:25:15.000Z",
+          "wordCount": 1084,
+          "title": "我们都需要感谢郑智化的撒娇和矫情",
+          "imageUrl": "https://codechina.org/wp-content/uploads/2025/10/ABM-X-Portaramp-1.webp"
+        },
+        {
           "id": "https://codechina.org/?p=31154",
           "author": "tinyfool",
           "description": "开始一个 YouTube 频道可能会让人觉得压力山大——要考虑的东西太多：内容创意、剪辑软件、缩略图，当然还有 […]\n初学 YouTube 创作者装备指南：摄像机、灯光和麦克风（2025 年指南）最先出现在Tinyfool的个人网站。",
@@ -138,16 +148,6 @@
           "publishedOn": "2025-10-17T10:58:36.000Z",
           "wordCount": 443,
           "title": "《Flask 从入门到进阶》签名版预售",
-          "imageUrl": "https://greyli.com/wp-content/uploads/2025/03/avatar-500-compressed.jpg"
-        },
-        {
-          "id": "https://greyli.com/?p=5732",
-          "author": "李辉",
-          "description": "即将出版的新书（预计将于本月底发售）变成了一个超强 deadline，它提及的所有东西都要在发售前成为现实。比 […]",
-          "link": "https://greyli.com/flask-tutorial-v4/",
-          "publishedOn": "2025-10-13T13:12:29.000Z",
-          "wordCount": 451,
-          "title": "《Flask 入门教程》第 4 版发布",
           "imageUrl": "https://greyli.com/wp-content/uploads/2025/03/avatar-500-compressed.jpg"
         }
       ]

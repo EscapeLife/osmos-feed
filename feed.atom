@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-10-29T01:05:11.773Z</updated>
+    <updated>2025-10-30T01:04:17.820Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[YouTube新手最值得入手的五款视频剪辑软件对比（2025年指南）]]></title>
+        <id>https://codechina.org/?p=31205</id>
+        <link href="https://codechina.org/2025/10/31205/"/>
+        <updated>2025-10-29T06:24:21.000Z</updated>
+        <summary type="html"><![CDATA[原文链接：Top 5 Video Editing Software for YouTube Beginners […]
+YouTube新手最值得入手的五款视频剪辑软件对比（2025年指南）最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不到百元低成本启动 YouTube 指南：2025 年新手低成本设备配置]]></title>
+        <id>https://codechina.org/?p=31181</id>
+        <link href="https://codechina.org/2025/10/31181/"/>
+        <updated>2025-10-29T05:12:35.000Z</updated>
+        <summary type="html"><![CDATA[开始一个 YouTube 频道并不一定要花大价钱。只要选择合适的性价比设备，你就能拍出看起来专业、声音清晰、能 […]
+不到百元低成本启动 YouTube 指南：2025 年新手低成本设备配置最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们都需要感谢郑智化的撒娇和矫情]]></title>
         <id>https://codechina.org/?p=31171</id>

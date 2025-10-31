@@ -182,7 +182,18 @@
       "title": "piglei",
       "feedUrl": "https://www.piglei.com/feeds/latest",
       "siteUrl": "https://www.piglei.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.piglei.com/articles/why-is-python-ordereddict-ordered/",
+          "author": null,
+          "description": "现在是 2025 年，网上已很少见到 Python 字典有序性的相关讨论。自从 Python 在 2018 年发布 3.7 版本，将“字典保持成员的插入序”写进语言规范后，人们已渐渐习惯有序的字典。那曾经调皮、无序的字典，早已像 2.7 版本一样成为过去，只在某些老登们忆苦思甜时被提起。\n而在那个字典无法保持顺序的年代，如果我们要用到有序的字典，我们用什么？答案是：collections.OrderedDict。\n但是，随着内置字典已经有序，OrderedDict 似乎也渐渐变得不再必要。不过，截止到目前（3.14 版本）为止，它仍然存在于标准库模块 collections 中。这主要是出于以下几个原因：\n保持向前兼容，已依赖其的旧代码可以保持不变；\n行为不同：OrderedDict 在判断相等性时会将键顺序纳入考量，内置字典不会；\n更多特性：OrderedDict 拥有 move_to_end 等方法。\n>>> d\nOrderedDict([('a', 1), ('b', 2), ('c', 3)])\n>>> d.move_to_end('a')\n>>> d\nOrderedDict([('b', 2), ('c', 3), ('a', 1)])    # 1\n\nmove_to_end()  可以把某个键移动到字典的末尾\n本文将深入 OrderedDict 类型的内部实现，了解在 Python 中实现一个有序的字典，需要做哪些工作。\n注：具体来说，标准库中的 OrderedDict 数据结构有 C 和 Python 两套不同实现，各自适用不同的运行环境，二者的实现类似；本文针对 Python 版本编写。\n一个双向链表和另一个字典\nOrderedDict 是一个有序的字典，它像普通字典一样支持键值对操作，只是保留了键的顺序。实现 OrderedDict 的关键在于以下两点：\n…",
+          "link": "https://www.piglei.com/articles/why-is-python-ordereddict-ordered/",
+          "publishedOn": "2025-10-30T02:42:55.000Z",
+          "wordCount": 490,
+          "title": "Python 的 OrderedDict 为什么有序？",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "静觅",

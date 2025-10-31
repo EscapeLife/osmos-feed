@@ -82,6 +82,70 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-10-30 datetime="2025-10-30T02:42:55.000Z">2025-10-30</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-10-30 datetime="2025-10-30T02:42:55.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >piglei</button>
+                  <a class="source-heading__link" href="https://www.piglei.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.piglei.com/articles/why-is-python-ordereddict-ordered/"
+                        open
+                      >
+                        <summary class="article-expander__title">Python 的 OrderedDict 为什么有序？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.piglei.com/articles/why-is-python-ordereddict-ordered/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>现在是 2025 年，网上已很少见到 Python 字典有序性的相关讨论。自从 Python 在 2018 年发布 3.7 版本，将“字典保持成员的插入序”写进语言规范后，人们已渐渐习惯有序的字典。那曾经调皮、无序的字典，早已像 2.7 版本一样成为过去，只在某些老登们忆苦思甜时被提起。
+而在那个字典无法保持顺序的年代，如果我们要用到有序的字典，我们用什么？答案是：collections.OrderedDict。
+但是，随着内置字典已经有序，OrderedDict 似乎也渐渐变得不再必要。不过，截止到目前（3.14 版本）为止，它仍然存在于标准库模块 collections 中。这主要是出于以下几个原因：
+保持向前兼容，已依赖其的旧代码可以保持不变；
+行为不同：OrderedDict 在判断相等性时会将键顺序纳入考量，内置字典不会；
+更多特性：OrderedDict 拥有 move_to_end 等方法。
+&gt;&gt;&gt; d
+OrderedDict([(&#x27;a&#x27;, 1), (&#x27;b&#x27;, 2), (&#x27;c&#x27;, 3)])
+&gt;&gt;&gt; d.move_to_end(&#x27;a&#x27;)
+&gt;&gt;&gt; d
+OrderedDict([(&#x27;b&#x27;, 2), (&#x27;c&#x27;, 3), (&#x27;a&#x27;, 1)])    # 1
+
+move_to_end()  可以把某个键移动到字典的末尾
+本文将深入 OrderedDict 类型的内部实现，了解在 Python 中实现一个有序的字典，需要做哪些工作。
+注：具体来说，标准库中的 OrderedDict 数据结构有 C 和 Python 两套不同实现，各自适用不同的运行环境，二者的实现类似；本文针对 Python 版本编写。
+一个双向链表和另一个字典
+OrderedDict 是一个有序的字典，它像普通字典一样支持键值对操作，只是保留了键的顺序。实现 OrderedDict 的关键在于以下两点：
+…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-10-29 datetime="2025-10-29T06:24:21.000Z">2025-10-29</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-10-29 datetime="2025-10-29T06:24:21.000Z"></time>
           </button>
@@ -479,8 +543,8 @@ YouTube新手最值得入手的五款视频剪辑软件对比（2025年指南）
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/EscapeLife/osmos-feed/actions/runs/18926571925">
-        <time id="build-timestamp" datetime="2025-10-30T01:04:17.802Z">2025-10-30T01:04:17.802Z</time>
+      <a class="footer-link" href="https://github.com/EscapeLife/osmos-feed/actions/runs/18959465902">
+        <time id="build-timestamp" datetime="2025-10-31T01:02:49.544Z">2025-10-31T01:02:49.544Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

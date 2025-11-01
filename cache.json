@@ -51,6 +51,16 @@
       "siteUrl": "https://codechina.org/",
       "articles": [
         {
+          "id": "https://codechina.org/?p=31217",
+          "author": "tinyfool",
+          "description": "原文：Step-by-Step Workflow: From Shooting to Uploading Yo […]\n循序渐进工作流：从拍摄到上传你的第一支 YouTube 视频（新手指南 + 可打印清单）最先出现在Tinyfool的个人网站。",
+          "link": "https://codechina.org/2025/10/31217/",
+          "publishedOn": "2025-10-31T03:01:43.000Z",
+          "wordCount": 1298,
+          "title": "循序渐进工作流：从拍摄到上传你的第一支 YouTube 视频（新手指南 + 可打印清单）",
+          "imageUrl": "https://codechina.org/wp-content/uploads/2025/10/YouTube-Video-Workflow-Guide-2025.png"
+        },
+        {
           "id": "https://codechina.org/?p=31205",
           "author": "tinyfool",
           "description": "原文链接：Top 5 Video Editing Software for YouTube Beginners […]\nYouTube新手最值得入手的五款视频剪辑软件对比（2025年指南）最先出现在Tinyfool的个人网站。",
@@ -159,18 +169,7 @@
       "title": "李辉 / Grey Li",
       "feedUrl": "https://greyli.com/feed",
       "siteUrl": "https://greyli.com",
-      "articles": [
-        {
-          "id": "https://greyli.com/?p=5742",
-          "author": "李辉",
-          "description": "五年了，终于等到这一天。《Flask Web 开发实战》的全新升级版《Flask 从入门到进阶：Python  […]",
-          "link": "https://greyli.com/flask-book-2025-signed/",
-          "publishedOn": "2025-10-17T10:58:36.000Z",
-          "wordCount": 443,
-          "title": "《Flask 从入门到进阶》签名版预售",
-          "imageUrl": "https://greyli.com/wp-content/uploads/2025/03/avatar-500-compressed.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "云风的 BLOG",

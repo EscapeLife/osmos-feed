@@ -51,6 +51,26 @@
       "siteUrl": "https://codechina.org/",
       "articles": [
         {
+          "id": "https://codechina.org/?p=31229",
+          "author": "tinyfool",
+          "description": "原文链接：Free Editing Tools: How to Start Without Spending  […]\n免费剪辑工具：零成本开始你的创作（2025年版）最先出现在Tinyfool的个人网站。",
+          "link": "https://codechina.org/2025/11/31229/",
+          "publishedOn": "2025-11-01T04:06:14.000Z",
+          "wordCount": 1243,
+          "title": "免费剪辑工具：零成本开始你的创作（2025年版）",
+          "imageUrl": "https://codechina.org/wp-content/uploads/2025/11/Free-Video-Editor-2025.png"
+        },
+        {
+          "id": "https://codechina.org/?p=31221",
+          "author": "tinyfool",
+          "description": "原文链接：Understanding YouTube SEO: Titles, Tags, and Descr […]\nYouTube SEO入门：轻松掌握标题、标签与描述最先出现在Tinyfool的个人网站。",
+          "link": "https://codechina.org/2025/11/31221/",
+          "publishedOn": "2025-11-01T02:36:14.000Z",
+          "wordCount": 1296,
+          "title": "YouTube SEO入门：轻松掌握标题、标签与描述",
+          "imageUrl": "https://codechina.org/wp-content/uploads/2025/11/YouTube-SEO-Guide.jpg"
+        },
+        {
           "id": "https://codechina.org/?p=31217",
           "author": "tinyfool",
           "description": "原文：Step-by-Step Workflow: From Shooting to Uploading Yo […]\n循序渐进工作流：从拍摄到上传你的第一支 YouTube 视频（新手指南 + 可打印清单）最先出现在Tinyfool的个人网站。",
@@ -204,7 +224,18 @@
       "title": "咸糖 - 自律者自由",
       "feedUrl": "https://vim0.com/index.xml",
       "siteUrl": "https://vim0.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://vim0.com/post/best-food-in-sg-and-jb/",
+          "author": null,
+          "description": "个人在新加坡和新山吃过最好的食物（持续更新） 因为我对象特别喜欢吃，并且我作为一个程序员虽然对吃没有太在行，但是我对于找餐厅做 research 是非常专业的。",
+          "link": "https://vim0.com/post/best-food-in-sg-and-jb/",
+          "publishedOn": "2025-11-01T02:00:00.000Z",
+          "wordCount": 272,
+          "title": "在新加坡和新山吃过最好的食物（持续更新）",
+          "imageUrl": "https://vim0.com/post/main_cover.png"
+        }
+      ]
     },
     {
       "title": "离别歌",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-11-03T01:06:04.359Z</updated>
+    <updated>2025-11-04T01:03:00.552Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -129,16 +129,6 @@ YouTube新手最值得入手的五款视频剪辑软件对比（2025年指南）
 我做了一个全 AI 生成YouTube 频道，十天后我发现了这些真相最先出现在Tinyfool的个人网站。]]></summary>
         <author>
             <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Tried the Agentic Browsers]]></title>
-        <id>https://laike9m.com/blog/agentic-browser,169/</id>
-        <link href="https://laike9m.com/blog/agentic-browser,169/"/>
-        <updated>2025-10-20T04:17:51.000Z</updated>
-        <summary type="html"><![CDATA[Today I tried three agentic browsers: Comet, Dia, and Fellou. The results were quite disappointing.]]></summary>
-        <author>
-            <name>laike9m's blog</name>
         </author>
     </entry>
     <entry>

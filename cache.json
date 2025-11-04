@@ -154,18 +154,7 @@
       "title": "laike9m's blog",
       "feedUrl": "https://laike9m.com/blog/rss",
       "siteUrl": "https://laike9m.com/blog/rss",
-      "articles": [
-        {
-          "id": "https://laike9m.com/blog/agentic-browser,169/",
-          "author": null,
-          "description": "Today I tried three agentic browsers: Comet, Dia, and Fellou. The results were quite disappointing.",
-          "link": "https://laike9m.com/blog/agentic-browser,169/",
-          "publishedOn": "2025-10-20T04:17:51.000Z",
-          "wordCount": 847,
-          "title": "I Tried the Agentic Browsers",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Frost's Blog",

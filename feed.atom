@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-11-11T01:04:14.562Z</updated>
+    <updated>2025-11-12T01:03:41.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[0.01% 的概率超时问题]]></title>
+        <id>https://www.kawabangga.com/?p=7066</id>
+        <link href="https://www.kawabangga.com/posts/7066"/>
+        <updated>2025-11-11T13:15:27.000Z</updated>
+        <summary type="html"><![CDATA[前言：这个系列（以及我的博客）好久不更新了，原因有两个，一个是我在学习用双拼打字，手跟不上脑子，写的东西读起来 […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欧陆风云 5 的经济系统]]></title>
         <id>https://blog.codingnow.com/2025/11/eu5.html</id>
@@ -104,17 +115,6 @@ YouTube新手最值得入手的五款视频剪辑软件对比（2025年指南）
         <updated>2025-10-29T05:12:35.000Z</updated>
         <summary type="html"><![CDATA[开始一个 YouTube 频道并不一定要花大价钱。只要选择合适的性价比设备，你就能拍出看起来专业、声音清晰、能 […]
 不到百元低成本启动 YouTube 指南：2025 年新手低成本设备配置最先出现在Tinyfool的个人网站。]]></summary>
-        <author>
-            <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们都需要感谢郑智化的撒娇和矫情]]></title>
-        <id>https://codechina.org/?p=31171</id>
-        <link href="https://codechina.org/2025/10/31171/"/>
-        <updated>2025-10-28T02:25:15.000Z</updated>
-        <summary type="html"><![CDATA[我儿时的一位非常喜欢的歌手，郑智化最近又出名了。因为10月25日，他在微博发文，指责深圳机场“对残疾人是最没人 […]
-我们都需要感谢郑智化的撒娇和矫情最先出现在Tinyfool的个人网站。]]></summary>
         <author>
             <name>tinyfool</name>
         </author>

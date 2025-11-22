@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-11-21T01:03:05.256Z</updated>
+    <updated>2025-11-22T01:00:56.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LRO/GRO 对于网络吞吐的影响]]></title>
+        <id>https://www.kawabangga.com/?p=7076</id>
+        <link href="https://www.kawabangga.com/posts/7076"/>
+        <updated>2025-11-21T07:39:40.000Z</updated>
+        <summary type="html"><![CDATA[打开这个抓包文件，可以马上确认这是一个发送的数据比较多的连接，因为 TCP sequence number 上 […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何在 YouTube 上找到有流量但竞争低的关键词与选题]]></title>
         <id>https://codechina.org/?p=31250</id>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-11-22T01:00:56.285Z</updated>
+    <updated>2025-11-23T01:12:39.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[嵌入主线程消息循环的任务调度器]]></title>
+        <id>https://blog.codingnow.com/2025/11/task_schedule_in_eventloop.html</id>
+        <link href="https://blog.codingnow.com/2025/11/task_schedule_in_eventloop.html"/>
+        <updated>2025-11-22T05:52:56.000Z</updated>
+        <summary type="html"><![CDATA[最近在网友协助下把 soluna port 到包括 wasm 在内的非 windows 平台。其间遇到很多难题，大多是多线程环境的问题。因为 soluna 的根基就是基于 ltask 的多线程调度器，如果用单线程实现它，整个项目的意义就几乎不存在，所以它是把项目维护下去必须解决的问题。 好在 lua 有优秀的 coroutine 支持，它可以把运行流程抽象成数据，而 Lua 本身并未限制数据的具体储存方式，所以完全可以存在于内存堆中，脱离于 C 栈存在，这为各种在 C 环境下的多线程难题开了后门。C 语言依赖栈运行代码逻辑，而栈绑定于线程，线程调度通常由操作系统完成，所以用常规方式无法让代码跨线程运行：即，无法通过常规手法让一段代码的流程前半段在一个线程运行，而用另一个线程运行后半段；但是，在 C 上建立一个 Lua 层，则很容易绕开这个限制，只用标准方法就可以自由控制程序运行流程。 上一次发现利用一些技巧就可以完成一些看似不可能却的确可行的调度方式是 多线程串行运行 Lua 虚拟机 。 简单复述一下当时的需求：...]]></summary>
+        <author>
+            <name>云风的 BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LRO/GRO 对于网络吞吐的影响]]></title>
         <id>https://www.kawabangga.com/?p=7076</id>

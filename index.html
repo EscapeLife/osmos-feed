@@ -82,6 +82,53 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-11-22 datetime="2025-11-22T05:52:56.000Z">2025-11-22</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-11-22 datetime="2025-11-22T05:52:56.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >云风的 BLOG</button>
+                  <a class="source-heading__link" href="https://blog.codingnow.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://blog.codingnow.com/2025/11/task_schedule_in_eventloop.html"
+                        open
+                      >
+                        <summary class="article-expander__title">嵌入主线程消息循环的任务调度器</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://blog.codingnow.com/2025/11/task_schedule_in_eventloop.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>最近在网友协助下把 soluna port 到包括 wasm 在内的非 windows 平台。其间遇到很多难题，大多是多线程环境的问题。因为 soluna 的根基就是基于 ltask 的多线程调度器，如果用单线程实现它，整个项目的意义就几乎不存在，所以它是把项目维护下去必须解决的问题。 好在 lua 有优秀的 coroutine 支持，它可以把运行流程抽象成数据，而 Lua 本身并未限制数据的具体储存方式，所以完全可以存在于内存堆中，脱离于 C 栈存在，这为各种在 C 环境下的多线程难题开了后门。C 语言依赖栈运行代码逻辑，而栈绑定于线程，线程调度通常由操作系统完成，所以用常规方式无法让代码跨线程运行：即，无法通过常规手法让一段代码的流程前半段在一个线程运行，而用另一个线程运行后半段；但是，在 C 上建立一个 Lua 层，则很容易绕开这个限制，只用标准方法就可以自由控制程序运行流程。 上一次发现利用一些技巧就可以完成一些看似不可能却的确可行的调度方式是 多线程串行运行 Lua 虚拟机 。 简单复述一下当时的需求：...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-11-21 datetime="2025-11-21T07:39:40.000Z">2025-11-21</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-11-21 datetime="2025-11-21T07:39:40.000Z"></time>
           </button>
@@ -312,8 +359,8 @@ Continue reading...</span>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/EscapeLife/osmos-feed/actions/runs/19587719756">
-        <time id="build-timestamp" datetime="2025-11-22T01:00:56.269Z">2025-11-22T01:00:56.269Z</time>
+      <a class="footer-link" href="https://github.com/EscapeLife/osmos-feed/actions/runs/19603805639">
+        <time id="build-timestamp" datetime="2025-11-23T01:12:39.785Z">2025-11-23T01:12:39.785Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

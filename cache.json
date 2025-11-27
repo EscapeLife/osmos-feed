@@ -51,6 +51,16 @@
       "siteUrl": "https://codechina.org/",
       "articles": [
         {
+          "id": "https://codechina.org/?p=31263",
+          "author": "tinyfool",
+          "description": "最近我打算做一个讲机械原理的英文网站，正好Gemini 3出来，前端能力很强，于是我就用手绘了草图，让Gemi […]\n一行代码不用写，从草图到可运行的数据库驱动的全功能网站，全面用AI生成，提示词全记录最先出现在Tinyfool的个人网站。",
+          "link": "https://codechina.org/2025/11/31263/",
+          "publishedOn": "2025-11-26T14:22:13.000Z",
+          "wordCount": 1113,
+          "title": "一行代码不用写，从草图到可运行的数据库驱动的全功能网站，全面用AI生成，提示词全记录",
+          "imageUrl": "https://codechina.org/wp-content/uploads/2025/11/截屏2025-11-26-21.24.01-1.png"
+        },
+        {
           "id": "https://codechina.org/?p=31250",
           "author": "tinyfool",
           "description": "原文链接：How to Find Keywords and Topics With Traffic but L […]\n如何在 YouTube 上找到有流量但竞争低的关键词与选题最先出现在Tinyfool的个人网站。",
@@ -82,16 +92,6 @@
           "wordCount": 1552,
           "title": "LRO/GRO 对于网络吞吐的影响",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=7066",
-          "author": "laixintao",
-          "description": "前言：这个系列（以及我的博客）好久不更新了，原因有两个，一个是我在学习用双拼打字，手跟不上脑子，写的东西读起来 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/7066",
-          "publishedOn": "2025-11-11T13:15:27.000Z",
-          "wordCount": 1097,
-          "title": "0.01% 的概率超时问题",
-          "imageUrl": null
         }
       ]
     },
@@ -105,7 +105,18 @@
       "title": "laike9m's blog",
       "feedUrl": "https://laike9m.com/blog/rss",
       "siteUrl": "https://laike9m.com/blog/rss",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://laike9m.com/blog/charging-vs-draining-jobs,170/",
+          "author": null,
+          "description": "没有简介, 请去看原文吧",
+          "link": "https://laike9m.com/blog/charging-vs-draining-jobs,170/",
+          "publishedOn": "2025-11-26T07:25:23.000Z",
+          "wordCount": 394,
+          "title": "充电和耗电的工作",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Frost's Blog",

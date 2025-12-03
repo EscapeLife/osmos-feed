@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-12-02T01:05:23.712Z</updated>
+    <updated>2025-12-03T01:06:13.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[被嫌弃的松子的一生]]></title>
+        <id>https://frostming.com/2025/county-woman/</id>
+        <link href="https://frostming.com/2025/county-woman/"/>
+        <updated>2025-12-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Programming and Life]]></summary>
+        <author>
+            <name>Frost's Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欧陆风云5的游玩笔记]]></title>
         <id>https://blog.codingnow.com/2025/11/eu5_notes.html</id>
@@ -66,17 +76,6 @@
 Continue reading...]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在 YouTube 上找到有流量但竞争低的关键词与选题]]></title>
-        <id>https://codechina.org/?p=31250</id>
-        <link href="https://codechina.org/2025/11/31250/"/>
-        <updated>2025-11-18T01:38:14.000Z</updated>
-        <summary type="html"><![CDATA[原文链接：How to Find Keywords and Topics With Traffic but L […]
-如何在 YouTube 上找到有流量但竞争低的关键词与选题最先出现在Tinyfool的个人网站。]]></summary>
-        <author>
-            <name>tinyfool</name>
         </author>
     </entry>
     <entry>

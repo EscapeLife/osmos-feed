@@ -74,6 +74,16 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=7106",
+          "author": "laixintao",
+          "description": "我上初中的时候，村里去县城唯一的公共交通就是一辆大巴车。「大」也说不上，应该叫中巴车。车是邻村一个叫王文义的人 […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/7106",
+          "publishedOn": "2025-12-03T15:44:15.000Z",
+          "wordCount": 1010,
+          "title": "大巴",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=7076",
           "author": "laixintao",
           "description": "打开这个抓包文件，可以马上确认这是一个发送的数据比较多的连接，因为 TCP sequence number 上 […]\nContinue reading...",

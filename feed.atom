@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-12-03T01:06:13.112Z</updated>
+    <updated>2025-12-04T01:05:36.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大巴]]></title>
+        <id>https://www.kawabangga.com/?p=7106</id>
+        <link href="https://www.kawabangga.com/posts/7106"/>
+        <updated>2025-12-03T15:44:15.000Z</updated>
+        <summary type="html"><![CDATA[我上初中的时候，村里去县城唯一的公共交通就是一辆大巴车。「大」也说不上，应该叫中巴车。车是邻村一个叫王文义的人 […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[被嫌弃的松子的一生]]></title>
         <id>https://frostming.com/2025/county-woman/</id>

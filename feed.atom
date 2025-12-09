@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-12-08T01:05:57.335Z</updated>
+    <updated>2025-12-09T01:05:32.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -77,16 +77,6 @@ Continue reading...]]></summary>
         <summary type="html"><![CDATA[没有简介, 请去看原文吧]]></summary>
         <author>
             <name>laike9m's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《Flask 从入门到进阶》正式发售]]></title>
-        <id>https://greyli.com/?p=5830</id>
-        <link href="https://greyli.com/new-flask-book/"/>
-        <updated>2025-11-23T14:25:36.000Z</updated>
-        <summary type="html"><![CDATA[经过五年的写（拖）作（延），我的新书《Flask 从入门到进阶》终于出版了！作为《Flask Web 开发实战 […]]]></summary>
-        <author>
-            <name>李辉</name>
         </author>
     </entry>
     <entry>

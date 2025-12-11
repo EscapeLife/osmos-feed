@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-12-10T01:07:18.276Z</updated>
+    <updated>2025-12-11T01:08:04.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[博客维护：升级到 Ubuntu 24.04]]></title>
+        <id>https://www.kawabangga.com/?p=7124</id>
+        <link href="https://www.kawabangga.com/posts/7124"/>
+        <updated>2025-12-10T15:12:49.000Z</updated>
+        <summary type="html"><![CDATA[这个博客在四年前做了一次迁移，目前是架设在一台 DigitalOcean 的 VPS 上，前面用 Cloudf […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Harbor GC 问题]]></title>
         <id>https://www.kawabangga.com/?p=7057</id>
@@ -67,16 +78,6 @@ Continue reading...]]></summary>
 一行代码不用写，从草图到可运行的数据库驱动的全功能网站，全面用AI生成，提示词全记录最先出现在Tinyfool的个人网站。]]></summary>
         <author>
             <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[充电和耗电的工作]]></title>
-        <id>https://laike9m.com/blog/charging-vs-draining-jobs,170/</id>
-        <link href="https://laike9m.com/blog/charging-vs-draining-jobs,170/"/>
-        <updated>2025-11-26T07:25:23.000Z</updated>
-        <summary type="html"><![CDATA[没有简介, 请去看原文吧]]></summary>
-        <author>
-            <name>laike9m's blog</name>
         </author>
     </entry>
     <entry>

@@ -74,6 +74,16 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=7124",
+          "author": "laixintao",
+          "description": "这个博客在四年前做了一次迁移，目前是架设在一台 DigitalOcean 的 VPS 上，前面用 Cloudf […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/7124",
+          "publishedOn": "2025-12-10T15:12:49.000Z",
+          "wordCount": 1149,
+          "title": "博客维护：升级到 Ubuntu 24.04",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=7057",
           "author": "laixintao",
           "description": "最近的工作比较忙，以至于网络技术的系列文章许久不更新了。这几天在解决的问题是镜像存储服务 Harbor，存储的 […]\nContinue reading...",
@@ -105,18 +115,7 @@
       "title": "laike9m's blog",
       "feedUrl": "https://laike9m.com/blog/rss",
       "siteUrl": "https://laike9m.com/blog/rss",
-      "articles": [
-        {
-          "id": "https://laike9m.com/blog/charging-vs-draining-jobs,170/",
-          "author": null,
-          "description": "没有简介, 请去看原文吧",
-          "link": "https://laike9m.com/blog/charging-vs-draining-jobs,170/",
-          "publishedOn": "2025-11-26T07:25:23.000Z",
-          "wordCount": 394,
-          "title": "充电和耗电的工作",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Frost's Blog",

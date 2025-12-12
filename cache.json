@@ -49,18 +49,7 @@
       "title": "Tinyfool的个人网站",
       "feedUrl": "http://feeds.feedburner.com/Tinyfoolblog",
       "siteUrl": "https://codechina.org/",
-      "articles": [
-        {
-          "id": "https://codechina.org/?p=31263",
-          "author": "tinyfool",
-          "description": "最近我打算做一个讲机械原理的英文网站，正好Gemini 3出来，前端能力很强，于是我就用手绘了草图，让Gemi […]\n一行代码不用写，从草图到可运行的数据库驱动的全功能网站，全面用AI生成，提示词全记录最先出现在Tinyfool的个人网站。",
-          "link": "https://codechina.org/2025/11/31263/",
-          "publishedOn": "2025-11-26T14:22:13.000Z",
-          "wordCount": 1113,
-          "title": "一行代码不用写，从草图到可运行的数据库驱动的全功能网站，全面用AI生成，提示词全记录",
-          "imageUrl": "https://codechina.org/wp-content/uploads/2025/11/截屏2025-11-26-21.24.01-1.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "ChangeLog of KDr2.com",

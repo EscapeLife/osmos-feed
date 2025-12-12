@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-12-11T01:08:04.162Z</updated>
+    <updated>2025-12-12T01:07:58.425Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -67,17 +67,6 @@ Continue reading...]]></summary>
         <summary type="html"><![CDATA[最近一个月共玩了 270 小时的欧陆风云5 ，这两天打算停下来。最近在游戏后期打大战役时，交互已经卡得不行。我已经是 i9-14900K 的 CPU ，估计升级硬件已经无法解决这个问题，只能等版本更新优化了。 ps. 其实只要把游戏暂停下来立刻就不卡了。虽然我直到这个游戏需要的计算量非常大，但是卡交互操作肯定是实现的不对。因为这并不是因为渲染负荷造成的卡顿，可以让游戏时间流逝更慢一些，也不应该让鼠标点击后的界面弹出时间变长。 在暂置游戏前，我先把一些关于游戏设计上的理解先记录下来。也是对上一篇的补充。 在最初几十小时的游戏时间里，我一直想确认游戏经济系统的基础逻辑。和很多类似策略游戏不同，欧陆风云5 在游戏一开始，展现给玩家的是一个发展过（或者说是设定出来）的经济系统版图。玩家更需要了解的是他选择扮演的国家在当下到底面临什么问题，该怎样解决。这不只是经济，也包括政治、文化和军事。而很多游戏则是设定好规则，让玩家从零开始建设，找到合适的发展路径。 大多数情况下，EU5 玩家一开始考虑的并不是从头发展，所以在游戏新手期也没有强烈的理解游戏底层设计细节的动机。不过游戏也有开荒玩法，在游戏中后期势必会在远方殖民、开拓新大陆；甚至游戏还设计了让玩家直接转换视角以新殖民地为核心来继续游戏。但即使的重新殖民，在四周鸟无人烟的地方开荒，和在已有部分发展的区域附近拓展也完全不同。 我十分好奇这样一个复杂的经济系统是怎样启动起来的，所以仔细做了一点归纳笔记。不一定全对，但很多信息在游戏内的说明和目前的官方 wiki 都不完整，只能自己探索。...]]></summary>
         <author>
             <name>云风的 BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一行代码不用写，从草图到可运行的数据库驱动的全功能网站，全面用AI生成，提示词全记录]]></title>
-        <id>https://codechina.org/?p=31263</id>
-        <link href="https://codechina.org/2025/11/31263/"/>
-        <updated>2025-11-26T14:22:13.000Z</updated>
-        <summary type="html"><![CDATA[最近我打算做一个讲机械原理的英文网站，正好Gemini 3出来，前端能力很强，于是我就用手绘了草图，让Gemi […]
-一行代码不用写，从草图到可运行的数据库驱动的全功能网站，全面用AI生成，提示词全记录最先出现在Tinyfool的个人网站。]]></summary>
-        <author>
-            <name>tinyfool</name>
         </author>
     </entry>
     <entry>

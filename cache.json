@@ -63,6 +63,26 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=7138",
+          "author": "laixintao",
+          "description": "[剧透警告] 今年又来玩了 Advant of Code，最近看 C 语言的代码比较多，就用尽量用 C 语言做 […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/7138",
+          "publishedOn": "2025-12-12T15:53:21.000Z",
+          "wordCount": 1097,
+          "title": "AoC 2025 通关留念",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.kawabangga.com/?p=7129",
+          "author": "laixintao",
+          "description": "在和朋友一起吃饭的时候，A 提了一个有意思的问题：怎样可以把一个机房内的路由设备从互联网「隐藏」呢？ 「隐藏就 […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/7129",
+          "publishedOn": "2025-12-12T03:44:33.000Z",
+          "wordCount": 1296,
+          "title": "如何把网络设备从 traceroute 中隐藏",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=7124",
           "author": "laixintao",
           "description": "这个博客在四年前做了一次迁移，目前是架设在一台 DigitalOcean 的 VPS 上，前面用 Cloudf […]\nContinue reading...",
@@ -156,18 +176,7 @@
       "title": "云风的 BLOG",
       "feedUrl": "https://blog.codingnow.com/atom.xml",
       "siteUrl": "https://blog.codingnow.com/",
-      "articles": [
-        {
-          "id": "https://blog.codingnow.com/2025/11/eu5_notes.html",
-          "author": null,
-          "description": "最近一个月共玩了 270 小时的欧陆风云5 ，这两天打算停下来。最近在游戏后期打大战役时，交互已经卡得不行。我已经是 i9-14900K 的 CPU ，估计升级硬件已经无法解决这个问题，只能等版本更新优化了。 ps. 其实只要把游戏暂停下来立刻就不卡了。虽然我直到这个游戏需要的计算量非常大，但是卡交互操作肯定是实现的不对。因为这并不是因为渲染负荷造成的卡顿，可以让游戏时间流逝更慢一些，也不应该让鼠标点击后的界面弹出时间变长。 在暂置游戏前，我先把一些关于游戏设计上的理解先记录下来。也是对上一篇的补充。 在最初几十小时的游戏时间里，我一直想确认游戏经济系统的基础逻辑。和很多类似策略游戏不同，欧陆风云5 在游戏一开始，展现给玩家的是一个发展过（或者说是设定出来）的经济系统版图。玩家更需要了解的是他选择扮演的国家在当下到底面临什么问题，该怎样解决。这不只是经济，也包括政治、文化和军事。而很多游戏则是设定好规则，让玩家从零开始建设，找到合适的发展路径。 大多数情况下，EU5 玩家一开始考虑的并不是从头发展，所以在游戏新手期也没有强烈的理解游戏底层设计细节的动机。不过游戏也有开荒玩法，在游戏中后期势必会在远方殖民、开拓新大陆；甚至游戏还设计了让玩家直接转换视角以新殖民地为核心来继续游戏。但即使的重新殖民，在四周鸟无人烟的地方开荒，和在已有部分发展的区域附近拓展也完全不同。 我十分好奇这样一个复杂的经济系统是怎样启动起来的，所以仔细做了一点归纳笔记。不一定全对，但很多信息在游戏内的说明和目前的官方 wiki 都不完整，只能自己探索。...",
-          "link": "https://blog.codingnow.com/2025/11/eu5_notes.html",
-          "publishedOn": "2025-11-28T10:53:55.000Z",
-          "wordCount": 115,
-          "title": "欧陆风云5的游玩笔记",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "piglei",

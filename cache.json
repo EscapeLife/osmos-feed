@@ -130,18 +130,7 @@
       "title": "Frost's Blog",
       "feedUrl": "https://frostming.com/feed.xml",
       "siteUrl": "https://frostming.com/",
-      "articles": [
-        {
-          "id": "https://frostming.com/2025/county-woman/",
-          "author": null,
-          "description": "Programming and Life",
-          "link": "https://frostming.com/2025/county-woman/",
-          "publishedOn": "2025-12-02T00:00:00.000Z",
-          "wordCount": 221,
-          "title": "被嫌弃的松子的一生",
-          "imageUrl": "https://webp.frostming.com/images/20251202133402.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Posts on Jiayuan Thoughts",
@@ -177,6 +166,16 @@
       "feedUrl": "https://blog.codingnow.com/atom.xml",
       "siteUrl": "https://blog.codingnow.com/",
       "articles": [
+        {
+          "id": "https://blog.codingnow.com/2025/12/coco.html",
+          "author": null,
+          "description": "可可三年级，前段老师说她数学成绩不好，需要在家加强一下。 这段时间我每天晚上给她讲一点点数学，都是课本上的内容，然后我再稍稍发挥一下。几次之后，我发现最大的问题是她觉得数学很无聊。 她似乎比较抗拒学新的知识，更喜欢用熟悉的方法。去年我发现她计算能力有问题，每天给她做加减法练习，总算不再用更早年我教她的 +1 法算加法了：即计算 7+8 的时候，算 8 次 +1 ，也就是数数。二年级学了乘法，乘法表也背了，但现在做应用题，本该用乘法的场合，她还是习惯连续算加法，一旦乘数太大就会出错。要用除法的时候就更混乱了，并不是用减法，而是靠猜测来试。大脑里完全没有建立乘除的概念。乘法表更像是独立的有背诵任务的诗词，还没古诗那么有趣。 我说：数学其实是这个世界上最有趣的东西。 她说：为什么呢？ 我说：这个世界上有趣的东西很多，但数学是性价比最高的。一本数学书很便宜，但可以让你读很久。从中发现有那么多有趣的事实。原来解决不了的问题，知道方法突然就明白了。如果是自己找到的方法，就更让人兴奋了。 她说：我还是觉得数学没意思。 我说：慢慢来，不着急。首先不要排斥它。学数学其实不需要硬背那么多东西，我小时候最不喜欢背书了，所以才喜欢数学的。因为数学是最不需要背的，只要你从原理出发，一步步理解，最后什么问题都能解决，只是速度慢一点。多练习就快了。那些需要记住的知识，用的多就自动记住了，不需要专门背。...",
+          "link": "https://blog.codingnow.com/2025/12/coco.html",
+          "publishedOn": "2025-12-16T01:50:28.000Z",
+          "wordCount": 186,
+          "title": "带可可学数学",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.codingnow.com/2025/12/deckbuilder_games.html",
           "author": null,

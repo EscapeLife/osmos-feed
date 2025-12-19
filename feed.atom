@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-12-18T01:05:20.336Z</updated>
+    <updated>2025-12-19T01:08:49.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI知识库上线：墨问时间知识库]]></title>
+        <id>https://macshuo.com/?p=2015</id>
+        <link href="https://macshuo.com/?p=2015"/>
+        <updated>2025-12-18T05:27:03.000Z</updated>
+        <summary type="html"><![CDATA[2025 年的 3 月份我们结束了长达三年的墨问星球的运营，开始专注墨问的产品研 … Continue reading →]]></summary>
+        <author>
+            <name>MacTalk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[带可可学数学]]></title>
         <id>https://blog.codingnow.com/2025/12/coco.html</id>
@@ -78,17 +88,6 @@ Continue reading...]]></summary>
         <summary type="html"><![CDATA[不管你是我的书和文章的读者，我的演讲和播客的听众，还是我的项目和活动的参与者，我都很想听听关于你与这些“作品” […]]]></summary>
         <author>
             <name>李辉</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大巴]]></title>
-        <id>https://www.kawabangga.com/?p=7106</id>
-        <link href="https://www.kawabangga.com/posts/7106"/>
-        <updated>2025-12-03T15:44:15.000Z</updated>
-        <summary type="html"><![CDATA[我上初中的时候，村里去县城唯一的公共交通就是一辆大巴车。「大」也说不上，应该叫中巴车。车是邻村一个叫王文义的人 […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-12-20T01:03:39.621Z</updated>
+    <updated>2025-12-21T01:12:22.793Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -67,27 +67,6 @@ Continue reading...]]></summary>
 Continue reading...]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harbor GC 问题]]></title>
-        <id>https://www.kawabangga.com/?p=7057</id>
-        <link href="https://www.kawabangga.com/posts/7057"/>
-        <updated>2025-12-06T08:01:16.000Z</updated>
-        <summary type="html"><![CDATA[最近的工作比较忙，以至于网络技术的系列文章许久不更新了。这几天在解决的问题是镜像存储服务 Harbor，存储的 […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[回响计划：读者故事收集]]></title>
-        <id>https://greyli.com/?p=5852</id>
-        <link href="https://greyli.com/echo-project/"/>
-        <updated>2025-12-06T02:47:46.000Z</updated>
-        <summary type="html"><![CDATA[不管你是我的书和文章的读者，我的演讲和播客的听众，还是我的项目和活动的参与者，我都很想听听关于你与这些“作品” […]]]></summary>
-        <author>
-            <name>李辉</name>
         </author>
     </entry>
     <entry>

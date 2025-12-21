@@ -102,16 +102,6 @@
           "wordCount": 1149,
           "title": "博客维护：升级到 Ubuntu 24.04",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=7057",
-          "author": "laixintao",
-          "description": "最近的工作比较忙，以至于网络技术的系列文章许久不更新了。这几天在解决的问题是镜像存储服务 Harbor，存储的 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/7057",
-          "publishedOn": "2025-12-06T08:01:16.000Z",
-          "wordCount": 1325,
-          "title": "Harbor GC 问题",
-          "imageUrl": null
         }
       ]
     },
@@ -149,18 +139,7 @@
       "title": "李辉 / Grey Li",
       "feedUrl": "https://greyli.com/feed",
       "siteUrl": "https://greyli.com",
-      "articles": [
-        {
-          "id": "https://greyli.com/?p=5852",
-          "author": "李辉",
-          "description": "不管你是我的书和文章的读者，我的演讲和播客的听众，还是我的项目和活动的参与者，我都很想听听关于你与这些“作品” […]",
-          "link": "https://greyli.com/echo-project/",
-          "publishedOn": "2025-12-06T02:47:46.000Z",
-          "wordCount": 401,
-          "title": "回响计划：读者故事收集",
-          "imageUrl": "https://greyli.com/wp-content/uploads/2025/03/avatar-500-compressed.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "云风的 BLOG",

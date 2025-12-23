@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-12-22T01:10:37.867Z</updated>
+    <updated>2025-12-23T01:07:45.775Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[珍重]]></title>
+        <id>https://frostming.com/2025/take-care/</id>
+        <link href="https://frostming.com/posts/2025/take-care/"/>
+        <updated>2025-12-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Frost Ming's personal blog]]></summary>
+        <author>
+            <name>Frost's Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI知识库上线：墨问时间知识库]]></title>
         <id>https://macshuo.com/?p=2015</id>

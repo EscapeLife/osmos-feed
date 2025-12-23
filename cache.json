@@ -121,7 +121,18 @@
       "title": "Frost's Blog",
       "feedUrl": "https://frostming.com/feed.xml",
       "siteUrl": "https://frostming.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://frostming.com/2025/take-care/",
+          "author": null,
+          "description": "Frost Ming's personal blog",
+          "link": "https://frostming.com/posts/2025/take-care/",
+          "publishedOn": "2025-12-22T00:00:00.000Z",
+          "wordCount": 144,
+          "title": "珍重",
+          "imageUrl": "https://frostming.com/og/2025/take-care.png"
+        }
+      ]
     },
     {
       "title": "Posts on Jiayuan Thoughts",

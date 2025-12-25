@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-12-24T01:07:01.294Z</updated>
+    <updated>2025-12-25T01:07:50.250Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Avoid Mini-frameworks]]></title>
+        <id>https://laike9m.com/blog/avoid-mini-frameworks,171/</id>
+        <link href="https://laike9m.com/blog/avoid-mini-frameworks,171/"/>
+        <updated>2025-12-24T11:45:29.000Z</updated>
+        <summary type="html"><![CDATA[没有简介, 请去看原文吧]]></summary>
+        <author>
+            <name>laike9m's blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Skynet 升级到 Lua 5.5.0]]></title>
         <id>https://blog.codingnow.com/2025/12/skynet_lua_550.html</id>

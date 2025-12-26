@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-12-25T01:07:50.250Z</updated>
+    <updated>2025-12-26T01:07:45.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -83,17 +83,6 @@ Continue reading...]]></summary>
         <link href="https://www.kawabangga.com/posts/7129"/>
         <updated>2025-12-12T03:44:33.000Z</updated>
         <summary type="html"><![CDATA[在和朋友一起吃饭的时候，A 提了一个有意思的问题：怎样可以把一个机房内的路由设备从互联网「隐藏」呢？ 「隐藏就 […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[博客维护：升级到 Ubuntu 24.04]]></title>
-        <id>https://www.kawabangga.com/?p=7124</id>
-        <link href="https://www.kawabangga.com/posts/7124"/>
-        <updated>2025-12-10T15:12:49.000Z</updated>
-        <summary type="html"><![CDATA[这个博客在四年前做了一次迁移，目前是架设在一台 DigitalOcean 的 VPS 上，前面用 Cloudf […]
 Continue reading...]]></summary>
         <author>
             <name>laixintao</name>

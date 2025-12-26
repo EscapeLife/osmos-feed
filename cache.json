@@ -92,16 +92,6 @@
           "wordCount": 1296,
           "title": "如何把网络设备从 traceroute 中隐藏",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=7124",
-          "author": "laixintao",
-          "description": "这个博客在四年前做了一次迁移，目前是架设在一台 DigitalOcean 的 VPS 上，前面用 Cloudf […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/7124",
-          "publishedOn": "2025-12-10T15:12:49.000Z",
-          "wordCount": 1149,
-          "title": "博客维护：升级到 Ubuntu 24.04",
-          "imageUrl": null
         }
       ]
     },

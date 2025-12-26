@@ -11,7 +11,6 @@ sources:
   - href: https://www.ruanyifeng.com/blog/atom.xml # 阮一峰
   - href: https://macshuo.com/?feed=rss2 # MacTalk
   - href: http://feeds.feedburner.com/Tinyfoolblog # Tinyfool
-  - href: https://kdr2.com/misc/site-log.xml # kdr2
 
   # Two
   - href: https://www.kawabangga.com/feed # 卡瓦邦噶
@@ -30,5 +29,8 @@ sources:
   - href: https://www.leavesongs.com/feed # 离别歌
   - href: https://zhangge.net/feed # 张戈
   - href: https://blog.k8s.li/atom.xml # Reimu
+
+  # Four
+  - href: https://xuanyuan.cloud/blog # 轩辕镜像团队
 
 cacheMaxDays: 15

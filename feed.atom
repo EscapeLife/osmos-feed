@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-12-26T15:02:56.000Z</updated>
+    <updated>2025-12-27T01:06:24.747Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -72,17 +72,6 @@
         <link href="https://www.kawabangga.com/posts/7138"/>
         <updated>2025-12-12T15:53:21.000Z</updated>
         <summary type="html"><![CDATA[[剧透警告] 今年又来玩了 Advant of Code，最近看 C 语言的代码比较多，就用尽量用 C 语言做 […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何把网络设备从 traceroute 中隐藏]]></title>
-        <id>https://www.kawabangga.com/?p=7129</id>
-        <link href="https://www.kawabangga.com/posts/7129"/>
-        <updated>2025-12-12T03:44:33.000Z</updated>
-        <summary type="html"><![CDATA[在和朋友一起吃饭的时候，A 提了一个有意思的问题：怎样可以把一个机房内的路由设备从互联网「隐藏」呢？ 「隐藏就 […]
 Continue reading...]]></summary>
         <author>
             <name>laixintao</name>

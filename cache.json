@@ -66,18 +66,7 @@
       "title": "卡瓦邦噶！",
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
-      "articles": [
-        {
-          "id": "https://www.kawabangga.com/?p=7138",
-          "author": "laixintao",
-          "description": "[剧透警告] 今年又来玩了 Advant of Code，最近看 C 语言的代码比较多，就用尽量用 C 语言做 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/7138",
-          "publishedOn": "2025-12-12T15:53:21.000Z",
-          "wordCount": 1097,
-          "title": "AoC 2025 通关留念",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Manjusaka",

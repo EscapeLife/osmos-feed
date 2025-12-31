@@ -66,7 +66,18 @@
       "title": "卡瓦邦噶！",
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.kawabangga.com/?p=7148",
+          "author": "laixintao",
+          "description": "在新加坡的第五年整。 今年和欣好像一直在找房子。之前住在湖畔的一个 HDB，房东决定要卖房子，所以我们不续租了 […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/7148",
+          "publishedOn": "2025-12-30T14:47:42.000Z",
+          "wordCount": 1022,
+          "title": "2025",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Manjusaka",
@@ -96,6 +107,16 @@
       "feedUrl": "https://frostming.com/feed.xml",
       "siteUrl": "https://frostming.com/",
       "articles": [
+        {
+          "id": "https://frostming.com/2025/friendly-python-port/",
+          "author": null,
+          "description": "Frost Ming's personal blog",
+          "link": "https://frostming.com/posts/2025/friendly-python-port/",
+          "publishedOn": "2025-12-30T00:00:00.000Z",
+          "wordCount": 621,
+          "title": "友好的 Python：从其他语言移植",
+          "imageUrl": "https://frostming.com/og/2025/friendly-python-port.png"
+        },
         {
           "id": "https://frostming.com/2025/take-care/",
           "author": null,
@@ -140,16 +161,6 @@
           "wordCount": 165,
           "title": "Skynet 升级到 Lua 5.5.0",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.codingnow.com/2025/12/coco.html",
-          "author": null,
-          "description": "可可三年级，前段老师说她数学成绩不好，需要在家加强一下。 这段时间我每天晚上给她讲一点点数学，都是课本上的内容，然后我再稍稍发挥一下。几次之后，我发现最大的问题是她觉得数学很无聊。 她似乎比较抗拒学新的知识，更喜欢用熟悉的方法。去年我发现她计算能力有问题，每天给她做加减法练习，总算不再用更早年我教她的 +1 法算加法了：即计算 7+8 的时候，算 8 次 +1 ，也就是数数。二年级学了乘法，乘法表也背了，但现在做应用题，本该用乘法的场合，她还是习惯连续算加法，一旦乘数太大就会出错。要用除法的时候就更混乱了，并不是用减法，而是靠猜测来试。大脑里完全没有建立乘除的概念。乘法表更像是独立的有背诵任务的诗词，还没古诗那么有趣。 我说：数学其实是这个世界上最有趣的东西。 她说：为什么呢？ 我说：这个世界上有趣的东西很多，但数学是性价比最高的。一本数学书很便宜，但可以让你读很久。从中发现有那么多有趣的事实。原来解决不了的问题，知道方法突然就明白了。如果是自己找到的方法，就更让人兴奋了。 她说：我还是觉得数学没意思。 我说：慢慢来，不着急。首先不要排斥它。学数学其实不需要硬背那么多东西，我小时候最不喜欢背书了，所以才喜欢数学的。因为数学是最不需要背的，只要你从原理出发，一步步理解，最后什么问题都能解决，只是速度慢一点。多练习就快了。那些需要记住的知识，用的多就自动记住了，不需要专门背。...",
-          "link": "https://blog.codingnow.com/2025/12/coco.html",
-          "publishedOn": "2025-12-16T01:50:28.000Z",
-          "wordCount": 186,
-          "title": "带可可学数学",
-          "imageUrl": null
         }
       ]
     },
@@ -163,19 +174,52 @@
       "title": "静觅",
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://cuiqingcai.com/42376.html",
+          "author": null,
+          "description": "<p>本文将介绍一种 SeeDream Images Generation API 对接说明，它是可以通过输入自定义参数来生成 SeeDream 官方的图片。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title=\"",
+          "link": "https://cuiqingcai.com/42376.html",
+          "publishedOn": "2025-12-30T12:01:22.000Z",
+          "wordCount": 1592,
+          "title": "SeeDream Images Generation API 对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/q6ytrc.png"
+        }
+      ]
     },
     {
       "title": "咸糖 - 自律者自由",
       "feedUrl": "https://vim0.com/index.xml",
       "siteUrl": "https://vim0.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://vim0.com/post/2025_recap/",
+          "author": null,
+          "description": "2025 年终总结：降噪、重构与长期主义 过了圣诞，接着就是元旦。刚才试着口述梳理思路，录到一半被猫打断，喂完罐头回来继续写。 站在 2025 的尾巴上，回看这一",
+          "link": "https://vim0.com/post/2025_recap/",
+          "publishedOn": "2025-12-28T07:31:25.000Z",
+          "wordCount": 372,
+          "title": "2025 年终总结：降噪、重构与长期主义",
+          "imageUrl": "https://vim0.com/post/main_cover.png"
+        }
+      ]
     },
     {
       "title": "离别歌",
       "feedUrl": "https://www.leavesongs.com/feed",
       "siteUrl": "https://www.leavesongs.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.leavesongs.com/PENETRATION/deep-dive-into-react2shell.html",
+          "author": "phithon",
+          "description": "2025年12月初，React Server Components和Next.js出现核弹级漏洞React2Shell（CVE-2025-55182），这几个周末我陆陆续续在「代码审计知识星球」里写了5篇相关文章：\n《1. Thenable的由来》\n《2. Next.js调试环境配置》\n《3. RSC是怎样解析数据包的？》\n《4. React2Shell漏洞原理》\n《5. 价值15万美元的...",
+          "link": "https://www.leavesongs.com/PENETRATION/deep-dive-into-react2shell.html",
+          "publishedOn": "2025-12-29T16:10:00.000Z",
+          "wordCount": 514,
+          "title": "React2Shell攻防笔记：原理挖掘与价值15万美元的WAF绕过思路",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "张戈博客",

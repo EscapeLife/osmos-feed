@@ -2,10 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2025-12-30T01:08:18.202Z</updated>
+    <updated>2025-12-31T01:09:44.223Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2025]]></title>
+        <id>https://www.kawabangga.com/?p=7148</id>
+        <link href="https://www.kawabangga.com/posts/7148"/>
+        <updated>2025-12-30T14:47:42.000Z</updated>
+        <summary type="html"><![CDATA[在新加坡的第五年整。 今年和欣好像一直在找房子。之前住在湖畔的一个 HDB，房东决定要卖房子，所以我们不续租了 […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SeeDream Images Generation API 对接说明]]></title>
+        <id>https://cuiqingcai.com/42376.html</id>
+        <link href="https://cuiqingcai.com/42376.html"/>
+        <updated>2025-12-30T12:01:22.000Z</updated>
+        <summary type="html"><![CDATA[<p>本文将介绍一种 SeeDream Images Generation API 对接说明，它是可以通过输入自定义参数来生成 SeeDream 官方的图片。</p>
+<h2 id="申请流程"><a href="#申请流程" class="headerlink" title="]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[友好的 Python：从其他语言移植]]></title>
+        <id>https://frostming.com/2025/friendly-python-port/</id>
+        <link href="https://frostming.com/posts/2025/friendly-python-port/"/>
+        <updated>2025-12-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Frost Ming's personal blog]]></summary>
+        <author>
+            <name>Frost's Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React2Shell攻防笔记：原理挖掘与价值15万美元的WAF绕过思路]]></title>
+        <id>https://www.leavesongs.com/PENETRATION/deep-dive-into-react2shell.html</id>
+        <link href="https://www.leavesongs.com/PENETRATION/deep-dive-into-react2shell.html"/>
+        <updated>2025-12-29T16:10:00.000Z</updated>
+        <summary type="html"><![CDATA[2025年12月初，React Server Components和Next.js出现核弹级漏洞React2Shell（CVE-2025-55182），这几个周末我陆陆续续在「代码审计知识星球」里写了5篇相关文章：
+《1. Thenable的由来》
+《2. Next.js调试环境配置》
+《3. RSC是怎样解析数据包的？》
+《4. React2Shell漏洞原理》
+《5. 价值15万美元的...]]></summary>
+        <author>
+            <name>phithon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 年终总结：降噪、重构与长期主义]]></title>
+        <id>https://vim0.com/post/2025_recap/</id>
+        <link href="https://vim0.com/post/2025_recap/"/>
+        <updated>2025-12-28T07:31:25.000Z</updated>
+        <summary type="html"><![CDATA[2025 年终总结：降噪、重构与长期主义 过了圣诞，接着就是元旦。刚才试着口述梳理思路，录到一半被猫打断，喂完罐头回来继续写。 站在 2025 的尾巴上，回看这一]]></summary>
+        <author>
+            <name>咸糖 - 自律者自由</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Avoid Mini-frameworks]]></title>
         <id>https://laike9m.com/blog/avoid-mini-frameworks,171/</id>
@@ -44,16 +101,6 @@
         <summary type="html"><![CDATA[2025 年的 3 月份我们结束了长达三年的墨问星球的运营，开始专注墨问的产品研 … Continue reading →]]></summary>
         <author>
             <name>MacTalk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[带可可学数学]]></title>
-        <id>https://blog.codingnow.com/2025/12/coco.html</id>
-        <link href="https://blog.codingnow.com/2025/12/coco.html"/>
-        <updated>2025-12-16T01:50:28.000Z</updated>
-        <summary type="html"><![CDATA[可可三年级，前段老师说她数学成绩不好，需要在家加强一下。 这段时间我每天晚上给她讲一点点数学，都是课本上的内容，然后我再稍稍发挥一下。几次之后，我发现最大的问题是她觉得数学很无聊。 她似乎比较抗拒学新的知识，更喜欢用熟悉的方法。去年我发现她计算能力有问题，每天给她做加减法练习，总算不再用更早年我教她的 +1 法算加法了：即计算 7+8 的时候，算 8 次 +1 ，也就是数数。二年级学了乘法，乘法表也背了，但现在做应用题，本该用乘法的场合，她还是习惯连续算加法，一旦乘数太大就会出错。要用除法的时候就更混乱了，并不是用减法，而是靠猜测来试。大脑里完全没有建立乘除的概念。乘法表更像是独立的有背诵任务的诗词，还没古诗那么有趣。 我说：数学其实是这个世界上最有趣的东西。 她说：为什么呢？ 我说：这个世界上有趣的东西很多，但数学是性价比最高的。一本数学书很便宜，但可以让你读很久。从中发现有那么多有趣的事实。原来解决不了的问题，知道方法突然就明白了。如果是自己找到的方法，就更让人兴奋了。 她说：我还是觉得数学没意思。 我说：慢慢来，不着急。首先不要排斥它。学数学其实不需要硬背那么多东西，我小时候最不喜欢背书了，所以才喜欢数学的。因为数学是最不需要背的，只要你从原理出发，一步步理解，最后什么问题都能解决，只是速度慢一点。多练习就快了。那些需要记住的知识，用的多就自动记住了，不需要专门背。...]]></summary>
-        <author>
-            <name>云风的 BLOG</name>
         </author>
     </entry>
     <entry>

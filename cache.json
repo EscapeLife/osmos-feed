@@ -176,6 +176,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/42377.html",
+          "author": null,
+          "description": "<p>本文将介绍一种 SeeDance Videos Generation API 对接说明，它是可以通过输入自定义参数来生成SeeDance官方的视频。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title=\"申请",
+          "link": "https://cuiqingcai.com/42377.html",
+          "publishedOn": "2025-12-31T08:01:22.000Z",
+          "wordCount": 1548,
+          "title": "SeeDance Videos Generation API 对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/q6ytrc.png"
+        },
+        {
           "id": "https://cuiqingcai.com/42376.html",
           "author": null,
           "description": "<p>本文将介绍一种 SeeDream Images Generation API 对接说明，它是可以通过输入自定义参数来生成 SeeDream 官方的图片。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title=\"",

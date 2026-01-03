@@ -65,6 +65,16 @@
           "wordCount": 1022,
           "title": "2025",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.kawabangga.com/?p=7151",
+          "author": "laixintao",
+          "description": "我的姥姥今年去世了，没有痛苦。我们之前都预料到了这一天的到来，大家在五月份都陆续去看望了她，大家也都知道这是告 […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/7151",
+          "publishedOn": "2025-12-27T06:13:38.000Z",
+          "wordCount": 919,
+          "title": "我的姥姥",
+          "imageUrl": null
         }
       ]
     },
@@ -175,6 +185,16 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/42379.html",
+          "author": null,
+          "description": "<p>本文将介绍一种 Sora Videos Generation API 对接说明，它是可以通过输入自定义参数来生成Sora官方的视频。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title=\"申请流程\"></a>",
+          "link": "https://cuiqingcai.com/42379.html",
+          "publishedOn": "2026-01-02T10:02:16.000Z",
+          "wordCount": 1508,
+          "title": "Sora Videos Generation API 对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/q6ytrc.png"
+        },
         {
           "id": "https://cuiqingcai.com/42378.html",
           "author": null,

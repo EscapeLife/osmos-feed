@@ -186,6 +186,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/42380.html",
+          "author": null,
+          "description": "<p>Google Gemini 是一款非常强大的 AI 对话系统，只要输入提示词，就能在短短几秒内生成流畅自然的回复。Gemini 都能提供令人惊叹的智能协助，极大地提高了人类的工作效率和创造力。</p>\n<p>本文档主要介绍 Gemini Chat Completion AP",
+          "link": "https://cuiqingcai.com/42380.html",
+          "publishedOn": "2026-01-04T10:06:16.000Z",
+          "wordCount": 2723,
+          "title": "Gemini Chat Completion API 申请及使用",
+          "imageUrl": "https://cdn.acedata.cloud/nyq0xz.png"
+        },
+        {
           "id": "https://cuiqingcai.com/42379.html",
           "author": null,
           "description": "<p>本文将介绍一种 Sora Videos Generation API 对接说明，它是可以通过输入自定义参数来生成Sora官方的视频。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title=\"申请流程\"></a>",

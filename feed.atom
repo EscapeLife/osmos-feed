@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-01-04T01:17:20.841Z</updated>
+    <updated>2026-01-05T01:15:35.792Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gemini Chat Completion API 申请及使用]]></title>
+        <id>https://cuiqingcai.com/42380.html</id>
+        <link href="https://cuiqingcai.com/42380.html"/>
+        <updated>2026-01-04T10:06:16.000Z</updated>
+        <summary type="html"><![CDATA[<p>Google Gemini 是一款非常强大的 AI 对话系统，只要输入提示词，就能在短短几秒内生成流畅自然的回复。Gemini 都能提供令人惊叹的智能协助，极大地提高了人类的工作效率和创造力。</p>
+<p>本文档主要介绍 Gemini Chat Completion AP]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sora Videos Generation API 对接说明]]></title>
         <id>https://cuiqingcai.com/42379.html</id>

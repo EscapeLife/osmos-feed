@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-01-05T01:15:35.792Z</updated>
+    <updated>2026-01-06T01:09:20.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -152,16 +152,6 @@ Continue reading...]]></summary>
         <summary type="html"><![CDATA[Lua 5.5.0 已经正式发布。所以，skynet 的 Lua 版本也随之升级。 skynet 维护了一份修改版的 Lua ，允许在多个虚拟机之间共享函数原型。这可以节省初始化 Lua 服务的时间，减少内存占用。 跨虚拟机共享函数原型最困难的部分是函数原型会引用常量字符串，而 Lua 在处理短字符串时，需要在虚拟机内部做 interning 。所以 skynet 的这个 patch 主要解决的是正确处理被 interning 的短字符串和从外部导入的函数原型中包含的字符串共存的问题。具体方法记录在这篇 blog 中。...]]></summary>
         <author>
             <name>云风的 BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[珍重]]></title>
-        <id>https://frostming.com/2025/take-care/</id>
-        <link href="https://frostming.com/posts/2025/take-care/"/>
-        <updated>2025-12-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Frost Ming's personal blog]]></summary>
-        <author>
-            <name>Frost's Blog</name>
         </author>
     </entry>
     <entry>

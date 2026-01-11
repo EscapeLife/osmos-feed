@@ -57,6 +57,16 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=7160",
+          "author": "laixintao",
+          "description": "最近读了《征服C指针》，是一本好书。日本人写的计算机技术书籍像娓娓道来的技术博客那样，假设读者没有（或者有很少 […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/7160",
+          "publishedOn": "2026-01-10T04:15:54.000Z",
+          "wordCount": 1226,
+          "title": "《征服C指针》",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=7148",
           "author": "laixintao",
           "description": "在新加坡的第五年整。 今年和欣好像一直在找房子。之前住在湖畔的一个 HDB，房东决定要卖房子，所以我们不续租了 […]\nContinue reading...",
@@ -64,16 +74,6 @@
           "publishedOn": "2025-12-30T14:47:42.000Z",
           "wordCount": 1022,
           "title": "2025",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=7151",
-          "author": "laixintao",
-          "description": "我的姥姥今年去世了，没有痛苦。我们之前都预料到了这一天的到来，大家在五月份都陆续去看望了她，大家也都知道这是告 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/7151",
-          "publishedOn": "2025-12-27T06:13:38.000Z",
-          "wordCount": 919,
-          "title": "我的姥姥",
           "imageUrl": null
         }
       ]

@@ -164,6 +164,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/42383.html",
+          "author": null,
+          "description": "<p>还在为短视频愁到脱发？外包1条视频花几百，剪辑软件学不会，AI生成要么卡顿模糊，要么画面和需求完全脱节？2026年视频流量风口，别让“不会做”挡住你的曝光！</p>\n<p>ACE Data Platform 联合 SeeDance 推出 <strong>AI视频生成神器</",
+          "link": "https://cuiqingcai.com/42383.html",
+          "publishedOn": "2026-01-11T13:06:16.000Z",
+          "wordCount": 1240,
+          "title": "惊了！1句话生成带货短视频！ACE Data Platform × SeeDance 让普通人也能当“视频导演”",
+          "imageUrl": null
+        },
+        {
           "id": "https://cuiqingcai.com/42382.html",
           "author": null,
           "description": "<p>2026年流量主战场已锁定视频端！小红书15秒种草视频10万+赞、抖音30秒品牌故事破百万播放、视频号直播切片单日引流500+精准客资… 但90%想靠视频变现的人，都被这些难题卡住：</p>\n<ul>\n  <li>专业剪辑要学3个月，新手望而却步；</li>\n  <li>找",
@@ -239,18 +249,7 @@
       "title": "咸糖 - 自律者自由",
       "feedUrl": "https://vim0.com/index.xml",
       "siteUrl": "https://vim0.com/",
-      "articles": [
-        {
-          "id": "https://vim0.com/post/2025_recap/",
-          "author": null,
-          "description": "2025 年终总结：降噪、重构与长期主义 过了圣诞，接着就是元旦。刚才试着口述梳理思路，录到一半被猫打断，喂完罐头回来继续写。 站在 2025 的尾巴上，回看这一",
-          "link": "https://vim0.com/post/2025_recap/",
-          "publishedOn": "2025-12-28T07:31:25.000Z",
-          "wordCount": 372,
-          "title": "2025 年终总结：降噪、重构与长期主义",
-          "imageUrl": "https://vim0.com/post/main_cover.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "离别歌",

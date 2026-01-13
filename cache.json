@@ -57,6 +57,16 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=7168",
+          "author": "laixintao",
+          "description": "我和欣都很喜欢看电影，我们一起看了很多电影。我最喜欢的导演是韦斯·安得森，现在最喜欢的电影是《布达佩斯大饭店》 […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/7168",
+          "publishedOn": "2026-01-12T14:49:00.000Z",
+          "wordCount": 1213,
+          "title": "一起看电影",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=7160",
           "author": "laixintao",
           "description": "最近读了《征服C指针》，是一本好书。日本人写的计算机技术书籍像娓娓道来的技术博客那样，假设读者没有（或者有很少 […]\nContinue reading...",
@@ -163,6 +173,16 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/42384.html",
+          "author": null,
+          "description": "<p>还在为图片创作发愁？找图怕侵权、请设计师1张图要花几百块、AI生成模糊不清、复杂工具半天学不会？别让技术和成本挡住你的创意！</p>\n<p>ACE Data Platform 重磅推出 <strong>SeeDream 图像生成专属集成方案</strong>，把登顶国际榜单",
+          "link": "https://cuiqingcai.com/42384.html",
+          "publishedOn": "2026-01-12T15:06:16.000Z",
+          "wordCount": 1380,
+          "title": "0代码生成4K高清图！ACE Data Platform × SeeDream 专属方案：小白商家闭眼冲”",
+          "imageUrl": null
+        },
         {
           "id": "https://cuiqingcai.com/42383.html",
           "author": null,

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-01-13T01:06:53.099Z</updated>
+    <updated>2026-01-14T01:13:00.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[10秒解锁电影级视频！ACE Data Platform Sora2 API：0代码量产，小白/商家必藏]]></title>
+        <id>https://cuiqingcai.com/42385.html</id>
+        <link href="https://cuiqingcai.com/42385.html"/>
+        <updated>2026-01-13T13:06:16.000Z</updated>
+        <summary type="html"><![CDATA[<p>还在为做视频发愁？专业剪辑学不会、找团队拍1条要花2000+、AI生成视频参数复杂搞不懂、批量做还总卡顿失败？别让技术门槛挡住视频流量红利！</p>
+<p>ACE Data Platform重磅推出<strong>Sora 2 API专属集成方案</strong>，彻底打破]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[0代码生成4K高清图！ACE Data Platform × SeeDream 专属方案：小白商家闭眼冲”]]></title>
         <id>https://cuiqingcai.com/42384.html</id>
@@ -153,42 +164,6 @@ Continue reading...]]></summary>
 Continue reading...]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SeeDream Images Generation API 对接说明]]></title>
-        <id>https://cuiqingcai.com/42376.html</id>
-        <link href="https://cuiqingcai.com/42376.html"/>
-        <updated>2025-12-30T12:01:22.000Z</updated>
-        <summary type="html"><![CDATA[<p>本文将介绍一种 SeeDream Images Generation API 对接说明，它是可以通过输入自定义参数来生成 SeeDream 官方的图片。</p>
-<h2 id="申请流程"><a href="#申请流程" class="headerlink" title="]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[友好的 Python：从其他语言移植]]></title>
-        <id>https://frostming.com/2025/friendly-python-port/</id>
-        <link href="https://frostming.com/posts/2025/friendly-python-port/"/>
-        <updated>2025-12-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Frost Ming's personal blog]]></summary>
-        <author>
-            <name>Frost's Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React2Shell攻防笔记：原理挖掘与价值15万美元的WAF绕过思路]]></title>
-        <id>https://www.leavesongs.com/PENETRATION/deep-dive-into-react2shell.html</id>
-        <link href="https://www.leavesongs.com/PENETRATION/deep-dive-into-react2shell.html"/>
-        <updated>2025-12-29T16:10:00.000Z</updated>
-        <summary type="html"><![CDATA[2025年12月初，React Server Components和Next.js出现核弹级漏洞React2Shell（CVE-2025-55182），这几个周末我陆陆续续在「代码审计知识星球」里写了5篇相关文章：
-《1. Thenable的由来》
-《2. Next.js调试环境配置》
-《3. RSC是怎样解析数据包的？》
-《4. React2Shell漏洞原理》
-《5. 价值15万美元的...]]></summary>
-        <author>
-            <name>phithon</name>
         </author>
     </entry>
     <entry>

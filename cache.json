@@ -125,16 +125,6 @@
           "wordCount": 245,
           "title": "2025 的号与外",
           "imageUrl": "https://frostming.com/og/2026/2025-recap.png"
-        },
-        {
-          "id": "https://frostming.com/2025/friendly-python-port/",
-          "author": null,
-          "description": "Frost Ming's personal blog",
-          "link": "https://frostming.com/posts/2025/friendly-python-port/",
-          "publishedOn": "2025-12-30T00:00:00.000Z",
-          "wordCount": 621,
-          "title": "友好的 Python：从其他语言移植",
-          "imageUrl": "https://frostming.com/og/2025/friendly-python-port.png"
         }
       ]
     },
@@ -173,6 +163,16 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/42385.html",
+          "author": null,
+          "description": "<p>还在为做视频发愁？专业剪辑学不会、找团队拍1条要花2000+、AI生成视频参数复杂搞不懂、批量做还总卡顿失败？别让技术门槛挡住视频流量红利！</p>\n<p>ACE Data Platform重磅推出<strong>Sora 2 API专属集成方案</strong>，彻底打破",
+          "link": "https://cuiqingcai.com/42385.html",
+          "publishedOn": "2026-01-13T13:06:16.000Z",
+          "wordCount": 1225,
+          "title": "10秒解锁电影级视频！ACE Data Platform Sora2 API：0代码量产，小白/商家必藏",
+          "imageUrl": null
+        },
         {
           "id": "https://cuiqingcai.com/42384.html",
           "author": null,
@@ -252,16 +252,6 @@
           "wordCount": 1548,
           "title": "SeeDance Videos Generation API 对接说明",
           "imageUrl": "https://cdn.acedata.cloud/q6ytrc.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/42376.html",
-          "author": null,
-          "description": "<p>本文将介绍一种 SeeDream Images Generation API 对接说明，它是可以通过输入自定义参数来生成 SeeDream 官方的图片。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title=\"",
-          "link": "https://cuiqingcai.com/42376.html",
-          "publishedOn": "2025-12-30T12:01:22.000Z",
-          "wordCount": 1592,
-          "title": "SeeDream Images Generation API 对接说明",
-          "imageUrl": "https://cdn.acedata.cloud/q6ytrc.png"
         }
       ]
     },
@@ -275,18 +265,7 @@
       "title": "离别歌",
       "feedUrl": "https://www.leavesongs.com/feed",
       "siteUrl": "https://www.leavesongs.com",
-      "articles": [
-        {
-          "id": "https://www.leavesongs.com/PENETRATION/deep-dive-into-react2shell.html",
-          "author": "phithon",
-          "description": "2025年12月初，React Server Components和Next.js出现核弹级漏洞React2Shell（CVE-2025-55182），这几个周末我陆陆续续在「代码审计知识星球」里写了5篇相关文章：\n《1. Thenable的由来》\n《2. Next.js调试环境配置》\n《3. RSC是怎样解析数据包的？》\n《4. React2Shell漏洞原理》\n《5. 价值15万美元的...",
-          "link": "https://www.leavesongs.com/PENETRATION/deep-dive-into-react2shell.html",
-          "publishedOn": "2025-12-29T16:10:00.000Z",
-          "wordCount": 514,
-          "title": "React2Shell攻防笔记：原理挖掘与价值15万美元的WAF绕过思路",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "张戈博客",

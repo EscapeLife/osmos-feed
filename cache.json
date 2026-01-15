@@ -57,6 +57,16 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=7173",
+          "author": "laixintao",
+          "description": "我们遇到的 Harbor 的另外一个问题是 image 的下载瓶颈。在容灾的时候，我们需要在短时间内启动几万个 […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/7173",
+          "publishedOn": "2026-01-14T15:33:00.000Z",
+          "wordCount": 1371,
+          "title": "Piccolo P2P 镜像分发",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=7168",
           "author": "laixintao",
           "description": "我和欣都很喜欢看电影，我们一起看了很多电影。我最喜欢的导演是韦斯·安得森，现在最喜欢的电影是《布达佩斯大饭店》 […]\nContinue reading...",
@@ -74,16 +84,6 @@
           "publishedOn": "2026-01-10T04:15:54.000Z",
           "wordCount": 1226,
           "title": "《征服C指针》",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=7148",
-          "author": "laixintao",
-          "description": "在新加坡的第五年整。 今年和欣好像一直在找房子。之前住在湖畔的一个 HDB，房东决定要卖房子，所以我们不续租了 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/7148",
-          "publishedOn": "2025-12-30T14:47:42.000Z",
-          "wordCount": 1022,
-          "title": "2025",
           "imageUrl": null
         }
       ]
@@ -194,6 +194,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://cuiqingcai.com/42386.html",
+          "author": null,
+          "description": "<p>2026 年流量主战场已锁定视频端！小红书 15 秒种草视频 10万+ 赞、抖音 30 秒品牌故事破百万播放、视频号直播切片单日引流 500+ 精准客资… 但 90% 想靠视频变现的人，都被这些难题卡住：</p>\n<ul>\n  <li>专业剪辑要学 3 个月，新手望而却步；",
+          "link": "https://cuiqingcai.com/42386.html",
+          "publishedOn": "2026-01-08T14:36:16.000Z",
+          "wordCount": 1257,
+          "title": "Veo API：0门槛量产商业级视频！2026视频流量密码，创作者/商家必藏",
+          "imageUrl": null
+        },
+        {
           "id": "https://cuiqingcai.com/42382.html",
           "author": null,
           "description": "<p>2026年流量主战场已锁定视频端！小红书15秒种草视频10万+赞、抖音30秒品牌故事破百万播放、视频号直播切片单日引流500+精准客资… 但90%想靠视频变现的人，都被这些难题卡住：</p>\n<ul>\n  <li>专业剪辑要学3个月，新手望而却步；</li>\n  <li>找",
@@ -241,16 +251,6 @@
           "publishedOn": "2026-01-01T02:01:15.000Z",
           "wordCount": 4102,
           "title": "Producer Audios Generation API 对接说明",
-          "imageUrl": "https://cdn.acedata.cloud/q6ytrc.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/42377.html",
-          "author": null,
-          "description": "<p>本文将介绍一种 SeeDance Videos Generation API 对接说明，它是可以通过输入自定义参数来生成SeeDance官方的视频。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title=\"申请",
-          "link": "https://cuiqingcai.com/42377.html",
-          "publishedOn": "2025-12-31T08:01:22.000Z",
-          "wordCount": 1548,
-          "title": "SeeDance Videos Generation API 对接说明",
           "imageUrl": "https://cdn.acedata.cloud/q6ytrc.png"
         }
       ]

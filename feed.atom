@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-01-16T01:10:29.815Z</updated>
+    <updated>2026-01-17T01:07:12.407Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[刷屏全网的“nano-banana”API接入指南！0.1元/张量产高清创意图，开发者必藏]]></title>
+        <id>https://cuiqingcai.com/42387.html</id>
+        <link href="https://cuiqingcai.com/42387.html"/>
+        <updated>2026-01-16T11:36:16.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="一、nano-banana-爆火背景与核心优势"><a href="#一、nano-banana-爆火背景与核心优势" class="headerlink" title="一、nano-banana 爆火背景与核心优势"></a>一、nano-banana 爆火背]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[和 AI 聊游戏设计]]></title>
         <id>https://blog.codingnow.com/2026/01/ai_game_design.html</id>
@@ -137,33 +147,6 @@ Continue reading...]]></summary>
 <p>本文档主要介绍 Gemini Chat Completion AP]]></summary>
         <author>
             <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sora Videos Generation API 对接说明]]></title>
-        <id>https://cuiqingcai.com/42379.html</id>
-        <link href="https://cuiqingcai.com/42379.html"/>
-        <updated>2026-01-02T10:02:16.000Z</updated>
-        <summary type="html"><![CDATA[<p>本文将介绍一种 Sora Videos Generation API 对接说明，它是可以通过输入自定义参数来生成Sora官方的视频。</p>
-<h2 id="申请流程"><a href="#申请流程" class="headerlink" title="申请流程"></a>]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[笑ってほしくて]]></title>
-        <id>https://www.manjusaka.blog/posts/2026/01/01/at-the-end-of-2025/</id>
-        <link href="https://www.manjusaka.blog/posts/2026/01/01/at-the-end-of-2025/"/>
-        <updated>2026-01-01T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>每年都会选一句话作为年终总结的标题，去年是“本当の僕らをありがとう”，今年我选择“笑ってほしくて”。</p>
-<p>这句话出自 《葬送的芙莉莲》的片尾曲《Anytime anywhere》。</p>
-<blockquote>
-<p>愿你露出笑容</p>
-</blockquote>
-<p>可能是我想对逝去之人，逝去的猫说的，可能也是他们想对我说的</p>
-<p>也是我想对所有看到这篇文章的人说的</p>]]></summary>
-        <author>
-            <name>Manjusaka</name>
         </author>
     </entry>
     <entry>

@@ -92,18 +92,7 @@
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "https://www.manjusaka.blog/atom.xml",
-      "articles": [
-        {
-          "id": "https://www.manjusaka.blog/posts/2026/01/01/at-the-end-of-2025/",
-          "author": null,
-          "description": "<p>每年都会选一句话作为年终总结的标题，去年是“本当の僕らをありがとう”，今年我选择“笑ってほしくて”。</p>\n<p>这句话出自 《葬送的芙莉莲》的片尾曲《Anytime anywhere》。</p>\n<blockquote>\n<p>愿你露出笑容</p>\n</blockquote>\n<p>可能是我想对逝去之人，逝去的猫说的，可能也是他们想对我说的</p>\n<p>也是我想对所有看到这篇文章的人说的</p>",
-          "link": "https://www.manjusaka.blog/posts/2026/01/01/at-the-end-of-2025/",
-          "publishedOn": "2026-01-01T15:00:00.000Z",
-          "wordCount": 1745,
-          "title": "笑ってほしくて",
-          "imageUrl": "https://cdn.pixabay.com/photo/2023/02/04/07/50/daisy-7766609_1280.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "laike9m's blog",
@@ -175,6 +164,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/42387.html",
+          "author": null,
+          "description": "<h2 id=\"一、nano-banana-爆火背景与核心优势\"><a href=\"#一、nano-banana-爆火背景与核心优势\" class=\"headerlink\" title=\"一、nano-banana 爆火背景与核心优势\"></a>一、nano-banana 爆火背",
+          "link": "https://cuiqingcai.com/42387.html",
+          "publishedOn": "2026-01-16T11:36:16.000Z",
+          "wordCount": 1269,
+          "title": "刷屏全网的“nano-banana”API接入指南！0.1元/张量产高清创意图，开发者必藏",
+          "imageUrl": null
+        },
+        {
           "id": "https://cuiqingcai.com/42385.html",
           "author": null,
           "description": "<p>还在为做视频发愁？专业剪辑学不会、找团队拍1条要花2000+、AI生成视频参数复杂搞不懂、批量做还总卡顿失败？别让技术门槛挡住视频流量红利！</p>\n<p>ACE Data Platform重磅推出<strong>Sora 2 API专属集成方案</strong>，彻底打破",
@@ -243,16 +242,6 @@
           "wordCount": 2723,
           "title": "Gemini Chat Completion API 申请及使用",
           "imageUrl": "https://cdn.acedata.cloud/nyq0xz.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/42379.html",
-          "author": null,
-          "description": "<p>本文将介绍一种 Sora Videos Generation API 对接说明，它是可以通过输入自定义参数来生成Sora官方的视频。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title=\"申请流程\"></a>",
-          "link": "https://cuiqingcai.com/42379.html",
-          "publishedOn": "2026-01-02T10:02:16.000Z",
-          "wordCount": 1508,
-          "title": "Sora Videos Generation API 对接说明",
-          "imageUrl": "https://cdn.acedata.cloud/q6ytrc.png"
         }
       ]
     },

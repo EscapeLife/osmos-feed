@@ -164,6 +164,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/42389.html",
+          "author": null,
+          "description": "<h2 id=\"一、核心痛点与-API-定位\"><a href=\"#一、核心痛点与-API-定位\" class=\"headerlink\" title=\"一、核心痛点与 API 定位\"></a>一、核心痛点与 API 定位</h2>\n<p>做 SEO 优化总踩坑？跨境选品没方向？竞",
+          "link": "https://cuiqingcai.com/42389.html",
+          "publishedOn": "2026-01-18T14:02:16.000Z",
+          "wordCount": 1355,
+          "title": "99.9%可用性！ACE Data Platform Google SERP API：3秒解锁全球搜索流量密码，SEO/跨境人必藏",
+          "imageUrl": null
+        },
+        {
           "id": "https://cuiqingcai.com/42388.html",
           "author": null,
           "description": "<p>最近被谷歌新发布的 <strong>Nano Banana（Gemini 2.5 Flash Image）图像生成模型</strong> 霸屏了。</p>\n<p>从手办秒变真人级 Cosplay，到一键统一多图风格，从个性化头像到产品概念设计，甚至连静态画作都能一键生成电影",
@@ -242,16 +252,6 @@
           "wordCount": 1446,
           "title": "Nano Banana API 来了：不到半价享官方同款品质，仅需约 ¥0.10/张！",
           "imageUrl": "https://cdn.acedata.cloud/5jr576.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/42380.html",
-          "author": null,
-          "description": "<p>Google Gemini 是一款非常强大的 AI 对话系统，只要输入提示词，就能在短短几秒内生成流畅自然的回复。Gemini 都能提供令人惊叹的智能协助，极大地提高了人类的工作效率和创造力。</p>\n<p>本文档主要介绍 Gemini Chat Completion AP",
-          "link": "https://cuiqingcai.com/42380.html",
-          "publishedOn": "2026-01-04T10:06:16.000Z",
-          "wordCount": 2723,
-          "title": "Gemini Chat Completion API 申请及使用",
-          "imageUrl": "https://cdn.acedata.cloud/nyq0xz.png"
         }
       ]
     },

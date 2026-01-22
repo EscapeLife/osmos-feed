@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-01-21T01:12:01.371Z</updated>
+    <updated>2026-01-22T01:12:14.846Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -137,27 +137,6 @@ Continue reading...]]></summary>
   <li>找]]></summary>
         <author>
             <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nano Banana API 来了：不到半价享官方同款品质，仅需约 ¥0.10/张！]]></title>
-        <id>https://cuiqingcai.com/42381.html</id>
-        <link href="https://cuiqingcai.com/42381.html"/>
-        <updated>2026-01-07T13:02:16.000Z</updated>
-        <summary type="html"><![CDATA[<p>最近被谷歌新发布的 <strong>Nano Banana（Gemini 2.5 Flash Image）图像生成模型</strong> 霸屏了。</p>
-<p>从手办秒变真人级 Cosplay，到一键统一多图风格，从个性化头像到产品概念设计，甚至连静态画作都能一键生成电影]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 的号与外]]></title>
-        <id>https://frostming.com/2026/2025-recap/</id>
-        <link href="https://frostming.com/posts/2026/2025-recap/"/>
-        <updated>2026-01-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Frost Ming's personal blog]]></summary>
-        <author>
-            <name>Frost's Blog</name>
         </author>
     </entry>
     <entry>

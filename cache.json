@@ -75,16 +75,6 @@
           "wordCount": 1213,
           "title": "一起看电影",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=7160",
-          "author": "laixintao",
-          "description": "最近读了《征服C指针》，是一本好书。日本人写的计算机技术书籍像娓娓道来的技术博客那样，假设读者没有（或者有很少 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/7160",
-          "publishedOn": "2026-01-10T04:15:54.000Z",
-          "wordCount": 1226,
-          "title": "《征服C指针》",
-          "imageUrl": null
         }
       ]
     },
@@ -129,6 +119,16 @@
       "feedUrl": "https://blog.codingnow.com/atom.xml",
       "siteUrl": "https://blog.codingnow.com/",
       "articles": [
+        {
+          "id": "https://blog.codingnow.com/2026/01/solo_boardgame.html",
+          "author": null,
+          "description": "上个月我花了不少时间在 dotAge 这个游戏中。我很喜欢这种通过精算规划应对确定风险的感觉。由于 dotAge 有很强的欧式桌游的设计感，所以我在桌游中尝试了一些有类似设计元素的单人游戏。 我感觉体验比较接近的有 Voidfall (2023) 和 Spirit Island (2017) 。因为灵魂岛（spirit island ）更早一些，而且 steam 上有官方的电子版，bgg 上总体排名也更高，所以我在上面花的时间最多。 这两个游戏的特点都是确定性战斗机制，即在战斗时完全没有投骰这类随机元素介入。在开战之前，玩家就能完全确定战斗结果。战斗只是规划的一环，考虑的是该支付多少成本或许多大的收益。而且灵魂岛作为一款卡牌驱动的游戏，完全排除了抽牌的随机性，只在从市场上加入新牌（新能力）时有一点随机性。一旦进入玩家牌组，什么时候什么卡牌可以使用，完全是在玩家规划之内的。这非常接近 dotAge 中规划应对危机时的体验。 灵魂岛的背景像极了电影 Avatar ：岛的灵魂通过原住民发挥神力赶走了外来殖民者。每个回合，把神力的成长、发威（玩家行动）和殖民者（系统危机）的入侵、成长和破坏以固定次序循环。其中，殖民者的入侵在版图上的地点有轻微的随机性，但随后的两个回合就在固定规则下，在同一地点地成长和破坏（玩家需要处理的危机）。扮演岛之灵魂的玩家可以选择到破坏之刻去那个地块消除危机，在此之前玩家有两个回合可以准备；也可以提前在殖民者成长之前将其消灭在萌芽之中，但这给玩家的准备时间更少，却往往意味着更小的消耗；还可以暂时承受损失，集中力量于它处或更快的发展神力。游戏提供给玩家的策略选择着实丰富。...",
+          "link": "https://blog.codingnow.com/2026/01/solo_boardgame.html",
+          "publishedOn": "2026-01-24T13:08:25.000Z",
+          "wordCount": 170,
+          "title": "介绍几款单人桌游",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.codingnow.com/2026/01/ai_game_design.html",
           "author": null,
@@ -180,6 +180,16 @@
           "publishedOn": "2026-01-16T11:36:16.000Z",
           "wordCount": 1269,
           "title": "刷屏全网的“nano-banana”API接入指南！0.1元/张量产高清创意图，开发者必藏",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cuiqingcai.com/42386.html",
+          "author": null,
+          "description": "<p>2026 年流量主战场已锁定视频端！小红书 15 秒种草视频 10万+ 赞、抖音 30 秒品牌故事破百万播放、视频号直播切片单日引流 500+ 精准客资… 但 90% 想靠视频变现的人，都被这些难题卡住：</p>\n<ul>\n  <li>专业剪辑要学 3 个月，新手望而却步；",
+          "link": "https://cuiqingcai.com/42386.html",
+          "publishedOn": "2026-01-14T07:36:16.000Z",
+          "wordCount": 1261,
+          "title": "Veo API：0门槛量产商业级视频！2026视频流量密码，创作者/商家必藏",
           "imageUrl": null
         },
         {

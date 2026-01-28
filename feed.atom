@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-01-27T01:16:09.676Z</updated>
+    <updated>2026-01-28T01:11:55.756Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[没电了]]></title>
+        <id>https://codechina.org/?p=31284</id>
+        <link href="https://codechina.org/2026/01/31284/"/>
+        <updated>2026-01-27T02:49:02.000Z</updated>
+        <summary type="html"><![CDATA[他们坐在厂区外的长椅上，远处的机械臂在夜色里一下一下地挥动，像某种不知疲倦的生物。 “我跟你说，”甲压低声音， […]
+没电了最先出现在Tinyfool的个人网站。]]></summary>
+        <author>
+            <name>tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[介绍几款单人桌游]]></title>
         <id>https://blog.codingnow.com/2026/01/solo_boardgame.html</id>
@@ -79,39 +90,6 @@ Continue reading...]]></summary>
   <li>专业剪辑要学 3 个月，新手望而却步；]]></summary>
         <author>
             <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10秒解锁电影级视频！ACE Data Platform Sora2 API：0代码量产，小白/商家必藏]]></title>
-        <id>https://cuiqingcai.com/42385.html</id>
-        <link href="https://cuiqingcai.com/42385.html"/>
-        <updated>2026-01-13T13:06:16.000Z</updated>
-        <summary type="html"><![CDATA[<p>还在为做视频发愁？专业剪辑学不会、找团队拍1条要花2000+、AI生成视频参数复杂搞不懂、批量做还总卡顿失败？别让技术门槛挡住视频流量红利！</p>
-<p>ACE Data Platform重磅推出<strong>Sora 2 API专属集成方案</strong>，彻底打破]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[0代码生成4K高清图！ACE Data Platform × SeeDream 专属方案：小白商家闭眼冲”]]></title>
-        <id>https://cuiqingcai.com/42384.html</id>
-        <link href="https://cuiqingcai.com/42384.html"/>
-        <updated>2026-01-12T15:06:16.000Z</updated>
-        <summary type="html"><![CDATA[<p>还在为图片创作发愁？找图怕侵权、请设计师1张图要花几百块、AI生成模糊不清、复杂工具半天学不会？别让技术和成本挡住你的创意！</p>
-<p>ACE Data Platform 重磅推出 <strong>SeeDream 图像生成专属集成方案</strong>，把登顶国际榜单]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一起看电影]]></title>
-        <id>https://www.kawabangga.com/?p=7168</id>
-        <link href="https://www.kawabangga.com/posts/7168"/>
-        <updated>2026-01-12T14:49:00.000Z</updated>
-        <summary type="html"><![CDATA[我和欣都很喜欢看电影，我们一起看了很多电影。我最喜欢的导演是韦斯·安得森，现在最喜欢的电影是《布达佩斯大饭店》 […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

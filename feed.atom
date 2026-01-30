@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-01-29T01:21:34.448Z</updated>
+    <updated>2026-01-30T01:20:57.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -57,27 +57,6 @@
         <summary type="html"><![CDATA[<h2 id="一、nano-banana-爆火背景与核心优势"><a href="#一、nano-banana-爆火背景与核心优势" class="headerlink" title="一、nano-banana 爆火背景与核心优势"></a>一、nano-banana 爆火背]]></summary>
         <author>
             <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[和 AI 聊游戏设计]]></title>
-        <id>https://blog.codingnow.com/2026/01/ai_game_design.html</id>
-        <link href="https://blog.codingnow.com/2026/01/ai_game_design.html"/>
-        <updated>2026-01-15T08:05:08.000Z</updated>
-        <summary type="html"><![CDATA[最近一段时间和 AI 聊游戏设计比较多。我主要用的是 google 首页上的 AI 模式，也试过 twitter 上的 grok 。 去年也和朋友聊过很多，但对理清楚自己的想法帮助有限。因为和人聊容易陷入不断的细节解释当中，一些天马行空的想法更容易被质疑，一旦陷入辩论就不太容易跳出来。而且每个人的时间并不固定，很容易造成时间和精力的浪费。和 AI 聊要轻松得多，AI 毕竟见多识广，随便提到的点都能接得上话。不想聊下去尽可以中断，不用担心浪费时间。即使怀疑 AI 出现幻觉，也可以随时暂停下来通过搜索核实。 不过，我觉得和 AI 讨论也有另一方面的问题。那就是太容易顺着你的思路夸大其词。它更像是一个貌似领域知识渊博但只是想讨好你的同好，不断的放出一些华丽的辞藻却在逻辑上经不起推敲。分析起游戏来头头是道，直到谈到我真的玩过上百小时的游戏时，对游戏的细节错误百出。如果我没有这些游戏的真实体验，几乎不可能分辨真伪。一开始我还会想和真人讨论时一样指出它的错误，让它修正后重新发表观点。后来就渐渐放弃了从 AI 那里直接获得真知。把它当成一个比搜索引擎更方便的信息获取入口就够了。 但我依然偶尔被 AI 的总结惊艳到。比如说有一场主题为模拟类型游戏的话题，聊到最后 AI 总结：...]]></summary>
-        <author>
-            <name>云风的 BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Piccolo P2P 镜像分发]]></title>
-        <id>https://www.kawabangga.com/?p=7173</id>
-        <link href="https://www.kawabangga.com/posts/7173"/>
-        <updated>2026-01-14T15:33:00.000Z</updated>
-        <summary type="html"><![CDATA[我们遇到的 Harbor 的另外一个问题是 image 的下载瓶颈。在容灾的时候，我们需要在短时间内启动几万个 […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

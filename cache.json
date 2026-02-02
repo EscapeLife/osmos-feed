@@ -78,7 +78,18 @@
       "title": "laike9m's blog",
       "feedUrl": "https://laike9m.com/blog/rss",
       "siteUrl": "https://laike9m.com/blog/rss",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://laike9m.com/blog/jules-team,172/",
+          "author": null,
+          "description": "没有简介, 请去看原文吧",
+          "link": "https://laike9m.com/blog/jules-team,172/",
+          "publishedOn": "2026-02-01T23:16:25.000Z",
+          "wordCount": 743,
+          "title": "First Month at the Jules Team",
+          "imageUrl": "https://laike9m.com/static/css3two_blog/images/thumbnail.png"
+        }
+      ]
     },
     {
       "title": "Frost's Blog",

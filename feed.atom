@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-02-01T01:44:40.288Z</updated>
+    <updated>2026-02-02T01:25:20.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[First Month at the Jules Team]]></title>
+        <id>https://laike9m.com/blog/jules-team,172/</id>
+        <link href="https://laike9m.com/blog/jules-team,172/"/>
+        <updated>2026-02-01T23:16:25.000Z</updated>
+        <summary type="html"><![CDATA[没有简介, 请去看原文吧]]></summary>
+        <author>
+            <name>laike9m's blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[没电了]]></title>
         <id>https://codechina.org/?p=31284</id>

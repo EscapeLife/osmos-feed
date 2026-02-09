@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-02-08T01:57:46.087Z</updated>
+    <updated>2026-02-09T01:27:51.359Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[读《昂贵的和平》后感]]></title>
+        <id>https://frostming.com/2026/expensive-harmony/</id>
+        <link href="https://frostming.com/posts/2026/expensive-harmony/"/>
+        <updated>2026-02-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Frost Ming's personal blog]]></summary>
+        <author>
+            <name>Frost's Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SeeDream Images Generation API 对接说明]]></title>
         <id>https://cuiqingcai.com/42391.html</id>

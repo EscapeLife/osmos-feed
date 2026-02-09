@@ -95,7 +95,18 @@
       "title": "Frost's Blog",
       "feedUrl": "https://frostming.com/feed.xml",
       "siteUrl": "https://frostming.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://frostming.com/2026/expensive-harmony/",
+          "author": null,
+          "description": "Frost Ming's personal blog",
+          "link": "https://frostming.com/posts/2026/expensive-harmony/",
+          "publishedOn": "2026-02-08T00:00:00.000Z",
+          "wordCount": 155,
+          "title": "读《昂贵的和平》后感",
+          "imageUrl": "https://frostming.com/og/2026/expensive-harmony.png"
+        }
+      ]
     },
     {
       "title": "Posts on Jiayuan Thoughts",

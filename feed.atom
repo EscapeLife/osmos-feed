@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-02-09T01:27:51.359Z</updated>
+    <updated>2026-02-10T01:49:59.264Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Producer Audios Generation API 对接说明]]></title>
+        <id>https://cuiqingcai.com/42393.html</id>
+        <link href="https://cuiqingcai.com/42393.html"/>
+        <updated>2026-02-09T02:01:15.000Z</updated>
+        <summary type="html"><![CDATA[<p>本文将介绍一种 Producer Audios Generation API 对接说明，它是可以通过输入自定义参数来生成 Producer 官方的音乐。</p>
+<h2 id="申请流程"><a href="#申请流程" class="headerlink" title="]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SeeDance Videos Generation API 对接说明]]></title>
+        <id>https://cuiqingcai.com/42392.html</id>
+        <link href="https://cuiqingcai.com/42392.html"/>
+        <updated>2026-02-08T08:01:22.000Z</updated>
+        <summary type="html"><![CDATA[<p>本文将介绍一种 SeeDance Videos Generation API 对接说明，它是可以通过输入自定义参数来生成SeeDance官方的视频。</p>
+<h2 id="申请流程"><a href="#申请流程" class="headerlink" title="申请]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[读《昂贵的和平》后感]]></title>
         <id>https://frostming.com/2026/expensive-harmony/</id>

@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-02-10T01:49:59.264Z</updated>
+    <updated>2026-02-11T01:47:02.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI 编程是一种“框架”]]></title>
+        <id>https://www.piglei.com/articles/ai-programming-is-a-new-framework/</id>
+        <link href="https://www.piglei.com/articles/ai-programming-is-a-new-framework/"/>
+        <updated>2026-02-10T04:04:45.000Z</updated>
+        <summary type="html"><![CDATA[框架的问题
+1. 抽象泄露
+2. 丧失控制权
+认知成本：DRF 的启示
+也许，该把 AI 编程当成一种库
+使用 AI 类编程工具越多，我便越来越强烈地感觉到：AI 编程是一种“框架（Framework）”。
+框架是每位程序员的老朋友，它通常针对特定领域所设计，能极大提升编码效率。以 REST API 服务为例，一些成熟的框架（比如 Django REST Framework）能做到仅需定义数据模型和视图类，便生成一套功能完备的 CRUD API 服务。
+AI 编程工具和传统框架一样，都是一种“杠杆”，它们允许人们用少量输入撬动庞大的功能。二者区别仅在于输入类型不同，框架需要代码（或配置），而 AI 仅需一句简单的自然语言提示词——“写一个书店网站”。
+框架的问题
+作为一种新型框架，“AI 编程”所带来的便利性，足以把人类从前发明过的任何一种框架按在地上摩擦，但是，框架天生所具备的问题并未消失。
+1. 抽象泄露
+所有框架都有一个共性，它们提供了极高级的抽象，以降低实现特定功能所需的工作量。比如，Django 的 ORM 提供了“数据模型”这层抽象，免去了手写 SQL 语言、设计数据校验等繁重工作。
+但不幸的是，抽象都会泄露。
+一名 Django 初学者编写的网站上线后，客户投诉爆表，因为列表页加载极为缓慢。此时，打开数据库监控面板，他会发现这个看似简单的页面，每访问一次就会发起 400 次数据库查询。要解决该问题，他必须弄脏双手，撕开 ORM 这个抽象层，弄懂“属性如何被加载？”，搞清楚“N+1 问题”的真相。
+而使用 AI 编程工具，“抽象泄露”则发生在我们不得不抛弃轻松的自然语言提示词——“实现 XXX 功能”，转而说出“你对 items 变量的状态转换的理解不对”的时刻。
+毋庸讳言，现阶段的 AI 仍存在智能瓶颈。当自然语言无法驱动 AI 准确完成工作时，打破抽象，打开…]]></summary>
+        <author>
+            <name>piglei</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Producer Audios Generation API 对接说明]]></title>
         <id>https://cuiqingcai.com/42393.html</id>
@@ -68,17 +93,6 @@
         <summary type="html"><![CDATA[没有简介, 请去看原文吧]]></summary>
         <author>
             <name>laike9m's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[没电了]]></title>
-        <id>https://codechina.org/?p=31284</id>
-        <link href="https://codechina.org/2026/01/31284/"/>
-        <updated>2026-01-27T02:49:02.000Z</updated>
-        <summary type="html"><![CDATA[他们坐在厂区外的长椅上，远处的机械臂在夜色里一下一下地挥动，像某种不知疲倦的生物。 “我跟你说，”甲压低声音， […]
-没电了最先出现在Tinyfool的个人网站。]]></summary>
-        <author>
-            <name>tinyfool</name>
         </author>
     </entry>
     <entry>

@@ -86,6 +86,16 @@
       "siteUrl": "https://frostming.com/",
       "articles": [
         {
+          "id": "https://frostming.com/2026/create-a-claw/",
+          "author": null,
+          "description": "Frost Ming's personal blog",
+          "link": "https://frostming.com/posts/2026/create-a-claw/",
+          "publishedOn": "2026-02-12T00:00:00.000Z",
+          "wordCount": 436,
+          "title": "创造一只龙虾，需要些什么?",
+          "imageUrl": "https://frostming.com/og/2026/create-a-claw.png"
+        },
+        {
           "id": "https://frostming.com/2026/expensive-harmony/",
           "author": null,
           "description": "Frost Ming's personal blog",

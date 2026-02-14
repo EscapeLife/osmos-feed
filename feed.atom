@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-02-13T01:42:33.306Z</updated>
+    <updated>2026-02-14T01:22:01.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Claude Code for VS Code 使用教程]]></title>
+        <id>https://cuiqingcai.com/42398.html</id>
+        <link href="https://cuiqingcai.com/42398.html"/>
+        <updated>2026-02-13T18:36:16.000Z</updated>
+        <summary type="html"><![CDATA[<p>Claude Code 是 Anthropic 推出的一款 <strong>Agentic Coding</strong> 工具，也被称为世界最强编程 Agent 之一。Claude Code 的 VS Code 扩展提供了原生的图形化界面，支持内联 Diff 视图、<co]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[惊了！1句话生成带货短视频！ACE Data Platform × SeeDance 让普通人也能当“视频导演”]]></title>
+        <id>https://cuiqingcai.com/42397.html</id>
+        <link href="https://cuiqingcai.com/42397.html"/>
+        <updated>2026-02-13T13:06:16.000Z</updated>
+        <summary type="html"><![CDATA[<p>还在为短视频愁到脱发？外包1条视频花几百，剪辑软件学不会，AI生成要么卡顿模糊，要么画面和需求完全脱节？2026年视频流量风口，别让“不会做”挡住你的曝光！</p>
+<p>ACE Data Platform 联合 SeeDance 推出 <strong>AI视频生成神器</]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中美 AI 竞争的差距到底有多大？]]></title>
+        <id>https://macshuo.com/?p=2031</id>
+        <link href="https://macshuo.com/?p=2031"/>
+        <updated>2026-02-13T10:51:28.000Z</updated>
+        <summary type="html"><![CDATA[上周五因为有 AI 新品发布的原因，我写了一篇中美 AI 竞争格局的短文，分别发 … Continue reading →]]></summary>
+        <author>
+            <name>MacTalk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开发者必备：Midjourney API]]></title>
+        <id>https://cuiqingcai.com/42396.html</id>
+        <link href="https://cuiqingcai.com/42396.html"/>
+        <updated>2026-02-12T08:36:16.000Z</updated>
+        <summary type="html"><![CDATA[<p>在AI图像生成领域，<strong>Midjourney</strong> 的名字想必大家早已不陌生。它不仅仅是一个工具，更像是一个随时待命的“创意伙伴”，能够将一段段文字描述，迅速转化成质感细腻、创意十足的视觉画面。无论是概念设计、营销素材，还是艺术创作，Midjourn]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[创造一只龙虾，需要些什么?]]></title>
         <id>https://frostming.com/2026/create-a-claw/</id>

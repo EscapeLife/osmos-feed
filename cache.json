@@ -72,7 +72,18 @@
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "https://www.manjusaka.blog/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.manjusaka.blog/posts/2026/02/22/how-to-tracing-your-sql/",
+          "author": null,
+          "description": "<p>过年是个好时候，可以猛猛干活或者看论文。不过上了几天磨，看了几天论文后觉得还是需要整点活</p>\n<p>所以这篇文章来聊聊一个经典话题，How to trace your SQL？</p>",
+          "link": "https://www.manjusaka.blog/posts/2026/02/22/how-to-tracing-your-sql/",
+          "publishedOn": "2026-02-22T10:49:00.000Z",
+          "wordCount": 2689,
+          "title": "怎么样 tracing 你的 SQL？",
+          "imageUrl": "https://cdn.pixabay.com/photo/2023/01/30/19/40/gulls-7756481_1280.jpg"
+        }
+      ]
     },
     {
       "title": "laike9m's blog",
@@ -94,16 +105,6 @@
           "wordCount": 436,
           "title": "创造一只龙虾，需要些什么?",
           "imageUrl": "https://frostming.com/og/2026/create-a-claw.png"
-        },
-        {
-          "id": "https://frostming.com/2026/expensive-harmony/",
-          "author": null,
-          "description": "Frost Ming's personal blog",
-          "link": "https://frostming.com/posts/2026/expensive-harmony/",
-          "publishedOn": "2026-02-08T00:00:00.000Z",
-          "wordCount": 155,
-          "title": "读《昂贵的和平》后感",
-          "imageUrl": "https://frostming.com/og/2026/expensive-harmony.png"
         }
       ]
     },
@@ -232,16 +233,6 @@
           "publishedOn": "2026-02-09T02:01:15.000Z",
           "wordCount": 4119,
           "title": "Producer Audios Generation API 对接说明",
-          "imageUrl": "https://cdn.acedata.cloud/q6ytrc.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/42392.html",
-          "author": null,
-          "description": "<p>本文将介绍一种 SeeDance Videos Generation API 对接说明，它是可以通过输入自定义参数来生成SeeDance官方的视频。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title=\"申请",
-          "link": "https://cuiqingcai.com/42392.html",
-          "publishedOn": "2026-02-08T08:01:22.000Z",
-          "wordCount": 1577,
-          "title": "SeeDance Videos Generation API 对接说明",
           "imageUrl": "https://cdn.acedata.cloud/q6ytrc.png"
         }
       ]

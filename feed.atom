@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-02-24T01:24:11.138Z</updated>
+    <updated>2026-02-25T01:27:12.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[第一章：分布式系统概述]]></title>
+        <id>https://www.codedump.info/dist-system-cn/introduction/</id>
+        <link href="https://www.codedump.info/dist-system-cn/introduction/"/>
+        <updated>2026-02-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[分布式系统概述
+  #
+
+在现代软件工程的演进历程中，从单机应用迈向分布式架构是一个关键的分水岭。这一跨越并非简单的硬件堆叠或代码迁移，而是一场涉及思维模式、设计哲学乃至对物理规律重新认知的深刻变革。
+作为全书的开篇，本章将带领读者走出单机系统的舒适区，直面分布式环境下的真实挑战。我们将首先厘清分布式系统的核心定义，剖析其相较于集中式系统的本质差异与优势；随后，我们将重点探讨这一领域中不可回避的技术难题——从不可靠的网络通信到破碎的全局时钟，再到部分失效带来的不确定性。最后，本章将阐述架构师在转型过程中所需完成的心智转变，从追求绝对的确定性转向在一致性与可用性之间寻求平衡的权衡艺术。理解这些基础概念与思维范式，是掌握后续章节中复杂算法与一致性模型的前提，也是构建高可靠、高扩展系统的基石。
+#
+
+在展开介绍分布式系统之前，我们先来看分布式系统的对立面：集中式的单机系统（Monolithic）。在单机系统中，所有计算、存储和处理任务都集中在一台计算机或一个中心节点上。单机系统的主要特点有：
+单一节点：所有功能（如计算、数据存储、用户请求处理）都在一台机器或单一服务器上完成。
+共享资源：使用共享内存和本地资源，通信速度快，无需网络消息传递。
+单点控制：所有决策和数据管理由中心节点控制，无需节点间协调。
+单一时钟：机器上的所有运行进程，使用同一个时钟的时间。
+集中式单机系统的优点是：系统简单，请求、计算、存储、处理都在同一台节点上完成，不存在网络延迟、系统时间不一致等分布式系统才会出现的问题，但是缺点也很明显：单一机器节点的故障会导致整个系统的不可用，缺乏容错性；同时性能受限于单台机器的处理能力，只能通过升级硬件（垂直扩展（scale up））来提升性能。
+集中式系统的例子有：
+传统的单机数据库。
+单服务器的Web应用，处理所有的请求和数据存储。
+个人电脑运行的本地应用程序。
+然而…]]></summary>
+        <author>
+            <name>Home on codedump notes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[怎么样 tracing 你的 SQL？]]></title>
         <id>https://www.manjusaka.blog/posts/2026/02/22/how-to-tracing-your-sql/</id>
@@ -98,42 +125,6 @@
   <li>专业剪辑要学 3 个月，新手望而却步；]]></summary>
         <author>
             <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SeeDance Videos Generation API 对接说明]]></title>
-        <id>https://cuiqingcai.com/42394.html</id>
-        <link href="https://cuiqingcai.com/42394.html"/>
-        <updated>2026-02-10T09:01:22.000Z</updated>
-        <summary type="html"><![CDATA[<p>本文将介绍一种 SeeDance Videos Generation API 对接说明，它是可以通过输入自定义参数来生成SeeDance官方的视频。</p>
-<h2 id="申请流程"><a href="#申请流程" class="headerlink" title="申请]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 编程是一种“框架”]]></title>
-        <id>https://www.piglei.com/articles/ai-programming-is-a-new-framework/</id>
-        <link href="https://www.piglei.com/articles/ai-programming-is-a-new-framework/"/>
-        <updated>2026-02-10T04:04:45.000Z</updated>
-        <summary type="html"><![CDATA[框架的问题
-1. 抽象泄露
-2. 丧失控制权
-认知成本：DRF 的启示
-也许，该把 AI 编程当成一种库
-使用 AI 类编程工具越多，我便越来越强烈地感觉到：AI 编程是一种“框架（Framework）”。
-框架是每位程序员的老朋友，它通常针对特定领域所设计，能极大提升编码效率。以 REST API 服务为例，一些成熟的框架（比如 Django REST Framework）能做到仅需定义数据模型和视图类，便生成一套功能完备的 CRUD API 服务。
-AI 编程工具和传统框架一样，都是一种“杠杆”，它们允许人们用少量输入撬动庞大的功能。二者区别仅在于输入类型不同，框架需要代码（或配置），而 AI 仅需一句简单的自然语言提示词——“写一个书店网站”。
-框架的问题
-作为一种新型框架，“AI 编程”所带来的便利性，足以把人类从前发明过的任何一种框架按在地上摩擦，但是，框架天生所具备的问题并未消失。
-1. 抽象泄露
-所有框架都有一个共性，它们提供了极高级的抽象，以降低实现特定功能所需的工作量。比如，Django 的 ORM 提供了“数据模型”这层抽象，免去了手写 SQL 语言、设计数据校验等繁重工作。
-但不幸的是，抽象都会泄露。
-一名 Django 初学者编写的网站上线后，客户投诉爆表，因为列表页加载极为缓慢。此时，打开数据库监控面板，他会发现这个看似简单的页面，每访问一次就会发起 400 次数据库查询。要解决该问题，他必须弄脏双手，撕开 ORM 这个抽象层，弄懂“属性如何被加载？”，搞清楚“N+1 问题”的真相。
-而使用 AI 编程工具，“抽象泄露”则发生在我们不得不抛弃轻松的自然语言提示词——“实现 XXX 功能”，转而说出“你对 items 变量的状态转换的理解不对”的时刻。
-毋庸讳言，现阶段的 AI 仍存在智能瓶颈。当自然语言无法驱动 AI 准确完成工作时，打破抽象，打开…]]></summary>
-        <author>
-            <name>piglei</name>
         </author>
     </entry>
     <entry>

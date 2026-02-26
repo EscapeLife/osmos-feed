@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-02-25T01:27:12.364Z</updated>
+    <updated>2026-02-26T01:23:57.490Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[网络断断续续……]]></title>
+        <id>https://www.kawabangga.com/?p=7187</id>
+        <link href="https://www.kawabangga.com/posts/7187"/>
+        <updated>2026-02-25T15:10:49.000Z</updated>
+        <summary type="html"><![CDATA[各位读者新年好呀～ 最近比较忙，博客快要长草了。今天我们再来看一个实际的网络问题。 症状如下： 在一次服务扩容 […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第一章：分布式系统概述]]></title>
         <id>https://www.codedump.info/dist-system-cn/introduction/</id>
@@ -103,28 +114,6 @@
         <summary type="html"><![CDATA[Frost Ming's personal blog]]></summary>
         <author>
             <name>Frost's Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日常锻炼的一些记录]]></title>
-        <id>https://blog.codingnow.com/2026/02/physical_training.html</id>
-        <link href="https://blog.codingnow.com/2026/02/physical_training.html"/>
-        <updated>2026-02-11T09:28:25.000Z</updated>
-        <summary type="html"><![CDATA[我大概是去年 4 月左右开始跑步的。离上次的记录已过了半年。 最近坚持的还不错，每周可以保证至少 3 次跑步。现在的心肺能力明显好了很多。去年刚跑步时，每跑 5-10 分钟就需要步行几分钟缓缓，不然心率很容易超过 140 （我给自己定的心率上限）。现在差不多可以保持心率在 140 以下连续跑完 4 km 了。大约花费 30 分钟。这差不多是 8km/h 的平均速度，前半程会更快一点，后半程为了保持心率需要降一点速度。 我觉得另一方面的原因是在冬季，跑起来不那么热。现在会挑选中午有太阳的时候跑，晒晒太阳更舒适。跑完后也没特别累的感觉，只是在最后 10 分钟有一点点难受，希望快点结束。但每次还是坚持跑满 30 分钟。...]]></summary>
-        <author>
-            <name>云风的 BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Veo API：0门槛量产商业级视频！2026视频流量密码，创作者/商家必藏]]></title>
-        <id>https://cuiqingcai.com/42395.html</id>
-        <link href="https://cuiqingcai.com/42395.html"/>
-        <updated>2026-02-11T08:36:16.000Z</updated>
-        <summary type="html"><![CDATA[<p>2026 年流量主战场已锁定视频端！小红书 15 秒种草视频 10万+ 赞、抖音 30 秒品牌故事破百万播放、视频号直播切片单日引流 500+ 精准客资… 但 90% 想靠视频变现的人，都被这些难题卡住：</p>
-<ul>
-  <li>专业剪辑要学 3 个月，新手望而却步；]]></summary>
-        <author>
-            <name>静觅</name>
         </author>
     </entry>
     <entry>

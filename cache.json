@@ -106,18 +106,7 @@
       "title": "Frost's Blog",
       "feedUrl": "https://frostming.com/feed.xml",
       "siteUrl": "https://frostming.com/",
-      "articles": [
-        {
-          "id": "https://frostming.com/2026/create-a-claw/",
-          "author": null,
-          "description": "Frost Ming's personal blog",
-          "link": "https://frostming.com/posts/2026/create-a-claw/",
-          "publishedOn": "2026-02-12T00:00:00.000Z",
-          "wordCount": 436,
-          "title": "创造一只龙虾，需要些什么?",
-          "imageUrl": "https://frostming.com/og/2026/create-a-claw.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Posts on Jiayuan Thoughts",
@@ -130,6 +119,16 @@
       "feedUrl": "https://www.codedump.info/index.xml",
       "siteUrl": "https://www.codedump.info/",
       "articles": [
+        {
+          "id": "https://www.codedump.info/dist-system-cn/systemmodel/",
+          "author": null,
+          "description": "在第一章中，我们对比过单机系统和分布式系统的区别，单机系统通过共享内存进行通信、有全局唯一的时钟，在出错时有确定的表现，在单机系统上编程是相对容易的。相较而言，分布式系统由多个节点组成，节点之间通过消息进行通信，这导致了分布式系统更加复杂。因此在开始设计分布式系统之前，需要一套描述系统运行模型的理论框架，开发者需要在设计时就明确系统的运行环境所满足的各种条件，不同的条件系统的实现难度不同。分布式系统模型就是用于描述和分析分布式系统行为、属性和设计的理论框架。它们为研究分布式系统的通信、计算、故障、同步等特性提供了一种抽象方式，帮助设计者和研究者在复杂环境中理解系统行为并解决实际问题。\n在本章中，我们从两个著名的分布式实验两将军问题和拜占庭将军问题开始，展开对分布式系统模型的讨论。\n#\n\n两将军问题（Two Generals’ Problem）1是分布式领域里的一个思想实验，旨在说明：试图通过不可靠的连接来进行通信，协调分布式系统中的多节点之间的操作，会遇到的陷阱和挑战。\n实验中假设有两支军队，分别由一位将领负责给军队发号施令，两支军队准备进攻一座城市。这座城市的防守很坚固，需要两支军队一起行动才能胜利，而任何一方单独行动都将失败。两位将领需要协调一个共同发起攻击的时间。两支军队驻扎在城市的两处，中间有一个山谷将两支军队分开，他们之间通信的唯一方式就是派遣信使穿越山谷。然而，山谷被城市的守军控制，途经该山谷传递的消息有可能被俘。\n虽然两位将军已经就进攻城市达成了共识，但是并没有就进攻时间达成共识。两位将军必须同时让自己的军队一起发起进攻才能取胜。因此，他们之间必须沟通协调一个发起进攻的时间。如果一位将军以为协调了一个进攻时间，而另一位将军却并不知情，导致只有一个军队发起进攻，那么这将是一个灾难性的失败，如下表所示：\n军队A1\n          军队A2\n          …",
+          "link": "https://www.codedump.info/dist-system-cn/systemmodel/",
+          "publishedOn": "2026-02-26T00:00:00.000Z",
+          "wordCount": 442,
+          "title": "第二章：分布式系统模型",
+          "imageUrl": null
+        },
         {
           "id": "https://www.codedump.info/dist-system-cn/introduction/",
           "author": null,
@@ -195,16 +194,6 @@
           "wordCount": 1258,
           "title": "惊了！1句话生成带货短视频！ACE Data Platform × SeeDance 让普通人也能当“视频导演”",
           "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/42396.html",
-          "author": null,
-          "description": "<p>在AI图像生成领域，<strong>Midjourney</strong> 的名字想必大家早已不陌生。它不仅仅是一个工具，更像是一个随时待命的“创意伙伴”，能够将一段段文字描述，迅速转化成质感细腻、创意十足的视觉画面。无论是概念设计、营销素材，还是艺术创作，Midjourn",
-          "link": "https://cuiqingcai.com/42396.html",
-          "publishedOn": "2026-02-12T08:36:16.000Z",
-          "wordCount": 2159,
-          "title": "开发者必备：Midjourney API",
-          "imageUrl": "https://mmecoa.qpic.cn/sz_mmecoa_png/VZhp8KGXyk3xNZwTtIvLVicbVONZHMJzLiaWic6CZRuvymfn1z8Qb0Zp9pYNEwOic2OZicdrI6xmUo8CSMndo6fsuOQ/640?wx_fmt=png&from=appmsg&watermark=1&wxfrom=5&wx_lazy=1&tp=webp#imgIndex=0"
         }
       ]
     },

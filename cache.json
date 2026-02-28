@@ -43,18 +43,7 @@
       "title": "MacTalk-池建强的随想录",
       "feedUrl": "https://macshuo.com/?feed=rss2",
       "siteUrl": "https://macshuo.com",
-      "articles": [
-        {
-          "id": "https://macshuo.com/?p=2031",
-          "author": "MacTalk",
-          "description": "上周五因为有 AI 新品发布的原因，我写了一篇中美 AI 竞争格局的短文，分别发 … Continue reading →",
-          "link": "https://macshuo.com/?p=2031",
-          "publishedOn": "2026-02-13T10:51:28.000Z",
-          "wordCount": 1093,
-          "title": "中美 AI 竞争的差距到底有多大？",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Tinyfool的个人网站",
@@ -184,16 +173,6 @@
           "wordCount": 1646,
           "title": "Claude Code for VS Code 使用教程",
           "imageUrl": "https://cdn.acedata.cloud/nyq0xz.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/42397.html",
-          "author": null,
-          "description": "<p>还在为短视频愁到脱发？外包1条视频花几百，剪辑软件学不会，AI生成要么卡顿模糊，要么画面和需求完全脱节？2026年视频流量风口，别让“不会做”挡住你的曝光！</p>\n<p>ACE Data Platform 联合 SeeDance 推出 <strong>AI视频生成神器</",
-          "link": "https://cuiqingcai.com/42397.html",
-          "publishedOn": "2026-02-13T13:06:16.000Z",
-          "wordCount": 1258,
-          "title": "惊了！1句话生成带货短视频！ACE Data Platform × SeeDance 让普通人也能当“视频导演”",
-          "imageUrl": null
         }
       ]
     },

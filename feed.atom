@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-03-01T01:43:58.855Z</updated>
+    <updated>2026-03-02T01:23:20.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ARP 问题诊断]]></title>
+        <id>https://www.kawabangga.com/?p=7190</id>
+        <link href="https://www.kawabangga.com/posts/7190"/>
+        <updated>2026-03-01T15:36:24.000Z</updated>
+        <summary type="html"><![CDATA[这是 网络断断续续 一文的答案。 对于这种时而正常时而异常的「幽灵问题」，在没有思路的时候，可以通过对比的方法 […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Star Trek : Captain's Chair 初体验]]></title>
+        <id>https://blog.codingnow.com/2026/03/star_trek_captains_chair.html</id>
+        <link href="https://blog.codingnow.com/2026/03/star_trek_captains_chair.html"/>
+        <updated>2026-03-01T11:24:54.000Z</updated>
+        <summary type="html"><![CDATA[今年过年，我沉迷于 Star Trek : Captain's Chair 这款 2025 年的桌游。暂时还没有中文版，如果直译的话，名为《星际迷航：船长之椅》。这是一款以卡牌构筑为核心玩法的桌游，在游戏过程中，不断完善自己的牌堆，构筑一个高效的得分引擎。如果能比对手获得更多的 VP 就可以获得游戏胜利，但也要避免突然死亡。这是一款新游戏，但作者 Nigel Buckle 和 David Turczi 之前已经用类似的系统出过 Imperium （帝国）三部曲。其中《帝国：经典版》和《帝国：传奇版》有中文版，在淘宝上就可以买到。btw, 前段时间我玩过的 VoidFall 也是他们的作品。 这个游戏的规则还是挺复杂的，在 BGG 上的 weight 评级达到了 4.06 。注：游戏的重度（weight）是由玩家评分综合而来，最高为 5 。它指的是规则的繁杂程度，而并非游戏的策略深度（通常有相关性）。例如围棋虽然策略深度几乎达到了桌游的天花板，但它的 weight 就不到 4 。而 bgg 上 weight 超过 4...]]></summary>
+        <author>
+            <name>云风的 BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第二章：分布式系统模型]]></title>
         <id>https://www.codedump.info/dist-system-cn/systemmodel/</id>

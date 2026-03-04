@@ -119,6 +119,16 @@
       "siteUrl": "https://www.codedump.info/",
       "articles": [
         {
+          "id": "https://www.codedump.info/dist-system-cn/time/",
+          "author": null,
+          "description": "在分布式系统中，多个节点协同工作。客户端请求会发送不同的节点上处理，这些请求就成为了一个一个的节点上的事件。我们将看到，系统的状态由这些一个一个的事件按照特定的顺序执行之后形成。因此，事件的顺序尤为重要。不同的节点中，看到的事件先后顺序可能会有差别，这也造成了这些节点可能形成不同的状态。\n由此可见，处理多个事件时，事件的先后顺序将影响节点的状态，因此如何测量事件的顺序就成了分布式系统中的一个核心问题。一个自然的想法是，按照事件发生的物理时间排序即可。我们将在后续章节了解物理时钟原理，从而遗憾地发现：在一个分布式系统中，通过对比多个节点之间的物理时间来判断事件发生的先后顺序并不精确，甚至有时候会发生错误，而一旦事件的顺序错乱，整个分布式集群的状态也就错乱了。\n如果物理时间不可行，那么还有什么办法决定一个分布式系统中事件的先后顺序？答案是逻辑时钟。\n令人惊讶的是，前面我们一再谈及事件的先后顺序尤为重要，但是在分布式系统中，还可能出现两个事件无法判断其发生先后顺序的情况，这样的事件称为*“并发事件”*。为了解释事件的顺序，我们还需要了解两个数学中的定义：偏序和全序。事实上，这两个数学定义应该深植在每个分布式系统工程师的心里，在后面我们还会一再见到这两个定义在分布式系统中的应用。\n我们将在本章中讨论以下的主题：\n事件发生的先后顺序是如何影响系统的状态的；\n物理时间为何不能在分布式系统中用来衡量事件的先后顺序；\n逻辑时钟的理论基础和计算规则；\n偏序和全序的直观解释和定义；\n基于逻辑时钟延伸出来的向量时钟。\n#\n\n在一些刑侦片里，经常看到这样的桥段：警方跟踪的一个嫌疑人，在某一天突然发生了一些变化，于是警方就会调取记录，来查看过去这一天里，嫌疑人去过的地方、见过的人、做过的事情，以了解到底是什么原因导致了嫌疑人的变化。\n在这里，“去过的地方、见过的人、做过的事情\"就是一个一个的事件，如…",
+          "link": "https://www.codedump.info/dist-system-cn/time/",
+          "publishedOn": "2026-03-03T00:00:00.000Z",
+          "wordCount": 1269,
+          "title": "第三章：分布式系统中的时间和顺序",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.codedump.info/dist-system-cn/systemmodel/",
           "author": null,
           "description": "在第一章中，我们对比过单机系统和分布式系统的区别，单机系统通过共享内存进行通信、有全局唯一的时钟，在出错时有确定的表现，在单机系统上编程是相对容易的。相较而言，分布式系统由多个节点组成，节点之间通过消息进行通信，这导致了分布式系统更加复杂。因此在开始设计分布式系统之前，需要一套描述系统运行模型的理论框架，开发者需要在设计时就明确系统的运行环境所满足的各种条件，不同的条件系统的实现难度不同。分布式系统模型就是用于描述和分析分布式系统行为、属性和设计的理论框架。它们为研究分布式系统的通信、计算、故障、同步等特性提供了一种抽象方式，帮助设计者和研究者在复杂环境中理解系统行为并解决实际问题。\n在本章中，我们从两个著名的分布式实验两将军问题和拜占庭将军问题开始，展开对分布式系统模型的讨论。\n#\n\n两将军问题（Two Generals’ Problem）1是分布式领域里的一个思想实验，旨在说明：试图通过不可靠的连接来进行通信，协调分布式系统中的多节点之间的操作，会遇到的陷阱和挑战。\n实验中假设有两支军队，分别由一位将领负责给军队发号施令，两支军队准备进攻一座城市。这座城市的防守很坚固，需要两支军队一起行动才能胜利，而任何一方单独行动都将失败。两位将领需要协调一个共同发起攻击的时间。两支军队驻扎在城市的两处，中间有一个山谷将两支军队分开，他们之间通信的唯一方式就是派遣信使穿越山谷。然而，山谷被城市的守军控制，途经该山谷传递的消息有可能被俘。\n虽然两位将军已经就进攻城市达成了共识，但是并没有就进攻时间达成共识。两位将军必须同时让自己的军队一起发起进攻才能取胜。因此，他们之间必须沟通协调一个发起进攻的时间。如果一位将军以为协调了一个进攻时间，而另一位将军却并不知情，导致只有一个军队发起进攻，那么这将是一个灾难性的失败，如下表所示：\n军队A1\n          军队A2\n          …",
@@ -173,7 +183,48 @@
       "title": "静觅",
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://cuiqingcai.com/3558251.html",
+          "author": null,
+          "description": "<p>Claude Code 是 Anthropic 推出的一款 <strong>Agentic Coding</strong> 工具，也被称为世界最强编程 Agent 之一。Claude Code 提供了 JetBrains IDE 专用插件，支持 IntelliJ IDEA、",
+          "link": "https://cuiqingcai.com/3558251.html",
+          "publishedOn": "2026-03-03T09:17:31.000Z",
+          "wordCount": 1586,
+          "title": "Claude Code for JetBrains IDE 使用教程",
+          "imageUrl": "https://cdn.acedata.cloud/nyq0xz.png"
+        },
+        {
+          "id": "https://cuiqingcai.com/3558109.html",
+          "author": null,
+          "description": "<p>AI 证件照 Task API 的主要功能是通过输入 AI证件照制作 API 生成的任务ID来查询该任务的执行情况。</p>\n<p>本文档将详细介绍 AI 证件照 Task API 的对接说明，帮助您轻松集成并充分利用该 API 的强大功能。通过 AI 证件照 Task A",
+          "link": "https://cuiqingcai.com/3558109.html",
+          "publishedOn": "2026-03-03T09:15:09.000Z",
+          "wordCount": 1601,
+          "title": "AI 证件照 Task API 的对接和使用",
+          "imageUrl": "https://cdn.acedata.cloud/7ezmmn.png"
+        },
+        {
+          "id": "https://cuiqingcai.com/3557925.html",
+          "author": null,
+          "description": "<p>AI 证件照 Task API 的主要功能是通过输入 AI证件照制作 API 生成的任务ID来查询该任务的执行情况。</p>\n<p>本文档将详细介绍 AI 证件照 Task API 的对接说明，帮助您轻松集成并充分利用该 API 的强大功能。通过 AI 证件照 Task A",
+          "link": "https://cuiqingcai.com/3557925.html",
+          "publishedOn": "2026-03-03T09:12:05.000Z",
+          "wordCount": 1598,
+          "title": "AI 证件照 Task API 的对接和使用",
+          "imageUrl": "https://cdn.acedata.cloud/7ezmmn.png"
+        },
+        {
+          "id": "https://cuiqingcai.com/3557796.html",
+          "author": null,
+          "description": "<p>Claude Code 是 Anthropic 推出的一款 <strong>Agentic Coding</strong> 工具，也被称为世界最强编程 Agent 之一。它能够直接在终端、IDE、桌面应用或浏览器中与你的代码库交互，帮助你更快地将想法变为代码。</p>\n<p",
+          "link": "https://cuiqingcai.com/3557796.html",
+          "publishedOn": "2026-03-03T09:09:56.000Z",
+          "wordCount": 1408,
+          "title": "Claude Code 使用教程",
+          "imageUrl": "https://cdn.acedata.cloud/nyq0xz.png"
+        }
+      ]
     },
     {
       "title": "咸糖 - 自律者自由",

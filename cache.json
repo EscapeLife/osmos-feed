@@ -57,23 +57,23 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
-          "id": "https://www.kawabangga.com/?p=7190",
+          "id": "https://www.kawabangga.com/?p=7219",
           "author": "laixintao",
-          "description": "这是 网络断断续续 一文的答案。 对于这种时而正常时而异常的「幽灵问题」，在没有思路的时候，可以通过对比的方法 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/7190",
-          "publishedOn": "2026-03-01T15:36:24.000Z",
-          "wordCount": 1508,
-          "title": "ARP 问题诊断",
+          "description": "一天工作日，你拿着刚买的咖啡来到了办公室，准备开始做计划好的工作，度过本该是平平无奇的一天，直到——一位用户发 […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/7219",
+          "publishedOn": "2026-03-11T20:53:31.000Z",
+          "wordCount": 1452,
+          "title": "3.5 秒的固定延迟问题",
           "imageUrl": null
         },
         {
-          "id": "https://www.kawabangga.com/?p=7187",
+          "id": "https://www.kawabangga.com/?p=6131",
           "author": "laixintao",
-          "description": "各位读者新年好呀～ 最近比较忙，博客快要长草了。今天我们再来看一个实际的网络问题。 症状如下： 在一次服务扩容 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/7187",
-          "publishedOn": "2026-02-25T15:10:49.000Z",
-          "wordCount": 1251,
-          "title": "网络断断续续……",
+          "description": "在网络抓包系列的最后，再来说一下网络学习的一些经验。毕竟，能通过抓包来解决问题的前提是具备网络协议的知识，不然 […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/6131",
+          "publishedOn": "2026-03-04T15:45:20.000Z",
+          "wordCount": 1116,
+          "title": "学习网络的一点经验",
           "imageUrl": null
         }
       ]
@@ -82,18 +82,7 @@
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "https://www.manjusaka.blog/atom.xml",
-      "articles": [
-        {
-          "id": "https://www.manjusaka.blog/posts/2026/02/22/how-to-tracing-your-sql/",
-          "author": null,
-          "description": "<p>过年是个好时候，可以猛猛干活或者看论文。不过上了几天磨，看了几天论文后觉得还是需要整点活</p>\n<p>所以这篇文章来聊聊一个经典话题，How to trace your SQL？</p>",
-          "link": "https://www.manjusaka.blog/posts/2026/02/22/how-to-tracing-your-sql/",
-          "publishedOn": "2026-02-22T10:49:00.000Z",
-          "wordCount": 2689,
-          "title": "怎么样 tracing 你的 SQL？",
-          "imageUrl": "https://cdn.pixabay.com/photo/2023/01/30/19/40/gulls-7756481_1280.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "laike9m's blog",
@@ -119,6 +108,16 @@
       "siteUrl": "https://www.codedump.info/",
       "articles": [
         {
+          "id": "https://www.codedump.info/dist-system-cn/replication/",
+          "author": null,
+          "description": "在分布式系统中，数据复制（Data Replication）是核心设计策略之一，其核心目的是通过冗余存储相同数据副本来提升系统的可靠性、可用性、性能及容错能力：\n高可用性（High Availability）：如果只有一个节点提供服务，单节点故障会导致服务不可用。通过将数据复制到多个节点，即使一个节点宕机，其他节点仍可继续提供服务。\n容错与灾难恢复（Fault Tolerance and Disaster Recovery）：硬件故障、网络分区或数据中心灾难可能导致数据永久丢失。采用多副本存储（如跨机房/跨地域复制）确保数据可恢复。\n降低延迟（Reduced Latency）：用户与数据中心的物理距离导致访问延迟（如访问跨国服务），将数据复制到地理分布的不同节点，使用户可访问最近的副本。\n提升读性能（Read Performance Optimization）：单一节点可能成为读请求的瓶颈，通过多副本分散读负载以提升读性能。\n按照复制时是否有主节点的介入，分为主从复制和无主节点复制，其中主从复制意味着系统中有一个中心节点，负责协调写入数据复制到其它副本，与之对应的，无主节点复制就是去中心化的架构。\n尽管数据复制带来诸多优势，但由于数据复制延迟等原因，需要面对多个副本间数据的一致性问题。数据复制的引入，在带来可扩展性和可靠性的同时，也引发了如何保证多个副本数据语义一致性的挑战。我们将深入讨论不同一致性模型的特点和实现，不同的一致性模型的实现难度不同，不同的业务场景采用不同的一致性模型，可以看到在很多时候，采用较弱的一致性模型也能满足业务的需求。\n在很多时候，单台机器不足以容纳系统的所有数据，在这种情况下，需要按照某种规则将数据划分到不同的机器中存储，这是分区一章将要讨论的内容。在本章中，我们假设单台机器的容量可以容纳系统的所有数据。\n\n\n  主从复制\n  #\n\n为了保证系统的…",
+          "link": "https://www.codedump.info/dist-system-cn/replication/",
+          "publishedOn": "2026-03-12T00:00:00.000Z",
+          "wordCount": 1437,
+          "title": "第四章：复制",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.codedump.info/dist-system-cn/time/",
           "author": null,
           "description": "在分布式系统中，多个节点协同工作。客户端请求会发送不同的节点上处理，这些请求就成为了一个一个的节点上的事件。我们将看到，系统的状态由这些一个一个的事件按照特定的顺序执行之后形成。因此，事件的顺序尤为重要。不同的节点中，看到的事件先后顺序可能会有差别，这也造成了这些节点可能形成不同的状态。\n由此可见，处理多个事件时，事件的先后顺序将影响节点的状态，因此如何测量事件的顺序就成了分布式系统中的一个核心问题。一个自然的想法是，按照事件发生的物理时间排序即可。我们将在后续章节了解物理时钟原理，从而遗憾地发现：在一个分布式系统中，通过对比多个节点之间的物理时间来判断事件发生的先后顺序并不精确，甚至有时候会发生错误，而一旦事件的顺序错乱，整个分布式集群的状态也就错乱了。\n如果物理时间不可行，那么还有什么办法决定一个分布式系统中事件的先后顺序？答案是逻辑时钟。\n令人惊讶的是，前面我们一再谈及事件的先后顺序尤为重要，但是在分布式系统中，还可能出现两个事件无法判断其发生先后顺序的情况，这样的事件称为*“并发事件”*。为了解释事件的顺序，我们还需要了解两个数学中的定义：偏序和全序。事实上，这两个数学定义应该深植在每个分布式系统工程师的心里，在后面我们还会一再见到这两个定义在分布式系统中的应用。\n我们将在本章中讨论以下的主题：\n事件发生的先后顺序是如何影响系统的状态的；\n物理时间为何不能在分布式系统中用来衡量事件的先后顺序；\n逻辑时钟的理论基础和计算规则；\n偏序和全序的直观解释和定义；\n基于逻辑时钟延伸出来的向量时钟。\n#\n\n在一些刑侦片里，经常看到这样的桥段：警方跟踪的一个嫌疑人，在某一天突然发生了一些变化，于是警方就会调取记录，来查看过去这一天里，嫌疑人去过的地方、见过的人、做过的事情，以了解到底是什么原因导致了嫌疑人的变化。\n在这里，“去过的地方、见过的人、做过的事情\"就是一个一个的事件，如…",
@@ -127,26 +126,6 @@
           "wordCount": 1269,
           "title": "第三章：分布式系统中的时间和顺序",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.codedump.info/dist-system-cn/systemmodel/",
-          "author": null,
-          "description": "在第一章中，我们对比过单机系统和分布式系统的区别，单机系统通过共享内存进行通信、有全局唯一的时钟，在出错时有确定的表现，在单机系统上编程是相对容易的。相较而言，分布式系统由多个节点组成，节点之间通过消息进行通信，这导致了分布式系统更加复杂。因此在开始设计分布式系统之前，需要一套描述系统运行模型的理论框架，开发者需要在设计时就明确系统的运行环境所满足的各种条件，不同的条件系统的实现难度不同。分布式系统模型就是用于描述和分析分布式系统行为、属性和设计的理论框架。它们为研究分布式系统的通信、计算、故障、同步等特性提供了一种抽象方式，帮助设计者和研究者在复杂环境中理解系统行为并解决实际问题。\n在本章中，我们从两个著名的分布式实验两将军问题和拜占庭将军问题开始，展开对分布式系统模型的讨论。\n#\n\n两将军问题（Two Generals’ Problem）1是分布式领域里的一个思想实验，旨在说明：试图通过不可靠的连接来进行通信，协调分布式系统中的多节点之间的操作，会遇到的陷阱和挑战。\n实验中假设有两支军队，分别由一位将领负责给军队发号施令，两支军队准备进攻一座城市。这座城市的防守很坚固，需要两支军队一起行动才能胜利，而任何一方单独行动都将失败。两位将领需要协调一个共同发起攻击的时间。两支军队驻扎在城市的两处，中间有一个山谷将两支军队分开，他们之间通信的唯一方式就是派遣信使穿越山谷。然而，山谷被城市的守军控制，途经该山谷传递的消息有可能被俘。\n虽然两位将军已经就进攻城市达成了共识，但是并没有就进攻时间达成共识。两位将军必须同时让自己的军队一起发起进攻才能取胜。因此，他们之间必须沟通协调一个发起进攻的时间。如果一位将军以为协调了一个进攻时间，而另一位将军却并不知情，导致只有一个军队发起进攻，那么这将是一个灾难性的失败，如下表所示：\n军队A1\n          军队A2\n          …",
-          "link": "https://www.codedump.info/dist-system-cn/systemmodel/",
-          "publishedOn": "2026-02-26T00:00:00.000Z",
-          "wordCount": 442,
-          "title": "第二章：分布式系统模型",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.codedump.info/dist-system-cn/introduction/",
-          "author": null,
-          "description": "分布式系统概述\n  #\n\n在现代软件工程的演进历程中，从单机应用迈向分布式架构是一个关键的分水岭。这一跨越并非简单的硬件堆叠或代码迁移，而是一场涉及思维模式、设计哲学乃至对物理规律重新认知的深刻变革。\n作为全书的开篇，本章将带领读者走出单机系统的舒适区，直面分布式环境下的真实挑战。我们将首先厘清分布式系统的核心定义，剖析其相较于集中式系统的本质差异与优势；随后，我们将重点探讨这一领域中不可回避的技术难题——从不可靠的网络通信到破碎的全局时钟，再到部分失效带来的不确定性。最后，本章将阐述架构师在转型过程中所需完成的心智转变，从追求绝对的确定性转向在一致性与可用性之间寻求平衡的权衡艺术。理解这些基础概念与思维范式，是掌握后续章节中复杂算法与一致性模型的前提，也是构建高可靠、高扩展系统的基石。\n#\n\n在展开介绍分布式系统之前，我们先来看分布式系统的对立面：集中式的单机系统（Monolithic）。在单机系统中，所有计算、存储和处理任务都集中在一台计算机或一个中心节点上。单机系统的主要特点有：\n单一节点：所有功能（如计算、数据存储、用户请求处理）都在一台机器或单一服务器上完成。\n共享资源：使用共享内存和本地资源，通信速度快，无需网络消息传递。\n单点控制：所有决策和数据管理由中心节点控制，无需节点间协调。\n单一时钟：机器上的所有运行进程，使用同一个时钟的时间。\n集中式单机系统的优点是：系统简单，请求、计算、存储、处理都在同一台节点上完成，不存在网络延迟、系统时间不一致等分布式系统才会出现的问题，但是缺点也很明显：单一机器节点的故障会导致整个系统的不可用，缺乏容错性；同时性能受限于单台机器的处理能力，只能通过升级硬件（垂直扩展（scale up））来提升性能。\n集中式系统的例子有：\n传统的单机数据库。\n单服务器的Web应用，处理所有的请求和数据存储。\n个人电脑运行的本地应用程序。\n然而…",
-          "link": "https://www.codedump.info/dist-system-cn/introduction/",
-          "publishedOn": "2026-02-24T00:00:00.000Z",
-          "wordCount": 407,
-          "title": "第一章：分布式系统概述",
-          "imageUrl": null
         }
       ]
     },
@@ -154,7 +133,18 @@
       "title": "李辉 / Grey Li",
       "feedUrl": "https://greyli.com/feed",
       "siteUrl": "https://greyli.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://greyli.com/?p=5877",
+          "author": "李辉",
+          "description": "我还能做些什么？终于写完书的那段时间，在下班回家的路上，我经常想到这个问题。用这少得可怜的时间和精力，我还能做 […]",
+          "link": "https://greyli.com/2025-summary/",
+          "publishedOn": "2026-03-04T14:54:54.000Z",
+          "wordCount": 495,
+          "title": "2025 年总结",
+          "imageUrl": "https://greyli.com/wp-content/uploads/2025/03/avatar-500-compressed.jpg"
+        }
+      ]
     },
     {
       "title": "云风的 BLOG",
@@ -162,13 +152,13 @@
       "siteUrl": "https://blog.codingnow.com/",
       "articles": [
         {
-          "id": "https://blog.codingnow.com/2026/03/star_trek_captains_chair.html",
+          "id": "https://blog.codingnow.com/2026/03/soluna_external_lib.html",
           "author": null,
-          "description": "今年过年，我沉迷于 Star Trek : Captain's Chair 这款 2025 年的桌游。暂时还没有中文版，如果直译的话，名为《星际迷航：船长之椅》。这是一款以卡牌构筑为核心玩法的桌游，在游戏过程中，不断完善自己的牌堆，构筑一个高效的得分引擎。如果能比对手获得更多的 VP 就可以获得游戏胜利，但也要避免突然死亡。这是一款新游戏，但作者 Nigel Buckle 和 David Turczi 之前已经用类似的系统出过 Imperium （帝国）三部曲。其中《帝国：经典版》和《帝国：传奇版》有中文版，在淘宝上就可以买到。btw, 前段时间我玩过的 VoidFall 也是他们的作品。 这个游戏的规则还是挺复杂的，在 BGG 上的 weight 评级达到了 4.06 。注：游戏的重度（weight）是由玩家评分综合而来，最高为 5 。它指的是规则的繁杂程度，而并非游戏的策略深度（通常有相关性）。例如围棋虽然策略深度几乎达到了桌游的天花板，但它的 weight 就不到 4 。而 bgg 上 weight 超过 4...",
-          "link": "https://blog.codingnow.com/2026/03/star_trek_captains_chair.html",
-          "publishedOn": "2026-03-01T11:24:54.000Z",
-          "wordCount": 295,
-          "title": "Star Trek : Captain's Chair 初体验",
+          "description": "soluna 集成了 lua 虚拟机，但默认构建方式是将 lua 库静态链接到唯一的执行文件中。这将导致无法以动态库的形式外挂 Lua 的 C 扩展。 这是因为，如果独立编译 Lua 的 C 扩展库，通常需要链接 Lua 的 C API 。标准的方法是动态链接 lua 实现，如果静态链接 liblua.a ，会导致进程中有多份 lua 的实现。在 Lua 的历史版本中，这将导致运行期错误。 这是因为，Lua 的实现中有一个静态的“空”对象，所有的 nil 都指向这个对象。如果进程空间中有多份 Lua 实现，就会出现多个空对象。运行时的数据结构中会引用这个空对象，而不同副本的实现将“空”和自身保留的“空”对象引用做比较时，就会出现错误的判断。 在更早期的版本，出现这种链接出现的项目，bug 会隐藏得很深。所以后来 Lua 增加了 luaL_checkversion() ，倡议在外部库初始化时调用，除了检查版本号，还会检查当前执行的...",
+          "link": "https://blog.codingnow.com/2026/03/soluna_external_lib.html",
+          "publishedOn": "2026-03-11T06:49:58.000Z",
+          "wordCount": 392,
+          "title": "soluna 外挂 C 模块",
           "imageUrl": null
         }
       ]
@@ -184,6 +174,86 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3977154.html",
+          "author": null,
+          "description": "<p>本文将介绍一种 Fish Voices Generation API 对接说明，它是可以通过输入音频链接来创建自己的音色。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title=\"申请流程\"></a>申请流程<",
+          "link": "https://cuiqingcai.com/3977154.html",
+          "publishedOn": "2026-03-08T05:39:14.000Z",
+          "wordCount": 1517,
+          "title": "Fish Voices Generation API 对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/q6ytrc.png"
+        },
+        {
+          "id": "https://cuiqingcai.com/3944377.html",
+          "author": null,
+          "description": "<p>SUNO 允许我们对生成的音乐进行二次创作，获取音乐的歌词、音频时间线，本文档讲解相关 API 的对接方法。</p>\n<p>该 API 只有一个输入参数，就是 <code>audio_id</code>，它是官方生成的歌曲ID。</p>\n<p>这里我们输入的 <code>a",
+          "link": "https://cuiqingcai.com/3944377.html",
+          "publishedOn": "2026-03-07T20:32:57.000Z",
+          "wordCount": 3764,
+          "title": "Suno Timing API 对接说明",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cuiqingcai.com/3890304.html",
+          "author": null,
+          "description": "<p>Kling Tasks API 的主要功能是通过输入 Kling Videos Generation API 生成的任务ID来查询该任务的执行情况。</p>\n<p>本文档将详细介绍 Kling Tasks API 的对接说明，帮助您轻松集成并充分利用该 API 的强大功能。",
+          "link": "https://cuiqingcai.com/3890304.html",
+          "publishedOn": "2026-03-07T05:31:44.000Z",
+          "wordCount": 1662,
+          "title": "Kling Tasks API 的对接和使用",
+          "imageUrl": "https://cdn.acedata.cloud/om6p6g.png"
+        },
+        {
+          "id": "https://cuiqingcai.com/3856240.html",
+          "author": null,
+          "description": "<p>SUNO 允许我们对生成的音乐获取官方生成的MP4链接，本文档讲解相关 API 的对接方法。</p>\n<p>该 API 只有一个输入参数，就是 <code>audio_id</code>，它是官方生成的歌曲ID。</p>\n<p>这里我们输入的 <code>audio_id<",
+          "link": "https://cuiqingcai.com/3856240.html",
+          "publishedOn": "2026-03-06T20:04:00.000Z",
+          "wordCount": 1181,
+          "title": "Suno MP4 API 对接说明",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cuiqingcai.com/3805024.html",
+          "author": null,
+          "description": "<p><a href=\"https://modelcontextprotocol.io\" target=\"_blank\" rel=\"noopener\">MCP（Model Context Protocol）</a> 是由 Anthropic 推出的模型上下文协议，允许 AI 模型",
+          "link": "https://cuiqingcai.com/3805024.html",
+          "publishedOn": "2026-03-06T05:50:24.000Z",
+          "wordCount": 1376,
+          "title": "Sora MCP 对接指南",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cuiqingcai.com/3771854.html",
+          "author": null,
+          "description": "<p><a href=\"https://modelcontextprotocol.io\" target=\"_blank\" rel=\"noopener\">MCP（Model Context Protocol）</a> 是由 Anthropic 推出的模型上下文协议，允许 AI 模型",
+          "link": "https://cuiqingcai.com/3771854.html",
+          "publishedOn": "2026-03-05T20:37:34.000Z",
+          "wordCount": 1427,
+          "title": "Suno MCP 对接指南",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cuiqingcai.com/3683905.html",
+          "author": null,
+          "description": "<p>本文将介绍一种 人脸性别转换 API 对接说明，它可以通过用户上传一张人脸图片，基于人脸编辑与生成算法，输出一张人脸性别转换的图片。男变女可实现美颜、淡妆、加刘海和长发的效果；女变男可实现加胡须、变短发的效果。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流",
+          "link": "https://cuiqingcai.com/3683905.html",
+          "publishedOn": "2026-03-04T20:11:45.000Z",
+          "wordCount": 1305,
+          "title": "人脸性别转换 API 对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/q6ytrc.png"
+        },
+        {
+          "id": "https://cuiqingcai.com/3598693.html",
+          "author": null,
+          "description": "<p>Luma Tasks API 的主要功能是通过输入 Luma Videos Generation API 生成的任务ID来查询该任务的执行情况。</p>\n<p>本文档将详细介绍 Luma Tasks API 的对接说明，帮助您轻松集成并充分利用该 API 的强大功能。通过",
+          "link": "https://cuiqingcai.com/3598693.html",
+          "publishedOn": "2026-03-03T20:31:33.000Z",
+          "wordCount": 1649,
+          "title": "Luma Tasks API 的对接和使用",
+          "imageUrl": "https://cdn.acedata.cloud/ynk4ow.png"
+        },
         {
           "id": "https://cuiqingcai.com/3558251.html",
           "author": null,

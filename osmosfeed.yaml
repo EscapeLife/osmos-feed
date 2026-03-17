@@ -27,7 +27,7 @@ sources:
   - href: https://cuiqingcai.com/atom.xml # 崔庆才
   - href: https://vim0.com/index.xml # xiantang
   - href: https://www.leavesongs.com/feed # 离别歌
-  - href: https://zhangge.net/feed # 张戈
+  # - href: https://zhangge.net/feed # 张戈
   - href: https://blog.k8s.li/atom.xml # Reimu
 
 cacheMaxDays: 15

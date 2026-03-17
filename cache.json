@@ -57,6 +57,16 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=7221",
+          "author": "laixintao",
+          "description": "答案是 MTU 设置错误，链路可以发送的最大 MTU 小于 1500 bytes，但是客户端侧配置的 MTU  […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/7221",
+          "publishedOn": "2026-03-17T02:53:03.000Z",
+          "wordCount": 1811,
+          "title": "MTU Probe 引起的初始延迟",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=7219",
           "author": "laixintao",
           "description": "一天工作日，你拿着刚买的咖啡来到了办公室，准备开始做计划好的工作，度过本该是平平无奇的一天，直到——一位用户发 […]\nContinue reading...",
@@ -306,12 +316,6 @@
       "title": "离别歌",
       "feedUrl": "https://www.leavesongs.com/feed",
       "siteUrl": "https://www.leavesongs.com",
-      "articles": []
-    },
-    {
-      "title": "张戈博客",
-      "feedUrl": "https://zhangge.net/feed",
-      "siteUrl": "https://zhang.ge",
       "articles": []
     },
     {

@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-03-18T01:28:52.043Z</updated>
+    <updated>2026-03-19T01:29:21.690Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[第五章：共识算法]]></title>
+        <id>https://www.codedump.info/dist-system-cn/consensus/</id>
+        <link href="https://www.codedump.info/dist-system-cn/consensus/"/>
+        <updated>2026-03-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[第5章 分布式共识算法
+  #
+
+在前面的章节中，我们讨论了如何通过复制来防止单点故障导致的某些数据丢失，如何通过分区来承载海量数据，如何通过分布式事务来确保跨节点操作的原子性。
+然而，当我们试图将这些机制组合成一个真正能够全天候运行、自动容错的生产级系统时，会发现一个明显的缺口：如何在部分节点故障的情况下，依然让存活的节点对系统的状态达成一致？
+传统的两阶段提交协议（2PC）虽然解决了"所有节点要么全部提交，要么全部回滚"的一致性问题，但它是阻塞式的——一旦协调者发生故障，整个集群可能陷入无限等待。这揭示了分布式系统中一个更深层次的挑战：我们需要一种机制，它不仅能达成一致，还必须具备容错性。换言之，即使集群中的少数节点（如半数以下）发生了崩溃或网络隔离，系统依然能够继续推进，对外提供服务。
+这便是**共识算法（Consensus Algorithms）**的舞台。
+从本质上讲，共识算法解决的是分布式计算中著名的"协商"问题：在一个不可靠的网络环境中，由一组并发的进程提议某个值，并最终就该值达成唯一的、不可逆的协定。
+这一看似简单的目标，实则是分布式系统中最坚硬的内核。共识算法不仅是实现状态机复制（State Machine Replication）的理论基础，更是现代分布式数据库实现自动 Leader 选举（Leader Election）、原子广播（Atomic Broadcast）以及配置变更的核心动力。无论是 Paxos 的精妙理论，还是 Raft 的工程实践，它们都旨在将不确定的物理世界（丢包、延迟、宕机）抽象为一个逻辑上严格有序的整体。
+在本章中，我们将深入探讨共识算法的原理与演进，理解它们是如何在"一致性"与"可用性"之间找到那条完美的平衡线。
+#
+
+
+  5.1.1 概述
+  #
+
+在分布式系统中，**共识（Consensus）**问题占据着核心地位。在此之…]]></summary>
+        <author>
+            <name>Home on codedump notes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MTU Probe 引起的初始延迟]]></title>
         <id>https://www.kawabangga.com/?p=7221</id>
@@ -157,17 +183,6 @@ Continue reading...]]></summary>
         <summary type="html"><![CDATA[我还能做些什么？终于写完书的那段时间，在下班回家的路上，我经常想到这个问题。用这少得可怜的时间和精力，我还能做 […]]]></summary>
         <author>
             <name>李辉</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Luma Tasks API 的对接和使用]]></title>
-        <id>https://cuiqingcai.com/3598693.html</id>
-        <link href="https://cuiqingcai.com/3598693.html"/>
-        <updated>2026-03-03T20:31:33.000Z</updated>
-        <summary type="html"><![CDATA[<p>Luma Tasks API 的主要功能是通过输入 Luma Videos Generation API 生成的任务ID来查询该任务的执行情况。</p>
-<p>本文档将详细介绍 Luma Tasks API 的对接说明，帮助您轻松集成并充分利用该 API 的强大功能。通过]]></summary>
-        <author>
-            <name>静觅</name>
         </author>
     </entry>
     <entry>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-03-21T01:20:10.889Z</updated>
+    <updated>2026-03-22T01:28:50.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -144,29 +144,6 @@ Continue reading...]]></summary>
         <summary type="html"><![CDATA[<p>SUNO 允许我们对生成的音乐进行二次创作，获取音乐的歌词、音频时间线，本文档讲解相关 API 的对接方法。</p>
 <p>该 API 只有一个输入参数，就是 <code>audio_id</code>，它是官方生成的歌曲ID。</p>
 <p>这里我们输入的 <code>a]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kling Tasks API 的对接和使用]]></title>
-        <id>https://cuiqingcai.com/3890304.html</id>
-        <link href="https://cuiqingcai.com/3890304.html"/>
-        <updated>2026-03-07T05:31:44.000Z</updated>
-        <summary type="html"><![CDATA[<p>Kling Tasks API 的主要功能是通过输入 Kling Videos Generation API 生成的任务ID来查询该任务的执行情况。</p>
-<p>本文档将详细介绍 Kling Tasks API 的对接说明，帮助您轻松集成并充分利用该 API 的强大功能。]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suno MP4 API 对接说明]]></title>
-        <id>https://cuiqingcai.com/3856240.html</id>
-        <link href="https://cuiqingcai.com/3856240.html"/>
-        <updated>2026-03-06T20:04:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>SUNO 允许我们对生成的音乐获取官方生成的MP4链接，本文档讲解相关 API 的对接方法。</p>
-<p>该 API 只有一个输入参数，就是 <code>audio_id</code>，它是官方生成的歌曲ID。</p>
-<p>这里我们输入的 <code>audio_id<]]></summary>
         <author>
             <name>静觅</name>
         </author>

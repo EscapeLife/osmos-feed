@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-03-25T01:27:07.195Z</updated>
+    <updated>2026-03-26T01:46:36.715Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apifox CDN 供应链投毒事件简单复盘]]></title>
+        <id>https://www.leavesongs.com/PENETRATION/apifox-supply-chain-attack-analysis.html</id>
+        <link href="https://www.leavesongs.com/PENETRATION/apifox-supply-chain-attack-analysis.html"/>
+        <updated>2026-03-25T16:51:00.000Z</updated>
+        <summary type="html"><![CDATA[这是AI大模型根据我白天的分析过程简单编写的一篇文章，如果有错误或遗漏，还请见谅。我以后的文章并不会都用AI来写，不用担心。
+2026 年 3 月 25 号，正当大家都还忙着应急LiteLLM投毒事件的同时，安全圈里开始流传一则不太寻常的消息：Apifox 桌面客户端疑似在官方 CDN 上的埋点脚本里被人动了手脚。
+最初的披露来自 2libra 上的梳理，已经点出了几个关键事实：被篡改的...]]></summary>
+        <author>
+            <name>phithon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一份关于 AI 编程的简明行为指南]]></title>
         <id>https://www.piglei.com/articles/a-simple-ai-coding-guide-for-engineers/</id>
@@ -113,16 +125,6 @@ Continue reading...]]></summary>
 Continue reading...]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[soluna 外挂 C 模块]]></title>
-        <id>https://blog.codingnow.com/2026/03/soluna_external_lib.html</id>
-        <link href="https://blog.codingnow.com/2026/03/soluna_external_lib.html"/>
-        <updated>2026-03-11T06:49:58.000Z</updated>
-        <summary type="html"><![CDATA[soluna 集成了 lua 虚拟机，但默认构建方式是将 lua 库静态链接到唯一的执行文件中。这将导致无法以动态库的形式外挂 Lua 的 C 扩展。 这是因为，如果独立编译 Lua 的 C 扩展库，通常需要链接 Lua 的 C API 。标准的方法是动态链接 lua 实现，如果静态链接 liblua.a ，会导致进程中有多份 lua 的实现。在 Lua 的历史版本中，这将导致运行期错误。 这是因为，Lua 的实现中有一个静态的“空”对象，所有的 nil 都指向这个对象。如果进程空间中有多份 Lua 实现，就会出现多个空对象。运行时的数据结构中会引用这个空对象，而不同副本的实现将“空”和自身保留的“空”对象引用做比较时，就会出现错误的判断。 在更早期的版本，出现这种链接出现的项目，bug 会隐藏得很深。所以后来 Lua 增加了 luaL_checkversion() ，倡议在外部库初始化时调用，除了检查版本号，还会检查当前执行的...]]></summary>
-        <author>
-            <name>云风的 BLOG</name>
         </author>
     </entry>
     <entry>

@@ -82,6 +82,55 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-03-25 datetime="2026-03-25T16:51:00.000Z">2026-03-25</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-03-25 datetime="2026-03-25T16:51:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >离别歌</button>
+                  <a class="source-heading__link" href="https://www.leavesongs.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.leavesongs.com/PENETRATION/apifox-supply-chain-attack-analysis.html"
+                        open
+                      >
+                        <summary class="article-expander__title">Apifox CDN 供应链投毒事件简单复盘</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.leavesongs.com/PENETRATION/apifox-supply-chain-attack-analysis.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>这是AI大模型根据我白天的分析过程简单编写的一篇文章，如果有错误或遗漏，还请见谅。我以后的文章并不会都用AI来写，不用担心。
+2026 年 3 月 25 号，正当大家都还忙着应急LiteLLM投毒事件的同时，安全圈里开始流传一则不太寻常的消息：Apifox 桌面客户端疑似在官方 CDN 上的埋点脚本里被人动了手脚。
+最初的披露来自 2libra 上的梳理，已经点出了几个关键事实：被篡改的...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-03-20 datetime="2026-03-20T09:31:12.000Z">2026-03-20</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-03-20 datetime="2026-03-20T09:31:12.000Z"></time>
           </button>
@@ -367,39 +416,6 @@ Continue reading...</span>
                 </section>
               </section>
             </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >云风的 BLOG</button>
-                  <a class="source-heading__link" href="https://blog.codingnow.com/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://blog.codingnow.com/2026/03/soluna_external_lib.html"
-                        open
-                      >
-                        <summary class="article-expander__title">soluna 外挂 C 模块</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://blog.codingnow.com/2026/03/soluna_external_lib.html">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>soluna 集成了 lua 虚拟机，但默认构建方式是将 lua 库静态链接到唯一的执行文件中。这将导致无法以动态库的形式外挂 Lua 的 C 扩展。 这是因为，如果独立编译 Lua 的 C 扩展库，通常需要链接 Lua 的 C API 。标准的方法是动态链接 lua 实现，如果静态链接 liblua.a ，会导致进程中有多份 lua 的实现。在 Lua 的历史版本中，这将导致运行期错误。 这是因为，Lua 的实现中有一个静态的“空”对象，所有的 nil 都指向这个对象。如果进程空间中有多份 Lua 实现，就会出现多个空对象。运行时的数据结构中会引用这个空对象，而不同副本的实现将“空”和自身保留的“空”对象引用做比较时，就会出现错误的判断。 在更早期的版本，出现这种链接出现的项目，bug 会隐藏得很深。所以后来 Lua 增加了 luaL_checkversion() ，倡议在外部库初始化时调用，除了检查版本号，还会检查当前执行的...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
         </ul>
       </section>
       <section class="daily-content js-toggle-accordions-scope">
@@ -494,8 +510,8 @@ Continue reading...</span>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/EscapeLife/osmos-feed/actions/runs/23520436215">
-        <time id="build-timestamp" datetime="2026-03-25T01:27:07.179Z">2026-03-25T01:27:07.179Z</time>
+      <a class="footer-link" href="https://github.com/EscapeLife/osmos-feed/actions/runs/23573378890">
+        <time id="build-timestamp" datetime="2026-03-26T01:46:36.692Z">2026-03-26T01:46:36.692Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

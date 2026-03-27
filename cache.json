@@ -65,16 +65,6 @@
           "wordCount": 1811,
           "title": "MTU Probe 引起的初始延迟",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=7219",
-          "author": "laixintao",
-          "description": "一天工作日，你拿着刚买的咖啡来到了办公室，准备开始做计划好的工作，度过本该是平平无奇的一天，直到——一位用户发 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/7219",
-          "publishedOn": "2026-03-11T20:53:31.000Z",
-          "wordCount": 1452,
-          "title": "3.5 秒的固定延迟问题",
-          "imageUrl": null
         }
       ]
     },
@@ -115,16 +105,6 @@
           "publishedOn": "2026-03-18T00:00:00.000Z",
           "wordCount": 1390,
           "title": "第五章：共识算法",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.codedump.info/dist-system-cn/replication/",
-          "author": null,
-          "description": "在分布式系统中，数据复制（Data Replication）是核心设计策略之一，其核心目的是通过冗余存储相同数据副本来提升系统的可靠性、可用性、性能及容错能力：\n高可用性（High Availability）：如果只有一个节点提供服务，单节点故障会导致服务不可用。通过将数据复制到多个节点，即使一个节点宕机，其他节点仍可继续提供服务。\n容错与灾难恢复（Fault Tolerance and Disaster Recovery）：硬件故障、网络分区或数据中心灾难可能导致数据永久丢失。采用多副本存储（如跨机房/跨地域复制）确保数据可恢复。\n降低延迟（Reduced Latency）：用户与数据中心的物理距离导致访问延迟（如访问跨国服务），将数据复制到地理分布的不同节点，使用户可访问最近的副本。\n提升读性能（Read Performance Optimization）：单一节点可能成为读请求的瓶颈，通过多副本分散读负载以提升读性能。\n按照复制时是否有主节点的介入，分为主从复制和无主节点复制，其中主从复制意味着系统中有一个中心节点，负责协调写入数据复制到其它副本，与之对应的，无主节点复制就是去中心化的架构。\n尽管数据复制带来诸多优势，但由于数据复制延迟等原因，需要面对多个副本间数据的一致性问题。数据复制的引入，在带来可扩展性和可靠性的同时，也引发了如何保证多个副本数据语义一致性的挑战。我们将深入讨论不同一致性模型的特点和实现，不同的一致性模型的实现难度不同，不同的业务场景采用不同的一致性模型，可以看到在很多时候，采用较弱的一致性模型也能满足业务的需求。\n在很多时候，单台机器不足以容纳系统的所有数据，在这种情况下，需要按照某种规则将数据划分到不同的机器中存储，这是分区一章将要讨论的内容。在本章中，我们假设单台机器的容量可以容纳系统的所有数据。\n\n\n  主从复制\n  #\n\n为了保证系统的…",
-          "link": "https://www.codedump.info/dist-system-cn/replication/",
-          "publishedOn": "2026-03-12T00:00:00.000Z",
-          "wordCount": 1437,
-          "title": "第四章：复制",
           "imageUrl": null
         }
       ]

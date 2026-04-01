@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-03-31T01:47:31.237Z</updated>
+    <updated>2026-04-01T01:55:20.049Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -104,17 +104,6 @@ Review AI 生成的代码，理解它们，不要提交自己不理解的代码
 在分布式系统中，**共识（Consensus）**问题占据着核心地位。在此之…]]></summary>
         <author>
             <name>Home on codedump notes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MTU Probe 引起的初始延迟]]></title>
-        <id>https://www.kawabangga.com/?p=7221</id>
-        <link href="https://www.kawabangga.com/posts/7221"/>
-        <updated>2026-03-17T02:53:03.000Z</updated>
-        <summary type="html"><![CDATA[答案是 MTU 设置错误，链路可以发送的最大 MTU 小于 1500 bytes，但是客户端侧配置的 MTU  […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

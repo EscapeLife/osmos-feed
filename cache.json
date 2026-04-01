@@ -55,18 +55,7 @@
       "title": "卡瓦邦噶！",
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
-      "articles": [
-        {
-          "id": "https://www.kawabangga.com/?p=7221",
-          "author": "laixintao",
-          "description": "答案是 MTU 设置错误，链路可以发送的最大 MTU 小于 1500 bytes，但是客户端侧配置的 MTU  […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/7221",
-          "publishedOn": "2026-03-17T02:53:03.000Z",
-          "wordCount": 1811,
-          "title": "MTU Probe 引起的初始延迟",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Manjusaka",

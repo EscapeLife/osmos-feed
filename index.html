@@ -267,69 +267,6 @@ Review AI 生成的代码，理解它们，不要提交自己不理解的代码
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-03-18 datetime="2026-03-18T00:00:00.000Z">2026-03-18</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-03-18 datetime="2026-03-18T00:00:00.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Home on codedump notes</button>
-                  <a class="source-heading__link" href="https://www.codedump.info/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.codedump.info/dist-system-cn/consensus/"
-                        open
-                      >
-                        <summary class="article-expander__title">第五章：共识算法</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.codedump.info/dist-system-cn/consensus/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>第5章 分布式共识算法
-  #
-
-在前面的章节中，我们讨论了如何通过复制来防止单点故障导致的某些数据丢失，如何通过分区来承载海量数据，如何通过分布式事务来确保跨节点操作的原子性。
-然而，当我们试图将这些机制组合成一个真正能够全天候运行、自动容错的生产级系统时，会发现一个明显的缺口：如何在部分节点故障的情况下，依然让存活的节点对系统的状态达成一致？
-传统的两阶段提交协议（2PC）虽然解决了&quot;所有节点要么全部提交，要么全部回滚&quot;的一致性问题，但它是阻塞式的——一旦协调者发生故障，整个集群可能陷入无限等待。这揭示了分布式系统中一个更深层次的挑战：我们需要一种机制，它不仅能达成一致，还必须具备容错性。换言之，即使集群中的少数节点（如半数以下）发生了崩溃或网络隔离，系统依然能够继续推进，对外提供服务。
-这便是**共识算法（Consensus Algorithms）**的舞台。
-从本质上讲，共识算法解决的是分布式计算中著名的&quot;协商&quot;问题：在一个不可靠的网络环境中，由一组并发的进程提议某个值，并最终就该值达成唯一的、不可逆的协定。
-这一看似简单的目标，实则是分布式系统中最坚硬的内核。共识算法不仅是实现状态机复制（State Machine Replication）的理论基础，更是现代分布式数据库实现自动 Leader 选举（Leader Election）、原子广播（Atomic Broadcast）以及配置变更的核心动力。无论是 Paxos 的精妙理论，还是 Raft 的工程实践，它们都旨在将不确定的物理世界（丢包、延迟、宕机）抽象为一个逻辑上严格有序的整体。
-在本章中，我们将深入探讨共识算法的原理与演进，理解它们是如何在&quot;一致性&quot;与&quot;可用性&quot;之间找到那条完美的平衡线。
-#
-
-
-  5.1.1 概述
-  #
-
-在分布式系统中，**共识（Consensus）**问题占据着核心地位。在此之…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;5
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-06-12 datetime="2025-06-12T23:35:45.000Z">2025-06-12</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-06-12 datetime="2025-06-12T23:35:45.000Z"></time>
           </button>
@@ -415,8 +352,8 @@ Review AI 生成的代码，理解它们，不要提交自己不理解的代码
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/EscapeLife/osmos-feed/actions/runs/23828163534">
-        <time id="build-timestamp" datetime="2026-04-01T01:55:20.031Z">2026-04-01T01:55:20.031Z</time>
+      <a class="footer-link" href="https://github.com/EscapeLife/osmos-feed/actions/runs/23879594995">
+        <time id="build-timestamp" datetime="2026-04-02T01:44:15.712Z">2026-04-02T01:44:15.712Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

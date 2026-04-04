@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-04-03T01:46:01.513Z</updated>
+    <updated>2026-04-04T01:27:32.723Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -40,44 +40,6 @@
 最初的披露来自 2libra 上的梳理，已经点出了几个关键事实：被篡改的...]]></summary>
         <author>
             <name>phithon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一份关于 AI 编程的简明行为指南]]></title>
-        <id>https://www.piglei.com/articles/a-simple-ai-coding-guide-for-engineers/</id>
-        <link href="https://www.piglei.com/articles/a-simple-ai-coding-guide-for-engineers/"/>
-        <updated>2026-03-20T09:31:12.000Z</updated>
-        <summary type="html"><![CDATA[对所有人
-谨记 Agent 不对代码担责
-多“协作”，少“委派”
-拆分你的 PR
-善用 Plan 模式，多做前置探索
-采纳稳定的库，优于 AI 从零实现
-创建 PR 前使用 AI Review
-让改动可验证，并总是验证
-其他
-对初级工程师
-质量胜过效率
-尝试手动修复 Bug
-自己先动脑，在 AI 给出的方案之外寻求
-其他
-结语
-AI 编程发展迅猛，Claude Code、Codex 等 AI Agent 已成为许多软件工程师工作时必不可少的得力助手。然而，对于如何在项目中更好地实践 AI 编程，目前仍然是一副“八仙过海，各显神通”的模样。
-假如同一个团队里的工程师，在如何使用 AI 工具的“大问题”上没有达成共识，就会出现协作上的摩擦，对项目产生不良影响。
-因此，本文尝试面向软件工程师群体，对 AI 编程的推荐行为实践做一些总结，弱化具体的工具和技巧（比如 Spec 驱动还是不 Spec 驱动？），着眼于更通用的方面（比如初级工程师该完全委派 AI Agent 修 bug 吗？）。
-内容分为“对所有人”和“对初级工程师”两部分，其中“对初级工程师”部分，针对这类人群身处的特殊阶段，提供了一些量身定制的建议。
-说明：本文部分内容由 jianan、wklken 参与共创；本文观点基于笔者所身处的工作环境总结而来，不一定完全适用于其他项目，酌情采纳；
-对所有人
-谨记 Agent 不对代码担责
-AI Agent 是人的拓展和“分身”，不直接承担责任
-拒绝“AI 传话人”定位，不仅是使用者，更是代码最终责任人
-Review AI 生成的代码，理解它们，不要提交自己不理解的代码
-如何判断自己是不是真的理解某件事？“费曼学习法”—你是否能向其他没有背景的人解释它？
-不要过度依赖其他人（AI）在 Review 阶段对你的工作做最后把关，这是不负责任的表现
-多“协作”，少“委派”
-两种心智模…]]></summary>
-        <author>
-            <name>piglei</name>
         </author>
     </entry>
     <entry>

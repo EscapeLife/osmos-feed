@@ -82,6 +82,98 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-04-07 datetime="2026-04-07T00:00:00.000Z">2026-04-07</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-04-07 datetime="2026-04-07T00:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Frost&#x27;s Blog</button>
+                  <a class="source-heading__link" href="https://frostming.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://frostming.com/2026/why-rewrite-bub/"
+                        open
+                      >
+                        <summary class="article-expander__title">我们为什么要重写 bub?</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://frostming.com/posts/2026/why-rewrite-bub/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://frostming.com/og/2026/why-rewrite-bub.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Frost Ming&#x27;s personal blog</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Home on codedump notes</button>
+                  <a class="source-heading__link" href="https://www.codedump.info/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.codedump.info/dist-system-cn/transaction/"
+                        open
+                      >
+                        <summary class="article-expander__title">第七章 事务</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.codedump.info/dist-system-cn/transaction/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>到目前为止，我们已经介绍了复制和分区技术，复制技术（包介后面绍的共识算法）提升了系统的容错性，而分区技术提升了系统的扩展性，这两项技术解决的是数据的*“物理问题”。除此以外，分布式系统中的数据访问还经常面临着“逻辑问题”，此时就需要本章将要介绍的事务*技术来解决：
+复制 (Replication)：主要目标是高可用性和数据冗余。通过在不同的节点上存储相同的数据副本，当某个节点发生故障时，系统可以从其他副本继续提供服务。它回答的是：“我的数据会不会因为一台机器挂掉而丢失或无法访问？&quot;。
+分区 (Partitioning / Sharding)：主要目标是可扩展性。当单台机器的存储或计算能力无法承载全部数据和请求时，我们将数据水平切分到多个节点上。它回答的是：“我的系统如何处理不断增长的数据量和访问压力？”
+事务 (Transaction)：主要目标是数据操作的正确性。它将一系列操作打包成一个不可分割的逻辑单元，保证这些操作要么全部成功，要么全部失败，并且在并发执行时互不干扰。它回答的是：“我如何确保一系列相关的操作在任何情况下（并发、故障）都能保持数据的正确状态？”
+为什么只有复制和分区是不够的？我们来看以下几个典型场景：
+场景一：转账操作（原子性缺失的灾难）
+用户A要向用户B转账100元。这个操作至少包含两个步骤：
+从用户A的账户中扣除100元。
+给用户B的账户增加100元。
+在一个缺少事务技术的分布式系统中，可能会出现以下的问题：
+发生故障：系统在执行完第1步后突然崩溃（比如数据库节点宕机）。此时，A的钱被扣了，但B没收到钱。钱&quot;凭空消失&quot;了。即使数据有多个副本（复制技术），但所有副本记录的都是这个&quot;中间状态&quot;的错误数据。
+跨分区操作：假设用户A的数据在分区1，用户B的数据在分区2。这个转账操作需要一个协调者来分别通知两个分区执行操作。如果分区1成功扣款，但分区2因为网络…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;5
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-03-29 datetime="2026-03-29T00:00:00.000Z">2026-03-29</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-03-29 datetime="2026-03-29T00:00:00.000Z"></time>
           </button>
@@ -277,8 +369,8 @@
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/EscapeLife/osmos-feed/actions/runs/24060234725">
-        <time id="build-timestamp" datetime="2026-04-07T01:48:23.389Z">2026-04-07T01:48:23.389Z</time>
+      <a class="footer-link" href="https://github.com/EscapeLife/osmos-feed/actions/runs/24113329910">
+        <time id="build-timestamp" datetime="2026-04-08T01:48:57.928Z">2026-04-08T01:48:57.928Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

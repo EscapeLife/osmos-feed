@@ -95,8 +95,28 @@
     {
       "title": "Home on codedump notes",
       "feedUrl": "https://www.codedump.info/index.xml",
-      "siteUrl": "https://www.codedump.info/",
+      "siteUrl": "http://localhost:1313/",
       "articles": [
+        {
+          "id": "http://localhost:1313/post/en/20260412-rockraft/",
+          "author": null,
+          "description": "Motivation\n  #\n\nThe Redis protocol has become the de facto standard for key-value storage protocols. Beyond the official Redis implementation, we have seen various compatible alternatives:\nValkey: The Linux Foundation’s official fork of Redis 7.2, licensed under BSD. It is the community’s true open-source alternative after Redis switched to SSPL, fully compatible with the Redis protocol and persistence mechanisms.\nDragonfly: A modern multi-threaded in-memory database pursuing extreme performance, offering up to 25x the throughput of Redis with lower tail latency, but licensed under BSL (transitioning to Apache 2.0 after 4 years).\nKeyDB: A multi-threaded Redis fork maintained by Snapchat, adding Active Replication and Flash storage extensions on top of 100% Redis API compatibility, though updates have slowed down.\nKvrocks: An Apache top-level project, a distributed KV storage based on RocksDB that persists data to disk, supporting dozens of terabytes at 1/5–1/10 the cost of in-memory solutions, suitable for large-capacity, low-cost scenarios.\nHowever, none of the above implementations have gone further on strong consistency in distributed systems. In this dimension, they all adopt the eventual consistency of the native Redis implementation.",
+          "link": "http://localhost:1313/post/en/20260412-rockraft/",
+          "publishedOn": "2026-04-12T01:59:41.000Z",
+          "wordCount": null,
+          "title": "Rockraft: A Strongly-Consistent KV Storage Framework Based on OpenRaft and RocksDB",
+          "imageUrl": null
+        },
+        {
+          "id": "http://localhost:1313/dist-system-cn/transaction/",
+          "author": null,
+          "description": "到目前为止，我们已经介绍了复制和分区技术，复制技术（包介后面绍的共识算法）提升了系统的容错性，而分区技术提升了系统的扩展性，这两项技术解决的是数据的*“物理问题”。除此以外，分布式系统中的数据访问还经常面临着“逻辑问题”，此时就需要本章将要介绍的事务*技术来解决：\n复制 (Replication)：主要目标是高可用性和数据冗余。通过在不同的节点上存储相同的数据副本，当某个节点发生故障时，系统可以从其他副本继续提供服务。它回答的是：“我的数据会不会因为一台机器挂掉而丢失或无法访问？\"。\n分区 (Partitioning / Sharding)：主要目标是可扩展性。当单台机器的存储或计算能力无法承载全部数据和请求时，我们将数据水平切分到多个节点上。它回答的是：“我的系统如何处理不断增长的数据量和访问压力？”\n事务 (Transaction)：主要目标是数据操作的正确性。它将一系列操作打包成一个不可分割的逻辑单元，保证这些操作要么全部成功，要么全部失败，并且在并发执行时互不干扰。它回答的是：“我如何确保一系列相关的操作在任何情况下（并发、故障）都能保持数据的正确状态？”\n为什么只有复制和分区是不够的？我们来看以下几个典型场景：\n场景一：转账操作（原子性缺失的灾难）\n用户A要向用户B转账100元。这个操作至少包含两个步骤：\n从用户A的账户中扣除100元。\n给用户B的账户增加100元。\n在一个缺少事务技术的分布式系统中，可能会出现以下的问题：\n发生故障：系统在执行完第1步后突然崩溃（比如数据库节点宕机）。此时，A的钱被扣了，但B没收到钱。钱\"凭空消失\"了。即使数据有多个副本（复制技术），但所有副本记录的都是这个\"中间状态\"的错误数据。\n跨分区操作：假设用户A的数据在分区1，用户B的数据在分区2。这个转账操作需要一个协调者来分别通知两个分区执行操作。如果分区1成功扣款，但分区2因为网络…",
+          "link": "http://localhost:1313/dist-system-cn/transaction/",
+          "publishedOn": "2026-04-07T00:00:00.000Z",
+          "wordCount": null,
+          "title": "第七章 事务",
+          "imageUrl": null
+        },
         {
           "id": "https://www.codedump.info/dist-system-cn/transaction/",
           "author": null,

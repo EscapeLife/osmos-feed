@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-04-16T01:59:20.639Z</updated>
+    <updated>2026-04-17T01:55:27.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Codex Security代码审计初体验]]></title>
+        <id>https://www.leavesongs.com/PENETRATION/try-code-security.html</id>
+        <link href="https://www.leavesongs.com/PENETRATION/try-code-security.html"/>
+        <updated>2026-04-16T15:40:00.000Z</updated>
+        <summary type="html"><![CDATA[昨天申请并通过了OpenAI的个人认证，加上前段时间以开源贡献者的身份申请了OpenAI和Anthropic的赞助，分别获取了两家的max会员半年，我会写几篇文章，分别分享一下Codex Security的使用体验、Codex和Claude Code的对比、GPT Cyber模型的使用体验等。
+
+这篇文章先介绍一下Codex Security的使用体验，因为扫描额度有限，我只测试了几个仓库，...]]></summary>
+        <author>
+            <name>phithon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[除法的意义]]></title>
         <id>https://blog.codingnow.com/2026/04/division.html</id>

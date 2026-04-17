@@ -174,7 +174,18 @@
       "title": "离别歌",
       "feedUrl": "https://www.leavesongs.com/feed",
       "siteUrl": "https://www.leavesongs.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.leavesongs.com/PENETRATION/try-code-security.html",
+          "author": "phithon",
+          "description": "昨天申请并通过了OpenAI的个人认证，加上前段时间以开源贡献者的身份申请了OpenAI和Anthropic的赞助，分别获取了两家的max会员半年，我会写几篇文章，分别分享一下Codex Security的使用体验、Codex和Claude Code的对比、GPT Cyber模型的使用体验等。\n\n这篇文章先介绍一下Codex Security的使用体验，因为扫描额度有限，我只测试了几个仓库，...",
+          "link": "https://www.leavesongs.com/PENETRATION/try-code-security.html",
+          "publishedOn": "2026-04-16T15:40:00.000Z",
+          "wordCount": 900,
+          "title": "Codex Security代码审计初体验",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Reimu's blog",

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-04-26T02:02:25.209Z</updated>
+    <updated>2026-04-27T02:05:04.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Claude + ShortURL MCP：让 AI 自动生成和管理短链接]]></title>
+        <id>https://cuiqingcai.com/3201625.html</id>
+        <link href="https://cuiqingcai.com/3201625.html"/>
+        <updated>2026-04-26T03:07:05.000Z</updated>
+        <summary type="html"><![CDATA[<p>ShortURL MCP 是一个简单但实用的工具——让 Claude 自动帮你把长链接转成短链接。单独用它很方便，和其他 MCP Server 组合在一起就更强大了。</p>
+<p>本文介绍在 Claude.ai 网页版和 Claude Desktop 中的配置与使用。</]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[雨季又来]]></title>
         <id>https://www.kawabangga.com/?p=7243</id>
@@ -27,34 +38,6 @@ Continue reading...]]></summary>
 这篇文章先介绍一下Codex Security的使用体验，因为扫描额度有限，我只测试了几个仓库，...]]></summary>
         <author>
             <name>phithon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[除法的意义]]></title>
-        <id>https://blog.codingnow.com/2026/04/division.html</id>
-        <link href="https://blog.codingnow.com/2026/04/division.html"/>
-        <updated>2026-04-12T12:52:17.000Z</updated>
-        <summary type="html"><![CDATA[可可已经在三年级下学期了，数学似乎还是有点问题。这个阶段考试成绩其实都不会太差，但一旦作业或考卷上的错题并非粗心大意就值得警惕。乘除法是二年级学的，三年级已经在学两位数除一位数的除法。但会计算并不难，计算只是一项机械性技能，难的是理解乘除法的意义。理解乘除比理解加减法困难的多。 我翻出几个月前的一篇 blog，发现过了 4 个月，她的问题依旧：乘除法作为一项计算技能和其背后的意义是割裂的。这导致了很多问题到底如何解决一筹莫展。固然多作练习就能开悟，毕竟几乎没有成人回头看小学数学会觉得难以理解的。但我还是想尽力搞清楚她的小脑袋里到底是哪打结了。 今晚讲一道相当简单的数学题： 有 96 个鸡蛋，8 个一盒装，可以装多少盒？...]]></summary>
-        <author>
-            <name>云风的 BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rockraft: A Strongly-Consistent KV Storage Framework Based on OpenRaft and RocksDB]]></title>
-        <id>http://localhost:1313/post/en/20260412-rockraft/</id>
-        <link href="http://localhost:1313/post/en/20260412-rockraft/"/>
-        <updated>2026-04-12T01:59:41.000Z</updated>
-        <summary type="html"><![CDATA[Motivation
-  #
-
-The Redis protocol has become the de facto standard for key-value storage protocols. Beyond the official Redis implementation, we have seen various compatible alternatives:
-Valkey: The Linux Foundation’s official fork of Redis 7.2, licensed under BSD. It is the community’s true open-source alternative after Redis switched to SSPL, fully compatible with the Redis protocol and persistence mechanisms.
-Dragonfly: A modern multi-threaded in-memory database pursuing extreme performance, offering up to 25x the throughput of Redis with lower tail latency, but licensed under BSL (transitioning to Apache 2.0 after 4 years).
-KeyDB: A multi-threaded Redis fork maintained by Snapchat, adding Active Replication and Flash storage extensions on top of 100% Redis API compatibility, though updates have slowed down.
-Kvrocks: An Apache top-level project, a distributed KV storage based on RocksDB that persists data to disk, supporting dozens of terabytes at 1/5–1/10 the cost of in-memory solutions, suitable for large-capacity, low-cost scenarios.
-However, none of the above implementations have gone further on strong consistency in distributed systems. In this dimension, they all adopt the eventual consistency of the native Redis implementation.]]></summary>
-        <author>
-            <name>Home on codedump notes</name>
         </author>
     </entry>
     <entry>

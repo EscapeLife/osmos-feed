@@ -122,6 +122,26 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3297164.html",
+          "author": null,
+          "description": "<p>本文将介绍一种 银行卡二要素核验 API 对接说明，它可用于校验姓名和银行卡号的真实性和一致性。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title=\"申请流程\"></a>申请流程</h2>\n<p>要使用 A",
+          "link": "https://cuiqingcai.com/3297164.html",
+          "publishedOn": "2026-04-27T05:39:24.000Z",
+          "wordCount": 1344,
+          "title": "银行卡二要素核验 API 对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/q6ytrc.png"
+        },
+        {
+          "id": "https://cuiqingcai.com/3266733.html",
+          "author": null,
+          "description": "<p>如果你问我，Ace Data Cloud 分销体系里最强的赚钱方式是什么？答案不是写文章，不是发朋友圈，而是——<strong>自己搭一个 AI 平台</strong>。</p>\n<p>听起来很难？其实用 <a href=\"https://github.com/AceDat",
+          "link": "https://cuiqingcai.com/3266733.html",
+          "publishedOn": "2026-04-26T21:12:13.000Z",
+          "wordCount": 1587,
+          "title": "自建 AI 平台创业：用 Nexior 10 分钟搭建你的 SaaS 赚钱机器",
+          "imageUrl": null
+        },
+        {
           "id": "https://cuiqingcai.com/3201625.html",
           "author": null,
           "description": "<p>ShortURL MCP 是一个简单但实用的工具——让 Claude 自动帮你把长链接转成短链接。单独用它很方便，和其他 MCP Server 组合在一起就更强大了。</p>\n<p>本文介绍在 Claude.ai 网页版和 Claude Desktop 中的配置与使用。</",

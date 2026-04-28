@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-04-27T02:05:04.429Z</updated>
+    <updated>2026-04-28T02:11:36.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[银行卡二要素核验 API 对接说明]]></title>
+        <id>https://cuiqingcai.com/3297164.html</id>
+        <link href="https://cuiqingcai.com/3297164.html"/>
+        <updated>2026-04-27T05:39:24.000Z</updated>
+        <summary type="html"><![CDATA[<p>本文将介绍一种 银行卡二要素核验 API 对接说明，它可用于校验姓名和银行卡号的真实性和一致性。</p>
+<h2 id="申请流程"><a href="#申请流程" class="headerlink" title="申请流程"></a>申请流程</h2>
+<p>要使用 A]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自建 AI 平台创业：用 Nexior 10 分钟搭建你的 SaaS 赚钱机器]]></title>
+        <id>https://cuiqingcai.com/3266733.html</id>
+        <link href="https://cuiqingcai.com/3266733.html"/>
+        <updated>2026-04-26T21:12:13.000Z</updated>
+        <summary type="html"><![CDATA[<p>如果你问我，Ace Data Cloud 分销体系里最强的赚钱方式是什么？答案不是写文章，不是发朋友圈，而是——<strong>自己搭一个 AI 平台</strong>。</p>
+<p>听起来很难？其实用 <a href="https://github.com/AceDat]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Claude + ShortURL MCP：让 AI 自动生成和管理短链接]]></title>
         <id>https://cuiqingcai.com/3201625.html</id>

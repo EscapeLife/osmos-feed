@@ -108,7 +108,18 @@
       "title": "云风的 BLOG",
       "feedUrl": "https://blog.codingnow.com/atom.xml",
       "siteUrl": "https://blog.codingnow.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://blog.codingnow.com/2026/04/oxygen_not_included.html",
+          "author": null,
+          "description": "最近一个月，我一直在玩《缺氧》(Oxygen Not Included) 。前几年玩过 100 多小时，算是比较熟悉了。但这个月又高强度的玩了 300 多小时，目前总游戏时长为 485 小时，感觉对这款游戏有了一些新的理解。 最初喜欢上这个游戏，是想找一个类似《异星工厂》的以自动化为核心玩法的基地建设类游戏。Factorio 是我最喜欢的游戏之一，游戏总时长达 2905 小时，是放置类游戏之外我花的时间最多的游戏。我很想看看类似游戏还能向什么不同方向发展。这两个游戏的目标都非常类似：在无人星球上殖民，建设一个基地发射火箭逃出升天。它们的拓展玩法有相似之处：发射第一枚火箭只是游戏的开始，需要继续探索星空和不同的星球，面对更复杂的挑战。所以，我一开始是从 Factorio 的角度去看待 ONI ，随着对游戏的理解，才发现它们其实有不同的内核。 ONI 初看的确像是 Factorio 和 Rimworld 的结合体（btw, Rimworld 我也有 123 小时的游戏时长，对它也有初步了解）。和 Factorio 的传送带特色不同，ONI 是基于类似 Rimworld 的工人驱动基地运作的。但 ONI 里的工人没有 Rimworld 中复杂的社会关系和社会情感联系，更像是一群无情工作的机器人。所以我认为它们像是 Factorio 里的无人机加上了细致编排任务的能力。 但玩了这么长时间后，我认为...",
+          "link": "https://blog.codingnow.com/2026/04/oxygen_not_included.html",
+          "publishedOn": "2026-04-28T13:06:28.000Z",
+          "wordCount": 311,
+          "title": "我对《缺氧》的游戏理解",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "piglei",
@@ -121,6 +132,16 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3351694.html",
+          "author": null,
+          "description": "<p>随着 AI 的应用变广，各类 AI 程序已逐渐普及。AI 已逐渐深入到人们的工作生活方方面面。而 AI 涉及的行业也越来越多，从最初的写作，到医疗教育，再到现在的视频。</p>\n<p>Luma 是一个专业高质量的视频生成平台，用户只需上传素材，即可根据不同风格和效果自动生成",
+          "link": "https://cuiqingcai.com/3351694.html",
+          "publishedOn": "2026-04-27T20:48:14.000Z",
+          "wordCount": 1600,
+          "title": "Luma 视频生成 API 对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/nyq0xz.png"
+        },
         {
           "id": "https://cuiqingcai.com/3297164.html",
           "author": null,

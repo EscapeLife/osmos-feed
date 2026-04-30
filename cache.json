@@ -133,6 +133,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3437150.html",
+          "author": null,
+          "description": "<p>Ace Data Cloud 平台支持 $ACE 代币质押折扣机制。用户可以绑定钱包地址，持有 $ACE 代币即可享受 API 调用费用折扣。</p>\n<p>本文档介绍代币相关的 API 接口，所有接口<strong>需要身份验证</strong>，详情请参考 <a hre",
+          "link": "https://cuiqingcai.com/3437150.html",
+          "publishedOn": "2026-04-28T20:32:30.000Z",
+          "wordCount": 1351,
+          "title": "$ACE 代币与折扣",
+          "imageUrl": null
+        },
+        {
           "id": "https://cuiqingcai.com/3351694.html",
           "author": null,
           "description": "<p>随着 AI 的应用变广，各类 AI 程序已逐渐普及。AI 已逐渐深入到人们的工作生活方方面面。而 AI 涉及的行业也越来越多，从最初的写作，到医疗教育，再到现在的视频。</p>\n<p>Luma 是一个专业高质量的视频生成平台，用户只需上传素材，即可根据不同风格和效果自动生成",

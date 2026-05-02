@@ -133,6 +133,26 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3642430.html",
+          "author": null,
+          "description": "<p>在爬虫与反爬虫斗争愈演愈烈的情况下，各大网站和 App 的风控检测越来越强，其中一项就是 IP 封禁。</p>\n<p>为了解决 IP 封禁的困扰，一个有效的方式就是设置代理，设置代理之后，爬虫可以借助代理的 IP 来伪装自己的真实 IP 地址，从而突破反爬虫的限制。</p>",
+          "link": "https://cuiqingcai.com/3642430.html",
+          "publishedOn": "2026-05-01T05:33:50.000Z",
+          "wordCount": 1499,
+          "title": "移动蜂窝代理对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/wed8yf.png"
+        },
+        {
+          "id": "https://cuiqingcai.com/3612568.html",
+          "author": null,
+          "description": "<p>想让 Claude 帮你画图、写歌、做视频，但不想装软件、不想折腾配置文件？Claude.ai 的远程 MCP 功能就是为你准备的——<strong>打开浏览器，三步连接，直接开用</strong>。</p>\n<h2 id=\"获取-API-Token\"><a href=\"#",
+          "link": "https://cuiqingcai.com/3612568.html",
+          "publishedOn": "2026-04-30T21:16:08.000Z",
+          "wordCount": 1375,
+          "title": "Claude.ai 远程 MCP：浏览器里直接用，无需安装任何东西",
+          "imageUrl": "https://cdn.acedata.cloud/58te19.jpg"
+        },
+        {
           "id": "https://cuiqingcai.com/3523038.html",
           "author": null,
           "description": "<p>写 README 的时候你一定遇到过这种场景：一个链接占了半屏，Markdown 表格完全撑爆，PR 描述里的 URL 看着就烦。</p>\n<p>现在在 Cursor 里，你可以直接对 AI 说一句话，ShortURL MCP 几秒就能帮你把长链接变成干净的 <code>h",
@@ -204,18 +224,7 @@
       "title": "离别歌",
       "feedUrl": "https://www.leavesongs.com/feed",
       "siteUrl": "https://www.leavesongs.com",
-      "articles": [
-        {
-          "id": "https://www.leavesongs.com/PENETRATION/try-code-security.html",
-          "author": "phithon",
-          "description": "昨天申请并通过了OpenAI的个人认证，加上前段时间以开源贡献者的身份申请了OpenAI和Anthropic的赞助，分别获取了两家的max会员半年，我会写几篇文章，分别分享一下Codex Security的使用体验、Codex和Claude Code的对比、GPT Cyber模型的使用体验等。\n\n这篇文章先介绍一下Codex Security的使用体验，因为扫描额度有限，我只测试了几个仓库，...",
-          "link": "https://www.leavesongs.com/PENETRATION/try-code-security.html",
-          "publishedOn": "2026-04-16T15:40:00.000Z",
-          "wordCount": 900,
-          "title": "Codex Security代码审计初体验",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Reimu's blog",

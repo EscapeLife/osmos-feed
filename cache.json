@@ -133,6 +133,26 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3729696.html",
+          "author": null,
+          "description": "<p>DeepSeek 是一款非常强大的 AI 对话系统，只要输入提示词，就能在短短几秒内生成流畅自然的回复。DeepSeek-V3 以其出色的语言理解和生成能力在业界独树一帜，如今，DeepSeek-V3 早已在各个行业和领域广泛应用，其影响力愈发显著。无论是日常对话、创意写作",
+          "link": "https://cuiqingcai.com/3729696.html",
+          "publishedOn": "2026-05-02T05:48:16.000Z",
+          "wordCount": 1936,
+          "title": "DeepSeek Chat Completion API 申请及使用",
+          "imageUrl": "https://cdn.acedata.cloud/nyq0xz.png"
+        },
+        {
+          "id": "https://cuiqingcai.com/3698362.html",
+          "author": null,
+          "description": "<p>Udio Tasks API 的主要功能是通过输入 Udio Audios Generation API 生成的任务ID来查询该任务的执行情况。</p>\n<p>本文档将详细介绍 Udio Tasks API 的对接说明，帮助您轻松集成并充分利用该 API 的强大功能。通过",
+          "link": "https://cuiqingcai.com/3698362.html",
+          "publishedOn": "2026-05-01T21:06:02.000Z",
+          "wordCount": 2053,
+          "title": "Udio Tasks API 的对接和使用",
+          "imageUrl": "https://cdn.acedata.cloud/om6p6g.png"
+        },
+        {
           "id": "https://cuiqingcai.com/3642430.html",
           "author": null,
           "description": "<p>在爬虫与反爬虫斗争愈演愈烈的情况下，各大网站和 App 的风控检测越来越强，其中一项就是 IP 封禁。</p>\n<p>为了解决 IP 封禁的困扰，一个有效的方式就是设置代理，设置代理之后，爬虫可以借助代理的 IP 来伪装自己的真实 IP 地址，从而突破反爬虫的限制。</p>",

@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-05-02T02:03:57.979Z</updated>
+    <updated>2026-05-03T02:09:26.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek Chat Completion API 申请及使用]]></title>
+        <id>https://cuiqingcai.com/3729696.html</id>
+        <link href="https://cuiqingcai.com/3729696.html"/>
+        <updated>2026-05-02T05:48:16.000Z</updated>
+        <summary type="html"><![CDATA[<p>DeepSeek 是一款非常强大的 AI 对话系统，只要输入提示词，就能在短短几秒内生成流畅自然的回复。DeepSeek-V3 以其出色的语言理解和生成能力在业界独树一帜，如今，DeepSeek-V3 早已在各个行业和领域广泛应用，其影响力愈发显著。无论是日常对话、创意写作]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Udio Tasks API 的对接和使用]]></title>
+        <id>https://cuiqingcai.com/3698362.html</id>
+        <link href="https://cuiqingcai.com/3698362.html"/>
+        <updated>2026-05-01T21:06:02.000Z</updated>
+        <summary type="html"><![CDATA[<p>Udio Tasks API 的主要功能是通过输入 Udio Audios Generation API 生成的任务ID来查询该任务的执行情况。</p>
+<p>本文档将详细介绍 Udio Tasks API 的对接说明，帮助您轻松集成并充分利用该 API 的强大功能。通过]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[移动蜂窝代理对接说明]]></title>
         <id>https://cuiqingcai.com/3642430.html</id>

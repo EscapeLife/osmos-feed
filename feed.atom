@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-05-03T02:09:26.307Z</updated>
+    <updated>2026-05-04T02:08:39.930Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NanoBanana MCP 全平台配置指南：谷歌 Gemini 驱动的 AI 生图和修图]]></title>
+        <id>https://cuiqingcai.com/3785485.html</id>
+        <link href="https://cuiqingcai.com/3785485.html"/>
+        <updated>2026-05-02T21:18:05.000Z</updated>
+        <summary type="html"><![CDATA[<p>NanoBanana 是基于 Google Gemini 模型的 AI 图像生成和编辑服务。通过 MCP 协议，你可以在 Cursor、VS Code、Claude、ChatGPT 等所有主流 AI 客户端中直接使用。</p>
+<p>无论是文字生成图片、编辑修改已有图片、多]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeepSeek Chat Completion API 申请及使用]]></title>
         <id>https://cuiqingcai.com/3729696.html</id>

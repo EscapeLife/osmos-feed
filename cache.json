@@ -133,6 +133,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3785485.html",
+          "author": null,
+          "description": "<p>NanoBanana 是基于 Google Gemini 模型的 AI 图像生成和编辑服务。通过 MCP 协议，你可以在 Cursor、VS Code、Claude、ChatGPT 等所有主流 AI 客户端中直接使用。</p>\n<p>无论是文字生成图片、编辑修改已有图片、多",
+          "link": "https://cuiqingcai.com/3785485.html",
+          "publishedOn": "2026-05-02T21:18:05.000Z",
+          "wordCount": 1425,
+          "title": "NanoBanana MCP 全平台配置指南：谷歌 Gemini 驱动的 AI 生图和修图",
+          "imageUrl": "https://cdn.acedata.cloud/58te19.jpg"
+        },
+        {
           "id": "https://cuiqingcai.com/3729696.html",
           "author": null,
           "description": "<p>DeepSeek 是一款非常强大的 AI 对话系统，只要输入提示词，就能在短短几秒内生成流畅自然的回复。DeepSeek-V3 以其出色的语言理解和生成能力在业界独树一帜，如今，DeepSeek-V3 早已在各个行业和领域广泛应用，其影响力愈发显著。无论是日常对话、创意写作",

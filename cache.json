@@ -65,16 +65,6 @@
           "wordCount": 1105,
           "title": "读《金阁寺》",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=7243",
-          "author": "laixintao",
-          "description": "「未来两周受季风交替影响，本地多数日子的下午，预计会出现短暂雷阵雨，有几天的最高气温可能达到35摄氏度。未来两 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/7243",
-          "publishedOn": "2026-04-21T04:14:17.000Z",
-          "wordCount": 906,
-          "title": "雨季又来",
-          "imageUrl": null
         }
       ]
     },
@@ -142,6 +132,16 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3957169.html",
+          "author": null,
+          "description": "<p>Ace Data Cloud 平台提供了一个浏览器插件，拥有此浏览器插件，您可以方便地将社交媒体账号授权给 Ace Data Cloud 平台，从而方便地完成自媒体如文章、视频等分发过程。</p>\n<p>本文章会介绍 Ace Data Cloud 浏览器插件的安装方法。</",
+          "link": "https://cuiqingcai.com/3957169.html",
+          "publishedOn": "2026-05-04T20:59:29.000Z",
+          "wordCount": 1188,
+          "title": "Ace Data Cloud 浏览器插件配置",
+          "imageUrl": "https://cdn.acedata.cloud/9g7957.png"
+        },
         {
           "id": "https://cuiqingcai.com/3871311.html",
           "author": null,

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-05-05T02:07:33.745Z</updated>
+    <updated>2026-05-06T02:07:28.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ace Data Cloud 浏览器插件配置]]></title>
+        <id>https://cuiqingcai.com/3957169.html</id>
+        <link href="https://cuiqingcai.com/3957169.html"/>
+        <updated>2026-05-04T20:59:29.000Z</updated>
+        <summary type="html"><![CDATA[<p>Ace Data Cloud 平台提供了一个浏览器插件，拥有此浏览器插件，您可以方便地将社交媒体账号授权给 Ace Data Cloud 平台，从而方便地完成自媒体如文章、视频等分发过程。</p>
+<p>本文章会介绍 Ace Data Cloud 浏览器插件的安装方法。</]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[读《金阁寺》]]></title>
         <id>https://www.kawabangga.com/?p=7246</id>
@@ -157,17 +168,6 @@ Continue reading...]]></summary>
 <p>本文介绍在 Claude.ai 网页版和 Claude Desktop 中的配置与使用。</]]></summary>
         <author>
             <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雨季又来]]></title>
-        <id>https://www.kawabangga.com/?p=7243</id>
-        <link href="https://www.kawabangga.com/posts/7243"/>
-        <updated>2026-04-21T04:14:17.000Z</updated>
-        <summary type="html"><![CDATA[「未来两周受季风交替影响，本地多数日子的下午，预计会出现短暂雷阵雨，有几天的最高气温可能达到35摄氏度。未来两 […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

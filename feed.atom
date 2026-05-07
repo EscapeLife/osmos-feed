@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-05-06T02:07:28.103Z</updated>
+    <updated>2026-05-07T02:09:50.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[制作视频费时费力？在这里只要简单几步就够了]]></title>
+        <id>https://cuiqingcai.com/3077318.html</id>
+        <link href="https://cuiqingcai.com/3077318.html"/>
+        <updated>2026-05-06T06:21:58.000Z</updated>
+        <summary type="html"><![CDATA[<h3 id="简单几步生成视频"><a href="#简单几步生成视频" class="headerlink" title="简单几步生成视频"></a>简单几步生成视频</h3>
+<p>登录我们的 <a href="https://studio.acedata.cloud/l]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[独立开发者的第二收入源：用你的代码能力撬动分销收入]]></title>
+        <id>https://cuiqingcai.com/3043910.html</id>
+        <link href="https://cuiqingcai.com/3043910.html"/>
+        <updated>2026-05-05T21:05:10.000Z</updated>
+        <summary type="html"><![CDATA[<p>作为独立开发者，你可能有过这样的困境：手里的技术能力很强，但变现方式有限——要么接外包、要么做独立产品、要么打工。</p>
+<p>今天介绍一条很多开发者还没意识到的路径：<strong>用你的代码能力做分销。</strong></p>
+<p>不是让你去发传单、拉群卖货。而是]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ace Data Cloud 浏览器插件配置]]></title>
         <id>https://cuiqingcai.com/3957169.html</id>

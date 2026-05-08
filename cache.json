@@ -133,6 +133,26 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3163018.html",
+          "author": null,
+          "description": "<p>Claude Code 是 Anthropic 推出的一款 <strong>Agentic Coding</strong> 工具，也被称为世界最强编程 Agent 之一。终端 CLI 是 Claude Code 的核心体验，你可以在任意终端中运行 <code>claude<",
+          "link": "https://cuiqingcai.com/3163018.html",
+          "publishedOn": "2026-05-07T06:10:18.000Z",
+          "wordCount": 1624,
+          "title": "Claude Code 终端 (CLI) 使用教程",
+          "imageUrl": "https://cdn.acedata.cloud/nyq0xz.png"
+        },
+        {
+          "id": "https://cuiqingcai.com/3127951.html",
+          "author": null,
+          "description": "<p>获取平台上所有可用的 API 接口列表。每个 API 属于一个服务（Service），包含名称、路径、定价规则等信息。</p>\n<p>此接口<strong>无需身份验证</strong>。</p>\n<h2 id=\"接口说明\"><a href=\"#接口说明\" class=\"h",
+          "link": "https://cuiqingcai.com/3127951.html",
+          "publishedOn": "2026-05-06T20:25:51.000Z",
+          "wordCount": 1353,
+          "title": "获取 API 列表",
+          "imageUrl": null
+        },
+        {
           "id": "https://cuiqingcai.com/3077318.html",
           "author": null,
           "description": "<h3 id=\"简单几步生成视频\"><a href=\"#简单几步生成视频\" class=\"headerlink\" title=\"简单几步生成视频\"></a>简单几步生成视频</h3>\n<p>登录我们的 <a href=\"https://studio.acedata.cloud/l",

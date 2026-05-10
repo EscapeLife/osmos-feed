@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-05-09T02:11:05.678Z</updated>
+    <updated>2026-05-10T02:12:03.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Recaptcha3 协议识别 API 对接说明]]></title>
+        <id>https://cuiqingcai.com/3302385.html</id>
+        <link href="https://cuiqingcai.com/3302385.html"/>
+        <updated>2026-05-08T20:53:05.000Z</updated>
+        <summary type="html"><![CDATA[<p>本文将介绍一种 Recaptcha3 协议识别 API 对接说明，它可让用户无需识别和点选 Recaptcha3 验证码图片，仅需通过提交 Website Key 即可实现后台自动解码，完成验证。</p>
+<h2 id="申请流程"><a href="#申请流程" clas]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Search MCP 对接指南]]></title>
         <id>https://cuiqingcai.com/3214664.html</id>

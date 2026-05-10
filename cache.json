@@ -133,6 +133,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3302385.html",
+          "author": null,
+          "description": "<p>本文将介绍一种 Recaptcha3 协议识别 API 对接说明，它可让用户无需识别和点选 Recaptcha3 验证码图片，仅需通过提交 Website Key 即可实现后台自动解码，完成验证。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" clas",
+          "link": "https://cuiqingcai.com/3302385.html",
+          "publishedOn": "2026-05-08T20:53:05.000Z",
+          "wordCount": 1367,
+          "title": "Recaptcha3 协议识别 API 对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/q6ytrc.png"
+        },
+        {
           "id": "https://cuiqingcai.com/3214664.html",
           "author": null,
           "description": "<p><a href=\"https://modelcontextprotocol.io\" target=\"_blank\" rel=\"noopener\">MCP（Model Context Protocol）</a> 是由 Anthropic 推出的模型上下文协议，允许 AI 模型",

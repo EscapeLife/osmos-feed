@@ -133,6 +133,26 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3420854.html",
+          "author": null,
+          "description": "<p>本文将介绍一种 Recaptcha2 图像识别2 API 对接说明，它可以通过用户输入识别的内容和 Recaptcha2验证码图像，最后返回需要点击的小图像的坐标，完成验证。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerli",
+          "link": "https://cuiqingcai.com/3420854.html",
+          "publishedOn": "2026-05-10T05:47:34.000Z",
+          "wordCount": 1461,
+          "title": "Recaptcha2 图像识别 API 对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/q6ytrc.png"
+        },
+        {
+          "id": "https://cuiqingcai.com/3388631.html",
+          "author": null,
+          "description": "<p>做前端需要演示视频？写文档需要动态效果展示？现在你可以在 VS Code 里，用一句话让 GitHub Copilot 调用 Google Veo 生成高质量视频。不用切换窗口，不用学剪辑软件，聊天就能出片。</p>\n<h2 id=\"获取-API-Token\"><a hre",
+          "link": "https://cuiqingcai.com/3388631.html",
+          "publishedOn": "2026-05-09T20:50:31.000Z",
+          "wordCount": 1311,
+          "title": "VS Code + Veo MCP：让 Copilot 调用 Google Veo 生成 1080p AI 视频",
+          "imageUrl": "https://cdn.acedata.cloud/58te19.jpg"
+        },
+        {
           "id": "https://cuiqingcai.com/3302385.html",
           "author": null,
           "description": "<p>本文将介绍一种 Recaptcha3 协议识别 API 对接说明，它可让用户无需识别和点选 Recaptcha3 验证码图片，仅需通过提交 Website Key 即可实现后台自动解码，完成验证。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" clas",
@@ -311,16 +331,6 @@
           "wordCount": 1587,
           "title": "自建 AI 平台创业：用 Nexior 10 分钟搭建你的 SaaS 赚钱机器",
           "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3201625.html",
-          "author": null,
-          "description": "<p>ShortURL MCP 是一个简单但实用的工具——让 Claude 自动帮你把长链接转成短链接。单独用它很方便，和其他 MCP Server 组合在一起就更强大了。</p>\n<p>本文介绍在 Claude.ai 网页版和 Claude Desktop 中的配置与使用。</",
-          "link": "https://cuiqingcai.com/3201625.html",
-          "publishedOn": "2026-04-26T03:07:05.000Z",
-          "wordCount": 1452,
-          "title": "Claude + ShortURL MCP：让 AI 自动生成和管理短链接",
-          "imageUrl": "https://cdn.acedata.cloud/58te19.jpg"
         }
       ]
     },

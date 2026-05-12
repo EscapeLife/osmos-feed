@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-05-11T02:30:23.500Z</updated>
+    <updated>2026-05-12T02:24:07.286Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Midjourney Tasks API 的对接和使用]]></title>
+        <id>https://cuiqingcai.com/3476556.html</id>
+        <link href="https://cuiqingcai.com/3476556.html"/>
+        <updated>2026-05-10T21:15:56.000Z</updated>
+        <summary type="html"><![CDATA[<p>Midjourney Tasks API 的主要功能是通过输入Midjourney Imagine API 或 Midjourney Describe API 生成的任务ID来查询该任务的执行情况。</p>
+<p>本文档将详细介绍 Midjourney Tasks API]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Recaptcha2 图像识别 API 对接说明]]></title>
         <id>https://cuiqingcai.com/3420854.html</id>
@@ -220,29 +231,6 @@ Continue reading...]]></summary>
         <updated>2026-04-27T20:48:14.000Z</updated>
         <summary type="html"><![CDATA[<p>随着 AI 的应用变广，各类 AI 程序已逐渐普及。AI 已逐渐深入到人们的工作生活方方面面。而 AI 涉及的行业也越来越多，从最初的写作，到医疗教育，再到现在的视频。</p>
 <p>Luma 是一个专业高质量的视频生成平台，用户只需上传素材，即可根据不同风格和效果自动生成]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[银行卡二要素核验 API 对接说明]]></title>
-        <id>https://cuiqingcai.com/3297164.html</id>
-        <link href="https://cuiqingcai.com/3297164.html"/>
-        <updated>2026-04-27T05:39:24.000Z</updated>
-        <summary type="html"><![CDATA[<p>本文将介绍一种 银行卡二要素核验 API 对接说明，它可用于校验姓名和银行卡号的真实性和一致性。</p>
-<h2 id="申请流程"><a href="#申请流程" class="headerlink" title="申请流程"></a>申请流程</h2>
-<p>要使用 A]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自建 AI 平台创业：用 Nexior 10 分钟搭建你的 SaaS 赚钱机器]]></title>
-        <id>https://cuiqingcai.com/3266733.html</id>
-        <link href="https://cuiqingcai.com/3266733.html"/>
-        <updated>2026-04-26T21:12:13.000Z</updated>
-        <summary type="html"><![CDATA[<p>如果你问我，Ace Data Cloud 分销体系里最强的赚钱方式是什么？答案不是写文章，不是发朋友圈，而是——<strong>自己搭一个 AI 平台</strong>。</p>
-<p>听起来很难？其实用 <a href="https://github.com/AceDat]]></summary>
         <author>
             <name>静觅</name>
         </author>

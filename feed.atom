@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-05-13T02:30:50.420Z</updated>
+    <updated>2026-05-14T02:31:45.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -211,17 +211,6 @@ Continue reading...]]></summary>
         <updated>2026-04-29T20:23:58.000Z</updated>
         <summary type="html"><![CDATA[<p>写 README 的时候你一定遇到过这种场景：一个链接占了半屏，Markdown 表格完全撑爆，PR 描述里的 URL 看着就烦。</p>
 <p>现在在 Cursor 里，你可以直接对 AI 说一句话，ShortURL MCP 几秒就能帮你把长链接变成干净的 <code>h]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$ACE 代币与折扣]]></title>
-        <id>https://cuiqingcai.com/3437150.html</id>
-        <link href="https://cuiqingcai.com/3437150.html"/>
-        <updated>2026-04-28T20:32:30.000Z</updated>
-        <summary type="html"><![CDATA[<p>Ace Data Cloud 平台支持 $ACE 代币质押折扣机制。用户可以绑定钱包地址，持有 $ACE 代币即可享受 API 调用费用折扣。</p>
-<p>本文档介绍代币相关的 API 接口，所有接口<strong>需要身份验证</strong>，详情请参考 <a hre]]></summary>
         <author>
             <name>静觅</name>
         </author>

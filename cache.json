@@ -300,16 +300,6 @@
           "wordCount": 1300,
           "title": "Cursor + ShortURL MCP：README 里的长链接一句话全变短链",
           "imageUrl": "https://cdn.acedata.cloud/58te19.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3437150.html",
-          "author": null,
-          "description": "<p>Ace Data Cloud 平台支持 $ACE 代币质押折扣机制。用户可以绑定钱包地址，持有 $ACE 代币即可享受 API 调用费用折扣。</p>\n<p>本文档介绍代币相关的 API 接口，所有接口<strong>需要身份验证</strong>，详情请参考 <a hre",
-          "link": "https://cuiqingcai.com/3437150.html",
-          "publishedOn": "2026-04-28T20:32:30.000Z",
-          "wordCount": 1351,
-          "title": "$ACE 代币与折扣",
-          "imageUrl": null
         }
       ]
     },

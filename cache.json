@@ -290,16 +290,6 @@
           "wordCount": 1375,
           "title": "Claude.ai 远程 MCP：浏览器里直接用，无需安装任何东西",
           "imageUrl": "https://cdn.acedata.cloud/58te19.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3523038.html",
-          "author": null,
-          "description": "<p>写 README 的时候你一定遇到过这种场景：一个链接占了半屏，Markdown 表格完全撑爆，PR 描述里的 URL 看着就烦。</p>\n<p>现在在 Cursor 里，你可以直接对 AI 说一句话，ShortURL MCP 几秒就能帮你把长链接变成干净的 <code>h",
-          "link": "https://cuiqingcai.com/3523038.html",
-          "publishedOn": "2026-04-29T20:23:58.000Z",
-          "wordCount": 1300,
-          "title": "Cursor + ShortURL MCP：README 里的长链接一句话全变短链",
-          "imageUrl": "https://cdn.acedata.cloud/58te19.jpg"
         }
       ]
     },

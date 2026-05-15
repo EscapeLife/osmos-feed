@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-05-14T02:31:45.475Z</updated>
+    <updated>2026-05-15T02:31:06.664Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -200,17 +200,6 @@ Continue reading...]]></summary>
         <updated>2026-04-30T21:16:08.000Z</updated>
         <summary type="html"><![CDATA[<p>想让 Claude 帮你画图、写歌、做视频，但不想装软件、不想折腾配置文件？Claude.ai 的远程 MCP 功能就是为你准备的——<strong>打开浏览器，三步连接，直接开用</strong>。</p>
 <h2 id="获取-API-Token"><a href="#]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cursor + ShortURL MCP：README 里的长链接一句话全变短链]]></title>
-        <id>https://cuiqingcai.com/3523038.html</id>
-        <link href="https://cuiqingcai.com/3523038.html"/>
-        <updated>2026-04-29T20:23:58.000Z</updated>
-        <summary type="html"><![CDATA[<p>写 README 的时候你一定遇到过这种场景：一个链接占了半屏，Markdown 表格完全撑爆，PR 描述里的 URL 看着就烦。</p>
-<p>现在在 Cursor 里，你可以直接对 AI 说一句话，ShortURL MCP 几秒就能帮你把长链接变成干净的 <code>h]]></summary>
         <author>
             <name>静觅</name>
         </author>

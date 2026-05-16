@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-05-15T02:31:06.664Z</updated>
+    <updated>2026-05-16T02:13:01.926Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cursor + Seedream MCP：字节跳动的 AI 画图模型，中文 Prompt 效果最好]]></title>
+        <id>https://cuiqingcai.com/3821352.html</id>
+        <link href="https://cuiqingcai.com/3821352.html"/>
+        <updated>2026-05-14T21:02:32.000Z</updated>
+        <summary type="html"><![CDATA[<p>你让 Midjourney 画一张”春节快乐”的海报，结果文字写的是乱码。你让 DALL-E 画一张”水墨山水”，出来的东西像油画。</p>
+<p>字节跳动做的 Seedream 专门解决这个问题——它真的懂中文。写”新年快乐”能让字生成得清晰可读，画”国潮”出来的真是那个]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VS Code + Luma MCP：让 Copilot 帮你做 AI 视频，产品演示一句话搞定]]></title>
         <id>https://cuiqingcai.com/3560104.html</id>
@@ -178,28 +189,6 @@ Continue reading...]]></summary>
         <updated>2026-05-01T21:06:02.000Z</updated>
         <summary type="html"><![CDATA[<p>Udio Tasks API 的主要功能是通过输入 Udio Audios Generation API 生成的任务ID来查询该任务的执行情况。</p>
 <p>本文档将详细介绍 Udio Tasks API 的对接说明，帮助您轻松集成并充分利用该 API 的强大功能。通过]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[移动蜂窝代理对接说明]]></title>
-        <id>https://cuiqingcai.com/3642430.html</id>
-        <link href="https://cuiqingcai.com/3642430.html"/>
-        <updated>2026-05-01T05:33:50.000Z</updated>
-        <summary type="html"><![CDATA[<p>在爬虫与反爬虫斗争愈演愈烈的情况下，各大网站和 App 的风控检测越来越强，其中一项就是 IP 封禁。</p>
-<p>为了解决 IP 封禁的困扰，一个有效的方式就是设置代理，设置代理之后，爬虫可以借助代理的 IP 来伪装自己的真实 IP 地址，从而突破反爬虫的限制。</p>]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude.ai 远程 MCP：浏览器里直接用，无需安装任何东西]]></title>
-        <id>https://cuiqingcai.com/3612568.html</id>
-        <link href="https://cuiqingcai.com/3612568.html"/>
-        <updated>2026-04-30T21:16:08.000Z</updated>
-        <summary type="html"><![CDATA[<p>想让 Claude 帮你画图、写歌、做视频，但不想装软件、不想折腾配置文件？Claude.ai 的远程 MCP 功能就是为你准备的——<strong>打开浏览器，三步连接，直接开用</strong>。</p>
-<h2 id="获取-API-Token"><a href="#]]></summary>
         <author>
             <name>静觅</name>
         </author>

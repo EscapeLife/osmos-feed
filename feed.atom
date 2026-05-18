@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-05-17T02:29:28.996Z</updated>
+    <updated>2026-05-18T02:38:32.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Veo Extend API 对接说明]]></title>
+        <id>https://cuiqingcai.com/3992971.html</id>
+        <link href="https://cuiqingcai.com/3992971.html"/>
+        <updated>2026-05-16T20:42:51.000Z</updated>
+        <summary type="html"><![CDATA[<p>本文将介绍 Veo Extend API 的对接说明。该接口用于对一段已经生成的 Veo 视频进行<strong>时长延展</strong>，AI 会自动续写后续画面。</p>
+<h2 id="申请流程"><a href="#申请流程" class="headerlink"]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[oni_geotherm]]></title>
         <id>https://blog.codingnow.com/2026/05/oni_geotherm.html</id>
@@ -178,17 +189,6 @@ Continue reading...]]></summary>
         <updated>2026-05-03T21:08:31.000Z</updated>
         <summary type="html"><![CDATA[<p>NanoBanana 是基于 Google Gemini 模型的图片生成和编辑工具。和其他图片生成工具不同，NanoBanana 的强项是<strong>智能编辑</strong>——你可以上传一张图片，然后用自然语言描述你要怎么改。</p>
 <p>通过 MCP 协议接入]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NanoBanana MCP 全平台配置指南：谷歌 Gemini 驱动的 AI 生图和修图]]></title>
-        <id>https://cuiqingcai.com/3785485.html</id>
-        <link href="https://cuiqingcai.com/3785485.html"/>
-        <updated>2026-05-02T21:18:05.000Z</updated>
-        <summary type="html"><![CDATA[<p>NanoBanana 是基于 Google Gemini 模型的 AI 图像生成和编辑服务。通过 MCP 协议，你可以在 Cursor、VS Code、Claude、ChatGPT 等所有主流 AI 客户端中直接使用。</p>
-<p>无论是文字生成图片、编辑修改已有图片、多]]></summary>
         <author>
             <name>静觅</name>
         </author>

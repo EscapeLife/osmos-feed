@@ -133,6 +133,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3992971.html",
+          "author": null,
+          "description": "<p>本文将介绍 Veo Extend API 的对接说明。该接口用于对一段已经生成的 Veo 视频进行<strong>时长延展</strong>，AI 会自动续写后续画面。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\"",
+          "link": "https://cuiqingcai.com/3992971.html",
+          "publishedOn": "2026-05-16T20:42:51.000Z",
+          "wordCount": 1257,
+          "title": "Veo Extend API 对接说明",
+          "imageUrl": null
+        },
+        {
           "id": "https://cuiqingcai.com/3905992.html",
           "author": null,
           "description": "<p>Suno Tasks API 的主要功能是通过输入 Suno Audios Generation API 或 Suno Lyrics Generation API 生成的任务ID来查询该任务的执行情况。</p>\n<p>本文档将详细介绍 Suno Tasks API 的对接说",
@@ -270,16 +280,6 @@
           "publishedOn": "2026-05-03T21:08:31.000Z",
           "wordCount": 1322,
           "title": "Claude Desktop + NanoBanana MCP：Gemini 驱动的 AI 图片生成和编辑",
-          "imageUrl": "https://cdn.acedata.cloud/58te19.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3785485.html",
-          "author": null,
-          "description": "<p>NanoBanana 是基于 Google Gemini 模型的 AI 图像生成和编辑服务。通过 MCP 协议，你可以在 Cursor、VS Code、Claude、ChatGPT 等所有主流 AI 客户端中直接使用。</p>\n<p>无论是文字生成图片、编辑修改已有图片、多",
-          "link": "https://cuiqingcai.com/3785485.html",
-          "publishedOn": "2026-05-02T21:18:05.000Z",
-          "wordCount": 1425,
-          "title": "NanoBanana MCP 全平台配置指南：谷歌 Gemini 驱动的 AI 生图和修图",
           "imageUrl": "https://cdn.acedata.cloud/58te19.jpg"
         }
       ]

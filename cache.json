@@ -133,6 +133,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3079605.html",
+          "author": null,
+          "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/promotion_article_mcp_all_claude_code\" target=\"",
+          "link": "https://cuiqingcai.com/3079605.html",
+          "publishedOn": "2026-05-17T20:46:45.000Z",
+          "wordCount": 1334,
+          "title": "Claude Code + Flux MCP：终端里一句话生成 AI 图片",
+          "imageUrl": "https://cdn.acedata.cloud/58te19.jpg"
+        },
+        {
           "id": "https://cuiqingcai.com/3992971.html",
           "author": null,
           "description": "<p>本文将介绍 Veo Extend API 的对接说明。该接口用于对一段已经生成的 Veo 视频进行<strong>时长延展</strong>，AI 会自动续写后续画面。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\"",
@@ -271,16 +281,6 @@
           "wordCount": 1188,
           "title": "Ace Data Cloud 浏览器插件配置",
           "imageUrl": "https://cdn.acedata.cloud/9g7957.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/3871311.html",
-          "author": null,
-          "description": "<p>NanoBanana 是基于 Google Gemini 模型的图片生成和编辑工具。和其他图片生成工具不同，NanoBanana 的强项是<strong>智能编辑</strong>——你可以上传一张图片，然后用自然语言描述你要怎么改。</p>\n<p>通过 MCP 协议接入",
-          "link": "https://cuiqingcai.com/3871311.html",
-          "publishedOn": "2026-05-03T21:08:31.000Z",
-          "wordCount": 1322,
-          "title": "Claude Desktop + NanoBanana MCP：Gemini 驱动的 AI 图片生成和编辑",
-          "imageUrl": "https://cdn.acedata.cloud/58te19.jpg"
         }
       ]
     },

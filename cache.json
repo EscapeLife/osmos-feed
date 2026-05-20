@@ -55,18 +55,7 @@
       "title": "卡瓦邦噶！",
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
-      "articles": [
-        {
-          "id": "https://www.kawabangga.com/?p=7246",
-          "author": "laixintao",
-          "description": "读其他的书知道了《金阁寺》这本书，就找来读了。读完合上最后一页，心里久久不能平静。说这本书是「惊世骇俗」一点也 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/7246",
-          "publishedOn": "2026-05-04T17:34:37.000Z",
-          "wordCount": 1105,
-          "title": "读《金阁寺》",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Manjusaka",
@@ -132,6 +121,16 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3165640.html",
+          "author": null,
+          "description": "<p>你有没有想过，写一篇文章、发一个 GitHub Repo，然后在你睡觉、上课、旅行的时候，账户里的佣金还在持续增长？</p>\n<p>这不是幻想。在 <a href=\"https://platform.acedata.cloud\" target=\"_blank\" rel=\"n",
+          "link": "https://cuiqingcai.com/3165640.html",
+          "publishedOn": "2026-05-18T20:40:40.000Z",
+          "wordCount": 1478,
+          "title": "被动收入实战：如何通过内容沉淀实现 AI 分销的睡后收入",
+          "imageUrl": null
+        },
         {
           "id": "https://cuiqingcai.com/3079605.html",
           "author": null,
@@ -271,16 +270,6 @@
           "wordCount": 1681,
           "title": "独立开发者的第二收入源：用你的代码能力撬动分销收入",
           "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3957169.html",
-          "author": null,
-          "description": "<p>Ace Data Cloud 平台提供了一个浏览器插件，拥有此浏览器插件，您可以方便地将社交媒体账号授权给 Ace Data Cloud 平台，从而方便地完成自媒体如文章、视频等分发过程。</p>\n<p>本文章会介绍 Ace Data Cloud 浏览器插件的安装方法。</",
-          "link": "https://cuiqingcai.com/3957169.html",
-          "publishedOn": "2026-05-04T20:59:29.000Z",
-          "wordCount": 1188,
-          "title": "Ace Data Cloud 浏览器插件配置",
-          "imageUrl": "https://cdn.acedata.cloud/9g7957.png"
         }
       ]
     },

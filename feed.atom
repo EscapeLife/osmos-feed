@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-05-19T02:36:46.828Z</updated>
+    <updated>2026-05-20T02:37:41.759Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[被动收入实战：如何通过内容沉淀实现 AI 分销的睡后收入]]></title>
+        <id>https://cuiqingcai.com/3165640.html</id>
+        <link href="https://cuiqingcai.com/3165640.html"/>
+        <updated>2026-05-18T20:40:40.000Z</updated>
+        <summary type="html"><![CDATA[<p>你有没有想过，写一篇文章、发一个 GitHub Repo，然后在你睡觉、上课、旅行的时候，账户里的佣金还在持续增长？</p>
+<p>这不是幻想。在 <a href="https://platform.acedata.cloud" target="_blank" rel="n]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Claude Code + Flux MCP：终端里一句话生成 AI 图片]]></title>
         <id>https://cuiqingcai.com/3079605.html</id>
@@ -169,28 +180,6 @@
 <p>不是让你去发传单、拉群卖货。而是]]></summary>
         <author>
             <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ace Data Cloud 浏览器插件配置]]></title>
-        <id>https://cuiqingcai.com/3957169.html</id>
-        <link href="https://cuiqingcai.com/3957169.html"/>
-        <updated>2026-05-04T20:59:29.000Z</updated>
-        <summary type="html"><![CDATA[<p>Ace Data Cloud 平台提供了一个浏览器插件，拥有此浏览器插件，您可以方便地将社交媒体账号授权给 Ace Data Cloud 平台，从而方便地完成自媒体如文章、视频等分发过程。</p>
-<p>本文章会介绍 Ace Data Cloud 浏览器插件的安装方法。</]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[读《金阁寺》]]></title>
-        <id>https://www.kawabangga.com/?p=7246</id>
-        <link href="https://www.kawabangga.com/posts/7246"/>
-        <updated>2026-05-04T17:34:37.000Z</updated>
-        <summary type="html"><![CDATA[读其他的书知道了《金阁寺》这本书，就找来读了。读完合上最后一页，心里久久不能平静。说这本书是「惊世骇俗」一点也 […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
     <entry>

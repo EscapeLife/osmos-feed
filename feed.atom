@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-05-21T02:39:11.740Z</updated>
+    <updated>2026-05-22T02:40:34.872Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -156,28 +156,6 @@
         <link href="https://cuiqingcai.com/3214664.html"/>
         <updated>2026-05-07T20:31:04.000Z</updated>
         <summary type="html"><![CDATA[<p><a href="https://modelcontextprotocol.io" target="_blank" rel="noopener">MCP（Model Context Protocol）</a> 是由 Anthropic 推出的模型上下文协议，允许 AI 模型]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code 终端 (CLI) 使用教程]]></title>
-        <id>https://cuiqingcai.com/3163018.html</id>
-        <link href="https://cuiqingcai.com/3163018.html"/>
-        <updated>2026-05-07T06:10:18.000Z</updated>
-        <summary type="html"><![CDATA[<p>Claude Code 是 Anthropic 推出的一款 <strong>Agentic Coding</strong> 工具，也被称为世界最强编程 Agent 之一。终端 CLI 是 Claude Code 的核心体验，你可以在任意终端中运行 <code>claude<]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[获取 API 列表]]></title>
-        <id>https://cuiqingcai.com/3127951.html</id>
-        <link href="https://cuiqingcai.com/3127951.html"/>
-        <updated>2026-05-06T20:25:51.000Z</updated>
-        <summary type="html"><![CDATA[<p>获取平台上所有可用的 API 接口列表。每个 API 属于一个服务（Service），包含名称、路径、定价规则等信息。</p>
-<p>此接口<strong>无需身份验证</strong>。</p>
-<h2 id="接口说明"><a href="#接口说明" class="h]]></summary>
         <author>
             <name>静觅</name>
         </author>

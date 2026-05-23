@@ -122,6 +122,26 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3459725.html",
+          "author": null,
+          "description": "<p>本文将介绍一种 Fish Audios Generation API 对接说明，它是可以通过输入提示词来克隆自己的音色。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title=\"申请流程\"></a>申请流程</",
+          "link": "https://cuiqingcai.com/3459725.html",
+          "publishedOn": "2026-05-22T06:22:05.000Z",
+          "wordCount": 1402,
+          "title": "Fish Audios Generation API 对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/q6ytrc.png"
+        },
+        {
+          "id": "https://cuiqingcai.com/3425389.html",
+          "author": null,
+          "description": "<p>本接口基于 <a href=\"https://docs.fish.audio/resources/api-reference/model\" target=\"_blank\" rel=\"noopener\">Fish Audio 官方 Model API</a>，用于<stron",
+          "link": "https://cuiqingcai.com/3425389.html",
+          "publishedOn": "2026-05-21T20:49:49.000Z",
+          "wordCount": 1586,
+          "title": "Fish Model Get API 对接说明",
+          "imageUrl": null
+        },
+        {
           "id": "https://cuiqingcai.com/3286356.html",
           "author": null,
           "description": "<p>AI 时代来了，很多人已经用 AI 赚的盆满钵满了，可能很多朋友也想加入这个浪潮，但感觉 AI 离自己很远不知道怎么切入。 不用担心，这篇文章会介绍一个零成本无风险帮助你用 AI 赚钱的方法，大家快来试试吧！仔细看下面的文章。</p>\n<blockquote>\n  <p>如",
@@ -240,16 +260,6 @@
           "wordCount": 1367,
           "title": "Recaptcha3 协议识别 API 对接说明",
           "imageUrl": "https://cdn.acedata.cloud/q6ytrc.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/3214664.html",
-          "author": null,
-          "description": "<p><a href=\"https://modelcontextprotocol.io\" target=\"_blank\" rel=\"noopener\">MCP（Model Context Protocol）</a> 是由 Anthropic 推出的模型上下文协议，允许 AI 模型",
-          "link": "https://cuiqingcai.com/3214664.html",
-          "publishedOn": "2026-05-07T20:31:04.000Z",
-          "wordCount": 1398,
-          "title": "Google Search MCP 对接指南",
-          "imageUrl": null
         }
       ]
     },

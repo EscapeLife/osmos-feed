@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-05-22T02:40:34.872Z</updated>
+    <updated>2026-05-23T02:26:06.782Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fish Audios Generation API 对接说明]]></title>
+        <id>https://cuiqingcai.com/3459725.html</id>
+        <link href="https://cuiqingcai.com/3459725.html"/>
+        <updated>2026-05-22T06:22:05.000Z</updated>
+        <summary type="html"><![CDATA[<p>本文将介绍一种 Fish Audios Generation API 对接说明，它是可以通过输入提示词来克隆自己的音色。</p>
+<h2 id="申请流程"><a href="#申请流程" class="headerlink" title="申请流程"></a>申请流程</]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fish Model Get API 对接说明]]></title>
+        <id>https://cuiqingcai.com/3425389.html</id>
+        <link href="https://cuiqingcai.com/3425389.html"/>
+        <updated>2026-05-21T20:49:49.000Z</updated>
+        <summary type="html"><![CDATA[<p>本接口基于 <a href="https://docs.fish.audio/resources/api-reference/model" target="_blank" rel="noopener">Fish Audio 官方 Model API</a>，用于<stron]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[零成本做 AI 副业：用一条链接，赚到你的第一桶金，手把手教你]]></title>
         <id>https://cuiqingcai.com/3286356.html</id>
@@ -146,16 +167,6 @@
         <updated>2026-05-08T20:53:05.000Z</updated>
         <summary type="html"><![CDATA[<p>本文将介绍一种 Recaptcha3 协议识别 API 对接说明，它可让用户无需识别和点选 Recaptcha3 验证码图片，仅需通过提交 Website Key 即可实现后台自动解码，完成验证。</p>
 <h2 id="申请流程"><a href="#申请流程" clas]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Search MCP 对接指南]]></title>
-        <id>https://cuiqingcai.com/3214664.html</id>
-        <link href="https://cuiqingcai.com/3214664.html"/>
-        <updated>2026-05-07T20:31:04.000Z</updated>
-        <summary type="html"><![CDATA[<p><a href="https://modelcontextprotocol.io" target="_blank" rel="noopener">MCP（Model Context Protocol）</a> 是由 Anthropic 推出的模型上下文协议，允许 AI 模型]]></summary>
         <author>
             <name>静觅</name>
         </author>

@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-05-23T02:26:06.782Z</updated>
+    <updated>2026-05-24T02:35:44.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[缺氧和异星工厂的比较]]></title>
+        <id>https://blog.codingnow.com/2026/05/oni_factorio.html</id>
+        <link href="https://blog.codingnow.com/2026/05/oni_factorio.html"/>
+        <updated>2026-05-23T07:04:32.000Z</updated>
+        <summary type="html"><![CDATA[缺氧（Oxygen Not Included, ONI）和异星工厂（Factorio）都是自动化领域的神作，它们在 Steam 上都有自动化、基地建设、资源管理的标签，可见游戏体验上有相当多的相似之处。玩家群体也高度重合。但是什么造就了它们的独特性？而不会像 Satisfactory 或戴森球计划之于异星工厂那样，有着深深的同类基因。 从游戏核心上看： 缺氧把玩家放在一个有限资源的环境下，一切都是资源转换。玩家玩游戏是一个熵治理过程，把无序变为有序。除了玩家的主动行为，还有丰富的、半随机的、环境自然推演。缺氧的物理系统在很大程度上模拟现实，这减少了玩家的学习成本。但在细节上和现实有所不同：质量和能量都不是守恒的，随着玩家活动，物质会减少，热量可以被主动删除…… 这给了许多玩家对付系统熵增的武器。而一个封闭系统中的热力学熵增，就是玩家需要对抗的系统崩塌。 异星工厂（原版）这提供给玩家一个无限地图。扩张面对的是物流和自动化的指数级复杂度上升。（在原版中）玩家不断追求更大更快的自动化生产线，在这个过程中，需要增进对游戏系统的理解，找到在下一个指数级上的自动化解决方案。玩家很少会面临系统崩溃，虫子的威胁虽然存在，但几乎可以忽略。即使去掉虫灾威胁，游戏也几乎不会损失太多体验。...]]></summary>
+        <author>
+            <name>云风的 BLOG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[轮换 AceDataCloud 平台 API 凭证]]></title>
+        <id>https://cuiqingcai.com/3512028.html</id>
+        <link href="https://cuiqingcai.com/3512028.html"/>
+        <updated>2026-05-22T20:53:48.000Z</updated>
+        <summary type="html"><![CDATA[<p>为已有凭证<strong>重新签发一个新的 Token</strong>——凭证的 ID 不变、限额/过期/IP 白名单/调用历史不变，只是 Token 明文换了。</p>
+<p>适合场景：怀疑 Token 泄露、定期合规轮换、人员离职等。比”删了再新建”省事，因为不需要再]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fish Audios Generation API 对接说明]]></title>
         <id>https://cuiqingcai.com/3459725.html</id>
@@ -156,17 +177,6 @@
         <updated>2026-05-09T20:50:31.000Z</updated>
         <summary type="html"><![CDATA[<p>做前端需要演示视频？写文档需要动态效果展示？现在你可以在 VS Code 里，用一句话让 GitHub Copilot 调用 Google Veo 生成高质量视频。不用切换窗口，不用学剪辑软件，聊天就能出片。</p>
 <h2 id="获取-API-Token"><a hre]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recaptcha3 协议识别 API 对接说明]]></title>
-        <id>https://cuiqingcai.com/3302385.html</id>
-        <link href="https://cuiqingcai.com/3302385.html"/>
-        <updated>2026-05-08T20:53:05.000Z</updated>
-        <summary type="html"><![CDATA[<p>本文将介绍一种 Recaptcha3 协议识别 API 对接说明，它可让用户无需识别和点选 Recaptcha3 验证码图片，仅需通过提交 Website Key 即可实现后台自动解码，完成验证。</p>
-<h2 id="申请流程"><a href="#申请流程" clas]]></summary>
         <author>
             <name>静觅</name>
         </author>

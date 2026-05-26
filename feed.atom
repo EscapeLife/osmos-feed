@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-05-25T02:44:28.143Z</updated>
+    <updated>2026-05-26T02:33:21.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nano Banana Tasks API 的对接和使用]]></title>
+        <id>https://cuiqingcai.com/3720891.html</id>
+        <link href="https://cuiqingcai.com/3720891.html"/>
+        <updated>2026-05-25T06:54:51.000Z</updated>
+        <summary type="html"><![CDATA[<p>Nano Banana Tasks API 的主要功能是通过输入 Nano Banana Images API 生成的任务 ID 来查询该任务的执行情况。</p>
+<p>本文档将详细介绍 Nano Banana Tasks API 的对接说明，帮助您轻松集成并充分利用该 A]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[获取 AceDataCloud 平台服务列表]]></title>
+        <id>https://cuiqingcai.com/3684963.html</id>
+        <link href="https://cuiqingcai.com/3684963.html"/>
+        <updated>2026-05-24T20:56:03.000Z</updated>
+        <summary type="html"><![CDATA[<p>AceDataCloud 平台把所有可调用的功能模块抽象为「服务（Service）」——例如 Midjourney 出图、OpenAI 对话、Suno 出歌、Veo 出片、Web 抓取、SERP 搜索等。本接口返回平台上<strong>全部可申请的服务清单</strong>]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wisdom — 微信桌面自动化 SaaS]]></title>
         <id>https://cuiqingcai.com/3597744.html</id>
@@ -155,17 +176,6 @@
         <summary type="html"><![CDATA[<p>你花了两周写完一个 CLI 工具，README 写得很详细。但你也知道——一段 30 秒的演示视频比 500 字的说明更有说服力。</p>
 <p>录屏？太无聊。After Effects？太重了。其实 VS Code 里就能做。</p>
 <p>在 Copilot Chat]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Midjourney Tasks API 的对接和使用]]></title>
-        <id>https://cuiqingcai.com/3476556.html</id>
-        <link href="https://cuiqingcai.com/3476556.html"/>
-        <updated>2026-05-10T21:15:56.000Z</updated>
-        <summary type="html"><![CDATA[<p>Midjourney Tasks API 的主要功能是通过输入Midjourney Imagine API 或 Midjourney Describe API 生成的任务ID来查询该任务的执行情况。</p>
-<p>本文档将详细介绍 Midjourney Tasks API]]></summary>
         <author>
             <name>静觅</name>
         </author>

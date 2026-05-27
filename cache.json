@@ -132,6 +132,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3770457.html",
+          "author": null,
+          "description": "<p>想要一条“看起来就贵”的视频，以前意味着大量人力：分镜、拍摄、灯光、后期……时间长、成本高。Ace Data Cloud 的 Veo Videos API 让事情变得不同：</p>\n<ul>\n  <li>文生视频（text2video）：把你的镜头设想直接写成提示词；</l",
+          "link": "https://cuiqingcai.com/3770457.html",
+          "publishedOn": "2026-05-25T20:40:57.000Z",
+          "wordCount": 1541,
+          "title": "电影感，不再需要大团队：Veo 视频生成 API，把镜头语言交给 AI（含超多示例与图例）",
+          "imageUrl": "https://cdn.acedata.cloud/vv5pe8.png"
+        },
+        {
           "id": "https://cuiqingcai.com/3720891.html",
           "author": null,
           "description": "<p>Nano Banana Tasks API 的主要功能是通过输入 Nano Banana Images API 生成的任务 ID 来查询该任务的执行情况。</p>\n<p>本文档将详细介绍 Nano Banana Tasks API 的对接说明，帮助您轻松集成并充分利用该 A",
@@ -259,16 +269,6 @@
           "publishedOn": "2026-05-14T21:02:32.000Z",
           "wordCount": 1296,
           "title": "Cursor + Seedream MCP：字节跳动的 AI 画图模型，中文 Prompt 效果最好",
-          "imageUrl": "https://cdn.acedata.cloud/58te19.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3560104.html",
-          "author": null,
-          "description": "<p>你花了两周写完一个 CLI 工具，README 写得很详细。但你也知道——一段 30 秒的演示视频比 500 字的说明更有说服力。</p>\n<p>录屏？太无聊。After Effects？太重了。其实 VS Code 里就能做。</p>\n<p>在 Copilot Chat",
-          "link": "https://cuiqingcai.com/3560104.html",
-          "publishedOn": "2026-05-11T20:28:24.000Z",
-          "wordCount": 1341,
-          "title": "VS Code + Luma MCP：让 Copilot 帮你做 AI 视频，产品演示一句话搞定",
           "imageUrl": "https://cdn.acedata.cloud/58te19.jpg"
         }
       ]

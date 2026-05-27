@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-05-26T02:33:21.346Z</updated>
+    <updated>2026-05-27T02:43:37.443Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[电影感，不再需要大团队：Veo 视频生成 API，把镜头语言交给 AI（含超多示例与图例）]]></title>
+        <id>https://cuiqingcai.com/3770457.html</id>
+        <link href="https://cuiqingcai.com/3770457.html"/>
+        <updated>2026-05-25T20:40:57.000Z</updated>
+        <summary type="html"><![CDATA[<p>想要一条“看起来就贵”的视频，以前意味着大量人力：分镜、拍摄、灯光、后期……时间长、成本高。Ace Data Cloud 的 Veo Videos API 让事情变得不同：</p>
+<ul>
+  <li>文生视频（text2video）：把你的镜头设想直接写成提示词；</l]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nano Banana Tasks API 的对接和使用]]></title>
         <id>https://cuiqingcai.com/3720891.html</id>
@@ -164,18 +176,6 @@
         <updated>2026-05-14T21:02:32.000Z</updated>
         <summary type="html"><![CDATA[<p>你让 Midjourney 画一张”春节快乐”的海报，结果文字写的是乱码。你让 DALL-E 画一张”水墨山水”，出来的东西像油画。</p>
 <p>字节跳动做的 Seedream 专门解决这个问题——它真的懂中文。写”新年快乐”能让字生成得清晰可读，画”国潮”出来的真是那个]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VS Code + Luma MCP：让 Copilot 帮你做 AI 视频，产品演示一句话搞定]]></title>
-        <id>https://cuiqingcai.com/3560104.html</id>
-        <link href="https://cuiqingcai.com/3560104.html"/>
-        <updated>2026-05-11T20:28:24.000Z</updated>
-        <summary type="html"><![CDATA[<p>你花了两周写完一个 CLI 工具，README 写得很详细。但你也知道——一段 30 秒的演示视频比 500 字的说明更有说服力。</p>
-<p>录屏？太无聊。After Effects？太重了。其实 VS Code 里就能做。</p>
-<p>在 Copilot Chat]]></summary>
         <author>
             <name>静觅</name>
         </author>

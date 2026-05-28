@@ -132,6 +132,26 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3892501.html",
+          "author": null,
+          "description": "<blockquote>\n  <p>这是一篇总览文章：<strong>把 AceData Cloud 提供的 11 个 MCP Server 一次性接到 <a href=\"https://github.com/openai/codex\" target=\"_blank\" rel=\"",
+          "link": "https://cuiqingcai.com/3892501.html",
+          "publishedOn": "2026-05-27T06:35:01.000Z",
+          "wordCount": 1495,
+          "title": "在 OpenAI Codex CLI 里用 AceData Cloud MCP — 终端 AI 工具全能配置",
+          "imageUrl": "https://cdn.acedata.cloud/58te19.jpg"
+        },
+        {
+          "id": "https://cuiqingcai.com/3859422.html",
+          "author": null,
+          "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/promotion_article_mcp_claude_ai_remote\" target=",
+          "link": "https://cuiqingcai.com/3859422.html",
+          "publishedOn": "2026-05-26T21:23:42.000Z",
+          "wordCount": 1627,
+          "title": "Claude.ai + Midjourney MCP：一句话调出 4 张高清概念图，亲测全流程",
+          "imageUrl": "https://cdn.acedata.cloud/4c05821aab.png"
+        },
+        {
           "id": "https://cuiqingcai.com/3770457.html",
           "author": null,
           "description": "<p>想要一条“看起来就贵”的视频，以前意味着大量人力：分镜、拍摄、灯光、后期……时间长、成本高。Ace Data Cloud 的 Veo Videos API 让事情变得不同：</p>\n<ul>\n  <li>文生视频（text2video）：把你的镜头设想直接写成提示词；</l",

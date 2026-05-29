@@ -132,6 +132,26 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3980573.html",
+          "author": null,
+          "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/promotion_article_mcp_all_windsurf\" target=\"_bl",
+          "link": "https://cuiqingcai.com/3980573.html",
+          "publishedOn": "2026-05-28T07:02:53.000Z",
+          "wordCount": 1229,
+          "title": "Windsurf + NanoBanana MCP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cuiqingcai.com/3944408.html",
+          "author": null,
+          "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/promotion_article_mcp_all_claude_code\" target=\"",
+          "link": "https://cuiqingcai.com/3944408.html",
+          "publishedOn": "2026-05-27T21:00:08.000Z",
+          "wordCount": 1396,
+          "title": "Claude Code + Google 搜索 MCP：终端里直接搜 Google，不用切浏览器",
+          "imageUrl": "https://cdn.acedata.cloud/58te19.jpg"
+        },
+        {
           "id": "https://cuiqingcai.com/3892501.html",
           "author": null,
           "description": "<blockquote>\n  <p>这是一篇总览文章：<strong>把 AceData Cloud 提供的 11 个 MCP Server 一次性接到 <a href=\"https://github.com/openai/codex\" target=\"_blank\" rel=\"",

@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-05-28T02:30:07.841Z</updated>
+    <updated>2026-05-29T02:34:41.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Windsurf + NanoBanana MCP]]></title>
+        <id>https://cuiqingcai.com/3980573.html</id>
+        <link href="https://cuiqingcai.com/3980573.html"/>
+        <updated>2026-05-28T07:02:53.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+  <p>📘 <strong>完整指南</strong>：<a href="https://platform.acedata.cloud/documents/promotion_article_mcp_all_windsurf" target="_bl]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code + Google 搜索 MCP：终端里直接搜 Google，不用切浏览器]]></title>
+        <id>https://cuiqingcai.com/3944408.html</id>
+        <link href="https://cuiqingcai.com/3944408.html"/>
+        <updated>2026-05-27T21:00:08.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+  <p>📘 <strong>完整指南</strong>：<a href="https://platform.acedata.cloud/documents/promotion_article_mcp_all_claude_code" target="]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在 OpenAI Codex CLI 里用 AceData Cloud MCP — 终端 AI 工具全能配置]]></title>
         <id>https://cuiqingcai.com/3892501.html</id>

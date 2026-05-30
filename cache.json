@@ -132,6 +132,26 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3064516.html",
+          "author": null,
+          "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/promotion_article_mcp_all_opencode\" target=\"_bl",
+          "link": "https://cuiqingcai.com/3064516.html",
+          "publishedOn": "2026-05-29T06:21:56.000Z",
+          "wordCount": 1228,
+          "title": "OpenCode + Seedream MCP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cuiqingcai.com/3029512.html",
+          "author": null,
+          "description": "<p>本文将介绍一种 Midjourney Edits API 对接说明，它是可以通过输入提示词来编辑传入的图片进行生成。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title=\"申请流程\"></a>申请流程</h2",
+          "link": "https://cuiqingcai.com/3029512.html",
+          "publishedOn": "2026-05-28T20:38:32.000Z",
+          "wordCount": 1431,
+          "title": "Midjourney Edits API 对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/q6ytrc.png"
+        },
+        {
           "id": "https://cuiqingcai.com/3980573.html",
           "author": null,
           "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/promotion_article_mcp_all_windsurf\" target=\"_bl",
@@ -300,16 +320,6 @@
           "wordCount": 2365,
           "title": "Suno Tasks API 的对接和使用",
           "imageUrl": "https://cdn.acedata.cloud/bc6754.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/3821352.html",
-          "author": null,
-          "description": "<p>你让 Midjourney 画一张”春节快乐”的海报，结果文字写的是乱码。你让 DALL-E 画一张”水墨山水”，出来的东西像油画。</p>\n<p>字节跳动做的 Seedream 专门解决这个问题——它真的懂中文。写”新年快乐”能让字生成得清晰可读，画”国潮”出来的真是那个",
-          "link": "https://cuiqingcai.com/3821352.html",
-          "publishedOn": "2026-05-14T21:02:32.000Z",
-          "wordCount": 1296,
-          "title": "Cursor + Seedream MCP：字节跳动的 AI 画图模型，中文 Prompt 效果最好",
-          "imageUrl": "https://cdn.acedata.cloud/58te19.jpg"
         }
       ]
     },

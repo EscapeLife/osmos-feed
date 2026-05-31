@@ -132,6 +132,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3117322.html",
+          "author": null,
+          "description": "<p>通过服务 ID 获取该服务下挂载的全部 <strong>API 端点</strong>信息（路径、定价、阶段、关联文档等）。与<a href=\"https://platform.acedata.cloud/documents/platform-api-list\" targe",
+          "link": "https://cuiqingcai.com/3117322.html",
+          "publishedOn": "2026-05-29T21:02:02.000Z",
+          "wordCount": 1511,
+          "title": "获取 AceDataCloud 平台服务下的 API 列表",
+          "imageUrl": null
+        },
+        {
           "id": "https://cuiqingcai.com/3064516.html",
           "author": null,
           "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/promotion_article_mcp_all_opencode\" target=\"_bl",
@@ -310,16 +320,6 @@
           "wordCount": 1257,
           "title": "Veo Extend API 对接说明",
           "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3905992.html",
-          "author": null,
-          "description": "<p>Suno Tasks API 的主要功能是通过输入 Suno Audios Generation API 或 Suno Lyrics Generation API 生成的任务ID来查询该任务的执行情况。</p>\n<p>本文档将详细介绍 Suno Tasks API 的对接说",
-          "link": "https://cuiqingcai.com/3905992.html",
-          "publishedOn": "2026-05-15T20:33:12.000Z",
-          "wordCount": 2365,
-          "title": "Suno Tasks API 的对接和使用",
-          "imageUrl": "https://cdn.acedata.cloud/bc6754.png"
         }
       ]
     },

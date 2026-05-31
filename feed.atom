@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-05-30T02:28:47.038Z</updated>
+    <updated>2026-05-31T02:45:31.037Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[获取 AceDataCloud 平台服务下的 API 列表]]></title>
+        <id>https://cuiqingcai.com/3117322.html</id>
+        <link href="https://cuiqingcai.com/3117322.html"/>
+        <updated>2026-05-29T21:02:02.000Z</updated>
+        <summary type="html"><![CDATA[<p>通过服务 ID 获取该服务下挂载的全部 <strong>API 端点</strong>信息（路径、定价、阶段、关联文档等）。与<a href="https://platform.acedata.cloud/documents/platform-api-list" targe]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenCode + Seedream MCP]]></title>
         <id>https://cuiqingcai.com/3064516.html</id>
@@ -222,17 +232,6 @@
         <summary type="html"><![CDATA[又玩了半个月的缺氧，目前累积游戏时间已达 645 小时，感觉对这个游戏有了更多理解。 我重新开了一盘，尝试用纯仿生人开局，依旧是保持 3 个初始小人开荒。仿生人不用吃食物，三个周期集中做一次呼吸，只要解决了能源问题，玩起来还是很舒服的。但仿生人需要定期上油，基本的方案是用排泄的残渣油做成润滑膏自循环。但我在查配方表的时候发现：润滑膏其实可以裂解成石油，而润滑则可以用菌泥榨成植物油替代。这样，似乎就多了一种方法在游戏初期拿到石油。 在我的理解中，缺氧的石油在开荒期的主要用途是做精炼金属的冷却剂，配合蒸汽机可以做到净增的电能。和现实常识不同，缺氧的世界是不遵守能量守恒的。金属精炼机消耗固定的电能功率，同时把金属熔解需要的热传递到冷却剂中。也就是输入固定的电能，输出不确定的热能。而蒸汽机则可将热转换为电。这导致，精炼某些金属，比如游戏开荒期急缺的钢，不仅不消耗电，还能产电。 但蒸汽机有个使用门槛：它只能将 125~200 度的蒸汽转换为 95 度的水。所以只有当精炼金属的冷却剂的温度提升到 125 度以上时，才可以用来发电。用水做冷却剂显然不行，因为水的沸点只有 100 度，冷却剂会气化，导致冷却管损坏。而石油是游戏初期最为常用的精炼冷却剂：它在 540 度左右才会发生相变。只要用石油做冷却剂炼钢，在炼钢的过程中会获得大量熔解铁的热，温度升到 200 度，然后送去蒸汽机还原为水，就能发电了，发的电将超过运行精炼机的电开销。 对大部分玩家来说，用石油冷却炼钢，通常是在游戏中学会的第一个主动热量控制的玩法。如果没有做足功课（比如看老玩家的攻略）自己研究缺氧的话，在面多了加水，水多了合面的试错过程中，一般会在基地变成蒸笼后第一次思考热控制的问题：看起来游戏中大部分的生产活动，哪怕只是小人闲逛，都是电能或生物能想热的单向转换。而游戏中提供的字面意义上的降温机器，似乎都在转移热量，而不是消除热量。这导致了整个基地的热会缓慢的上升，直到不适合生存。 初看蒸汽机需要在 125 度以上蒸汽的高温环境才能工作，却可以用来消除热，有点反直觉，细想又些合理之处。这就是游戏提供的挑战：先把温度（通过某种热交换）升上去，再用蒸汽机降下来，从中删除热。至于输出的 95 度的水依然温度很高，但绝对热量减少了。接下来，可以再利用冷凝机，消耗电制造温差降温（但不删除热），把温度继续降低到常温。这个过程也和现实不同，不遵守能量守恒：制造温差是需要输入电能的。 缺氧玩下去，直到通关。一直在挑战玩家，怎么获得极低的低温，如何掌控极高的高温。...]]></summary>
         <author>
             <name>云风的 BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suno Tasks API 的对接和使用]]></title>
-        <id>https://cuiqingcai.com/3905992.html</id>
-        <link href="https://cuiqingcai.com/3905992.html"/>
-        <updated>2026-05-15T20:33:12.000Z</updated>
-        <summary type="html"><![CDATA[<p>Suno Tasks API 的主要功能是通过输入 Suno Audios Generation API 或 Suno Lyrics Generation API 生成的任务ID来查询该任务的执行情况。</p>
-<p>本文档将详细介绍 Suno Tasks API 的对接说]]></summary>
-        <author>
-            <name>静觅</name>
         </author>
     </entry>
     <entry>

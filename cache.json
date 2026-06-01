@@ -61,7 +61,18 @@
       "title": "Manjusaka",
       "feedUrl": "https://manjusaka.itscoder.com/atom.xml",
       "siteUrl": "https://www.manjusaka.blog/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.manjusaka.blog/posts/2026/05/31/optimize-picimpact-self-hosted-gallery/",
+          "author": null,
+          "description": "<p>和 Debug 日志、SRE 日志一个系列，优化日志用来复盘一些可以公开的折腾经历。</p>\n<p>这一篇的主角是 PicImpact——我自己在用的那个开源图床，跑在 photos.manjusaka.me 上，托管着我这几年拍的猫猫狗狗。去年年终总结里我写过一句「把自建图床项目的代码拾掇了很多」，这篇就算是那句话的注脚。前后断断续续修了一轮，修复点其实都不大，但中间冒出来的几个回归是真的有意思，尤其是最后那个 WebGL 的坑，我愿称之为本年度最佳。</p>",
+          "link": "https://www.manjusaka.blog/posts/2026/05/31/optimize-picimpact-self-hosted-gallery/",
+          "publishedOn": "2026-05-31T16:30:00.000Z",
+          "wordCount": 2501,
+          "title": "优化日志：给自建图床 PicImpact 做一次大范围性能优化",
+          "imageUrl": "https://cdn.pixabay.com/photo/2023/01/30/19/40/gulls-7756481_1280.jpg"
+        }
+      ]
     },
     {
       "title": "laike9m's blog",
@@ -107,16 +118,6 @@
           "wordCount": 92,
           "title": "缺氧和异星工厂的比较",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.codingnow.com/2026/05/oni_geotherm.html",
-          "author": null,
-          "description": "又玩了半个月的缺氧，目前累积游戏时间已达 645 小时，感觉对这个游戏有了更多理解。 我重新开了一盘，尝试用纯仿生人开局，依旧是保持 3 个初始小人开荒。仿生人不用吃食物，三个周期集中做一次呼吸，只要解决了能源问题，玩起来还是很舒服的。但仿生人需要定期上油，基本的方案是用排泄的残渣油做成润滑膏自循环。但我在查配方表的时候发现：润滑膏其实可以裂解成石油，而润滑则可以用菌泥榨成植物油替代。这样，似乎就多了一种方法在游戏初期拿到石油。 在我的理解中，缺氧的石油在开荒期的主要用途是做精炼金属的冷却剂，配合蒸汽机可以做到净增的电能。和现实常识不同，缺氧的世界是不遵守能量守恒的。金属精炼机消耗固定的电能功率，同时把金属熔解需要的热传递到冷却剂中。也就是输入固定的电能，输出不确定的热能。而蒸汽机则可将热转换为电。这导致，精炼某些金属，比如游戏开荒期急缺的钢，不仅不消耗电，还能产电。 但蒸汽机有个使用门槛：它只能将 125~200 度的蒸汽转换为 95 度的水。所以只有当精炼金属的冷却剂的温度提升到 125 度以上时，才可以用来发电。用水做冷却剂显然不行，因为水的沸点只有 100 度，冷却剂会气化，导致冷却管损坏。而石油是游戏初期最为常用的精炼冷却剂：它在 540 度左右才会发生相变。只要用石油做冷却剂炼钢，在炼钢的过程中会获得大量熔解铁的热，温度升到 200 度，然后送去蒸汽机还原为水，就能发电了，发的电将超过运行精炼机的电开销。 对大部分玩家来说，用石油冷却炼钢，通常是在游戏中学会的第一个主动热量控制的玩法。如果没有做足功课（比如看老玩家的攻略）自己研究缺氧的话，在面多了加水，水多了合面的试错过程中，一般会在基地变成蒸笼后第一次思考热控制的问题：看起来游戏中大部分的生产活动，哪怕只是小人闲逛，都是电能或生物能想热的单向转换。而游戏中提供的字面意义上的降温机器，似乎都在转移热量，而不是消除热量。这导致了整个基地的热会缓慢的上升，直到不适合生存。 初看蒸汽机需要在 125 度以上蒸汽的高温环境才能工作，却可以用来消除热，有点反直觉，细想又些合理之处。这就是游戏提供的挑战：先把温度（通过某种热交换）升上去，再用蒸汽机降下来，从中删除热。至于输出的 95 度的水依然温度很高，但绝对热量减少了。接下来，可以再利用冷凝机，消耗电制造温差降温（但不删除热），把温度继续降低到常温。这个过程也和现实不同，不遵守能量守恒：制造温差是需要输入电能的。 缺氧玩下去，直到通关。一直在挑战玩家，怎么获得极低的低温，如何掌控极高的高温。...",
-          "link": "https://blog.codingnow.com/2026/05/oni_geotherm.html",
-          "publishedOn": "2026-05-16T15:57:29.000Z",
-          "wordCount": 242,
-          "title": "oni_geotherm",
-          "imageUrl": null
         }
       ]
     },
@@ -131,6 +132,26 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3237381.html",
+          "author": null,
+          "description": "<p>本文将介绍一种 身份证识别及信息核验 API 对接说明，它可以通过输入身份证图片 或 姓名和身份证号码，来校验姓名和身份证号的真实性和一致性。本接口用于校验姓名和身份证号的真实性和一致性，您可以通过输入姓名和身份证号或传入身份证人像面照片提供所需验证信息。</p>\n<h2",
+          "link": "https://cuiqingcai.com/3237381.html",
+          "publishedOn": "2026-05-31T06:23:01.000Z",
+          "wordCount": 1367,
+          "title": "身份证识别及信息核验 API 对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/q6ytrc.png"
+        },
+        {
+          "id": "https://cuiqingcai.com/3202885.html",
+          "author": null,
+          "description": "<p>本文将介绍 Sora Videos Generation API 的对接说明，通过该 API 可以输入自定义参数来生成 Sora 官方的视频。本 API 支持两种版本模式：</p>\n<ul>\n  <li><strong>Version 1（经典模式）</strong>：支持",
+          "link": "https://cuiqingcai.com/3202885.html",
+          "publishedOn": "2026-05-30T20:48:05.000Z",
+          "wordCount": 1948,
+          "title": "Sora Videos Generation API 对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/q6ytrc.png"
+        },
         {
           "id": "https://cuiqingcai.com/3117322.html",
           "author": null,
@@ -310,16 +331,6 @@
           "wordCount": 1334,
           "title": "Claude Code + Flux MCP：终端里一句话生成 AI 图片",
           "imageUrl": "https://cdn.acedata.cloud/58te19.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3992971.html",
-          "author": null,
-          "description": "<p>本文将介绍 Veo Extend API 的对接说明。该接口用于对一段已经生成的 Veo 视频进行<strong>时长延展</strong>，AI 会自动续写后续画面。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\"",
-          "link": "https://cuiqingcai.com/3992971.html",
-          "publishedOn": "2026-05-16T20:42:51.000Z",
-          "wordCount": 1257,
-          "title": "Veo Extend API 对接说明",
-          "imageUrl": null
         }
       ]
     },

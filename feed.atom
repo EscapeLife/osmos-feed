@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-06-01T02:54:17.548Z</updated>
+    <updated>2026-06-02T02:51:27.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JetBrains 对接 Seedream MCP]]></title>
+        <id>https://cuiqingcai.com/3329522.html</id>
+        <link href="https://cuiqingcai.com/3329522.html"/>
+        <updated>2026-06-01T07:58:42.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+  <p>📘 <strong>完整指南</strong>：<a href="https://platform.acedata.cloud/documents/promotion_article_mcp_all_jetbrains" target="_b]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上传文件到 AceDataCloud 平台 CDN]]></title>
+        <id>https://cuiqingcai.com/3290105.html</id>
+        <link href="https://cuiqingcai.com/3290105.html"/>
+        <updated>2026-05-31T21:01:45.000Z</updated>
+        <summary type="html"><![CDATA[<p>把本地文件上传到 AceDataCloud 平台 CDN，获得一个<strong>永久可访问的 URL</strong>（<code>https://cdn.acedata.cloud/xxxxxx.png</code> 风格），可立即在其他业务接口（如 Midjourne]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[优化日志：给自建图床 PicImpact 做一次大范围性能优化]]></title>
         <id>https://www.manjusaka.blog/posts/2026/05/31/optimize-picimpact-self-hosted-gallery/</id>
@@ -232,17 +253,6 @@
         <updated>2026-05-18T20:40:40.000Z</updated>
         <summary type="html"><![CDATA[<p>你有没有想过，写一篇文章、发一个 GitHub Repo，然后在你睡觉、上课、旅行的时候，账户里的佣金还在持续增长？</p>
 <p>这不是幻想。在 <a href="https://platform.acedata.cloud" target="_blank" rel="n]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code + Flux MCP：终端里一句话生成 AI 图片]]></title>
-        <id>https://cuiqingcai.com/3079605.html</id>
-        <link href="https://cuiqingcai.com/3079605.html"/>
-        <updated>2026-05-17T20:46:45.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-  <p>📘 <strong>完整指南</strong>：<a href="https://platform.acedata.cloud/documents/promotion_article_mcp_all_claude_code" target="]]></summary>
         <author>
             <name>静觅</name>
         </author>

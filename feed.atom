@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-06-02T02:51:27.178Z</updated>
+    <updated>2026-06-03T03:25:45.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Trend of Agentic Coding Products]]></title>
+        <id>https://laike9m.com/blog/agent-coding-trend,173/</id>
+        <link href="https://laike9m.com/blog/agent-coding-trend,173/"/>
+        <updated>2026-06-02T06:50:18.000Z</updated>
+        <summary type="html"><![CDATA[没有简介, 请去看原文吧]]></summary>
+        <author>
+            <name>laike9m's blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenCode MCP Overview]]></title>
+        <id>https://cuiqingcai.com/3410406.html</id>
+        <link href="https://cuiqingcai.com/3410406.html"/>
+        <updated>2026-06-02T06:26:46.000Z</updated>
+        <summary type="html"><![CDATA[<p>OpenCode 本身擅长读代码、改文件、跑命令、解释报错；MCP 则让它在同一个终端会话里继续调用外部工具。AceData Cloud 把音乐、图片、视频、搜索、短链这些能力做成托管式远程 MCP Server，你不需要本地启动服务，也不需要为每个工具维护不同账号。</p]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windsurf 对接 Hailuo (MiniMax) MCP]]></title>
+        <id>https://cuiqingcai.com/3375919.html</id>
+        <link href="https://cuiqingcai.com/3375919.html"/>
+        <updated>2026-06-01T20:51:59.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+  <p>📘 <strong>完整指南</strong>：<a href="https://platform.acedata.cloud/documents/promotion_article_mcp_all_windsurf" target="_bl]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JetBrains 对接 Seedream MCP]]></title>
         <id>https://cuiqingcai.com/3329522.html</id>
@@ -94,6 +125,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[想 Vibe 就别错过这个巨大的流动知识库]]></title>
+        <id>https://macshuo.com/?p=2045</id>
+        <link href="https://macshuo.com/?p=2045"/>
+        <updated>2026-05-28T15:07:00.000Z</updated>
+        <summary type="html"><![CDATA[周末的时候我主要看书写东西，拍照徒步，周末最好给自己一种跳出圈外的机会，多思考， … Continue reading →]]></summary>
+        <author>
+            <name>MacTalk</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Windsurf + NanoBanana MCP]]></title>
         <id>https://cuiqingcai.com/3980573.html</id>
         <link href="https://cuiqingcai.com/3980573.html"/>
@@ -147,6 +188,16 @@
   <li>文生视频（text2video）：把你的镜头设想直接写成提示词；</l]]></summary>
         <author>
             <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[墨问 Web 社区版本上线，本月 墨问 cli 之后的第二个发布]]></title>
+        <id>https://macshuo.com/?p=2035</id>
+        <link href="https://macshuo.com/?p=2035"/>
+        <updated>2026-05-25T15:01:00.000Z</updated>
+        <summary type="html"><![CDATA[现在墨问有小程序版本，墨问命令行版本，还有了 Web 社区版。 https:// … Continue reading →]]></summary>
+        <author>
+            <name>MacTalk</name>
         </author>
     </entry>
     <entry>
@@ -242,17 +293,6 @@
         <updated>2026-05-19T20:48:45.000Z</updated>
         <summary type="html"><![CDATA[<p>NanoBanana 跟其他 AI 画图工具不太一样——它不只是”画一张新图”，更强的是”改一张旧图”。底层用的是 Google Gemini 模型，真正理解图片内容，可以精确编辑。</p>
 <p>最实用的能力：扔给它两张图，让它把 A 图的产品放到 B 图的背景上，或者以]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被动收入实战：如何通过内容沉淀实现 AI 分销的睡后收入]]></title>
-        <id>https://cuiqingcai.com/3165640.html</id>
-        <link href="https://cuiqingcai.com/3165640.html"/>
-        <updated>2026-05-18T20:40:40.000Z</updated>
-        <summary type="html"><![CDATA[<p>你有没有想过，写一篇文章、发一个 GitHub Repo，然后在你睡觉、上课、旅行的时候，账户里的佣金还在持续增长？</p>
-<p>这不是幻想。在 <a href="https://platform.acedata.cloud" target="_blank" rel="n]]></summary>
         <author>
             <name>静觅</name>
         </author>

@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-06-03T03:25:45.655Z</updated>
+    <updated>2026-06-04T02:55:07.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[为何写作]]></title>
+        <id>https://www.kawabangga.com/?p=7288</id>
+        <link href="https://www.kawabangga.com/posts/7288"/>
+        <updated>2026-06-03T11:10:00.000Z</updated>
+        <summary type="html"><![CDATA[RSS 上出现越来越多用 AI 生成的文章，我想谈谈写作（尤其是写博客）的意义，以及为什么用 AI 生成文章是 […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Codex CLI 对接 Flux MCP]]></title>
+        <id>https://cuiqingcai.com/3497764.html</id>
+        <link href="https://cuiqingcai.com/3497764.html"/>
+        <updated>2026-06-03T06:42:44.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+  <p>📘 <strong>完整指南</strong>：<a href="https://platform.acedata.cloud/documents/promotion_article_mcp_all_codex" target="_blank]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cursor 对接 Fish 语音 MCP]]></title>
+        <id>https://cuiqingcai.com/3462968.html</id>
+        <link href="https://cuiqingcai.com/3462968.html"/>
+        <updated>2026-06-02T21:02:48.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+  <p>📘 <strong>Overview</strong>：<a href="https://platform.acedata.cloud/documents/promotion_article_mcp_all_cursor" target="_]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trend of Agentic Coding Products]]></title>
         <id>https://laike9m.com/blog/agent-coding-trend,173/</id>
@@ -270,29 +303,6 @@
         <link href="https://cuiqingcai.com/3425389.html"/>
         <updated>2026-05-21T20:49:49.000Z</updated>
         <summary type="html"><![CDATA[<p>本接口基于 <a href="https://docs.fish.audio/resources/api-reference/model" target="_blank" rel="noopener">Fish Audio 官方 Model API</a>，用于<stron]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[零成本做 AI 副业：用一条链接，赚到你的第一桶金，手把手教你]]></title>
-        <id>https://cuiqingcai.com/3286356.html</id>
-        <link href="https://cuiqingcai.com/3286356.html"/>
-        <updated>2026-05-20T06:12:36.000Z</updated>
-        <summary type="html"><![CDATA[<p>AI 时代来了，很多人已经用 AI 赚的盆满钵满了，可能很多朋友也想加入这个浪潮，但感觉 AI 离自己很远不知道怎么切入。 不用担心，这篇文章会介绍一个零成本无风险帮助你用 AI 赚钱的方法，大家快来试试吧！仔细看下面的文章。</p>
-<blockquote>
-  <p>如]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cursor + NanoBanana MCP：谷歌 Gemini 驱动的 AI 修图，编辑器里直接用]]></title>
-        <id>https://cuiqingcai.com/3252525.html</id>
-        <link href="https://cuiqingcai.com/3252525.html"/>
-        <updated>2026-05-19T20:48:45.000Z</updated>
-        <summary type="html"><![CDATA[<p>NanoBanana 跟其他 AI 画图工具不太一样——它不只是”画一张新图”，更强的是”改一张旧图”。底层用的是 Google Gemini 模型，真正理解图片内容，可以精确编辑。</p>
-<p>最实用的能力：扔给它两张图，让它把 A 图的产品放到 B 图的背景上，或者以]]></summary>
         <author>
             <name>静觅</name>
         </author>

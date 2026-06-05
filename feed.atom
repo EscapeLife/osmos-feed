@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-06-04T02:55:07.089Z</updated>
+    <updated>2026-06-05T02:43:09.543Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CatReader 上线：重启 RSS 阅读]]></title>
+        <id>https://macshuo.com/?p=2050</id>
+        <link href="https://macshuo.com/?p=2050"/>
+        <updated>2026-06-04T12:20:02.000Z</updated>
+        <summary type="html"><![CDATA[自从 AI 的 Vibe Coding 能力突飞猛进之后，我自己也没闲着，做了好 … Continue reading →]]></summary>
+        <author>
+            <name>MacTalk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cline 对接 Kling MCP]]></title>
+        <id>https://cuiqingcai.com/3583388.html</id>
+        <link href="https://cuiqingcai.com/3583388.html"/>
+        <updated>2026-06-04T06:29:48.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+  <p>📘 <strong>完整指南</strong>：<a href="https://platform.acedata.cloud/documents/promotion_article_mcp_all_cline" target="_blank]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini CLI 对接 Seedance MCP]]></title>
+        <id>https://cuiqingcai.com/3549574.html</id>
+        <link href="https://cuiqingcai.com/3549574.html"/>
+        <updated>2026-06-03T21:06:14.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+  <p>📘 <strong>完整指南</strong>：<a href="https://platform.acedata.cloud/documents/promotion_article_mcp_all_gemini_cli" target="_]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为何写作]]></title>
         <id>https://www.kawabangga.com/?p=7288</id>

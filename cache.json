@@ -45,6 +45,16 @@
       "siteUrl": "https://macshuo.com",
       "articles": [
         {
+          "id": "https://macshuo.com/?p=2050",
+          "author": "MacTalk",
+          "description": "自从 AI 的 Vibe Coding 能力突飞猛进之后，我自己也没闲着，做了好 … Continue reading →",
+          "link": "https://macshuo.com/?p=2050",
+          "publishedOn": "2026-06-04T12:20:02.000Z",
+          "wordCount": 1040,
+          "title": "CatReader 上线：重启 RSS 阅读",
+          "imageUrl": null
+        },
+        {
           "id": "https://macshuo.com/?p=2045",
           "author": "MacTalk",
           "description": "周末的时候我主要看书写东西，拍照徒步，周末最好给自己一种跳出圈外的机会，多思考， … Continue reading →",
@@ -175,6 +185,26 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3583388.html",
+          "author": null,
+          "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/promotion_article_mcp_all_cline\" target=\"_blank",
+          "link": "https://cuiqingcai.com/3583388.html",
+          "publishedOn": "2026-06-04T06:29:48.000Z",
+          "wordCount": 1254,
+          "title": "Cline 对接 Kling MCP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cuiqingcai.com/3549574.html",
+          "author": null,
+          "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/promotion_article_mcp_all_gemini_cli\" target=\"_",
+          "link": "https://cuiqingcai.com/3549574.html",
+          "publishedOn": "2026-06-03T21:06:14.000Z",
+          "wordCount": 1252,
+          "title": "Gemini CLI 对接 Seedance MCP",
+          "imageUrl": null
+        },
         {
           "id": "https://cuiqingcai.com/3497764.html",
           "author": null,

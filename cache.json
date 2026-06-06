@@ -186,6 +186,26 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3669113.html",
+          "author": null,
+          "description": "<p><a href=\"https://modelcontextprotocol.io\" target=\"_blank\" rel=\"noopener\">MCP（Model Context Protocol）</a> 是由 Anthropic 推出的模型上下文协议，允许 AI 模型",
+          "link": "https://cuiqingcai.com/3669113.html",
+          "publishedOn": "2026-06-05T06:18:33.000Z",
+          "wordCount": 1586,
+          "title": "Seedance MCP 对接指南",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cuiqingcai.com/3634779.html",
+          "author": null,
+          "description": "<p>除了直接按 API 请求付费，Ace Data Cloud 也支持用 X402 支付控制台订单。订单支付和 API 调用的核心协议相同：第一次请求返回 402，客户端签出 <code>X-Payment</code>，然后用同一个请求重试。</p>\n<p>区别在于订单支付属",
+          "link": "https://cuiqingcai.com/3634779.html",
+          "publishedOn": "2026-06-04T20:46:19.000Z",
+          "wordCount": 1597,
+          "title": "X402 订单支付教程",
+          "imageUrl": null
+        },
+        {
           "id": "https://cuiqingcai.com/3583388.html",
           "author": null,
           "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/promotion_article_mcp_all_cline\" target=\"_blank",
@@ -403,26 +423,6 @@
           "publishedOn": "2026-05-22T20:53:48.000Z",
           "wordCount": 1373,
           "title": "轮换 AceDataCloud 平台 API 凭证",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3459725.html",
-          "author": null,
-          "description": "<p>本文将介绍一种 Fish Audios Generation API 对接说明，它是可以通过输入提示词来克隆自己的音色。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title=\"申请流程\"></a>申请流程</",
-          "link": "https://cuiqingcai.com/3459725.html",
-          "publishedOn": "2026-05-22T06:22:05.000Z",
-          "wordCount": 1402,
-          "title": "Fish Audios Generation API 对接说明",
-          "imageUrl": "https://cdn.acedata.cloud/q6ytrc.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/3425389.html",
-          "author": null,
-          "description": "<p>本接口基于 <a href=\"https://docs.fish.audio/resources/api-reference/model\" target=\"_blank\" rel=\"noopener\">Fish Audio 官方 Model API</a>，用于<stron",
-          "link": "https://cuiqingcai.com/3425389.html",
-          "publishedOn": "2026-05-21T20:49:49.000Z",
-          "wordCount": 1586,
-          "title": "Fish Model Get API 对接说明",
           "imageUrl": null
         }
       ]

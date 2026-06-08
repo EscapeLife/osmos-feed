@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-06-07T02:49:48.126Z</updated>
+    <updated>2026-06-08T02:52:12.558Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[查询 AceDataCloud 平台分销推广信息]]></title>
+        <id>https://cuiqingcai.com/3810169.html</id>
+        <link href="https://cuiqingcai.com/3810169.html"/>
+        <updated>2026-06-06T21:29:29.000Z</updated>
+        <summary type="html"><![CDATA[<p>返回当前账户的<strong>分销（联盟营销 / Affiliate）数据</strong>——包括分销专属链接、邀请的下级用户数、累计佣金、可提现余额、近期成交记录等。</p>
+<p>适用场景：</p>
+<ul>
+  <li>在你自己的产品里嵌入「赚取佣金」面板。</li]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谁说 ChatGTP 和 Codex 合体了？]]></title>
         <id>https://macshuo.com/?p=2063</id>
@@ -323,17 +336,6 @@ Continue reading...]]></summary>
         <link href="https://cuiqingcai.com/3684963.html"/>
         <updated>2026-05-24T20:56:03.000Z</updated>
         <summary type="html"><![CDATA[<p>AceDataCloud 平台把所有可调用的功能模块抽象为「服务（Service）」——例如 Midjourney 出图、OpenAI 对话、Suno 出歌、Veo 出片、Web 抓取、SERP 搜索等。本接口返回平台上<strong>全部可申请的服务清单</strong>]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wisdom — 微信桌面自动化 SaaS]]></title>
-        <id>https://cuiqingcai.com/3597744.html</id>
-        <link href="https://cuiqingcai.com/3597744.html"/>
-        <updated>2026-05-23T20:42:24.000Z</updated>
-        <summary type="html"><![CDATA[<p>Wisdom 是一个把微信桌面客户端封装成 HTTP / MCP API 的自动化服务,在 AceDataCloud 平台以<strong>独立的腾讯云 CVM 实例</strong>形式按租户独立部署。</p>
-<h2 id="适用场景"><a href="#适用场景"]]></summary>
         <author>
             <name>静觅</name>
         </author>

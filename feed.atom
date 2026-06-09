@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-06-08T02:52:12.558Z</updated>
+    <updated>2026-06-09T02:29:28.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Midjourney Imagine API 申请及使用]]></title>
+        <id>https://cuiqingcai.com/3895691.html</id>
+        <link href="https://cuiqingcai.com/3895691.html"/>
+        <updated>2026-06-07T21:14:51.000Z</updated>
+        <summary type="html"><![CDATA[<p>Midjourney 是一款非常强大的 AI 绘图工具，只要输入关键字，就能在短短一两分钟生成十分精美的图像。Midjourney 以其出色的绘图能力在业界独树一帜，如今，Midjourney 早已在各个行业和领域广泛应用，其影响力愈发显著。</p>
+<p>本文档主要介绍]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[查询 AceDataCloud 平台分销推广信息]]></title>
         <id>https://cuiqingcai.com/3810169.html</id>
@@ -317,27 +328,6 @@ Continue reading...]]></summary>
         <summary type="html"><![CDATA[现在墨问有小程序版本，墨问命令行版本，还有了 Web 社区版。 https:// … Continue reading →]]></summary>
         <author>
             <name>MacTalk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nano Banana Tasks API 的对接和使用]]></title>
-        <id>https://cuiqingcai.com/3720891.html</id>
-        <link href="https://cuiqingcai.com/3720891.html"/>
-        <updated>2026-05-25T06:54:51.000Z</updated>
-        <summary type="html"><![CDATA[<p>Nano Banana Tasks API 的主要功能是通过输入 Nano Banana Images API 生成的任务 ID 来查询该任务的执行情况。</p>
-<p>本文档将详细介绍 Nano Banana Tasks API 的对接说明，帮助您轻松集成并充分利用该 A]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[获取 AceDataCloud 平台服务列表]]></title>
-        <id>https://cuiqingcai.com/3684963.html</id>
-        <link href="https://cuiqingcai.com/3684963.html"/>
-        <updated>2026-05-24T20:56:03.000Z</updated>
-        <summary type="html"><![CDATA[<p>AceDataCloud 平台把所有可调用的功能模块抽象为「服务（Service）」——例如 Midjourney 出图、OpenAI 对话、Suno 出歌、Veo 出片、Web 抓取、SERP 搜索等。本接口返回平台上<strong>全部可申请的服务清单</strong>]]></summary>
-        <author>
-            <name>静觅</name>
         </author>
     </entry>
     <entry>

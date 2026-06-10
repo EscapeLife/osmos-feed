@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-06-09T02:29:28.470Z</updated>
+    <updated>2026-06-10T02:43:15.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JetBrains 对接 Luma MCP]]></title>
+        <id>https://cuiqingcai.com/3013656.html</id>
+        <link href="https://cuiqingcai.com/3013656.html"/>
+        <updated>2026-06-09T06:00:56.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+  <p>📘 <strong>完整指南</strong>：<a href="https://platform.acedata.cloud/documents/promotion_article_mcp_all_jetbrains" target="_b]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini CLI 对接 Hailuo (MiniMax) MCP]]></title>
+        <id>https://cuiqingcai.com/3981775.html</id>
+        <link href="https://cuiqingcai.com/3981775.html"/>
+        <updated>2026-06-08T21:09:35.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+  <p>📘 <strong>完整指南</strong>：<a href="https://platform.acedata.cloud/documents/promotion_article_mcp_all_gemini_cli" target="_]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Midjourney Imagine API 申请及使用]]></title>
         <id>https://cuiqingcai.com/3895691.html</id>
@@ -58,6 +80,16 @@
         <summary type="html"><![CDATA[<p><a href="https://modelcontextprotocol.io" target="_blank" rel="noopener">MCP（Model Context Protocol）</a> 是由 Anthropic 推出的模型上下文协议，允许 AI 模型]]></summary>
         <author>
             <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 399 期）：中国 AI 大厂访问记]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html"/>
+        <updated>2026-06-05T00:07:45.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
         </author>
     </entry>
     <entry>
@@ -244,6 +276,16 @@ Continue reading...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 398 期）：Token 费用难以负担]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html"/>
+        <updated>2026-05-29T00:08:39.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Midjourney Edits API 对接说明]]></title>
         <id>https://cuiqingcai.com/3029512.html</id>
         <link href="https://cuiqingcai.com/3029512.html"/>
@@ -306,48 +348,6 @@ Continue reading...]]></summary>
   <p>📘 <strong>完整指南</strong>：<a href="https://platform.acedata.cloud/documents/promotion_article_mcp_claude_ai_remote" target=]]></summary>
         <author>
             <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[电影感，不再需要大团队：Veo 视频生成 API，把镜头语言交给 AI（含超多示例与图例）]]></title>
-        <id>https://cuiqingcai.com/3770457.html</id>
-        <link href="https://cuiqingcai.com/3770457.html"/>
-        <updated>2026-05-25T20:40:57.000Z</updated>
-        <summary type="html"><![CDATA[<p>想要一条“看起来就贵”的视频，以前意味着大量人力：分镜、拍摄、灯光、后期……时间长、成本高。Ace Data Cloud 的 Veo Videos API 让事情变得不同：</p>
-<ul>
-  <li>文生视频（text2video）：把你的镜头设想直接写成提示词；</l]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[墨问 Web 社区版本上线，本月 墨问 cli 之后的第二个发布]]></title>
-        <id>https://macshuo.com/?p=2035</id>
-        <link href="https://macshuo.com/?p=2035"/>
-        <updated>2026-05-25T15:01:00.000Z</updated>
-        <summary type="html"><![CDATA[现在墨问有小程序版本，墨问命令行版本，还有了 Web 社区版。 https:// … Continue reading →]]></summary>
-        <author>
-            <name>MacTalk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 352 期）：Bug 追踪系统的正确样子]]></title>
-        <id>http://www.ruanyifeng.com/blog/2025/06/weekly-issue-352.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-352.html"/>
-        <updated>2025-06-12T23:35:45.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 351 期）：GitHub Issues（几乎）是最好的笔记应用]]></title>
-        <id>http://www.ruanyifeng.com/blog/2025/06/weekly-issue-351.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-351.html"/>
-        <updated>2025-06-06T00:05:28.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
         </author>
     </entry>
 </feed>

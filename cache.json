@@ -18,23 +18,23 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
-          "id": "http://www.ruanyifeng.com/blog/2025/06/weekly-issue-352.html",
+          "id": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2025/06/weekly-issue-352.html",
-          "publishedOn": "2025-06-12T23:35:45.000Z",
+          "link": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html",
+          "publishedOn": "2026-06-05T00:07:45.000Z",
           "wordCount": null,
-          "title": "科技爱好者周刊（第 352 期）：Bug 追踪系统的正确样子",
+          "title": "科技爱好者周刊（第 399 期）：中国 AI 大厂访问记",
           "imageUrl": null
         },
         {
-          "id": "http://www.ruanyifeng.com/blog/2025/06/weekly-issue-351.html",
+          "id": "http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2025/06/weekly-issue-351.html",
-          "publishedOn": "2025-06-06T00:05:28.000Z",
+          "link": "http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html",
+          "publishedOn": "2026-05-29T00:08:39.000Z",
           "wordCount": null,
-          "title": "科技爱好者周刊（第 351 期）：GitHub Issues（几乎）是最好的笔记应用",
+          "title": "科技爱好者周刊（第 398 期）：Token 费用难以负担",
           "imageUrl": null
         }
       ]
@@ -72,16 +72,6 @@
           "publishedOn": "2026-05-28T15:07:00.000Z",
           "wordCount": 937,
           "title": "想 Vibe 就别错过这个巨大的流动知识库",
-          "imageUrl": null
-        },
-        {
-          "id": "https://macshuo.com/?p=2035",
-          "author": "MacTalk",
-          "description": "现在墨问有小程序版本，墨问命令行版本，还有了 Web 社区版。 https:// … Continue reading →",
-          "link": "https://macshuo.com/?p=2035",
-          "publishedOn": "2026-05-25T15:01:00.000Z",
-          "wordCount": 916,
-          "title": "墨问 Web 社区版本上线，本月 墨问 cli 之后的第二个发布",
           "imageUrl": null
         }
       ]
@@ -184,6 +174,26 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3013656.html",
+          "author": null,
+          "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/promotion_article_mcp_all_jetbrains\" target=\"_b",
+          "link": "https://cuiqingcai.com/3013656.html",
+          "publishedOn": "2026-06-09T06:00:56.000Z",
+          "wordCount": 1257,
+          "title": "JetBrains 对接 Luma MCP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cuiqingcai.com/3981775.html",
+          "author": null,
+          "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/promotion_article_mcp_all_gemini_cli\" target=\"_",
+          "link": "https://cuiqingcai.com/3981775.html",
+          "publishedOn": "2026-06-08T21:09:35.000Z",
+          "wordCount": 1260,
+          "title": "Gemini CLI 对接 Hailuo (MiniMax) MCP",
+          "imageUrl": null
+        },
         {
           "id": "https://cuiqingcai.com/3895691.html",
           "author": null,
@@ -403,16 +413,6 @@
           "wordCount": 1627,
           "title": "Claude.ai + Midjourney MCP：一句话调出 4 张高清概念图，亲测全流程",
           "imageUrl": "https://cdn.acedata.cloud/4c05821aab.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/3770457.html",
-          "author": null,
-          "description": "<p>想要一条“看起来就贵”的视频，以前意味着大量人力：分镜、拍摄、灯光、后期……时间长、成本高。Ace Data Cloud 的 Veo Videos API 让事情变得不同：</p>\n<ul>\n  <li>文生视频（text2video）：把你的镜头设想直接写成提示词；</l",
-          "link": "https://cuiqingcai.com/3770457.html",
-          "publishedOn": "2026-05-25T20:40:57.000Z",
-          "wordCount": 1541,
-          "title": "电影感，不再需要大团队：Veo 视频生成 API，把镜头语言交给 AI（含超多示例与图例）",
-          "imageUrl": "https://cdn.acedata.cloud/vv5pe8.png"
         }
       ]
     },

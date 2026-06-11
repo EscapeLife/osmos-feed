@@ -88,6 +88,16 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=7292",
+          "author": "laixintao",
+          "description": "这篇文章写一下服务器的网络方面的调优经验。如果网络的带宽使用在 1GE，其实没有必要做调优，默认的参数基本没有 […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/7292",
+          "publishedOn": "2026-06-10T11:52:00.000Z",
+          "wordCount": 4738,
+          "title": "服务器高性能网络调优",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=7288",
           "author": "laixintao",
           "description": "RSS 上出现越来越多用 AI 生成的文章，我想谈谈写作（尤其是写博客）的意义，以及为什么用 AI 生成文章是 […]\nContinue reading...",
@@ -174,6 +184,26 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3100510.html",
+          "author": null,
+          "description": "<p>连接器（Connector）是 AceData Cloud / Nexior 平台为 AI 助手提供的「外部能力总线」。它把 GitHub、Google Drive、Notion、Slack、Linear 等 Web 应用，以及社区里所有遵循 MCP（Model Conte",
+          "link": "https://cuiqingcai.com/3100510.html",
+          "publishedOn": "2026-06-10T06:08:30.000Z",
+          "wordCount": 1379,
+          "title": "连接器（Connector）使用教程",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cuiqingcai.com/3066996.html",
+          "author": null,
+          "description": "<p>通过 Application ID 获取单个服务申请的完整状态——比列表接口多出 <code>service</code> 完整对象（含 <code>packages</code> 套餐）、<code>credentials_count</code> 等字段，适用于详情页。",
+          "link": "https://cuiqingcai.com/3066996.html",
+          "publishedOn": "2026-06-09T20:49:56.000Z",
+          "wordCount": 1394,
+          "title": "获取 AceDataCloud 平台服务申请详情",
+          "imageUrl": null
+        },
         {
           "id": "https://cuiqingcai.com/3013656.html",
           "author": null,
@@ -393,26 +423,6 @@
           "wordCount": 1396,
           "title": "Claude Code + Google 搜索 MCP：终端里直接搜 Google，不用切浏览器",
           "imageUrl": "https://cdn.acedata.cloud/58te19.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3892501.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>这是一篇总览文章：<strong>把 AceData Cloud 提供的 11 个 MCP Server 一次性接到 <a href=\"https://github.com/openai/codex\" target=\"_blank\" rel=\"",
-          "link": "https://cuiqingcai.com/3892501.html",
-          "publishedOn": "2026-05-27T06:35:01.000Z",
-          "wordCount": 1495,
-          "title": "在 OpenAI Codex CLI 里用 AceData Cloud MCP — 终端 AI 工具全能配置",
-          "imageUrl": "https://cdn.acedata.cloud/58te19.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3859422.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/promotion_article_mcp_claude_ai_remote\" target=",
-          "link": "https://cuiqingcai.com/3859422.html",
-          "publishedOn": "2026-05-26T21:23:42.000Z",
-          "wordCount": 1627,
-          "title": "Claude.ai + Midjourney MCP：一句话调出 4 张高清概念图，亲测全流程",
-          "imageUrl": "https://cdn.acedata.cloud/4c05821aab.png"
         }
       ]
     },

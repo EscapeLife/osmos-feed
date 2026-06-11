@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-06-10T02:43:15.748Z</updated>
+    <updated>2026-06-11T02:52:47.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[服务器高性能网络调优]]></title>
+        <id>https://www.kawabangga.com/?p=7292</id>
+        <link href="https://www.kawabangga.com/posts/7292"/>
+        <updated>2026-06-10T11:52:00.000Z</updated>
+        <summary type="html"><![CDATA[这篇文章写一下服务器的网络方面的调优经验。如果网络的带宽使用在 1GE，其实没有必要做调优，默认的参数基本没有 […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[连接器（Connector）使用教程]]></title>
+        <id>https://cuiqingcai.com/3100510.html</id>
+        <link href="https://cuiqingcai.com/3100510.html"/>
+        <updated>2026-06-10T06:08:30.000Z</updated>
+        <summary type="html"><![CDATA[<p>连接器（Connector）是 AceData Cloud / Nexior 平台为 AI 助手提供的「外部能力总线」。它把 GitHub、Google Drive、Notion、Slack、Linear 等 Web 应用，以及社区里所有遵循 MCP（Model Conte]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[获取 AceDataCloud 平台服务申请详情]]></title>
+        <id>https://cuiqingcai.com/3066996.html</id>
+        <link href="https://cuiqingcai.com/3066996.html"/>
+        <updated>2026-06-09T20:49:56.000Z</updated>
+        <summary type="html"><![CDATA[<p>通过 Application ID 获取单个服务申请的完整状态——比列表接口多出 <code>service</code> 完整对象（含 <code>packages</code> 套餐）、<code>credentials_count</code> 等字段，适用于详情页。]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JetBrains 对接 Luma MCP]]></title>
         <id>https://cuiqingcai.com/3013656.html</id>
@@ -324,28 +355,6 @@ Continue reading...]]></summary>
         <updated>2026-05-27T21:00:08.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
   <p>📘 <strong>完整指南</strong>：<a href="https://platform.acedata.cloud/documents/promotion_article_mcp_all_claude_code" target="]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在 OpenAI Codex CLI 里用 AceData Cloud MCP — 终端 AI 工具全能配置]]></title>
-        <id>https://cuiqingcai.com/3892501.html</id>
-        <link href="https://cuiqingcai.com/3892501.html"/>
-        <updated>2026-05-27T06:35:01.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-  <p>这是一篇总览文章：<strong>把 AceData Cloud 提供的 11 个 MCP Server 一次性接到 <a href="https://github.com/openai/codex" target="_blank" rel="]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude.ai + Midjourney MCP：一句话调出 4 张高清概念图，亲测全流程]]></title>
-        <id>https://cuiqingcai.com/3859422.html</id>
-        <link href="https://cuiqingcai.com/3859422.html"/>
-        <updated>2026-05-26T21:23:42.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-  <p>📘 <strong>完整指南</strong>：<a href="https://platform.acedata.cloud/documents/promotion_article_mcp_claude_ai_remote" target=]]></summary>
         <author>
             <name>静觅</name>
         </author>

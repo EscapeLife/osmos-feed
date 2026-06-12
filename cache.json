@@ -171,7 +171,18 @@
       "title": "云风的 BLOG",
       "feedUrl": "https://blog.codingnow.com/atom.xml",
       "siteUrl": "https://blog.codingnow.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://blog.codingnow.com/2026/06/powersort.html",
+          "author": null,
+          "description": "quicksort 是基于比较的排序中表现最好的算法，它在大多数情况下都能接近时间复杂度 O(n log n) ，所以 qsort() 也是 C 标准库中排序的默认实现。但是，quicksort 是非稳定排序，即当原始序列中出现相同的元素时，经过 qsort ，这些相同元素的次序可能被调整。即两个 key 相同的元素，经过排序可能调换次序。 在某些场合，我们希望排序是稳定 stable 的。因为元素的 key 相同，但元素本身可以不相同。这些有着相同 key 的元素一开始以某种次序放入序列，我们不希望对 key 排序后，打乱原有的次序。当需要稳定性时，还有许多经典排序算法可供选择，例如插入排序，它非常简单，每次从无序序列中选择一个元素和有序序列的最后一个元素比较，要么追加在最后，要么向前依次比较，直到找到合适的位置插入。对已经有序的序列，插入排序的时间复杂度为 O(n) ，但对于逆序的序列，它会退化到 O(n^2) ，因为每个元素都要和之前所有元素比较一次，插入到最前。所以插入排序对于非特定场景（无特定规律的数据）的平均时间复杂度接近 O(n^2) 超过快速排序的 O(n log n) 。 但需要注意，光看大 O 时间复杂度是不够的。在 n 很小的时候，对实际开销影响更大的并非算法复杂度。因为复杂度是基于执行算法中每个单步操作的数量估算的，忽略了操作本身的时间差异。而 n...",
+          "link": "https://blog.codingnow.com/2026/06/powersort.html",
+          "publishedOn": "2026-06-11T09:46:49.000Z",
+          "wordCount": 582,
+          "title": "对基本有序的序列排序算法",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "piglei",
@@ -184,6 +195,26 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3190432.html",
+          "author": null,
+          "description": "<p><a href=\"https://pypi.org/project/acedatacloud/\" target=\"_blank\" rel=\"noopener\"><code>acedatacloud</code></a> 是 Ace Data Cloud 官方 Python",
+          "link": "https://cuiqingcai.com/3190432.html",
+          "publishedOn": "2026-06-11T07:07:12.000Z",
+          "wordCount": 1807,
+          "title": "Python SDK 接入教程",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cuiqingcai.com/3153207.html",
+          "author": null,
+          "description": "<p>OpenAI Images Generations API 目前支持多种图像生成模型，包括经典的 <code>dall-e-3</code>、文字渲染能力更强的 <code>gpt-image-1</code>、最新一代的 <strong><code>gpt-image-2",
+          "link": "https://cuiqingcai.com/3153207.html",
+          "publishedOn": "2026-06-10T20:46:47.000Z",
+          "wordCount": 2882,
+          "title": "OpenAI Images Generations API 申请及使用",
+          "imageUrl": "https://cdn.acedata.cloud/nyq0xz.png"
+        },
         {
           "id": "https://cuiqingcai.com/3100510.html",
           "author": null,
@@ -403,26 +434,6 @@
           "wordCount": 1431,
           "title": "Midjourney Edits API 对接说明",
           "imageUrl": "https://cdn.acedata.cloud/q6ytrc.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/3980573.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/promotion_article_mcp_all_windsurf\" target=\"_bl",
-          "link": "https://cuiqingcai.com/3980573.html",
-          "publishedOn": "2026-05-28T07:02:53.000Z",
-          "wordCount": 1229,
-          "title": "Windsurf + NanoBanana MCP",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3944408.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/promotion_article_mcp_all_claude_code\" target=\"",
-          "link": "https://cuiqingcai.com/3944408.html",
-          "publishedOn": "2026-05-27T21:00:08.000Z",
-          "wordCount": 1396,
-          "title": "Claude Code + Google 搜索 MCP：终端里直接搜 Google，不用切浏览器",
-          "imageUrl": "https://cdn.acedata.cloud/58te19.jpg"
         }
       ]
     },

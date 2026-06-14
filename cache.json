@@ -186,6 +186,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3327485.html",
+          "author": null,
+          "description": "<p>本文将介绍 Grok Videos Generation API 的对接说明，它可以通过输入文本提示词、输入图片以及可选的参考图片来生成 Grok Imagine（xAI）视频。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"header",
+          "link": "https://cuiqingcai.com/3327485.html",
+          "publishedOn": "2026-06-12T21:11:25.000Z",
+          "wordCount": 1483,
+          "title": "Grok Videos Generation API 对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/q6ytrc.png"
+        },
+        {
           "id": "https://cuiqingcai.com/3273573.html",
           "author": null,
           "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/promotion_article_mcp_claude_ai_remote\" target=",
@@ -414,16 +424,6 @@
           "wordCount": 1948,
           "title": "Sora Videos Generation API 对接说明",
           "imageUrl": "https://cdn.acedata.cloud/q6ytrc.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/3117322.html",
-          "author": null,
-          "description": "<p>通过服务 ID 获取该服务下挂载的全部 <strong>API 端点</strong>信息（路径、定价、阶段、关联文档等）。与<a href=\"https://platform.acedata.cloud/documents/platform-api-list\" targe",
-          "link": "https://cuiqingcai.com/3117322.html",
-          "publishedOn": "2026-05-29T21:02:02.000Z",
-          "wordCount": 1511,
-          "title": "获取 AceDataCloud 平台服务下的 API 列表",
-          "imageUrl": null
         }
       ]
     },

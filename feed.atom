@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-06-13T02:42:06.417Z</updated>
+    <updated>2026-06-14T02:54:49.552Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Grok Videos Generation API 对接说明]]></title>
+        <id>https://cuiqingcai.com/3327485.html</id>
+        <link href="https://cuiqingcai.com/3327485.html"/>
+        <updated>2026-06-12T21:11:25.000Z</updated>
+        <summary type="html"><![CDATA[<p>本文将介绍 Grok Videos Generation API 的对接说明，它可以通过输入文本提示词、输入图片以及可选的参考图片来生成 Grok Imagine（xAI）视频。</p>
+<h2 id="申请流程"><a href="#申请流程" class="header]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Claude.ai 对接 Face Transform 面部转换 MCP]]></title>
         <id>https://cuiqingcai.com/3273573.html</id>
@@ -344,16 +355,6 @@ Continue reading...]]></summary>
         <summary type="html"><![CDATA[<p>本文将介绍 Sora Videos Generation API 的对接说明，通过该 API 可以输入自定义参数来生成 Sora 官方的视频。本 API 支持两种版本模式：</p>
 <ul>
   <li><strong>Version 1（经典模式）</strong>：支持]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[获取 AceDataCloud 平台服务下的 API 列表]]></title>
-        <id>https://cuiqingcai.com/3117322.html</id>
-        <link href="https://cuiqingcai.com/3117322.html"/>
-        <updated>2026-05-29T21:02:02.000Z</updated>
-        <summary type="html"><![CDATA[<p>通过服务 ID 获取该服务下挂载的全部 <strong>API 端点</strong>信息（路径、定价、阶段、关联文档等）。与<a href="https://platform.acedata.cloud/documents/platform-api-list" targe]]></summary>
         <author>
             <name>静觅</name>
         </author>

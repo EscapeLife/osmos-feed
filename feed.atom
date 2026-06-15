@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-06-14T02:54:49.552Z</updated>
+    <updated>2026-06-15T02:58:36.934Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[用 5 秒视频讲一个精彩开场：Pika 视频生成 API，短内容的爆发点（含超多示例与图例）]]></title>
+        <id>https://cuiqingcai.com/3446567.html</id>
+        <link href="https://cuiqingcai.com/3446567.html"/>
+        <updated>2026-06-14T06:16:07.000Z</updated>
+        <summary type="html"><![CDATA[<p>在短内容时代，第一眼的动态决定了你是否拥有第二次讲述的机会。Ace Data Cloud 的 Pika Videos API，让你把“灵感句子/参考图/参考视频”变成 5–6 秒高质感动效——是短视频开场、产品亮点、表情包、动图广告、栏目片头的绝佳素材源。</p>
+<p>关]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[获取 AceDataCloud 平台模型列表]]></title>
+        <id>https://cuiqingcai.com/3414891.html</id>
+        <link href="https://cuiqingcai.com/3414891.html"/>
+        <updated>2026-06-13T21:28:11.000Z</updated>
+        <summary type="html"><![CDATA[<p>返回平台上<strong>全部可用的 LLM / 图像 / 视频 / 音频 / 嵌入 / 重排序模型</strong>——按 OpenAI <code>/v1/models</code> 风格的扁平视图返回，兼容 OpenAI SDK。一个 Proxy 服务通常对应数十乃至]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Grok Videos Generation API 对接说明]]></title>
         <id>https://cuiqingcai.com/3327485.html</id>
@@ -334,29 +355,6 @@ Continue reading...]]></summary>
 <p>这一篇的主角是 PicImpact——我自己在用的那个开源图床，跑在 photos.manjusaka.me 上，托管着我这几年拍的猫猫狗狗。去年年终总结里我写过一句「把自建图床项目的代码拾掇了很多」，这篇就算是那句话的注脚。前后断断续续修了一轮，修复点其实都不大，但中间冒出来的几个回归是真的有意思，尤其是最后那个 WebGL 的坑，我愿称之为本年度最佳。</p>]]></summary>
         <author>
             <name>Manjusaka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[身份证识别及信息核验 API 对接说明]]></title>
-        <id>https://cuiqingcai.com/3237381.html</id>
-        <link href="https://cuiqingcai.com/3237381.html"/>
-        <updated>2026-05-31T06:23:01.000Z</updated>
-        <summary type="html"><![CDATA[<p>本文将介绍一种 身份证识别及信息核验 API 对接说明，它可以通过输入身份证图片 或 姓名和身份证号码，来校验姓名和身份证号的真实性和一致性。本接口用于校验姓名和身份证号的真实性和一致性，您可以通过输入姓名和身份证号或传入身份证人像面照片提供所需验证信息。</p>
-<h2]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sora Videos Generation API 对接说明]]></title>
-        <id>https://cuiqingcai.com/3202885.html</id>
-        <link href="https://cuiqingcai.com/3202885.html"/>
-        <updated>2026-05-30T20:48:05.000Z</updated>
-        <summary type="html"><![CDATA[<p>本文将介绍 Sora Videos Generation API 的对接说明，通过该 API 可以输入自定义参数来生成 Sora 官方的视频。本 API 支持两种版本模式：</p>
-<ul>
-  <li><strong>Version 1（经典模式）</strong>：支持]]></summary>
-        <author>
-            <name>静觅</name>
         </author>
     </entry>
 </feed>

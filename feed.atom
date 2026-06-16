@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-06-15T02:58:36.934Z</updated>
+    <updated>2026-06-16T02:58:46.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[两小时用智谱 glm 5.2 实现了 CatReader 的移动微信版]]></title>
+        <id>https://macshuo.com/?p=2069</id>
+        <link href="https://macshuo.com/?p=2069"/>
+        <updated>2026-06-15T05:20:53.000Z</updated>
+        <summary type="html"><![CDATA[昨天上午写了一篇阅读方式的改变就去出去玩了，打了一小时羽毛球，出去吃东西徒步还赶 … Continue reading →]]></summary>
+        <author>
+            <name>MacTalk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[身份证人像照片验真 API 对接说明]]></title>
+        <id>https://cuiqingcai.com/3501215.html</id>
+        <link href="https://cuiqingcai.com/3501215.html"/>
+        <updated>2026-06-14T21:26:55.000Z</updated>
+        <summary type="html"><![CDATA[<p>本文将介绍一种 身份证人像照片验真 API 对接说明，它可用于传入身份证人像面照片，识别身份证照片上的信息，并将姓名、身份证号、身份证人像照片与权威库的证件照进行比对，是否属于同一个人，从而验证身份证信息的真实性。</p>
+<h2 id="申请流程"><a href="#申]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用 5 秒视频讲一个精彩开场：Pika 视频生成 API，短内容的爆发点（含超多示例与图例）]]></title>
         <id>https://cuiqingcai.com/3446567.html</id>
@@ -323,38 +344,6 @@ Continue reading...]]></summary>
   <p>📘 <strong>完整指南</strong>：<a href="https://platform.acedata.cloud/documents/promotion_article_mcp_all_windsurf" target="_bl]]></summary>
         <author>
             <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JetBrains 对接 Seedream MCP]]></title>
-        <id>https://cuiqingcai.com/3329522.html</id>
-        <link href="https://cuiqingcai.com/3329522.html"/>
-        <updated>2026-06-01T07:58:42.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-  <p>📘 <strong>完整指南</strong>：<a href="https://platform.acedata.cloud/documents/promotion_article_mcp_all_jetbrains" target="_b]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上传文件到 AceDataCloud 平台 CDN]]></title>
-        <id>https://cuiqingcai.com/3290105.html</id>
-        <link href="https://cuiqingcai.com/3290105.html"/>
-        <updated>2026-05-31T21:01:45.000Z</updated>
-        <summary type="html"><![CDATA[<p>把本地文件上传到 AceDataCloud 平台 CDN，获得一个<strong>永久可访问的 URL</strong>（<code>https://cdn.acedata.cloud/xxxxxx.png</code> 风格），可立即在其他业务接口（如 Midjourne]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[优化日志：给自建图床 PicImpact 做一次大范围性能优化]]></title>
-        <id>https://www.manjusaka.blog/posts/2026/05/31/optimize-picimpact-self-hosted-gallery/</id>
-        <link href="https://www.manjusaka.blog/posts/2026/05/31/optimize-picimpact-self-hosted-gallery/"/>
-        <updated>2026-05-31T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>和 Debug 日志、SRE 日志一个系列，优化日志用来复盘一些可以公开的折腾经历。</p>
-<p>这一篇的主角是 PicImpact——我自己在用的那个开源图床，跑在 photos.manjusaka.me 上，托管着我这几年拍的猫猫狗狗。去年年终总结里我写过一句「把自建图床项目的代码拾掇了很多」，这篇就算是那句话的注脚。前后断断续续修了一轮，修复点其实都不大，但中间冒出来的几个回归是真的有意思，尤其是最后那个 WebGL 的坑，我愿称之为本年度最佳。</p>]]></summary>
-        <author>
-            <name>Manjusaka</name>
         </author>
     </entry>
 </feed>

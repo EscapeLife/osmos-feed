@@ -119,18 +119,7 @@
       "title": "laike9m's blog",
       "feedUrl": "https://laike9m.com/blog/rss",
       "siteUrl": "https://laike9m.com/blog/rss",
-      "articles": [
-        {
-          "id": "https://laike9m.com/blog/agent-coding-trend,173/",
-          "author": null,
-          "description": "没有简介, 请去看原文吧",
-          "link": "https://laike9m.com/blog/agent-coding-trend,173/",
-          "publishedOn": "2026-06-02T06:50:18.000Z",
-          "wordCount": 730,
-          "title": "Trend of Agentic Coding Products",
-          "imageUrl": "https://laike9m.com/static/css3two_blog/images/thumbnail.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Frost's Blog",
@@ -184,6 +173,26 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3623209.html",
+          "author": null,
+          "description": "<p>本文将介绍 Veo Reshoot API 的对接说明。该接口用于对一段已经生成的 Veo 视频按照<strong>新的镜头运动方式重新生成</strong>，画面内容保持一致，但镜头机位与运动会按 <code>motion_type</code> 重新演绎。</p>\n<h",
+          "link": "https://cuiqingcai.com/3623209.html",
+          "publishedOn": "2026-06-16T07:20:09.000Z",
+          "wordCount": 1242,
+          "title": "Veo Reshoot API 对接说明",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cuiqingcai.com/3586299.html",
+          "author": null,
+          "description": "<p>本文将介绍一种 hCaptcha 协议识别 API 对接说明，它可让用户无需识别和点选 hCaptcha 验证码图片，仅需通过提交 Website Key 即可实现后台自动解码，完成验证。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"h",
+          "link": "https://cuiqingcai.com/3586299.html",
+          "publishedOn": "2026-06-15T21:04:59.000Z",
+          "wordCount": 1380,
+          "title": "hCaptcha 协议识别 API 对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
+        },
         {
           "id": "https://cuiqingcai.com/3501215.html",
           "author": null,
@@ -392,26 +401,6 @@
           "publishedOn": "2026-06-02T21:02:48.000Z",
           "wordCount": 1288,
           "title": "Cursor 对接 Fish 语音 MCP",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3410406.html",
-          "author": null,
-          "description": "<p>OpenCode 本身擅长读代码、改文件、跑命令、解释报错；MCP 则让它在同一个终端会话里继续调用外部工具。AceData Cloud 把音乐、图片、视频、搜索、短链这些能力做成托管式远程 MCP Server，你不需要本地启动服务，也不需要为每个工具维护不同账号。</p",
-          "link": "https://cuiqingcai.com/3410406.html",
-          "publishedOn": "2026-06-02T06:26:46.000Z",
-          "wordCount": 1707,
-          "title": "OpenCode MCP Overview",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3375919.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/promotion_article_mcp_all_windsurf\" target=\"_bl",
-          "link": "https://cuiqingcai.com/3375919.html",
-          "publishedOn": "2026-06-01T20:51:59.000Z",
-          "wordCount": 1236,
-          "title": "Windsurf 对接 Hailuo (MiniMax) MCP",
           "imageUrl": null
         }
       ]

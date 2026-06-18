@@ -96,16 +96,6 @@
           "wordCount": 4738,
           "title": "服务器高性能网络调优",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=7288",
-          "author": "laixintao",
-          "description": "RSS 上出现越来越多用 AI 生成的文章，我想谈谈写作（尤其是写博客）的意义，以及为什么用 AI 生成文章是 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/7288",
-          "publishedOn": "2026-06-03T11:10:00.000Z",
-          "wordCount": 947,
-          "title": "为何写作",
-          "imageUrl": null
         }
       ]
     },
@@ -173,6 +163,16 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3672777.html",
+          "author": null,
+          "description": "<blockquote>\n  <p>📘 <strong>Overview</strong>：<a href=\"https://platform.acedata.cloud/documents/opencode-mcp-all\" target=\"_blank\" rel=\"noop",
+          "link": "https://cuiqingcai.com/3672777.html",
+          "publishedOn": "2026-06-16T21:06:17.000Z",
+          "wordCount": 1562,
+          "title": "OpenCode 对接 Suno MCP",
+          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
+        },
         {
           "id": "https://cuiqingcai.com/3623209.html",
           "author": null,
@@ -381,26 +381,6 @@
           "publishedOn": "2026-06-03T21:06:14.000Z",
           "wordCount": 1252,
           "title": "Gemini CLI 对接 Seedance MCP",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3497764.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/promotion_article_mcp_all_codex\" target=\"_blank",
-          "link": "https://cuiqingcai.com/3497764.html",
-          "publishedOn": "2026-06-03T06:42:44.000Z",
-          "wordCount": 1236,
-          "title": "Codex CLI 对接 Flux MCP",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3462968.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>📘 <strong>Overview</strong>：<a href=\"https://platform.acedata.cloud/documents/promotion_article_mcp_all_cursor\" target=\"_",
-          "link": "https://cuiqingcai.com/3462968.html",
-          "publishedOn": "2026-06-02T21:02:48.000Z",
-          "wordCount": 1288,
-          "title": "Cursor 对接 Fish 语音 MCP",
           "imageUrl": null
         }
       ]

@@ -63,16 +63,6 @@
           "wordCount": 1010,
           "title": "谁说 ChatGTP 和 Codex 合体了？",
           "imageUrl": null
-        },
-        {
-          "id": "https://macshuo.com/?p=2050",
-          "author": "MacTalk",
-          "description": "自从 AI 的 Vibe Coding 能力突飞猛进之后，我自己也没闲着，做了好 … Continue reading →",
-          "link": "https://macshuo.com/?p=2050",
-          "publishedOn": "2026-06-04T12:20:02.000Z",
-          "wordCount": 1040,
-          "title": "CatReader 上线：重启 RSS 阅读",
-          "imageUrl": null
         }
       ]
     },
@@ -163,6 +153,16 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3758290.html",
+          "author": null,
+          "description": "<p>Google SERP（Search Engine Results Page）是用户在 Google 搜索引擎中输入查询后看到的结果页面。它显示自然搜索结果、广告、特色摘要、知识图谱以及图片、视频等多种内容，旨在为用户提供最相关的信息。</p>\n<p>本文将详细介绍 Goo",
+          "link": "https://cuiqingcai.com/3758290.html",
+          "publishedOn": "2026-06-17T20:51:30.000Z",
+          "wordCount": 5130,
+          "title": "Google SERP API 对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
+        },
         {
           "id": "https://cuiqingcai.com/3672777.html",
           "author": null,
@@ -361,26 +361,6 @@
           "publishedOn": "2026-06-04T20:46:19.000Z",
           "wordCount": 1597,
           "title": "X402 订单支付教程",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3583388.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/promotion_article_mcp_all_cline\" target=\"_blank",
-          "link": "https://cuiqingcai.com/3583388.html",
-          "publishedOn": "2026-06-04T06:29:48.000Z",
-          "wordCount": 1254,
-          "title": "Cline 对接 Kling MCP",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3549574.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/promotion_article_mcp_all_gemini_cli\" target=\"_",
-          "link": "https://cuiqingcai.com/3549574.html",
-          "publishedOn": "2026-06-03T21:06:14.000Z",
-          "wordCount": 1252,
-          "title": "Gemini CLI 对接 Seedance MCP",
           "imageUrl": null
         }
       ]

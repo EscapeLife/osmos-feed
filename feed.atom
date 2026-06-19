@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-06-18T02:50:50.783Z</updated>
+    <updated>2026-06-19T03:36:54.840Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google SERP API 对接说明]]></title>
+        <id>https://cuiqingcai.com/3758290.html</id>
+        <link href="https://cuiqingcai.com/3758290.html"/>
+        <updated>2026-06-17T20:51:30.000Z</updated>
+        <summary type="html"><![CDATA[<p>Google SERP（Search Engine Results Page）是用户在 Google 搜索引擎中输入查询后看到的结果页面。它显示自然搜索结果、广告、特色摘要、知识图谱以及图片、视频等多种内容，旨在为用户提供最相关的信息。</p>
+<p>本文将详细介绍 Goo]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenCode 对接 Suno MCP]]></title>
         <id>https://cuiqingcai.com/3672777.html</id>
@@ -279,38 +290,6 @@ Continue reading...]]></summary>
         <updated>2026-06-04T20:46:19.000Z</updated>
         <summary type="html"><![CDATA[<p>除了直接按 API 请求付费，Ace Data Cloud 也支持用 X402 支付控制台订单。订单支付和 API 调用的核心协议相同：第一次请求返回 402，客户端签出 <code>X-Payment</code>，然后用同一个请求重试。</p>
 <p>区别在于订单支付属]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CatReader 上线：重启 RSS 阅读]]></title>
-        <id>https://macshuo.com/?p=2050</id>
-        <link href="https://macshuo.com/?p=2050"/>
-        <updated>2026-06-04T12:20:02.000Z</updated>
-        <summary type="html"><![CDATA[自从 AI 的 Vibe Coding 能力突飞猛进之后，我自己也没闲着，做了好 … Continue reading →]]></summary>
-        <author>
-            <name>MacTalk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cline 对接 Kling MCP]]></title>
-        <id>https://cuiqingcai.com/3583388.html</id>
-        <link href="https://cuiqingcai.com/3583388.html"/>
-        <updated>2026-06-04T06:29:48.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-  <p>📘 <strong>完整指南</strong>：<a href="https://platform.acedata.cloud/documents/promotion_article_mcp_all_cline" target="_blank]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini CLI 对接 Seedance MCP]]></title>
-        <id>https://cuiqingcai.com/3549574.html</id>
-        <link href="https://cuiqingcai.com/3549574.html"/>
-        <updated>2026-06-03T21:06:14.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-  <p>📘 <strong>完整指南</strong>：<a href="https://platform.acedata.cloud/documents/promotion_article_mcp_all_gemini_cli" target="_]]></summary>
         <author>
             <name>静觅</name>
         </author>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-06-19T03:36:54.840Z</updated>
+    <updated>2026-06-20T02:41:02.176Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Subsite（白标子站）使用教程]]></title>
+        <id>https://cuiqingcai.com/3844306.html</id>
+        <link href="https://cuiqingcai.com/3844306.html"/>
+        <updated>2026-06-18T20:45:06.000Z</updated>
+        <summary type="html"><![CDATA[<p>Subsite 让你在 <strong>不另外部署一份前端代码</strong> 的前提下，基于 Nexior / Studio 主站建出一个有自己品牌、域名和功能子集的独立站点。每个 Subsite 共享主站的服务容量（模型池、积分账本、对话历史），但拥有独立的：</p>]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google SERP API 对接说明]]></title>
         <id>https://cuiqingcai.com/3758290.html</id>
@@ -259,37 +269,6 @@ Continue reading...]]></summary>
         <link href="https://cuiqingcai.com/3755458.html"/>
         <updated>2026-06-06T06:17:38.000Z</updated>
         <summary type="html"><![CDATA[<p><a href="https://modelcontextprotocol.io" target="_blank" rel="noopener">MCP（Model Context Protocol）</a> 是由 Anthropic 推出的模型上下文协议，允许 AI 模型]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seedance MCP 对接指南]]></title>
-        <id>https://cuiqingcai.com/3669113.html</id>
-        <link href="https://cuiqingcai.com/3669113.html"/>
-        <updated>2026-06-05T06:18:33.000Z</updated>
-        <summary type="html"><![CDATA[<p><a href="https://modelcontextprotocol.io" target="_blank" rel="noopener">MCP（Model Context Protocol）</a> 是由 Anthropic 推出的模型上下文协议，允许 AI 模型]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 399 期）：中国 AI 大厂访问记]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html"/>
-        <updated>2026-06-05T00:07:45.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X402 订单支付教程]]></title>
-        <id>https://cuiqingcai.com/3634779.html</id>
-        <link href="https://cuiqingcai.com/3634779.html"/>
-        <updated>2026-06-04T20:46:19.000Z</updated>
-        <summary type="html"><![CDATA[<p>除了直接按 API 请求付费，Ace Data Cloud 也支持用 X402 支付控制台订单。订单支付和 API 调用的核心协议相同：第一次请求返回 402，客户端签出 <code>X-Payment</code>，然后用同一个请求重试。</p>
-<p>区别在于订单支付属]]></summary>
         <author>
             <name>静觅</name>
         </author>

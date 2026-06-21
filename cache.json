@@ -43,16 +43,6 @@
           "wordCount": 950,
           "title": "两小时用智谱 glm 5.2 实现了 CatReader 的移动微信版",
           "imageUrl": null
-        },
-        {
-          "id": "https://macshuo.com/?p=2063",
-          "author": "MacTalk",
-          "description": "AI 媒体现在也太能扯了，前两天看到有若干家媒体公众号说 ChatGTP 和 C … Continue reading →",
-          "link": "https://macshuo.com/?p=2063",
-          "publishedOn": "2026-06-06T13:52:03.000Z",
-          "wordCount": 1010,
-          "title": "谁说 ChatGTP 和 Codex 合体了？",
-          "imageUrl": null
         }
       ]
     },
@@ -143,6 +133,26 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3965715.html",
+          "author": null,
+          "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/codex-mcp-all\" target=\"_blank\" rel=\"noopener\">在",
+          "link": "https://cuiqingcai.com/3965715.html",
+          "publishedOn": "2026-06-20T06:28:35.000Z",
+          "wordCount": 1235,
+          "title": "Codex CLI 对接 Flux MCP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cuiqingcai.com/3932578.html",
+          "author": null,
+          "description": "<p>本接口基于 <a href=\"https://docs.fish.audio/text-to-speech/text-to-speech\" target=\"_blank\" rel=\"noopener\">Fish Audio 官方 TTS API</a>，仅在鉴权方式（使用本",
+          "link": "https://cuiqingcai.com/3932578.html",
+          "publishedOn": "2026-06-19T21:16:18.000Z",
+          "wordCount": 1683,
+          "title": "Fish TTS API 对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
+        },
         {
           "id": "https://cuiqingcai.com/3844306.html",
           "author": null,
@@ -331,16 +341,6 @@
           "publishedOn": "2026-06-06T21:29:29.000Z",
           "wordCount": 1398,
           "title": "查询 AceDataCloud 平台分销推广信息",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3755458.html",
-          "author": null,
-          "description": "<p><a href=\"https://modelcontextprotocol.io\" target=\"_blank\" rel=\"noopener\">MCP（Model Context Protocol）</a> 是由 Anthropic 推出的模型上下文协议，允许 AI 模型",
-          "link": "https://cuiqingcai.com/3755458.html",
-          "publishedOn": "2026-06-06T06:17:38.000Z",
-          "wordCount": 1583,
-          "title": "Midjourney MCP 对接指南",
           "imageUrl": null
         }
       ]

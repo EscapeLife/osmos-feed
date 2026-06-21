@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-06-20T02:41:02.176Z</updated>
+    <updated>2026-06-21T02:57:25.042Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Codex CLI 对接 Flux MCP]]></title>
+        <id>https://cuiqingcai.com/3965715.html</id>
+        <link href="https://cuiqingcai.com/3965715.html"/>
+        <updated>2026-06-20T06:28:35.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+  <p>📘 <strong>完整指南</strong>：<a href="https://platform.acedata.cloud/documents/codex-mcp-all" target="_blank" rel="noopener">在]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fish TTS API 对接说明]]></title>
+        <id>https://cuiqingcai.com/3932578.html</id>
+        <link href="https://cuiqingcai.com/3932578.html"/>
+        <updated>2026-06-19T21:16:18.000Z</updated>
+        <summary type="html"><![CDATA[<p>本接口基于 <a href="https://docs.fish.audio/text-to-speech/text-to-speech" target="_blank" rel="noopener">Fish Audio 官方 TTS API</a>，仅在鉴权方式（使用本]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Subsite（白标子站）使用教程]]></title>
         <id>https://cuiqingcai.com/3844306.html</id>
@@ -249,26 +270,6 @@ Continue reading...]]></summary>
 <p>适用场景：</p>
 <ul>
   <li>在你自己的产品里嵌入「赚取佣金」面板。</li]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谁说 ChatGTP 和 Codex 合体了？]]></title>
-        <id>https://macshuo.com/?p=2063</id>
-        <link href="https://macshuo.com/?p=2063"/>
-        <updated>2026-06-06T13:52:03.000Z</updated>
-        <summary type="html"><![CDATA[AI 媒体现在也太能扯了，前两天看到有若干家媒体公众号说 ChatGTP 和 C … Continue reading →]]></summary>
-        <author>
-            <name>MacTalk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Midjourney MCP 对接指南]]></title>
-        <id>https://cuiqingcai.com/3755458.html</id>
-        <link href="https://cuiqingcai.com/3755458.html"/>
-        <updated>2026-06-06T06:17:38.000Z</updated>
-        <summary type="html"><![CDATA[<p><a href="https://modelcontextprotocol.io" target="_blank" rel="noopener">MCP（Model Context Protocol）</a> 是由 Anthropic 推出的模型上下文协议，允许 AI 模型]]></summary>
         <author>
             <name>静觅</name>
         </author>

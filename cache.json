@@ -134,6 +134,26 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3048964.html",
+          "author": null,
+          "description": "<p>本文将介绍一种 Riffusion Audios Generation API 对接说明，它是可以通过输入自定义参数来生成 Riffusion 官方的音乐。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title",
+          "link": "https://cuiqingcai.com/3048964.html",
+          "publishedOn": "2026-06-21T05:36:04.000Z",
+          "wordCount": 5855,
+          "title": "Riffusion Audios Generation API 对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
+        },
+        {
+          "id": "https://cuiqingcai.com/3019282.html",
+          "author": null,
+          "description": "<blockquote>\n  <p>📘 <strong>Overview</strong>：<a href=\"https://platform.acedata.cloud/documents/claude-code-mcp-all\" target=\"_blank\" rel=\"n",
+          "link": "https://cuiqingcai.com/3019282.html",
+          "publishedOn": "2026-06-20T21:21:22.000Z",
+          "wordCount": 1440,
+          "title": "Claude Code 对接 Sora MCP",
+          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
+        },
+        {
           "id": "https://cuiqingcai.com/3965715.html",
           "author": null,
           "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/codex-mcp-all\" target=\"_blank\" rel=\"noopener\">在",
@@ -332,16 +352,6 @@
           "wordCount": 2221,
           "title": "Midjourney Imagine API 申请及使用",
           "imageUrl": "https://cdn.acedata.cloud/nyq0xz.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/3810169.html",
-          "author": null,
-          "description": "<p>返回当前账户的<strong>分销（联盟营销 / Affiliate）数据</strong>——包括分销专属链接、邀请的下级用户数、累计佣金、可提现余额、近期成交记录等。</p>\n<p>适用场景：</p>\n<ul>\n  <li>在你自己的产品里嵌入「赚取佣金」面板。</li",
-          "link": "https://cuiqingcai.com/3810169.html",
-          "publishedOn": "2026-06-06T21:29:29.000Z",
-          "wordCount": 1398,
-          "title": "查询 AceDataCloud 平台分销推广信息",
-          "imageUrl": null
         }
       ]
     },

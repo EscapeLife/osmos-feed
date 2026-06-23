@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-06-22T03:27:32.778Z</updated>
+    <updated>2026-06-23T02:34:59.294Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[在 Cursor 中使用 Ace Data Cloud]]></title>
+        <id>https://cuiqingcai.com/3103697.html</id>
+        <link href="https://cuiqingcai.com/3103697.html"/>
+        <updated>2026-06-21T20:48:17.000Z</updated>
+        <summary type="html"><![CDATA[<p><a href="https://cursor.com/" target="_blank" rel="noopener">Cursor</a> 是基于 VS Code 的 AI 编程编辑器，提供 Agent 模式、Tab 补全、内联编辑、CLI 和云端 Agent 等能力，]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Riffusion Audios Generation API 对接说明]]></title>
         <id>https://cuiqingcai.com/3048964.html</id>
@@ -268,17 +278,6 @@ Continue reading...]]></summary>
         <updated>2026-06-08T21:09:35.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
   <p>📘 <strong>完整指南</strong>：<a href="https://platform.acedata.cloud/documents/promotion_article_mcp_all_gemini_cli" target="_]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Midjourney Imagine API 申请及使用]]></title>
-        <id>https://cuiqingcai.com/3895691.html</id>
-        <link href="https://cuiqingcai.com/3895691.html"/>
-        <updated>2026-06-07T21:14:51.000Z</updated>
-        <summary type="html"><![CDATA[<p>Midjourney 是一款非常强大的 AI 绘图工具，只要输入关键字，就能在短短一两分钟生成十分精美的图像。Midjourney 以其出色的绘图能力在业界独树一帜，如今，Midjourney 早已在各个行业和领域广泛应用，其影响力愈发显著。</p>
-<p>本文档主要介绍]]></summary>
         <author>
             <name>静觅</name>
         </author>

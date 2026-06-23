@@ -134,6 +134,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3103697.html",
+          "author": null,
+          "description": "<p><a href=\"https://cursor.com/\" target=\"_blank\" rel=\"noopener\">Cursor</a> 是基于 VS Code 的 AI 编程编辑器，提供 Agent 模式、Tab 补全、内联编辑、CLI 和云端 Agent 等能力，",
+          "link": "https://cuiqingcai.com/3103697.html",
+          "publishedOn": "2026-06-21T20:48:17.000Z",
+          "wordCount": 1520,
+          "title": "在 Cursor 中使用 Ace Data Cloud",
+          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
+        },
+        {
           "id": "https://cuiqingcai.com/3048964.html",
           "author": null,
           "description": "<p>本文将介绍一种 Riffusion Audios Generation API 对接说明，它是可以通过输入自定义参数来生成 Riffusion 官方的音乐。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title",
@@ -342,16 +352,6 @@
           "wordCount": 1260,
           "title": "Gemini CLI 对接 Hailuo (MiniMax) MCP",
           "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3895691.html",
-          "author": null,
-          "description": "<p>Midjourney 是一款非常强大的 AI 绘图工具，只要输入关键字，就能在短短一两分钟生成十分精美的图像。Midjourney 以其出色的绘图能力在业界独树一帜，如今，Midjourney 早已在各个行业和领域广泛应用，其影响力愈发显著。</p>\n<p>本文档主要介绍",
-          "link": "https://cuiqingcai.com/3895691.html",
-          "publishedOn": "2026-06-07T21:14:51.000Z",
-          "wordCount": 2221,
-          "title": "Midjourney Imagine API 申请及使用",
-          "imageUrl": "https://cdn.acedata.cloud/nyq0xz.png"
         }
       ]
     },

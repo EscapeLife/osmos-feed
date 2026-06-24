@@ -134,6 +134,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3191934.html",
+          "author": null,
+          "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/claude-ai-remote-mcp\" target=\"_blank\" rel=\"noop",
+          "link": "https://cuiqingcai.com/3191934.html",
+          "publishedOn": "2026-06-22T21:18:54.000Z",
+          "wordCount": 1222,
+          "title": "Claude.ai 对接 通义万相 Wan MCP",
+          "imageUrl": null
+        },
+        {
           "id": "https://cuiqingcai.com/3103697.html",
           "author": null,
           "description": "<p><a href=\"https://cursor.com/\" target=\"_blank\" rel=\"noopener\">Cursor</a> 是基于 VS Code 的 AI 编程编辑器，提供 Agent 模式、Tab 补全、内联编辑、CLI 和云端 Agent 等能力，",
@@ -331,26 +341,6 @@
           "publishedOn": "2026-06-09T20:49:56.000Z",
           "wordCount": 1394,
           "title": "获取 AceDataCloud 平台服务申请详情",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3013656.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/promotion_article_mcp_all_jetbrains\" target=\"_b",
-          "link": "https://cuiqingcai.com/3013656.html",
-          "publishedOn": "2026-06-09T06:00:56.000Z",
-          "wordCount": 1257,
-          "title": "JetBrains 对接 Luma MCP",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3981775.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/promotion_article_mcp_all_gemini_cli\" target=\"_",
-          "link": "https://cuiqingcai.com/3981775.html",
-          "publishedOn": "2026-06-08T21:09:35.000Z",
-          "wordCount": 1260,
-          "title": "Gemini CLI 对接 Hailuo (MiniMax) MCP",
           "imageUrl": null
         }
       ]

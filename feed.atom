@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-06-24T02:35:39.827Z</updated>
+    <updated>2026-06-25T02:37:37.275Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[X402 `exact` 与 `upto` 计费方案]]></title>
+        <id>https://cuiqingcai.com/3278050.html</id>
+        <link href="https://cuiqingcai.com/3278050.html"/>
+        <updated>2026-06-23T21:14:10.000Z</updated>
+        <summary type="html"><![CDATA[<p>Ace Data Cloud X402 目前使用两类 scheme：<code>exact</code> 和 <code>upto</code>。它们解决的是不同计费问题。</p>
+<h2 id="exact"><a href="#exact" class="headerl]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Claude.ai 对接 通义万相 Wan MCP]]></title>
         <id>https://cuiqingcai.com/3191934.html</id>
@@ -236,37 +247,6 @@
         <link href="https://cuiqingcai.com/3153207.html"/>
         <updated>2026-06-10T20:46:47.000Z</updated>
         <summary type="html"><![CDATA[<p>OpenAI Images Generations API 目前支持多种图像生成模型，包括经典的 <code>dall-e-3</code>、文字渲染能力更强的 <code>gpt-image-1</code>、最新一代的 <strong><code>gpt-image-2]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[服务器高性能网络调优]]></title>
-        <id>https://www.kawabangga.com/?p=7292</id>
-        <link href="https://www.kawabangga.com/posts/7292"/>
-        <updated>2026-06-10T11:52:00.000Z</updated>
-        <summary type="html"><![CDATA[这篇文章写一下服务器的网络方面的调优经验。如果网络的带宽使用在 1GE，其实没有必要做调优，默认的参数基本没有 […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[连接器（Connector）使用教程]]></title>
-        <id>https://cuiqingcai.com/3100510.html</id>
-        <link href="https://cuiqingcai.com/3100510.html"/>
-        <updated>2026-06-10T06:08:30.000Z</updated>
-        <summary type="html"><![CDATA[<p>连接器（Connector）是 AceData Cloud / Nexior 平台为 AI 助手提供的「外部能力总线」。它把 GitHub、Google Drive、Notion、Slack、Linear 等 Web 应用，以及社区里所有遵循 MCP（Model Conte]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[获取 AceDataCloud 平台服务申请详情]]></title>
-        <id>https://cuiqingcai.com/3066996.html</id>
-        <link href="https://cuiqingcai.com/3066996.html"/>
-        <updated>2026-06-09T20:49:56.000Z</updated>
-        <summary type="html"><![CDATA[<p>通过 Application ID 获取单个服务申请的完整状态——比列表接口多出 <code>service</code> 完整对象（含 <code>packages</code> 套餐）、<code>credentials_count</code> 等字段，适用于详情页。]]></summary>
         <author>
             <name>静觅</name>
         </author>

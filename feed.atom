@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-06-25T02:37:37.275Z</updated>
+    <updated>2026-06-26T02:39:52.721Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[从猎户座之王到群星]]></title>
+        <id>https://blog.codingnow.com/2026/06/from_moo_to_stellaris.html</id>
+        <link href="https://blog.codingnow.com/2026/06/from_moo_to_stellaris.html"/>
+        <updated>2026-06-25T13:23:09.000Z</updated>
+        <summary type="html"><![CDATA[每个经典电子游戏的游戏设计都多少有一些之前作品的痕迹。我认为原因有二：成功的玩法必须有大量玩家实际游戏体验的打磨证明其有效，在经典玩法上培养出来的玩家习惯可以极大的减少游戏的学习门槛，一个新玩法如果门槛过高就无法吸引足够的玩家去玩，也就得不到打磨。 我一直想搞清楚一款吸引我的游戏的核心规则部分到底是怎么设计出来的。为什么我可以玩成百上千小时还可以发掘出新乐趣，而开发者在看似不算太长的时间就设计出了它们。当我这两年有足够的时间，我开始用一种慢方法弄清楚这点：玩一些更古老的游戏，找到它们和现代游戏之间的发展脉络。 Stellaris 群星是我游戏时间第二长的游戏（第一是 Factorio），我从 1.0 版就开始玩，并从 1.2 版开始维护它的中文翻译 mod ，断断续续玩了接近 900 小时。只是由于时间关系（玩其它游戏）最近两年的新版本还没有体验。 一开始玩这个游戏是因为 Paradox 在战略游戏上名声显赫，当时 P 社四萌众人皆知。我特别喜欢维多利亚 2 ，已在上面花了上百小时。我深知 P 社游戏如果不是一开始就跟着开发玩，游戏系统的复杂度就会像雪崩一样压下来，上手门槛会越来越高。跟住一款新品，乘它还不那么复杂的时候跟着游戏更新一点点学习体验会更好，更别说我对太空科幻题材情有独钟。所以我在 Stellaris 发售前就开始关注开发 log ，第一天就进入了游戏。 由于 P 社已有十字军之王、维多利亚、欧陆风云、钢铁雄心在前，我想当然的认为群星是他们招牌大战略类型游戏的科幻版延续。我在游戏系统里也发现了大量 P 社游戏中熟悉的东西：更加肯定了这个想法。招牌式即时带暂停玩法，靠战争点数和驱动的战争系统，相互堆叠的 Modifiers ，这些都太熟悉了。至于不一样的部分，我觉得是在一个新游戏项目上的创新尝试。虽然我短时间未能体验所有的游戏系统，作为一个新游戏老说还是太庞杂了，但通过翻译游戏文本，我还是深刻感受到这个游戏的设计量。即使去掉在 P 社其它大战略游戏中已有的系统，剩下不一样的“原创”部分还是相当多。而我作为一个萌新进入却能感觉到大多数游戏系统都玩起来那么自然。...]]></summary>
+        <author>
+            <name>云风的 BLOG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SeeDream Images Generation API 对接说明]]></title>
+        <id>https://cuiqingcai.com/3363325.html</id>
+        <link href="https://cuiqingcai.com/3363325.html"/>
+        <updated>2026-06-24T20:55:25.000Z</updated>
+        <summary type="html"><![CDATA[<p>本文将介绍一种 SeeDream Images Generation API 对接说明，它是可以通过输入自定义参数来生成 SeeDream 官方的图片。</p>
+<h2 id="申请流程"><a href="#申请流程" class="headerlink" title="]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[X402 `exact` 与 `upto` 计费方案]]></title>
         <id>https://cuiqingcai.com/3278050.html</id>
@@ -217,36 +238,6 @@
         <summary type="html"><![CDATA[<p>异步生成包含所选时间段内<strong>全部业务接口调用流水</strong>的 CSV 文件，并返回下载 URL。适合月度对账、给财务出 BI 报表、给第三方审计师交付明细等场景。</p>
 <blockquote>
   <p>📌 调用记录数量超过 1 万条时强烈建议用本]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对基本有序的序列排序算法]]></title>
-        <id>https://blog.codingnow.com/2026/06/powersort.html</id>
-        <link href="https://blog.codingnow.com/2026/06/powersort.html"/>
-        <updated>2026-06-11T09:46:49.000Z</updated>
-        <summary type="html"><![CDATA[quicksort 是基于比较的排序中表现最好的算法，它在大多数情况下都能接近时间复杂度 O(n log n) ，所以 qsort() 也是 C 标准库中排序的默认实现。但是，quicksort 是非稳定排序，即当原始序列中出现相同的元素时，经过 qsort ，这些相同元素的次序可能被调整。即两个 key 相同的元素，经过排序可能调换次序。 在某些场合，我们希望排序是稳定 stable 的。因为元素的 key 相同，但元素本身可以不相同。这些有着相同 key 的元素一开始以某种次序放入序列，我们不希望对 key 排序后，打乱原有的次序。当需要稳定性时，还有许多经典排序算法可供选择，例如插入排序，它非常简单，每次从无序序列中选择一个元素和有序序列的最后一个元素比较，要么追加在最后，要么向前依次比较，直到找到合适的位置插入。对已经有序的序列，插入排序的时间复杂度为 O(n) ，但对于逆序的序列，它会退化到 O(n^2) ，因为每个元素都要和之前所有元素比较一次，插入到最前。所以插入排序对于非特定场景（无特定规律的数据）的平均时间复杂度接近 O(n^2) 超过快速排序的 O(n log n) 。 但需要注意，光看大 O 时间复杂度是不够的。在 n 很小的时候，对实际开销影响更大的并非算法复杂度。因为复杂度是基于执行算法中每个单步操作的数量估算的，忽略了操作本身的时间差异。而 n...]]></summary>
-        <author>
-            <name>云风的 BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python SDK 接入教程]]></title>
-        <id>https://cuiqingcai.com/3190432.html</id>
-        <link href="https://cuiqingcai.com/3190432.html"/>
-        <updated>2026-06-11T07:07:12.000Z</updated>
-        <summary type="html"><![CDATA[<p><a href="https://pypi.org/project/acedatacloud/" target="_blank" rel="noopener"><code>acedatacloud</code></a> 是 Ace Data Cloud 官方 Python]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Images Generations API 申请及使用]]></title>
-        <id>https://cuiqingcai.com/3153207.html</id>
-        <link href="https://cuiqingcai.com/3153207.html"/>
-        <updated>2026-06-10T20:46:47.000Z</updated>
-        <summary type="html"><![CDATA[<p>OpenAI Images Generations API 目前支持多种图像生成模型，包括经典的 <code>dall-e-3</code>、文字渲染能力更强的 <code>gpt-image-1</code>、最新一代的 <strong><code>gpt-image-2]]></summary>
         <author>
             <name>静觅</name>
         </author>

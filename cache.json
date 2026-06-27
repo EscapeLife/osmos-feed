@@ -18,13 +18,13 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
-          "id": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html",
+          "id": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html",
           "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。（[通知] 下周端午假期，周刊休息。）...",
-          "link": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html",
-          "publishedOn": "2026-06-11T23:26:08.000Z",
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html",
+          "publishedOn": "2026-06-26T00:05:38.000Z",
           "wordCount": null,
-          "title": "科技爱好者周刊（第 400 期）：rsync 的争论",
+          "title": "科技爱好者周刊（第 401 期）：如何赚到10亿美元",
           "imageUrl": null
         }
       ]
@@ -122,6 +122,26 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3481821.html",
+          "author": null,
+          "description": "<p>本文将介绍一种 银行卡四要素核验 API 对接说明，它可用于输入银行卡号、姓名、开户证件号、开户手机号，校验信息的真实性和一致性。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title=\"申请流程\"></a>申",
+          "link": "https://cuiqingcai.com/3481821.html",
+          "publishedOn": "2026-06-26T05:50:21.000Z",
+          "wordCount": 1366,
+          "title": "银行卡四要素核验 API 对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
+        },
+        {
+          "id": "https://cuiqingcai.com/3450287.html",
+          "author": null,
+          "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/gemini-cli-mcp-all\" target=\"_blank\" rel=\"noopen",
+          "link": "https://cuiqingcai.com/3450287.html",
+          "publishedOn": "2026-06-25T21:04:47.000Z",
+          "wordCount": 1243,
+          "title": "Gemini CLI 对接 ShortURL MCP",
+          "imageUrl": null
+        },
         {
           "id": "https://cuiqingcai.com/3363325.html",
           "author": null,
@@ -291,26 +311,6 @@
           "wordCount": 1483,
           "title": "Grok Videos Generation API 对接说明",
           "imageUrl": "https://cdn.acedata.cloud/q6ytrc.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/3273573.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/promotion_article_mcp_claude_ai_remote\" target=",
-          "link": "https://cuiqingcai.com/3273573.html",
-          "publishedOn": "2026-06-12T06:12:53.000Z",
-          "wordCount": 1251,
-          "title": "Claude.ai 对接 Face Transform 面部转换 MCP",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3239553.html",
-          "author": null,
-          "description": "<p>异步生成包含所选时间段内<strong>全部业务接口调用流水</strong>的 CSV 文件，并返回下载 URL。适合月度对账、给财务出 BI 报表、给第三方审计师交付明细等场景。</p>\n<blockquote>\n  <p>📌 调用记录数量超过 1 万条时强烈建议用本",
-          "link": "https://cuiqingcai.com/3239553.html",
-          "publishedOn": "2026-06-11T20:45:53.000Z",
-          "wordCount": 1514,
-          "title": "获取 AceDataCloud 平台 API 调用量导出",
-          "imageUrl": null
         }
       ]
     },

@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-06-26T02:39:52.721Z</updated>
+    <updated>2026-06-27T02:32:09.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[银行卡四要素核验 API 对接说明]]></title>
+        <id>https://cuiqingcai.com/3481821.html</id>
+        <link href="https://cuiqingcai.com/3481821.html"/>
+        <updated>2026-06-26T05:50:21.000Z</updated>
+        <summary type="html"><![CDATA[<p>本文将介绍一种 银行卡四要素核验 API 对接说明，它可用于输入银行卡号、姓名、开户证件号、开户手机号，校验信息的真实性和一致性。</p>
+<h2 id="申请流程"><a href="#申请流程" class="headerlink" title="申请流程"></a>申]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 401 期）：如何赚到10亿美元]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html"/>
+        <updated>2026-06-26T00:05:38.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini CLI 对接 ShortURL MCP]]></title>
+        <id>https://cuiqingcai.com/3450287.html</id>
+        <link href="https://cuiqingcai.com/3450287.html"/>
+        <updated>2026-06-25T21:04:47.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+  <p>📘 <strong>完整指南</strong>：<a href="https://platform.acedata.cloud/documents/gemini-cli-mcp-all" target="_blank" rel="noopen]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从猎户座之王到群星]]></title>
         <id>https://blog.codingnow.com/2026/06/from_moo_to_stellaris.html</id>
@@ -205,39 +237,6 @@
         <updated>2026-06-12T21:11:25.000Z</updated>
         <summary type="html"><![CDATA[<p>本文将介绍 Grok Videos Generation API 的对接说明，它可以通过输入文本提示词、输入图片以及可选的参考图片来生成 Grok Imagine（xAI）视频。</p>
 <h2 id="申请流程"><a href="#申请流程" class="header]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude.ai 对接 Face Transform 面部转换 MCP]]></title>
-        <id>https://cuiqingcai.com/3273573.html</id>
-        <link href="https://cuiqingcai.com/3273573.html"/>
-        <updated>2026-06-12T06:12:53.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-  <p>📘 <strong>完整指南</strong>：<a href="https://platform.acedata.cloud/documents/promotion_article_mcp_claude_ai_remote" target=]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 400 期）：rsync 的争论]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html"/>
-        <updated>2026-06-11T23:26:08.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。（[通知] 下周端午假期，周刊休息。）...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[获取 AceDataCloud 平台 API 调用量导出]]></title>
-        <id>https://cuiqingcai.com/3239553.html</id>
-        <link href="https://cuiqingcai.com/3239553.html"/>
-        <updated>2026-06-11T20:45:53.000Z</updated>
-        <summary type="html"><![CDATA[<p>异步生成包含所选时间段内<strong>全部业务接口调用流水</strong>的 CSV 文件，并返回下载 URL。适合月度对账、给财务出 BI 报表、给第三方审计师交付明细等场景。</p>
-<blockquote>
-  <p>📌 调用记录数量超过 1 万条时强烈建议用本]]></summary>
         <author>
             <name>静觅</name>
         </author>

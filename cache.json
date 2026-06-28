@@ -123,6 +123,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3534696.html",
+          "author": null,
+          "description": "<p>永久删除一枚 API 凭证。删除后<strong>立即不可恢复</strong>，所有正在使用该 Token 的业务接口会马上收到 <code>401</code>。</p>\n<blockquote>\n  <p>ℹ️ 本接口属于 <strong>AceDataCloud 平",
+          "link": "https://cuiqingcai.com/3534696.html",
+          "publishedOn": "2026-06-26T20:31:36.000Z",
+          "wordCount": 1317,
+          "title": "删除 AceDataCloud 平台 API 凭证",
+          "imageUrl": null
+        },
+        {
           "id": "https://cuiqingcai.com/3481821.html",
           "author": null,
           "description": "<p>本文将介绍一种 银行卡四要素核验 API 对接说明，它可用于输入银行卡号、姓名、开户证件号、开户手机号，校验信息的真实性和一致性。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title=\"申请流程\"></a>申",
@@ -301,16 +311,6 @@
           "wordCount": 1502,
           "title": "获取 AceDataCloud 平台模型列表",
           "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3327485.html",
-          "author": null,
-          "description": "<p>本文将介绍 Grok Videos Generation API 的对接说明，它可以通过输入文本提示词、输入图片以及可选的参考图片来生成 Grok Imagine（xAI）视频。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"header",
-          "link": "https://cuiqingcai.com/3327485.html",
-          "publishedOn": "2026-06-12T21:11:25.000Z",
-          "wordCount": 1483,
-          "title": "Grok Videos Generation API 对接说明",
-          "imageUrl": "https://cdn.acedata.cloud/q6ytrc.png"
         }
       ]
     },

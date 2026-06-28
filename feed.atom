@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-06-27T02:32:09.102Z</updated>
+    <updated>2026-06-28T02:45:46.577Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[删除 AceDataCloud 平台 API 凭证]]></title>
+        <id>https://cuiqingcai.com/3534696.html</id>
+        <link href="https://cuiqingcai.com/3534696.html"/>
+        <updated>2026-06-26T20:31:36.000Z</updated>
+        <summary type="html"><![CDATA[<p>永久删除一枚 API 凭证。删除后<strong>立即不可恢复</strong>，所有正在使用该 Token 的业务接口会马上收到 <code>401</code>。</p>
+<blockquote>
+  <p>ℹ️ 本接口属于 <strong>AceDataCloud 平]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[银行卡四要素核验 API 对接说明]]></title>
         <id>https://cuiqingcai.com/3481821.html</id>
@@ -226,17 +238,6 @@
         <link href="https://cuiqingcai.com/3414891.html"/>
         <updated>2026-06-13T21:28:11.000Z</updated>
         <summary type="html"><![CDATA[<p>返回平台上<strong>全部可用的 LLM / 图像 / 视频 / 音频 / 嵌入 / 重排序模型</strong>——按 OpenAI <code>/v1/models</code> 风格的扁平视图返回，兼容 OpenAI SDK。一个 Proxy 服务通常对应数十乃至]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grok Videos Generation API 对接说明]]></title>
-        <id>https://cuiqingcai.com/3327485.html</id>
-        <link href="https://cuiqingcai.com/3327485.html"/>
-        <updated>2026-06-12T21:11:25.000Z</updated>
-        <summary type="html"><![CDATA[<p>本文将介绍 Grok Videos Generation API 的对接说明，它可以通过输入文本提示词、输入图片以及可选的参考图片来生成 Grok Imagine（xAI）视频。</p>
-<h2 id="申请流程"><a href="#申请流程" class="header]]></summary>
         <author>
             <name>静觅</name>
         </author>

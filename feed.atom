@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-06-28T02:45:46.577Z</updated>
+    <updated>2026-06-29T02:45:47.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AceDataCloud Docs MCP：把整个平台文档接入你的 AI 助手]]></title>
+        <id>https://cuiqingcai.com/3653914.html</id>
+        <link href="https://cuiqingcai.com/3653914.html"/>
+        <updated>2026-06-28T05:38:34.000Z</updated>
+        <summary type="html"><![CDATA[<p><code>AceDataCloud Docs MCP</code> 是一个<strong>公开、免安装</strong>的 <a href="https://modelcontextprotocol.io" target="_blank" rel="noopener">M]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenCode 对接 Sora MCP]]></title>
+        <id>https://cuiqingcai.com/3624269.html</id>
+        <link href="https://cuiqingcai.com/3624269.html"/>
+        <updated>2026-06-27T21:24:29.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+  <p>📘 <strong>Overview</strong>：<a href="https://platform.acedata.cloud/documents/opencode-mcp-all" target="_blank" rel="noop]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[删除 AceDataCloud 平台 API 凭证]]></title>
         <id>https://cuiqingcai.com/3534696.html</id>
@@ -217,27 +238,6 @@
         <updated>2026-06-14T21:26:55.000Z</updated>
         <summary type="html"><![CDATA[<p>本文将介绍一种 身份证人像照片验真 API 对接说明，它可用于传入身份证人像面照片，识别身份证照片上的信息，并将姓名、身份证号、身份证人像照片与权威库的证件照进行比对，是否属于同一个人，从而验证身份证信息的真实性。</p>
 <h2 id="申请流程"><a href="#申]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用 5 秒视频讲一个精彩开场：Pika 视频生成 API，短内容的爆发点（含超多示例与图例）]]></title>
-        <id>https://cuiqingcai.com/3446567.html</id>
-        <link href="https://cuiqingcai.com/3446567.html"/>
-        <updated>2026-06-14T06:16:07.000Z</updated>
-        <summary type="html"><![CDATA[<p>在短内容时代，第一眼的动态决定了你是否拥有第二次讲述的机会。Ace Data Cloud 的 Pika Videos API，让你把“灵感句子/参考图/参考视频”变成 5–6 秒高质感动效——是短视频开场、产品亮点、表情包、动图广告、栏目片头的绝佳素材源。</p>
-<p>关]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[获取 AceDataCloud 平台模型列表]]></title>
-        <id>https://cuiqingcai.com/3414891.html</id>
-        <link href="https://cuiqingcai.com/3414891.html"/>
-        <updated>2026-06-13T21:28:11.000Z</updated>
-        <summary type="html"><![CDATA[<p>返回平台上<strong>全部可用的 LLM / 图像 / 视频 / 音频 / 嵌入 / 重排序模型</strong>——按 OpenAI <code>/v1/models</code> 风格的扁平视图返回，兼容 OpenAI SDK。一个 Proxy 服务通常对应数十乃至]]></summary>
         <author>
             <name>静觅</name>
         </author>

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-06-30T02:40:31.637Z</updated>
+    <updated>2026-07-01T02:45:58.561Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[别再盲做内容了：用 Google SERP API，先把真相看清楚（含超多示例与图例）]]></title>
+        <id>https://cuiqingcai.com/3829335.html</id>
+        <link href="https://cuiqingcai.com/3829335.html"/>
+        <updated>2026-06-30T06:22:15.000Z</updated>
+        <summary type="html"><![CDATA[<p>好内容不是闭门造车出来的，而是“顺着搜索的路”被发现的。Ace Data Cloud 的 Google SERP API，把用户真正看到的 Google 搜索结果，完整、结构化地送到你面前：有机排名、知识图谱、People Also Ask、相关推荐……你不再猜，而是基于证]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dario Amodei：AI 开源是伪命题]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/06/anthropic.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/06/anthropic.html"/>
+        <updated>2026-06-30T03:04:08.000Z</updated>
+        <summary type="html"><![CDATA[下面是 Anthropic 公司创始人 Dario Amodei 的言论。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[生活来在一个包里]]></title>
         <id>https://www.kawabangga.com/?p=7314</id>
@@ -228,28 +248,6 @@ Continue reading...]]></summary>
         <updated>2026-06-16T21:06:17.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
   <p>📘 <strong>Overview</strong>：<a href="https://platform.acedata.cloud/documents/opencode-mcp-all" target="_blank" rel="noop]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Veo Reshoot API 对接说明]]></title>
-        <id>https://cuiqingcai.com/3623209.html</id>
-        <link href="https://cuiqingcai.com/3623209.html"/>
-        <updated>2026-06-16T07:20:09.000Z</updated>
-        <summary type="html"><![CDATA[<p>本文将介绍 Veo Reshoot API 的对接说明。该接口用于对一段已经生成的 Veo 视频按照<strong>新的镜头运动方式重新生成</strong>，画面内容保持一致，但镜头机位与运动会按 <code>motion_type</code> 重新演绎。</p>
-<h]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hCaptcha 协议识别 API 对接说明]]></title>
-        <id>https://cuiqingcai.com/3586299.html</id>
-        <link href="https://cuiqingcai.com/3586299.html"/>
-        <updated>2026-06-15T21:04:59.000Z</updated>
-        <summary type="html"><![CDATA[<p>本文将介绍一种 hCaptcha 协议识别 API 对接说明，它可让用户无需识别和点选 hCaptcha 验证码图片，仅需通过提交 Website Key 即可实现后台自动解码，完成验证。</p>
-<h2 id="申请流程"><a href="#申请流程" class="h]]></summary>
         <author>
             <name>静觅</name>
         </author>

@@ -133,6 +133,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3881198.html",
+          "author": null,
+          "description": "<p>NanoBanana 跟其他 AI 画图工具不太一样——它不只是”画一张新图”，更强的是”改一张旧图”。底层用的是 Google Gemini 模型，真正理解图片内容，可以精确编辑。</p>\n<p>最实用的能力：扔给它两张图，让它把 A 图的产品放到 B 图的背景上，或者以",
+          "link": "https://cuiqingcai.com/3881198.html",
+          "publishedOn": "2026-06-30T20:46:38.000Z",
+          "wordCount": 1283,
+          "title": "Cursor 对接 NanoBanana MCP",
+          "imageUrl": "https://cdn.acedata.cloud/58te19.jpg"
+        },
+        {
           "id": "https://cuiqingcai.com/3829335.html",
           "author": null,
           "description": "<p>好内容不是闭门造车出来的，而是“顺着搜索的路”被发现的。Ace Data Cloud 的 Google SERP API，把用户真正看到的 Google 搜索结果，完整、结构化地送到你面前：有机排名、知识图谱、People Also Ask、相关推荐……你不再猜，而是基于证",
@@ -310,16 +320,6 @@
           "publishedOn": "2026-06-17T20:51:30.000Z",
           "wordCount": 5130,
           "title": "Google SERP API 对接说明",
-          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3672777.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>📘 <strong>Overview</strong>：<a href=\"https://platform.acedata.cloud/documents/opencode-mcp-all\" target=\"_blank\" rel=\"noop",
-          "link": "https://cuiqingcai.com/3672777.html",
-          "publishedOn": "2026-06-16T21:06:17.000Z",
-          "wordCount": 1562,
-          "title": "OpenCode 对接 Suno MCP",
           "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
         }
       ]

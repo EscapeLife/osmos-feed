@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-07-01T02:45:58.561Z</updated>
+    <updated>2026-07-02T02:36:05.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cursor 对接 NanoBanana MCP]]></title>
+        <id>https://cuiqingcai.com/3881198.html</id>
+        <link href="https://cuiqingcai.com/3881198.html"/>
+        <updated>2026-06-30T20:46:38.000Z</updated>
+        <summary type="html"><![CDATA[<p>NanoBanana 跟其他 AI 画图工具不太一样——它不只是”画一张新图”，更强的是”改一张旧图”。底层用的是 Google Gemini 模型，真正理解图片内容，可以精确编辑。</p>
+<p>最实用的能力：扔给它两张图，让它把 A 图的产品放到 B 图的背景上，或者以]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[别再盲做内容了：用 Google SERP API，先把真相看清楚（含超多示例与图例）]]></title>
         <id>https://cuiqingcai.com/3829335.html</id>
@@ -237,17 +248,6 @@ Continue reading...]]></summary>
         <updated>2026-06-17T20:51:30.000Z</updated>
         <summary type="html"><![CDATA[<p>Google SERP（Search Engine Results Page）是用户在 Google 搜索引擎中输入查询后看到的结果页面。它显示自然搜索结果、广告、特色摘要、知识图谱以及图片、视频等多种内容，旨在为用户提供最相关的信息。</p>
 <p>本文将详细介绍 Goo]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenCode 对接 Suno MCP]]></title>
-        <id>https://cuiqingcai.com/3672777.html</id>
-        <link href="https://cuiqingcai.com/3672777.html"/>
-        <updated>2026-06-16T21:06:17.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-  <p>📘 <strong>Overview</strong>：<a href="https://platform.acedata.cloud/documents/opencode-mcp-all" target="_blank" rel="noop]]></summary>
         <author>
             <name>静觅</name>
         </author>

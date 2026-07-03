@@ -133,6 +133,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3968543.html",
+          "author": null,
+          "description": "<p>我们知道，市面上一些问答 API 的对接还是相对没那么容易的，比如说 OpenAI 的 Chat Completions API，它有一个 <code>messages</code> 字段，如果要完成连续对话，需要我们把所有的上下文历史全部传递，同时还需要处理 Token",
+          "link": "https://cuiqingcai.com/3968543.html",
+          "publishedOn": "2026-07-01T21:02:23.000Z",
+          "wordCount": 2133,
+          "title": "AI Chat API 对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
+        },
+        {
           "id": "https://cuiqingcai.com/3881198.html",
           "author": null,
           "description": "<p>NanoBanana 跟其他 AI 画图工具不太一样——它不只是”画一张新图”，更强的是”改一张旧图”。底层用的是 Google Gemini 模型，真正理解图片内容，可以精确编辑。</p>\n<p>最实用的能力：扔给它两张图，让它把 A 图的产品放到 B 图的背景上，或者以",
@@ -311,16 +321,6 @@
           "wordCount": 1400,
           "title": "Subsite（白标子站）使用教程",
           "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3758290.html",
-          "author": null,
-          "description": "<p>Google SERP（Search Engine Results Page）是用户在 Google 搜索引擎中输入查询后看到的结果页面。它显示自然搜索结果、广告、特色摘要、知识图谱以及图片、视频等多种内容，旨在为用户提供最相关的信息。</p>\n<p>本文将详细介绍 Goo",
-          "link": "https://cuiqingcai.com/3758290.html",
-          "publishedOn": "2026-06-17T20:51:30.000Z",
-          "wordCount": 5130,
-          "title": "Google SERP API 对接说明",
-          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
         }
       ]
     },

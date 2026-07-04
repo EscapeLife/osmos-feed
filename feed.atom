@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-07-03T02:11:24.726Z</updated>
+    <updated>2026-07-04T02:10:05.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html"/>
+        <updated>2026-07-02T23:33:49.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini CLI 对接 Seedance MCP]]></title>
+        <id>https://cuiqingcai.com/3053896.html</id>
+        <link href="https://cuiqingcai.com/3053896.html"/>
+        <updated>2026-07-02T20:44:56.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+  <p>📘 <strong>完整指南</strong>：<a href="https://platform.acedata.cloud/documents/gemini-cli-mcp-all" target="_blank" rel="noopen]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI Chat API 对接说明]]></title>
         <id>https://cuiqingcai.com/3968543.html</id>
@@ -237,16 +258,6 @@ Continue reading...]]></summary>
         <link href="https://cuiqingcai.com/3932578.html"/>
         <updated>2026-06-19T21:16:18.000Z</updated>
         <summary type="html"><![CDATA[<p>本接口基于 <a href="https://docs.fish.audio/text-to-speech/text-to-speech" target="_blank" rel="noopener">Fish Audio 官方 TTS API</a>，仅在鉴权方式（使用本]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Subsite（白标子站）使用教程]]></title>
-        <id>https://cuiqingcai.com/3844306.html</id>
-        <link href="https://cuiqingcai.com/3844306.html"/>
-        <updated>2026-06-18T20:45:06.000Z</updated>
-        <summary type="html"><![CDATA[<p>Subsite 让你在 <strong>不另外部署一份前端代码</strong> 的前提下，基于 Nexior / Studio 主站建出一个有自己品牌、域名和功能子集的独立站点。每个 Subsite 共享主站的服务容量（模型池、积分账本、对话历史），但拥有独立的：</p>]]></summary>
         <author>
             <name>静觅</name>
         </author>

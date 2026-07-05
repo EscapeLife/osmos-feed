@@ -143,6 +143,36 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3173599.html",
+          "author": null,
+          "description": "<p>做过海报的开发者都知道一个痛点：Midjourney 和 Flux 对中文的支持很一般。你让它写”限时优惠”四个字，出来可能是乱码或者不伦不类的笔画。</p>\n<p>Seedream 是字节跳动做的 AI 图片模型，中文文字渲染是它的强项。你说”在图片右上角加上红色的限时优",
+          "link": "https://cuiqingcai.com/3173599.html",
+          "publishedOn": "2026-07-04T05:59:59.000Z",
+          "wordCount": 1493,
+          "title": "VS Code + Seedream MCP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cuiqingcai.com/3141625.html",
+          "author": null,
+          "description": "<blockquote>\n  <p>📘 <strong>Overview</strong>：<a href=\"https://platform.acedata.cloud/documents/claude-desktop-mcp-all\" target=\"_blank\" rel",
+          "link": "https://cuiqingcai.com/3141625.html",
+          "publishedOn": "2026-07-03T21:07:05.000Z",
+          "wordCount": 1262,
+          "title": "Claude Desktop 对接 通义万相 Wan MCP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cuiqingcai.com/3086288.html",
+          "author": null,
+          "description": "<blockquote>\n  <p>📘 <strong>总览指南</strong>：<a href=\"https://platform.acedata.cloud/documents/claude-desktop-mcp-all\" target=\"_blank\" rel=\"no",
+          "link": "https://cuiqingcai.com/3086288.html",
+          "publishedOn": "2026-07-03T05:44:48.000Z",
+          "wordCount": 1667,
+          "title": "Claude 对接 Seedance MCP",
+          "imageUrl": "https://cdn.acedata.cloud/4c05821aab.png"
+        },
+        {
           "id": "https://cuiqingcai.com/3053896.html",
           "author": null,
           "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/gemini-cli-mcp-all\" target=\"_blank\" rel=\"noopen",
@@ -310,26 +340,6 @@
           "publishedOn": "2026-06-20T21:21:22.000Z",
           "wordCount": 1440,
           "title": "Claude Code 对接 Sora MCP",
-          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3965715.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/codex-mcp-all\" target=\"_blank\" rel=\"noopener\">在",
-          "link": "https://cuiqingcai.com/3965715.html",
-          "publishedOn": "2026-06-20T06:28:35.000Z",
-          "wordCount": 1235,
-          "title": "Codex CLI 对接 Flux MCP",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3932578.html",
-          "author": null,
-          "description": "<p>本接口基于 <a href=\"https://docs.fish.audio/text-to-speech/text-to-speech\" target=\"_blank\" rel=\"noopener\">Fish Audio 官方 TTS API</a>，仅在鉴权方式（使用本",
-          "link": "https://cuiqingcai.com/3932578.html",
-          "publishedOn": "2026-06-19T21:16:18.000Z",
-          "wordCount": 1683,
-          "title": "Fish TTS API 对接说明",
           "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
         }
       ]

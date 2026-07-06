@@ -143,6 +143,26 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3261660.html",
+          "author": null,
+          "description": "<p>Midjourney 拥有强大的图生图的功能，下面我们就来看一下，如何在我们的<a href=\"https://studio.acedata.cloud/midjourney\" target=\"_blank\" rel=\"noopener\">AceDataCloud网站</a",
+          "link": "https://cuiqingcai.com/3261660.html",
+          "publishedOn": "2026-07-05T06:27:40.000Z",
+          "wordCount": 1241,
+          "title": "Midjourney 图生图，真人二次元保持一致性，场景多元可选择",
+          "imageUrl": "https://cdn.acedata.cloud/8ebp2m.png"
+        },
+        {
+          "id": "https://cuiqingcai.com/3228210.html",
+          "author": null,
+          "description": "<p>市面上 AI 视频模型不少，但说到画质，Google Veo 排得上号。细节清晰、色彩自然，原生支持 1080p——生成完不需要再拿去超分辨率，直接用。</p>\n<p>在 Cursor 里配上 Veo MCP Server，视频生成能力就直接嵌在你的开发环境里了。写代码的同",
+          "link": "https://cuiqingcai.com/3228210.html",
+          "publishedOn": "2026-07-04T21:10:10.000Z",
+          "wordCount": 1282,
+          "title": "Cursor 对接 Veo MCP",
+          "imageUrl": "https://cdn.acedata.cloud/58te19.jpg"
+        },
+        {
           "id": "https://cuiqingcai.com/3173599.html",
           "author": null,
           "description": "<p>做过海报的开发者都知道一个痛点：Midjourney 和 Flux 对中文的支持很一般。你让它写”限时优惠”四个字，出来可能是乱码或者不伦不类的笔画。</p>\n<p>Seedream 是字节跳动做的 AI 图片模型，中文文字渲染是它的强项。你说”在图片右上角加上红色的限时优",
@@ -320,26 +340,6 @@
           "publishedOn": "2026-06-21T20:48:17.000Z",
           "wordCount": 1520,
           "title": "在 Cursor 中使用 Ace Data Cloud",
-          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3048964.html",
-          "author": null,
-          "description": "<p>本文将介绍一种 Riffusion Audios Generation API 对接说明，它是可以通过输入自定义参数来生成 Riffusion 官方的音乐。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title",
-          "link": "https://cuiqingcai.com/3048964.html",
-          "publishedOn": "2026-06-21T05:36:04.000Z",
-          "wordCount": 5855,
-          "title": "Riffusion Audios Generation API 对接说明",
-          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3019282.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>📘 <strong>Overview</strong>：<a href=\"https://platform.acedata.cloud/documents/claude-code-mcp-all\" target=\"_blank\" rel=\"n",
-          "link": "https://cuiqingcai.com/3019282.html",
-          "publishedOn": "2026-06-20T21:21:22.000Z",
-          "wordCount": 1440,
-          "title": "Claude Code 对接 Sora MCP",
           "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
         }
       ]

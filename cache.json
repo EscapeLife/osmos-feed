@@ -143,6 +143,26 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3348700.html",
+          "author": null,
+          "description": "<blockquote>\n  <p>📘 <strong>总览指南</strong>：<a href=\"https://platform.acedata.cloud/documents/claude-desktop-mcp-all\" target=\"_blank\" rel=\"no",
+          "link": "https://cuiqingcai.com/3348700.html",
+          "publishedOn": "2026-07-06T06:38:20.000Z",
+          "wordCount": 1560,
+          "title": "Claude 对接 ShortURL MCP",
+          "imageUrl": "https://cdn.acedata.cloud/4c05821aab.png"
+        },
+        {
+          "id": "https://cuiqingcai.com/3314372.html",
+          "author": null,
+          "description": "<blockquote>\n  <p>📘 <strong>Overview</strong>：<a href=\"https://platform.acedata.cloud/documents/claude-code-mcp-all\" target=\"_blank\" rel=\"n",
+          "link": "https://cuiqingcai.com/3314372.html",
+          "publishedOn": "2026-07-05T21:06:12.000Z",
+          "wordCount": 1310,
+          "title": "Claude Code 对接 Fish 语音 MCP",
+          "imageUrl": null
+        },
+        {
           "id": "https://cuiqingcai.com/3261660.html",
           "author": null,
           "description": "<p>Midjourney 拥有强大的图生图的功能，下面我们就来看一下，如何在我们的<a href=\"https://studio.acedata.cloud/midjourney\" target=\"_blank\" rel=\"noopener\">AceDataCloud网站</a",
@@ -331,16 +351,6 @@
           "wordCount": 1222,
           "title": "Claude.ai 对接 通义万相 Wan MCP",
           "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3103697.html",
-          "author": null,
-          "description": "<p><a href=\"https://cursor.com/\" target=\"_blank\" rel=\"noopener\">Cursor</a> 是基于 VS Code 的 AI 编程编辑器，提供 Agent 模式、Tab 补全、内联编辑、CLI 和云端 Agent 等能力，",
-          "link": "https://cuiqingcai.com/3103697.html",
-          "publishedOn": "2026-06-21T20:48:17.000Z",
-          "wordCount": 1520,
-          "title": "在 Cursor 中使用 Ace Data Cloud",
-          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
         }
       ]
     },

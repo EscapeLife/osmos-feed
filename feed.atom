@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-07-07T02:25:19.549Z</updated>
+    <updated>2026-07-08T01:59:04.199Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[X402 价格说明]]></title>
+        <id>https://cuiqingcai.com/3433419.html</id>
+        <link href="https://cuiqingcai.com/3433419.html"/>
+        <updated>2026-07-07T06:10:19.000Z</updated>
+        <summary type="html"><![CDATA[<p>这篇文档说明用 X402 调用 Ace Data Cloud API 时，价格是怎么定的，以及它和平台普通 <strong>Credits</strong>（额度）价格是什么关系。</p>
+<h2 id="核心结论"><a href="#核心结论" class="heade]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X402 快速开始]]></title>
+        <id>https://cuiqingcai.com/3401445.html</id>
+        <link href="https://cuiqingcai.com/3401445.html"/>
+        <updated>2026-07-06T21:17:25.000Z</updated>
+        <summary type="html"><![CDATA[<p>本教程用一个最小的 API 请求说明 Ace Data Cloud X402 的完整流程。目标不是先写复杂代码，而是先看懂：为什么第一次请求会返回 402、<code>accepts</code> 里有什么、<code>X-Payment</code> 又是怎样让同一个 A]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Claude 对接 ShortURL MCP]]></title>
         <id>https://cuiqingcai.com/3348700.html</id>
@@ -270,17 +291,6 @@ Continue reading...]]></summary>
         <updated>2026-06-23T21:14:10.000Z</updated>
         <summary type="html"><![CDATA[<p>Ace Data Cloud X402 目前使用两类 scheme：<code>exact</code> 和 <code>upto</code>。它们解决的是不同计费问题。</p>
 <h2 id="exact"><a href="#exact" class="headerl]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude.ai 对接 通义万相 Wan MCP]]></title>
-        <id>https://cuiqingcai.com/3191934.html</id>
-        <link href="https://cuiqingcai.com/3191934.html"/>
-        <updated>2026-06-22T21:18:54.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-  <p>📘 <strong>完整指南</strong>：<a href="https://platform.acedata.cloud/documents/claude-ai-remote-mcp" target="_blank" rel="noop]]></summary>
         <author>
             <name>静觅</name>
         </author>

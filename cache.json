@@ -143,6 +143,26 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3433419.html",
+          "author": null,
+          "description": "<p>这篇文档说明用 X402 调用 Ace Data Cloud API 时，价格是怎么定的，以及它和平台普通 <strong>Credits</strong>（额度）价格是什么关系。</p>\n<h2 id=\"核心结论\"><a href=\"#核心结论\" class=\"heade",
+          "link": "https://cuiqingcai.com/3433419.html",
+          "publishedOn": "2026-07-07T06:10:19.000Z",
+          "wordCount": 1846,
+          "title": "X402 价格说明",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cuiqingcai.com/3401445.html",
+          "author": null,
+          "description": "<p>本教程用一个最小的 API 请求说明 Ace Data Cloud X402 的完整流程。目标不是先写复杂代码，而是先看懂：为什么第一次请求会返回 402、<code>accepts</code> 里有什么、<code>X-Payment</code> 又是怎样让同一个 A",
+          "link": "https://cuiqingcai.com/3401445.html",
+          "publishedOn": "2026-07-06T21:17:25.000Z",
+          "wordCount": 1684,
+          "title": "X402 快速开始",
+          "imageUrl": null
+        },
+        {
           "id": "https://cuiqingcai.com/3348700.html",
           "author": null,
           "description": "<blockquote>\n  <p>📘 <strong>总览指南</strong>：<a href=\"https://platform.acedata.cloud/documents/claude-desktop-mcp-all\" target=\"_blank\" rel=\"no",
@@ -340,16 +360,6 @@
           "publishedOn": "2026-06-23T21:14:10.000Z",
           "wordCount": 1600,
           "title": "X402 `exact` 与 `upto` 计费方案",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3191934.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/claude-ai-remote-mcp\" target=\"_blank\" rel=\"noop",
-          "link": "https://cuiqingcai.com/3191934.html",
-          "publishedOn": "2026-06-22T21:18:54.000Z",
-          "wordCount": 1222,
-          "title": "Claude.ai 对接 通义万相 Wan MCP",
           "imageUrl": null
         }
       ]

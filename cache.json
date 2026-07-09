@@ -94,7 +94,18 @@
       "title": "Frost's Blog",
       "feedUrl": "https://frostming.com/feed.xml",
       "siteUrl": "https://frostming.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://frostming.com/2026/changes/",
+          "author": null,
+          "description": "Frost Ming's personal blog",
+          "link": "https://frostming.com/posts/2026/changes/",
+          "publishedOn": "2026-07-08T00:00:00.000Z",
+          "wordCount": 235,
+          "title": "楞次定律",
+          "imageUrl": "https://frostming.com/og/2026/changes.png"
+        }
+      ]
     },
     {
       "title": "Posts on Jiayuan Thoughts",
@@ -142,6 +153,16 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3484736.html",
+          "author": null,
+          "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/codex-mcp-all\" target=\"_blank\" rel=\"noopener\">在",
+          "link": "https://cuiqingcai.com/3484736.html",
+          "publishedOn": "2026-07-07T20:25:36.000Z",
+          "wordCount": 1222,
+          "title": "Codex CLI 对接 Seedance MCP",
+          "imageUrl": null
+        },
         {
           "id": "https://cuiqingcai.com/3433419.html",
           "author": null,
@@ -351,16 +372,6 @@
           "wordCount": 1705,
           "title": "SeeDream Images Generation API 对接说明",
           "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3278050.html",
-          "author": null,
-          "description": "<p>Ace Data Cloud X402 目前使用两类 scheme：<code>exact</code> 和 <code>upto</code>。它们解决的是不同计费问题。</p>\n<h2 id=\"exact\"><a href=\"#exact\" class=\"headerl",
-          "link": "https://cuiqingcai.com/3278050.html",
-          "publishedOn": "2026-06-23T21:14:10.000Z",
-          "wordCount": 1600,
-          "title": "X402 `exact` 与 `upto` 计费方案",
-          "imageUrl": null
         }
       ]
     },

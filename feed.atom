@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-07-08T01:59:04.199Z</updated>
+    <updated>2026-07-09T02:11:46.206Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[楞次定律]]></title>
+        <id>https://frostming.com/2026/changes/</id>
+        <link href="https://frostming.com/posts/2026/changes/"/>
+        <updated>2026-07-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Frost Ming's personal blog]]></summary>
+        <author>
+            <name>Frost's Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Codex CLI 对接 Seedance MCP]]></title>
+        <id>https://cuiqingcai.com/3484736.html</id>
+        <link href="https://cuiqingcai.com/3484736.html"/>
+        <updated>2026-07-07T20:25:36.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+  <p>📘 <strong>完整指南</strong>：<a href="https://platform.acedata.cloud/documents/codex-mcp-all" target="_blank" rel="noopener">在]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[X402 价格说明]]></title>
         <id>https://cuiqingcai.com/3433419.html</id>
@@ -280,17 +301,6 @@ Continue reading...]]></summary>
         <updated>2026-06-24T20:55:25.000Z</updated>
         <summary type="html"><![CDATA[<p>本文将介绍一种 SeeDream Images Generation API 对接说明，它是可以通过输入自定义参数来生成 SeeDream 官方的图片。</p>
 <h2 id="申请流程"><a href="#申请流程" class="headerlink" title="]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X402 `exact` 与 `upto` 计费方案]]></title>
-        <id>https://cuiqingcai.com/3278050.html</id>
-        <link href="https://cuiqingcai.com/3278050.html"/>
-        <updated>2026-06-23T21:14:10.000Z</updated>
-        <summary type="html"><![CDATA[<p>Ace Data Cloud X402 目前使用两类 scheme：<code>exact</code> 和 <code>upto</code>。它们解决的是不同计费问题。</p>
-<h2 id="exact"><a href="#exact" class="headerl]]></summary>
         <author>
             <name>静觅</name>
         </author>

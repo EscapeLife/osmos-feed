@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-07-10T02:11:40.431Z</updated>
+    <updated>2026-07-11T01:57:15.632Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Claude Code CC Switch 图形化配置教程]]></title>
+        <id>https://cuiqingcai.com/3690979.html</id>
+        <link href="https://cuiqingcai.com/3690979.html"/>
+        <updated>2026-07-10T05:42:59.000Z</updated>
+        <summary type="html"><![CDATA[<p><a href="https://platform.acedata.cloud/documents/claude-code-integration" target="_blank" rel="noopener">Claude Code</a> 原生通过 <code>ANTH]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Children]]></title>
+        <id>https://www.kawabangga.com/?p=7328</id>
+        <link href="https://www.kawabangga.com/posts/7328"/>
+        <updated>2026-07-10T04:34:30.000Z</updated>
+        <summary type="html"><![CDATA[by Kahlil Gibran Your children are not your children.Th […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高尿酸血症确诊]]></title>
+        <id>https://blog.codingnow.com/2026/07/hyperuricemia.html</id>
+        <link href="https://blog.codingnow.com/2026/07/hyperuricemia.html"/>
+        <updated>2026-07-10T03:16:55.000Z</updated>
+        <summary type="html"><![CDATA[我在 2024 年底左脚大拇指根部曾肿痛一周 ，结合多年体检高尿酸结果，怀疑是痛风。但后来没有什么症状，身体也一直很好，就没去医院看。 最近一年多一直通过跑步降低体重 ，减少了 9~10kg 体重。攀岩保持在一周两到三次。自己在家查血尿酸，一直在 500~600 之间，偶尔在 480 左右。虽然戒掉了含糖饮料，也无饮酒，作息规律，精神放松（不用工作了）。但尿酸一直降不下来。...]]></summary>
+        <author>
+            <name>云风的 BLOG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html"/>
+        <updated>2026-07-10T00:05:31.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Desktop 对接 Fish 语音 MCP]]></title>
+        <id>https://cuiqingcai.com/3658132.html</id>
+        <link href="https://cuiqingcai.com/3658132.html"/>
+        <updated>2026-07-09T20:35:32.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+  <p>📘 <strong>Overview</strong>：<a href="https://platform.acedata.cloud/documents/claude-desktop-mcp-all" target="_blank" rel]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小孩的英语辅导]]></title>
         <id>https://blog.codingnow.com/2026/07/learning_english.html</id>
@@ -269,38 +321,6 @@ Continue reading...]]></summary>
         <summary type="html"><![CDATA[<p>永久删除一枚 API 凭证。删除后<strong>立即不可恢复</strong>，所有正在使用该 Token 的业务接口会马上收到 <code>401</code>。</p>
 <blockquote>
   <p>ℹ️ 本接口属于 <strong>AceDataCloud 平]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[银行卡四要素核验 API 对接说明]]></title>
-        <id>https://cuiqingcai.com/3481821.html</id>
-        <link href="https://cuiqingcai.com/3481821.html"/>
-        <updated>2026-06-26T05:50:21.000Z</updated>
-        <summary type="html"><![CDATA[<p>本文将介绍一种 银行卡四要素核验 API 对接说明，它可用于输入银行卡号、姓名、开户证件号、开户手机号，校验信息的真实性和一致性。</p>
-<h2 id="申请流程"><a href="#申请流程" class="headerlink" title="申请流程"></a>申]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 401 期）：如何赚到10亿美元]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html"/>
-        <updated>2026-06-26T00:05:38.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini CLI 对接 ShortURL MCP]]></title>
-        <id>https://cuiqingcai.com/3450287.html</id>
-        <link href="https://cuiqingcai.com/3450287.html"/>
-        <updated>2026-06-25T21:04:47.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-  <p>📘 <strong>完整指南</strong>：<a href="https://platform.acedata.cloud/documents/gemini-cli-mcp-all" target="_blank" rel="noopen]]></summary>
         <author>
             <name>静觅</name>
         </author>

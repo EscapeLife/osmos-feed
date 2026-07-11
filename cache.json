@@ -18,6 +18,16 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html",
+          "publishedOn": "2026-07-10T00:05:31.000Z",
+          "wordCount": null,
+          "title": "科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
@@ -35,16 +45,6 @@
           "publishedOn": "2026-06-30T03:04:08.000Z",
           "wordCount": null,
           "title": "Dario Amodei：AI 开源是伪命题",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html",
-          "publishedOn": "2026-06-26T00:05:38.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 401 期）：如何赚到10亿美元",
           "imageUrl": null
         }
       ]
@@ -66,6 +66,16 @@
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
+        {
+          "id": "https://www.kawabangga.com/?p=7328",
+          "author": "laixintao",
+          "description": "by Kahlil Gibran Your children are not your children.Th […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/7328",
+          "publishedOn": "2026-07-10T04:34:30.000Z",
+          "wordCount": 1130,
+          "title": "On Children",
+          "imageUrl": null
+        },
         {
           "id": "https://www.kawabangga.com/?p=7314",
           "author": "laixintao",
@@ -131,6 +141,16 @@
       "siteUrl": "https://blog.codingnow.com/",
       "articles": [
         {
+          "id": "https://blog.codingnow.com/2026/07/hyperuricemia.html",
+          "author": null,
+          "description": "我在 2024 年底左脚大拇指根部曾肿痛一周 ，结合多年体检高尿酸结果，怀疑是痛风。但后来没有什么症状，身体也一直很好，就没去医院看。 最近一年多一直通过跑步降低体重 ，减少了 9~10kg 体重。攀岩保持在一周两到三次。自己在家查血尿酸，一直在 500~600 之间，偶尔在 480 左右。虽然戒掉了含糖饮料，也无饮酒，作息规律，精神放松（不用工作了）。但尿酸一直降不下来。...",
+          "link": "https://blog.codingnow.com/2026/07/hyperuricemia.html",
+          "publishedOn": "2026-07-10T03:16:55.000Z",
+          "wordCount": 79,
+          "title": "高尿酸血症确诊",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.codingnow.com/2026/07/learning_english.html",
           "author": null,
           "description": "今年花了很多时间给云豆补习英语。 他今年小学毕业了，我意识到他在英语学习方面遇到了障碍需要额外介入，是在今年过年期间。云豆在很小的时候，直到三岁还不太会说话。长点的句子都说不下来，但是英文字母认得却很快，似乎对英文有点兴趣，就给他报了个英语兴趣班，一周上两小时的课。但很快就遇到了疫情，几乎都在上无效网课，也就停了。从三年级开始，我督促他在多邻国上每日打卡。有一段时间他特别着迷于在多邻国上冲击钻石等级，每天甚至能刷上近两小时的积分。要说多邻国上学英文到底有没有用，我也说不上来，不过至少能培养一点基本的语感，看见单词即使不认识也能读出来。去查字典时，也不需要反复查看拼写，见过一眼的生词背过去在键盘上能一次输入正确。光这点，比我小时候学英文强。 他在五年级之前，学校英文课的成绩还不错。但考试分数从五年级开始就快速下降（从九十多分下降到八十多分），高年级换了英语老师，家长会上能感觉到新的英语老师把他归为成绩不是很好的学生。我问过他为什么成绩下降，也检查过他每次考试的试卷，他归纳为英语“语法”太难了。我意识到，对他来说，光靠过去的积累的一点语感对继续学习英语是不够的。只有更系统的学习才有效率。况且，多邻国对他已经沦为一个积分游戏，他宁可花很多时间去已经熟悉的章节里刷分，也不愿意增加有效的练习强度。 当然，学习语言最好是有足够量的应用环境。但他不爱阅读（短期也不可能培养出足够的兴趣），也不喜欢看电影/动画片。每每他问起，为什么我们要学习英语，我是这样回答的：学习英语有两个主要的用途；英语是事实上的世界语，这个世界上大多数受过教育的人，或多或少都会说一点英语，我们和世界打交道，就用得上；这个世界上绝大多数知识是用英语记载的，翻译成中文的过程很容易曲解和丢失原本的意思，用英语学习知识很多时候都是必要的，而且效率更高。...",
@@ -153,6 +173,26 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3690979.html",
+          "author": null,
+          "description": "<p><a href=\"https://platform.acedata.cloud/documents/claude-code-integration\" target=\"_blank\" rel=\"noopener\">Claude Code</a> 原生通过 <code>ANTH",
+          "link": "https://cuiqingcai.com/3690979.html",
+          "publishedOn": "2026-07-10T05:42:59.000Z",
+          "wordCount": 1647,
+          "title": "Claude Code CC Switch 图形化配置教程",
+          "imageUrl": "https://raw.githubusercontent.com/farion1231/cc-switch/main/assets/screenshots/main-en.png"
+        },
+        {
+          "id": "https://cuiqingcai.com/3658132.html",
+          "author": null,
+          "description": "<blockquote>\n  <p>📘 <strong>Overview</strong>：<a href=\"https://platform.acedata.cloud/documents/claude-desktop-mcp-all\" target=\"_blank\" rel",
+          "link": "https://cuiqingcai.com/3658132.html",
+          "publishedOn": "2026-07-09T20:35:32.000Z",
+          "wordCount": 1275,
+          "title": "Claude Desktop 对接 Fish 语音 MCP",
+          "imageUrl": null
+        },
         {
           "id": "https://cuiqingcai.com/3573195.html",
           "author": null,
@@ -351,26 +391,6 @@
           "publishedOn": "2026-06-26T20:31:36.000Z",
           "wordCount": 1317,
           "title": "删除 AceDataCloud 平台 API 凭证",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3481821.html",
-          "author": null,
-          "description": "<p>本文将介绍一种 银行卡四要素核验 API 对接说明，它可用于输入银行卡号、姓名、开户证件号、开户手机号，校验信息的真实性和一致性。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title=\"申请流程\"></a>申",
-          "link": "https://cuiqingcai.com/3481821.html",
-          "publishedOn": "2026-06-26T05:50:21.000Z",
-          "wordCount": 1366,
-          "title": "银行卡四要素核验 API 对接说明",
-          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3450287.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/gemini-cli-mcp-all\" target=\"_blank\" rel=\"noopen",
-          "link": "https://cuiqingcai.com/3450287.html",
-          "publishedOn": "2026-06-25T21:04:47.000Z",
-          "wordCount": 1243,
-          "title": "Gemini CLI 对接 ShortURL MCP",
           "imageUrl": null
         }
       ]

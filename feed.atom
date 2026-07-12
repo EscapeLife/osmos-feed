@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-07-11T01:57:15.632Z</updated>
+    <updated>2026-07-12T02:01:09.190Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Grok Tasks API 的对接和使用]]></title>
+        <id>https://cuiqingcai.com/3779989.html</id>
+        <link href="https://cuiqingcai.com/3779989.html"/>
+        <updated>2026-07-11T06:26:29.000Z</updated>
+        <summary type="html"><![CDATA[<p>Grok Tasks API 的主要功能是通过输入 Grok Videos Generation API 生成的任务 ID 来查询该任务的执行情况。</p>
+<p>本文档将详细介绍 Grok Tasks API 的对接说明，帮助您轻松集成并查询 Grok Videos Ge]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello, World!]]></title>
+        <id>https://www.kawabangga.com/?p=7336</id>
+        <link href="https://www.kawabangga.com/posts/7336"/>
+        <updated>2026-07-11T03:13:58.000Z</updated>
+        <summary type="html"><![CDATA[Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Artistic QR Tasks API 的对接和使用]]></title>
+        <id>https://cuiqingcai.com/3745259.html</id>
+        <link href="https://cuiqingcai.com/3745259.html"/>
+        <updated>2026-07-10T20:47:39.000Z</updated>
+        <summary type="html"><![CDATA[<p>Artistic QR Tasks API 的主要功能是通过输入 Artistic QR Generation API 生成的任务ID来查询该任务的执行情况。</p>
+<p>本文档将详细介绍 Artistic QR Tasks API 的对接说明，帮助您轻松集成并充分利用该]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Claude Code CC Switch 图形化配置教程]]></title>
         <id>https://cuiqingcai.com/3690979.html</id>
@@ -309,18 +341,6 @@ Continue reading...]]></summary>
         <updated>2026-06-27T21:24:29.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
   <p>📘 <strong>Overview</strong>：<a href="https://platform.acedata.cloud/documents/opencode-mcp-all" target="_blank" rel="noop]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[删除 AceDataCloud 平台 API 凭证]]></title>
-        <id>https://cuiqingcai.com/3534696.html</id>
-        <link href="https://cuiqingcai.com/3534696.html"/>
-        <updated>2026-06-26T20:31:36.000Z</updated>
-        <summary type="html"><![CDATA[<p>永久删除一枚 API 凭证。删除后<strong>立即不可恢复</strong>，所有正在使用该 Token 的业务接口会马上收到 <code>401</code>。</p>
-<blockquote>
-  <p>ℹ️ 本接口属于 <strong>AceDataCloud 平]]></summary>
         <author>
             <name>静觅</name>
         </author>

@@ -184,6 +184,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3916744.html",
+          "author": null,
+          "description": "<blockquote>\n  <p>📘 <strong>Overview</strong>：<a href=\"https://platform.acedata.cloud/documents/opencode-mcp-all\" target=\"_blank\" rel=\"noop",
+          "link": "https://cuiqingcai.com/3916744.html",
+          "publishedOn": "2026-07-12T20:25:44.000Z",
+          "wordCount": 1534,
+          "title": "OpenCode 对接 Seedance MCP",
+          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
+        },
+        {
           "id": "https://cuiqingcai.com/3830689.html",
           "author": null,
           "description": "<p>BYOK（Bring Your Own Key）让你在 Nexior / Studio 的对话界面里，直接使用自己已有的上游服务商 API Key，<strong>完全绕开平台的账号池和积分计费</strong>。配置后该模型的对话请求会用你的 Key 直接打到 OpenA",
@@ -382,26 +392,6 @@
           "wordCount": 1338,
           "title": "别再盲做内容了：用 Google SERP API，先把真相看清楚（含超多示例与图例）",
           "imageUrl": "https://cdn.acedata.cloud/q6ytrc.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/3745475.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>这是一篇总览文章：<strong>把 AceData Cloud 提供的 11 个 MCP Server 一次性接到 <a href=\"https://github.com/openai/codex\" target=\"_blank\" rel=\"",
-          "link": "https://cuiqingcai.com/3745475.html",
-          "publishedOn": "2026-06-29T07:04:35.000Z",
-          "wordCount": 1526,
-          "title": "Codex CLI 对接 Ace Data Cloud MCP",
-          "imageUrl": "https://cdn.acedata.cloud/58te19.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3708358.html",
-          "author": null,
-          "description": "<p>本文介绍 Nano Banana Images API 的对接与使用。该接口支持两种能力：<strong>图像生成（generate）</strong> 与 <strong>图像编辑（edit）</strong>。</p>\n<h2 id=\"申请流程\"><a href=\"#申",
-          "link": "https://cuiqingcai.com/3708358.html",
-          "publishedOn": "2026-06-28T20:45:58.000Z",
-          "wordCount": 1812,
-          "title": "Nano Banana Images API 对接说明",
-          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
         }
       ]
     },

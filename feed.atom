@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-07-14T01:48:54.497Z</updated>
+    <updated>2026-07-15T01:45:17.727Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Suno Vox API 对接说明]]></title>
+        <id>https://cuiqingcai.com/3039069.html</id>
+        <link href="https://cuiqingcai.com/3039069.html"/>
+        <updated>2026-07-14T06:24:29.000Z</updated>
+        <summary type="html"><![CDATA[<p>SUNO 允许我们创建新版的Persona-v2-vox 版:歌手风格，与旧版本不同的需要先获取<code>vox_audio_id</code>。本文档讲解创建新版Persona-v2-vox的 对接方法。</p>
+<p>首选需要该 API获取<code>vox_audi]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenCode MCP Overview]]></title>
+        <id>https://cuiqingcai.com/3003251.html</id>
+        <link href="https://cuiqingcai.com/3003251.html"/>
+        <updated>2026-07-13T20:27:31.000Z</updated>
+        <summary type="html"><![CDATA[<p>OpenCode 本身擅长读代码、改文件、跑命令、解释报错；MCP 则让它在同一个终端会话里继续调用外部工具。AceData Cloud 把音乐、图片、视频、搜索、短链这些能力做成托管式远程 MCP Server，你不需要本地启动服务，也不需要为每个工具维护不同账号。</p]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenCode 对接 Seedance MCP]]></title>
         <id>https://cuiqingcai.com/3916744.html</id>
@@ -290,37 +311,6 @@ Continue reading...]]></summary>
 <p>最实用的能力：扔给它两张图，让它把 A 图的产品放到 B 图的背景上，或者以]]></summary>
         <author>
             <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[别再盲做内容了：用 Google SERP API，先把真相看清楚（含超多示例与图例）]]></title>
-        <id>https://cuiqingcai.com/3829335.html</id>
-        <link href="https://cuiqingcai.com/3829335.html"/>
-        <updated>2026-06-30T06:22:15.000Z</updated>
-        <summary type="html"><![CDATA[<p>好内容不是闭门造车出来的，而是“顺着搜索的路”被发现的。Ace Data Cloud 的 Google SERP API，把用户真正看到的 Google 搜索结果，完整、结构化地送到你面前：有机排名、知识图谱、People Also Ask、相关推荐……你不再猜，而是基于证]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dario Amodei：AI 开源是伪命题]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/06/anthropic.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/06/anthropic.html"/>
-        <updated>2026-06-30T03:04:08.000Z</updated>
-        <summary type="html"><![CDATA[下面是 Anthropic 公司创始人 Dario Amodei 的言论。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生活来在一个包里]]></title>
-        <id>https://www.kawabangga.com/?p=7314</id>
-        <link href="https://www.kawabangga.com/posts/7314"/>
-        <updated>2026-06-29T14:55:30.000Z</updated>
-        <summary type="html"><![CDATA[时间过得真快，Rick and Morty 已经播出 13 年了。 在试播集的时候，Rick 说的这句话——「 […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
 </feed>

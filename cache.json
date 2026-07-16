@@ -164,6 +164,26 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3122845.html",
+          "author": null,
+          "description": "<p>本文将介绍 Veo Upsample API 的对接说明。该接口用于对一段已经生成的 Veo 视频进行升采样或者输出动图预览。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title=\"申请流程\"></a>申请流",
+          "link": "https://cuiqingcai.com/3122845.html",
+          "publishedOn": "2026-07-15T05:40:45.000Z",
+          "wordCount": 1249,
+          "title": "Veo Upsample API 对接说明",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cuiqingcai.com/3090172.html",
+          "author": null,
+          "description": "<p>无论你在做舆情监测、价格比价、内容采集、站点巡检还是多地域可用性测试，IP 都是第一道门槛。频繁、集中、异常的请求，极易被系统识别并封禁。Ace Data Cloud 的 ADSL 轮换代理服务，提供来自移动/联通/电信等真实拨号线路的海量出口 IP，天然更接近真实用户画像",
+          "link": "https://cuiqingcai.com/3090172.html",
+          "publishedOn": "2026-07-14T20:36:12.000Z",
+          "wordCount": 1278,
+          "title": "数据增长的隐形助推器：ADSL 轮换代理，把被风控变成被允许（含实战示例）",
+          "imageUrl": "https://cdn.acedata.cloud/a2inin.png"
+        },
+        {
           "id": "https://cuiqingcai.com/3039069.html",
           "author": null,
           "description": "<p>SUNO 允许我们创建新版的Persona-v2-vox 版:歌手风格，与旧版本不同的需要先获取<code>vox_audio_id</code>。本文档讲解创建新版Persona-v2-vox的 对接方法。</p>\n<p>首选需要该 API获取<code>vox_audi",
@@ -372,16 +392,6 @@
           "wordCount": 2138,
           "title": "AI Chat API 对接说明",
           "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3881198.html",
-          "author": null,
-          "description": "<p>NanoBanana 跟其他 AI 画图工具不太一样——它不只是”画一张新图”，更强的是”改一张旧图”。底层用的是 Google Gemini 模型，真正理解图片内容，可以精确编辑。</p>\n<p>最实用的能力：扔给它两张图，让它把 A 图的产品放到 B 图的背景上，或者以",
-          "link": "https://cuiqingcai.com/3881198.html",
-          "publishedOn": "2026-06-30T20:46:38.000Z",
-          "wordCount": 1283,
-          "title": "Cursor 对接 NanoBanana MCP",
-          "imageUrl": "https://cdn.acedata.cloud/58te19.jpg"
         }
       ]
     },

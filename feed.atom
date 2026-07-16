@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-07-15T01:45:17.727Z</updated>
+    <updated>2026-07-16T01:55:22.267Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Veo Upsample API 对接说明]]></title>
+        <id>https://cuiqingcai.com/3122845.html</id>
+        <link href="https://cuiqingcai.com/3122845.html"/>
+        <updated>2026-07-15T05:40:45.000Z</updated>
+        <summary type="html"><![CDATA[<p>本文将介绍 Veo Upsample API 的对接说明。该接口用于对一段已经生成的 Veo 视频进行升采样或者输出动图预览。</p>
+<h2 id="申请流程"><a href="#申请流程" class="headerlink" title="申请流程"></a>申请流]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据增长的隐形助推器：ADSL 轮换代理，把被风控变成被允许（含实战示例）]]></title>
+        <id>https://cuiqingcai.com/3090172.html</id>
+        <link href="https://cuiqingcai.com/3090172.html"/>
+        <updated>2026-07-14T20:36:12.000Z</updated>
+        <summary type="html"><![CDATA[<p>无论你在做舆情监测、价格比价、内容采集、站点巡检还是多地域可用性测试，IP 都是第一道门槛。频繁、集中、异常的请求，极易被系统识别并封禁。Ace Data Cloud 的 ADSL 轮换代理服务，提供来自移动/联通/电信等真实拨号线路的海量出口 IP，天然更接近真实用户画像]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Suno Vox API 对接说明]]></title>
         <id>https://cuiqingcai.com/3039069.html</id>
@@ -298,17 +319,6 @@ Continue reading...]]></summary>
         <link href="https://cuiqingcai.com/3968543.html"/>
         <updated>2026-07-01T21:02:23.000Z</updated>
         <summary type="html"><![CDATA[<p>我们知道，市面上一些问答 API 的对接还是相对没那么容易的，比如说 OpenAI 的 Chat Completions API，它有一个 <code>messages</code> 字段，如果要完成连续对话，需要我们把所有的上下文历史全部传递，同时还需要处理 Token]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cursor 对接 NanoBanana MCP]]></title>
-        <id>https://cuiqingcai.com/3881198.html</id>
-        <link href="https://cuiqingcai.com/3881198.html"/>
-        <updated>2026-06-30T20:46:38.000Z</updated>
-        <summary type="html"><![CDATA[<p>NanoBanana 跟其他 AI 画图工具不太一样——它不只是”画一张新图”，更强的是”改一张旧图”。底层用的是 Google Gemini 模型，真正理解图片内容，可以精确编辑。</p>
-<p>最实用的能力：扔给它两张图，让它把 A 图的产品放到 B 图的背景上，或者以]]></summary>
         <author>
             <name>静觅</name>
         </author>

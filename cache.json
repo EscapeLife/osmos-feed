@@ -164,6 +164,26 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3211506.html",
+          "author": null,
+          "description": "<p>列出当前账户已签发的全部 <strong>API 凭证（Credential）</strong>——也就是调用 <code>https://api.acedata.cloud/**</code> 业务接口时用的 32 位 Token。</p>\n<blockquote>",
+          "link": "https://cuiqingcai.com/3211506.html",
+          "publishedOn": "2026-07-16T06:18:26.000Z",
+          "wordCount": 1565,
+          "title": "获取 AceDataCloud 平台 API 凭证列表",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cuiqingcai.com/3175908.html",
+          "author": null,
+          "description": "<h2 id=\"Safety-defaults\"><a href=\"#Safety-defaults\" class=\"headerlink\" title=\"Safety defaults\"></a>Safety defaults</h2>\n<ul>\n  <li><code>Ema",
+          "link": "https://cuiqingcai.com/3175908.html",
+          "publishedOn": "2026-07-15T20:25:08.000Z",
+          "wordCount": 1533,
+          "title": "Email marketing operations",
+          "imageUrl": null
+        },
+        {
           "id": "https://cuiqingcai.com/3122845.html",
           "author": null,
           "description": "<p>本文将介绍 Veo Upsample API 的对接说明。该接口用于对一段已经生成的 Veo 视频进行升采样或者输出动图预览。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title=\"申请流程\"></a>申请流",
@@ -382,16 +402,6 @@
           "wordCount": 1244,
           "title": "Gemini CLI 对接 Seedance MCP",
           "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3968543.html",
-          "author": null,
-          "description": "<p>我们知道，市面上一些问答 API 的对接还是相对没那么容易的，比如说 OpenAI 的 Chat Completions API，它有一个 <code>messages</code> 字段，如果要完成连续对话，需要我们把所有的上下文历史全部传递，同时还需要处理 Token",
-          "link": "https://cuiqingcai.com/3968543.html",
-          "publishedOn": "2026-07-01T21:02:23.000Z",
-          "wordCount": 2138,
-          "title": "AI Chat API 对接说明",
-          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
         }
       ]
     },

@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-07-16T01:55:22.267Z</updated>
+    <updated>2026-07-17T01:59:37.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[获取 AceDataCloud 平台 API 凭证列表]]></title>
+        <id>https://cuiqingcai.com/3211506.html</id>
+        <link href="https://cuiqingcai.com/3211506.html"/>
+        <updated>2026-07-16T06:18:26.000Z</updated>
+        <summary type="html"><![CDATA[<p>列出当前账户已签发的全部 <strong>API 凭证（Credential）</strong>——也就是调用 <code>https://api.acedata.cloud/**</code> 业务接口时用的 32 位 Token。</p>
+<blockquote>]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Email marketing operations]]></title>
+        <id>https://cuiqingcai.com/3175908.html</id>
+        <link href="https://cuiqingcai.com/3175908.html"/>
+        <updated>2026-07-15T20:25:08.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="Safety-defaults"><a href="#Safety-defaults" class="headerlink" title="Safety defaults"></a>Safety defaults</h2>
+<ul>
+  <li><code>Ema]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Veo Upsample API 对接说明]]></title>
         <id>https://cuiqingcai.com/3122845.html</id>
@@ -309,16 +332,6 @@ Continue reading...]]></summary>
         <updated>2026-07-02T20:44:56.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
   <p>📘 <strong>完整指南</strong>：<a href="https://platform.acedata.cloud/documents/gemini-cli-mcp-all" target="_blank" rel="noopen]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Chat API 对接说明]]></title>
-        <id>https://cuiqingcai.com/3968543.html</id>
-        <link href="https://cuiqingcai.com/3968543.html"/>
-        <updated>2026-07-01T21:02:23.000Z</updated>
-        <summary type="html"><![CDATA[<p>我们知道，市面上一些问答 API 的对接还是相对没那么容易的，比如说 OpenAI 的 Chat Completions API，它有一个 <code>messages</code> 字段，如果要完成连续对话，需要我们把所有的上下文历史全部传递，同时还需要处理 Token]]></summary>
         <author>
             <name>静觅</name>
         </author>

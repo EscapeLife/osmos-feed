@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-07-17T01:59:37.748Z</updated>
+    <updated>2026-07-18T01:49:06.501Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html"/>
+        <updated>2026-07-16T23:51:19.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flux MCP 对接指南]]></title>
+        <id>https://cuiqingcai.com/3263331.html</id>
+        <link href="https://cuiqingcai.com/3263331.html"/>
+        <updated>2026-07-16T20:42:11.000Z</updated>
+        <summary type="html"><![CDATA[<p><a href="https://modelcontextprotocol.io" target="_blank" rel="noopener">MCP（Model Context Protocol）</a> 是由 Anthropic 推出的模型上下文协议，允许 AI 模型]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[获取 AceDataCloud 平台 API 凭证列表]]></title>
         <id>https://cuiqingcai.com/3211506.html</id>
@@ -300,38 +320,6 @@ Continue reading...]]></summary>
         <updated>2026-07-03T21:07:05.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
   <p>📘 <strong>Overview</strong>：<a href="https://platform.acedata.cloud/documents/claude-desktop-mcp-all" target="_blank" rel]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude 对接 Seedance MCP]]></title>
-        <id>https://cuiqingcai.com/3086288.html</id>
-        <link href="https://cuiqingcai.com/3086288.html"/>
-        <updated>2026-07-03T05:44:48.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-  <p>📘 <strong>总览指南</strong>：<a href="https://platform.acedata.cloud/documents/claude-desktop-mcp-all" target="_blank" rel="no]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html"/>
-        <updated>2026-07-02T23:33:49.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini CLI 对接 Seedance MCP]]></title>
-        <id>https://cuiqingcai.com/3053896.html</id>
-        <link href="https://cuiqingcai.com/3053896.html"/>
-        <updated>2026-07-02T20:44:56.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-  <p>📘 <strong>完整指南</strong>：<a href="https://platform.acedata.cloud/documents/gemini-cli-mcp-all" target="_blank" rel="noopen]]></summary>
         <author>
             <name>静觅</name>
         </author>

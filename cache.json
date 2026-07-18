@@ -18,6 +18,16 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html",
+          "publishedOn": "2026-07-16T23:51:19.000Z",
+          "wordCount": null,
+          "title": "科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
@@ -25,16 +35,6 @@
           "publishedOn": "2026-07-10T00:05:31.000Z",
           "wordCount": null,
           "title": "科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html",
-          "publishedOn": "2026-07-02T23:33:49.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）",
           "imageUrl": null
         }
       ]
@@ -163,6 +163,16 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3263331.html",
+          "author": null,
+          "description": "<p><a href=\"https://modelcontextprotocol.io\" target=\"_blank\" rel=\"noopener\">MCP（Model Context Protocol）</a> 是由 Anthropic 推出的模型上下文协议，允许 AI 模型",
+          "link": "https://cuiqingcai.com/3263331.html",
+          "publishedOn": "2026-07-16T20:42:11.000Z",
+          "wordCount": 1564,
+          "title": "Flux MCP 对接指南",
+          "imageUrl": null
+        },
         {
           "id": "https://cuiqingcai.com/3211506.html",
           "author": null,
@@ -381,26 +391,6 @@
           "publishedOn": "2026-07-03T21:07:05.000Z",
           "wordCount": 1262,
           "title": "Claude Desktop 对接 通义万相 Wan MCP",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3086288.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>📘 <strong>总览指南</strong>：<a href=\"https://platform.acedata.cloud/documents/claude-desktop-mcp-all\" target=\"_blank\" rel=\"no",
-          "link": "https://cuiqingcai.com/3086288.html",
-          "publishedOn": "2026-07-03T05:44:48.000Z",
-          "wordCount": 1667,
-          "title": "Claude 对接 Seedance MCP",
-          "imageUrl": "https://cdn.acedata.cloud/4c05821aab.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/3053896.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/gemini-cli-mcp-all\" target=\"_blank\" rel=\"noopen",
-          "link": "https://cuiqingcai.com/3053896.html",
-          "publishedOn": "2026-07-02T20:44:56.000Z",
-          "wordCount": 1244,
-          "title": "Gemini CLI 对接 Seedance MCP",
           "imageUrl": null
         }
       ]

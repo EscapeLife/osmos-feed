@@ -164,6 +164,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3347958.html",
+          "author": null,
+          "description": "<p>本文将介绍一种 Pika Videos Generation API 对接说明，它是可以通过输入自定义参数来生成Pika官方的视频。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title=\"申请流程\"></a>",
+          "link": "https://cuiqingcai.com/3347958.html",
+          "publishedOn": "2026-07-17T20:12:38.000Z",
+          "wordCount": 1620,
+          "title": "Pika Videos Generation API 对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
+        },
+        {
           "id": "https://cuiqingcai.com/3263331.html",
           "author": null,
           "description": "<p><a href=\"https://modelcontextprotocol.io\" target=\"_blank\" rel=\"noopener\">MCP（Model Context Protocol）</a> 是由 Anthropic 推出的模型上下文协议，允许 AI 模型",
@@ -372,26 +382,6 @@
           "wordCount": 1282,
           "title": "Cursor 对接 Veo MCP",
           "imageUrl": "https://cdn.acedata.cloud/58te19.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3173599.html",
-          "author": null,
-          "description": "<p>做过海报的开发者都知道一个痛点：Midjourney 和 Flux 对中文的支持很一般。你让它写”限时优惠”四个字，出来可能是乱码或者不伦不类的笔画。</p>\n<p>Seedream 是字节跳动做的 AI 图片模型，中文文字渲染是它的强项。你说”在图片右上角加上红色的限时优",
-          "link": "https://cuiqingcai.com/3173599.html",
-          "publishedOn": "2026-07-04T05:59:59.000Z",
-          "wordCount": 1493,
-          "title": "VS Code + Seedream MCP",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3141625.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>📘 <strong>Overview</strong>：<a href=\"https://platform.acedata.cloud/documents/claude-desktop-mcp-all\" target=\"_blank\" rel",
-          "link": "https://cuiqingcai.com/3141625.html",
-          "publishedOn": "2026-07-03T21:07:05.000Z",
-          "wordCount": 1262,
-          "title": "Claude Desktop 对接 通义万相 Wan MCP",
-          "imageUrl": null
         }
       ]
     },

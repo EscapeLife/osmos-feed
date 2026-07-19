@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-07-18T01:49:06.501Z</updated>
+    <updated>2026-07-19T01:58:30.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pika Videos Generation API 对接说明]]></title>
+        <id>https://cuiqingcai.com/3347958.html</id>
+        <link href="https://cuiqingcai.com/3347958.html"/>
+        <updated>2026-07-17T20:12:38.000Z</updated>
+        <summary type="html"><![CDATA[<p>本文将介绍一种 Pika Videos Generation API 对接说明，它是可以通过输入自定义参数来生成Pika官方的视频。</p>
+<h2 id="申请流程"><a href="#申请流程" class="headerlink" title="申请流程"></a>]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html</id>
@@ -298,28 +309,6 @@ Continue reading...]]></summary>
         <updated>2026-07-04T21:10:10.000Z</updated>
         <summary type="html"><![CDATA[<p>市面上 AI 视频模型不少，但说到画质，Google Veo 排得上号。细节清晰、色彩自然，原生支持 1080p——生成完不需要再拿去超分辨率，直接用。</p>
 <p>在 Cursor 里配上 Veo MCP Server，视频生成能力就直接嵌在你的开发环境里了。写代码的同]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VS Code + Seedream MCP]]></title>
-        <id>https://cuiqingcai.com/3173599.html</id>
-        <link href="https://cuiqingcai.com/3173599.html"/>
-        <updated>2026-07-04T05:59:59.000Z</updated>
-        <summary type="html"><![CDATA[<p>做过海报的开发者都知道一个痛点：Midjourney 和 Flux 对中文的支持很一般。你让它写”限时优惠”四个字，出来可能是乱码或者不伦不类的笔画。</p>
-<p>Seedream 是字节跳动做的 AI 图片模型，中文文字渲染是它的强项。你说”在图片右上角加上红色的限时优]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Desktop 对接 通义万相 Wan MCP]]></title>
-        <id>https://cuiqingcai.com/3141625.html</id>
-        <link href="https://cuiqingcai.com/3141625.html"/>
-        <updated>2026-07-03T21:07:05.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-  <p>📘 <strong>Overview</strong>：<a href="https://platform.acedata.cloud/documents/claude-desktop-mcp-all" target="_blank" rel]]></summary>
         <author>
             <name>静觅</name>
         </author>

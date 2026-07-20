@@ -164,6 +164,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3437115.html",
+          "author": null,
+          "description": "<p>Flux Tasks API 的主要功能是通过输入 Flux Images Generation API 生成的任务ID来查询该任务的执行情况。</p>\n<p>本文档将详细介绍 Flux Tasks API 的对接说明，帮助您轻松集成并充分利用该 API 的强大功能。通过",
+          "link": "https://cuiqingcai.com/3437115.html",
+          "publishedOn": "2026-07-18T20:58:35.000Z",
+          "wordCount": 1634,
+          "title": "Flux Tasks API 的对接和使用",
+          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
+        },
+        {
           "id": "https://cuiqingcai.com/3347958.html",
           "author": null,
           "description": "<p>本文将介绍一种 Pika Videos Generation API 对接说明，它是可以通过输入自定义参数来生成Pika官方的视频。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title=\"申请流程\"></a>",
@@ -362,26 +372,6 @@
           "wordCount": 1310,
           "title": "Claude Code 对接 Fish 语音 MCP",
           "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3261660.html",
-          "author": null,
-          "description": "<p>Midjourney 拥有强大的图生图的功能，下面我们就来看一下，如何在我们的<a href=\"https://studio.acedata.cloud/midjourney\" target=\"_blank\" rel=\"noopener\">AceDataCloud网站</a",
-          "link": "https://cuiqingcai.com/3261660.html",
-          "publishedOn": "2026-07-05T06:27:40.000Z",
-          "wordCount": 1241,
-          "title": "Midjourney 图生图，真人二次元保持一致性，场景多元可选择",
-          "imageUrl": "https://cdn.acedata.cloud/8ebp2m.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/3228210.html",
-          "author": null,
-          "description": "<p>市面上 AI 视频模型不少，但说到画质，Google Veo 排得上号。细节清晰、色彩自然，原生支持 1080p——生成完不需要再拿去超分辨率，直接用。</p>\n<p>在 Cursor 里配上 Veo MCP Server，视频生成能力就直接嵌在你的开发环境里了。写代码的同",
-          "link": "https://cuiqingcai.com/3228210.html",
-          "publishedOn": "2026-07-04T21:10:10.000Z",
-          "wordCount": 1282,
-          "title": "Cursor 对接 Veo MCP",
-          "imageUrl": "https://cdn.acedata.cloud/58te19.jpg"
         }
       ]
     },

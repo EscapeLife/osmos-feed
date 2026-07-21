@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-07-20T02:46:48.168Z</updated>
+    <updated>2026-07-21T01:57:41.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[在 AnythingLLM 中使用 Ace Data Cloud]]></title>
+        <id>https://cuiqingcai.com/3522673.html</id>
+        <link href="https://cuiqingcai.com/3522673.html"/>
+        <updated>2026-07-19T20:44:33.000Z</updated>
+        <summary type="html"><![CDATA[<p><a href="https://anythingllm.com/" target="_blank" rel="noopener">AnythingLLM</a> 是一款定位「文档 → 私有 ChatGPT」的开源客户端，核心概念是 <strong>Workspace</s]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flux Tasks API 的对接和使用]]></title>
         <id>https://cuiqingcai.com/3437115.html</id>
@@ -277,28 +287,6 @@ Continue reading...]]></summary>
         <link href="https://cuiqingcai.com/3401445.html"/>
         <updated>2026-07-06T21:17:25.000Z</updated>
         <summary type="html"><![CDATA[<p>本教程用一个最小的 API 请求说明 Ace Data Cloud X402 的完整流程。目标不是先写复杂代码，而是先看懂：为什么第一次请求会返回 402、<code>accepts</code> 里有什么、<code>X-Payment</code> 又是怎样让同一个 A]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude 对接 ShortURL MCP]]></title>
-        <id>https://cuiqingcai.com/3348700.html</id>
-        <link href="https://cuiqingcai.com/3348700.html"/>
-        <updated>2026-07-06T06:38:20.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-  <p>📘 <strong>总览指南</strong>：<a href="https://platform.acedata.cloud/documents/claude-desktop-mcp-all" target="_blank" rel="no]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code 对接 Fish 语音 MCP]]></title>
-        <id>https://cuiqingcai.com/3314372.html</id>
-        <link href="https://cuiqingcai.com/3314372.html"/>
-        <updated>2026-07-05T21:06:12.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-  <p>📘 <strong>Overview</strong>：<a href="https://platform.acedata.cloud/documents/claude-code-mcp-all" target="_blank" rel="n]]></summary>
         <author>
             <name>静觅</name>
         </author>

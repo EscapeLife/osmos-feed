@@ -164,6 +164,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3522673.html",
+          "author": null,
+          "description": "<p><a href=\"https://anythingllm.com/\" target=\"_blank\" rel=\"noopener\">AnythingLLM</a> 是一款定位「文档 → 私有 ChatGPT」的开源客户端，核心概念是 <strong>Workspace</s",
+          "link": "https://cuiqingcai.com/3522673.html",
+          "publishedOn": "2026-07-19T20:44:33.000Z",
+          "wordCount": 1549,
+          "title": "在 AnythingLLM 中使用 Ace Data Cloud",
+          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
+        },
+        {
           "id": "https://cuiqingcai.com/3437115.html",
           "author": null,
           "description": "<p>Flux Tasks API 的主要功能是通过输入 Flux Images Generation API 生成的任务ID来查询该任务的执行情况。</p>\n<p>本文档将详细介绍 Flux Tasks API 的对接说明，帮助您轻松集成并充分利用该 API 的强大功能。通过",
@@ -351,26 +361,6 @@
           "publishedOn": "2026-07-06T21:17:25.000Z",
           "wordCount": 1684,
           "title": "X402 快速开始",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3348700.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>📘 <strong>总览指南</strong>：<a href=\"https://platform.acedata.cloud/documents/claude-desktop-mcp-all\" target=\"_blank\" rel=\"no",
-          "link": "https://cuiqingcai.com/3348700.html",
-          "publishedOn": "2026-07-06T06:38:20.000Z",
-          "wordCount": 1560,
-          "title": "Claude 对接 ShortURL MCP",
-          "imageUrl": "https://cdn.acedata.cloud/4c05821aab.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/3314372.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>📘 <strong>Overview</strong>：<a href=\"https://platform.acedata.cloud/documents/claude-code-mcp-all\" target=\"_blank\" rel=\"n",
-          "link": "https://cuiqingcai.com/3314372.html",
-          "publishedOn": "2026-07-05T21:06:12.000Z",
-          "wordCount": 1310,
-          "title": "Claude Code 对接 Fish 语音 MCP",
           "imageUrl": null
         }
       ]

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-07-21T01:57:41.038Z</updated>
+    <updated>2026-07-22T01:56:17.836Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[在 NextChat 中使用 Ace Data Cloud]]></title>
+        <id>https://cuiqingcai.com/3608900.html</id>
+        <link href="https://cuiqingcai.com/3608900.html"/>
+        <updated>2026-07-20T20:41:40.000Z</updated>
+        <summary type="html"><![CDATA[<p><a href="https://github.com/ChatGPTNextWeb/NextChat" target="_blank" rel="noopener">NextChat</a>（前身 ChatGPT-Next-Web）是中文社区广为人知的开源 AI 客户端，]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在 AnythingLLM 中使用 Ace Data Cloud]]></title>
         <id>https://cuiqingcai.com/3522673.html</id>
@@ -266,27 +276,6 @@ Continue reading...]]></summary>
         <updated>2026-07-07T20:25:36.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
   <p>📘 <strong>完整指南</strong>：<a href="https://platform.acedata.cloud/documents/codex-mcp-all" target="_blank" rel="noopener">在]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X402 价格说明]]></title>
-        <id>https://cuiqingcai.com/3433419.html</id>
-        <link href="https://cuiqingcai.com/3433419.html"/>
-        <updated>2026-07-07T06:10:19.000Z</updated>
-        <summary type="html"><![CDATA[<p>这篇文档说明用 X402 调用 Ace Data Cloud API 时，价格是怎么定的，以及它和平台普通 <strong>Credits</strong>（额度）价格是什么关系。</p>
-<h2 id="核心结论"><a href="#核心结论" class="heade]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X402 快速开始]]></title>
-        <id>https://cuiqingcai.com/3401445.html</id>
-        <link href="https://cuiqingcai.com/3401445.html"/>
-        <updated>2026-07-06T21:17:25.000Z</updated>
-        <summary type="html"><![CDATA[<p>本教程用一个最小的 API 请求说明 Ace Data Cloud X402 的完整流程。目标不是先写复杂代码，而是先看懂：为什么第一次请求会返回 402、<code>accepts</code> 里有什么、<code>X-Payment</code> 又是怎样让同一个 A]]></summary>
         <author>
             <name>静觅</name>
         </author>

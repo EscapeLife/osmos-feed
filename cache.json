@@ -94,18 +94,7 @@
       "title": "Frost's Blog",
       "feedUrl": "https://frostming.com/feed.xml",
       "siteUrl": "https://frostming.com/",
-      "articles": [
-        {
-          "id": "https://frostming.com/2026/changes/",
-          "author": null,
-          "description": "Frost Ming's personal blog",
-          "link": "https://frostming.com/posts/2026/changes/",
-          "publishedOn": "2026-07-08T00:00:00.000Z",
-          "wordCount": 235,
-          "title": "楞次定律",
-          "imageUrl": "https://frostming.com/og/2026/changes.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Posts on Jiayuan Thoughts",
@@ -163,6 +152,26 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3727401.html",
+          "author": null,
+          "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/codex-mcp-all\" target=\"_blank\" rel=\"noopener\">在",
+          "link": "https://cuiqingcai.com/3727401.html",
+          "publishedOn": "2026-07-22T05:36:41.000Z",
+          "wordCount": 1266,
+          "title": "Codex CLI 对接 Face Transform 面部转换 MCP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cuiqingcai.com/3694875.html",
+          "author": null,
+          "description": "<p>为某个 Application 签发一枚 <strong>API 凭证（Credential）</strong>——即调用 <code>https://api.acedata.cloud/**</code> 业务接口（OpenAI、Midjourney、Suno、Veo 等",
+          "link": "https://cuiqingcai.com/3694875.html",
+          "publishedOn": "2026-07-21T20:34:35.000Z",
+          "wordCount": 1534,
+          "title": "创建 AceDataCloud 平台 API 凭证",
+          "imageUrl": null
+        },
         {
           "id": "https://cuiqingcai.com/3608900.html",
           "author": null,
@@ -341,16 +350,6 @@
           "publishedOn": "2026-07-08T20:59:55.000Z",
           "wordCount": 1340,
           "title": "Maestro 任务查询 API",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3484736.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/codex-mcp-all\" target=\"_blank\" rel=\"noopener\">在",
-          "link": "https://cuiqingcai.com/3484736.html",
-          "publishedOn": "2026-07-07T20:25:36.000Z",
-          "wordCount": 1222,
-          "title": "Codex CLI 对接 Seedance MCP",
           "imageUrl": null
         }
       ]

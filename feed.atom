@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-07-23T02:04:05.882Z</updated>
+    <updated>2026-07-24T01:59:18.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 405 期）：资源，社会公平与算力]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html"/>
+        <updated>2026-07-24T00:12:16.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在 Jan 中使用 Ace Data Cloud]]></title>
+        <id>https://cuiqingcai.com/3814506.html</id>
+        <link href="https://cuiqingcai.com/3814506.html"/>
+        <updated>2026-07-23T05:48:26.000Z</updated>
+        <summary type="html"><![CDATA[<p><a href="https://jan.ai/" target="_blank" rel="noopener">Jan</a> 是一款主打「离线优先 + 隐私保护」的开源 AI 桌面客户端。它自带本地推理引擎（基于 llama.cpp，Apple Silicon 上可用]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Chat 定时任务说明]]></title>
+        <id>https://cuiqingcai.com/3782845.html</id>
+        <link href="https://cuiqingcai.com/3782845.html"/>
+        <updated>2026-07-22T21:00:45.000Z</updated>
+        <summary type="html"><![CDATA[<p>定时任务（<code>/aichat2/scheduled-tasks</code>）让你的 AI Agent 在无人值守的情况下<strong>按计划自动运行</strong>——每天汇总新闻、每周生成报告、每小时监控数据等任务，全部交给平台在后台自动完成，完成后推送通知]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Codex CLI 对接 Face Transform 面部转换 MCP]]></title>
         <id>https://cuiqingcai.com/3727401.html</id>
@@ -255,27 +285,6 @@ Continue reading...]]></summary>
         <updated>2026-07-09T20:35:32.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
   <p>📘 <strong>Overview</strong>：<a href="https://platform.acedata.cloud/documents/claude-desktop-mcp-all" target="_blank" rel]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小孩的英语辅导]]></title>
-        <id>https://blog.codingnow.com/2026/07/learning_english.html</id>
-        <link href="https://blog.codingnow.com/2026/07/learning_english.html"/>
-        <updated>2026-07-09T08:32:46.000Z</updated>
-        <summary type="html"><![CDATA[今年花了很多时间给云豆补习英语。 他今年小学毕业了，我意识到他在英语学习方面遇到了障碍需要额外介入，是在今年过年期间。云豆在很小的时候，直到三岁还不太会说话。长点的句子都说不下来，但是英文字母认得却很快，似乎对英文有点兴趣，就给他报了个英语兴趣班，一周上两小时的课。但很快就遇到了疫情，几乎都在上无效网课，也就停了。从三年级开始，我督促他在多邻国上每日打卡。有一段时间他特别着迷于在多邻国上冲击钻石等级，每天甚至能刷上近两小时的积分。要说多邻国上学英文到底有没有用，我也说不上来，不过至少能培养一点基本的语感，看见单词即使不认识也能读出来。去查字典时，也不需要反复查看拼写，见过一眼的生词背过去在键盘上能一次输入正确。光这点，比我小时候学英文强。 他在五年级之前，学校英文课的成绩还不错。但考试分数从五年级开始就快速下降（从九十多分下降到八十多分），高年级换了英语老师，家长会上能感觉到新的英语老师把他归为成绩不是很好的学生。我问过他为什么成绩下降，也检查过他每次考试的试卷，他归纳为英语“语法”太难了。我意识到，对他来说，光靠过去的积累的一点语感对继续学习英语是不够的。只有更系统的学习才有效率。况且，多邻国对他已经沦为一个积分游戏，他宁可花很多时间去已经熟悉的章节里刷分，也不愿意增加有效的练习强度。 当然，学习语言最好是有足够量的应用环境。但他不爱阅读（短期也不可能培养出足够的兴趣），也不喜欢看电影/动画片。每每他问起，为什么我们要学习英语，我是这样回答的：学习英语有两个主要的用途；英语是事实上的世界语，这个世界上大多数受过教育的人，或多或少都会说一点英语，我们和世界打交道，就用得上；这个世界上绝大多数知识是用英语记载的，翻译成中文的过程很容易曲解和丢失原本的意思，用英语学习知识很多时候都是必要的，而且效率更高。...]]></summary>
-        <author>
-            <name>云风的 BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maestro 任务查询 API]]></title>
-        <id>https://cuiqingcai.com/3573195.html</id>
-        <link href="https://cuiqingcai.com/3573195.html"/>
-        <updated>2026-07-08T20:59:55.000Z</updated>
-        <summary type="html"><![CDATA[<p>查询由 <code>POST /maestro/videos</code> 创建的视频任务的状态与结果。<strong>轮询免费,不消耗积分。</strong></p>
-<p><code>POST https://api.acedata.cloud/maestro/task]]></summary>
         <author>
             <name>静觅</name>
         </author>

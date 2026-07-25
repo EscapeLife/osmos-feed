@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-07-24T01:59:18.456Z</updated>
+    <updated>2026-07-25T01:58:39.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[对抗系统的桌游]]></title>
+        <id>https://blog.codingnow.com/2026/07/deckers.html</id>
+        <link href="https://blog.codingnow.com/2026/07/deckers.html"/>
+        <updated>2026-07-24T14:03:34.000Z</updated>
+        <summary type="html"><![CDATA[最近比较难找到人一起开桌游，所以我玩了不少人对抗系统规则的游戏。 桌游中人和人对抗的比较常见，设计一套规则、让玩家在这套规则下博弈；但需要找到（足够水平的）人一起玩。虽然很多桌游也会设计 solo 模式，但大多是设计一个自动机来模拟对手。这会损失相当的博弈性，要么变成了可预测的系统行为，要么沦为半随机事件。而游戏规则的原始设计中通常都会有相当部分依赖人之间的博弈才有趣。例如，我最喜欢的桌游《银河竞逐》在第一个扩展包中就加入了自动机，允许 solo ，但我觉得远没有和人玩有趣。 也有设计得不错的自动机。例如之前介绍过的《Star Trek : Captain's Chair》在玩家社区中就公认单人模式非常有趣，我也只一个人玩过。还有我前段超喜欢的《deep future》也是一个多人对抗游戏，但很多玩家包括我也喜欢一个人玩。我甚至还制作了 solo 模式的电子版本 。 如果一开始就围绕玩家对抗系统规则去设计，去掉人和人之间的博弈，那么游戏会有不太一样的体验。关于这种 PvE 游戏，去年我在整理卡牌构筑类桌游规则时提过不少：Legendary 系列、Aeon's End 系列（以及后续的 Astro Knights ）、XenoShyft 、Legacy of Yu、Kingdom Legacy，等等。还有今年我玩过的 voidfall 和 spirit island 。 这类游戏一般除了可以单人游戏外，一般还会设计多人合作模式。刚接触这类合作破解系统的游戏时，许多人会自然有一个疑问：如果几个人可以合作完成游戏，那和我自己一个人操作多个角色有什么区别？这其实是合作类游戏中的经典“指挥官问题”。有一类经验丰富的玩家系统称为 alpha player ：指那种控制欲很强，喜欢替合作玩家做决定，主导整个局势。过去很多此类游戏会在机制上加一些限制，最著名的是《瘟疫危机 Pandemic》禁止玩家亮出手牌（但不禁止玩家描述自己的牌），这会加大 Alpha 玩家的决策成本：他无法在制定策略时纵览全局。像...]]></summary>
+        <author>
+            <name>云风的 BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 405 期）：资源，社会公平与算力]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[获取 AceDataCloud 平台订单详情]]></title>
+        <id>https://cuiqingcai.com/3866644.html</id>
+        <link href="https://cuiqingcai.com/3866644.html"/>
+        <updated>2026-07-23T20:17:24.000Z</updated>
+        <summary type="html"><![CDATA[<p>通过订单 ID 获取单个订单的完整信息——比列表多出 <code>application</code>、<code>service</code>、<code>package</code> 等关联对象的完整字段，以及当前可用的 <code>payment_url</code>]]></summary>
+        <author>
+            <name>静觅</name>
         </author>
     </entry>
     <entry>
@@ -233,58 +253,6 @@
         <updated>2026-07-10T20:47:39.000Z</updated>
         <summary type="html"><![CDATA[<p>Artistic QR Tasks API 的主要功能是通过输入 Artistic QR Generation API 生成的任务ID来查询该任务的执行情况。</p>
 <p>本文档将详细介绍 Artistic QR Tasks API 的对接说明，帮助您轻松集成并充分利用该]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code CC Switch 图形化配置教程]]></title>
-        <id>https://cuiqingcai.com/3690979.html</id>
-        <link href="https://cuiqingcai.com/3690979.html"/>
-        <updated>2026-07-10T05:42:59.000Z</updated>
-        <summary type="html"><![CDATA[<p><a href="https://platform.acedata.cloud/documents/claude-code-integration" target="_blank" rel="noopener">Claude Code</a> 原生通过 <code>ANTH]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Children]]></title>
-        <id>https://www.kawabangga.com/?p=7328</id>
-        <link href="https://www.kawabangga.com/posts/7328"/>
-        <updated>2026-07-10T04:34:30.000Z</updated>
-        <summary type="html"><![CDATA[by Kahlil Gibran Your children are not your children.Th […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高尿酸血症确诊]]></title>
-        <id>https://blog.codingnow.com/2026/07/hyperuricemia.html</id>
-        <link href="https://blog.codingnow.com/2026/07/hyperuricemia.html"/>
-        <updated>2026-07-10T03:16:55.000Z</updated>
-        <summary type="html"><![CDATA[我在 2024 年底左脚大拇指根部曾肿痛一周 ，结合多年体检高尿酸结果，怀疑是痛风。但后来没有什么症状，身体也一直很好，就没去医院看。 最近一年多一直通过跑步降低体重 ，减少了 9~10kg 体重。攀岩保持在一周两到三次。自己在家查血尿酸，一直在 500~600 之间，偶尔在 480 左右。虽然戒掉了含糖饮料，也无饮酒，作息规律，精神放松（不用工作了）。但尿酸一直降不下来。...]]></summary>
-        <author>
-            <name>云风的 BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html"/>
-        <updated>2026-07-10T00:05:31.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Desktop 对接 Fish 语音 MCP]]></title>
-        <id>https://cuiqingcai.com/3658132.html</id>
-        <link href="https://cuiqingcai.com/3658132.html"/>
-        <updated>2026-07-09T20:35:32.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-  <p>📘 <strong>Overview</strong>：<a href="https://platform.acedata.cloud/documents/claude-desktop-mcp-all" target="_blank" rel]]></summary>
         <author>
             <name>静觅</name>
         </author>

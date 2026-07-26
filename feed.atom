@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-07-25T01:58:39.244Z</updated>
+    <updated>2026-07-26T02:03:07.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenCode 对接 Luma MCP]]></title>
+        <id>https://cuiqingcai.com/3986719.html</id>
+        <link href="https://cuiqingcai.com/3986719.html"/>
+        <updated>2026-07-25T05:38:39.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+  <p>📘 <strong>Overview</strong>：<a href="https://platform.acedata.cloud/documents/opencode-mcp-all" target="_blank" rel="noop]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wan Videos Generation API 对接说明]]></title>
+        <id>https://cuiqingcai.com/3954354.html</id>
+        <link href="https://cuiqingcai.com/3954354.html"/>
+        <updated>2026-07-24T20:39:14.000Z</updated>
+        <summary type="html"><![CDATA[<p>本文将介绍一种 Wan Videos Generation API 对接说明，它是可以通过输入自定义参数来生成通义万相官方的视频。</p>
+<h2 id="申请流程"><a href="#申请流程" class="headerlink" title="申请流程"></a>申]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对抗系统的桌游]]></title>
         <id>https://blog.codingnow.com/2026/07/deckers.html</id>
@@ -221,38 +243,6 @@
         <link href="https://cuiqingcai.com/3830689.html"/>
         <updated>2026-07-11T20:31:29.000Z</updated>
         <summary type="html"><![CDATA[<p>BYOK（Bring Your Own Key）让你在 Nexior / Studio 的对话界面里，直接使用自己已有的上游服务商 API Key，<strong>完全绕开平台的账号池和积分计费</strong>。配置后该模型的对话请求会用你的 Key 直接打到 OpenA]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grok Tasks API 的对接和使用]]></title>
-        <id>https://cuiqingcai.com/3779989.html</id>
-        <link href="https://cuiqingcai.com/3779989.html"/>
-        <updated>2026-07-11T06:26:29.000Z</updated>
-        <summary type="html"><![CDATA[<p>Grok Tasks API 的主要功能是通过输入 Grok Videos Generation API 生成的任务 ID 来查询该任务的执行情况。</p>
-<p>本文档将详细介绍 Grok Tasks API 的对接说明，帮助您轻松集成并查询 Grok Videos Ge]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello, World!]]></title>
-        <id>https://www.kawabangga.com/?p=7336</id>
-        <link href="https://www.kawabangga.com/posts/7336"/>
-        <updated>2026-07-11T03:13:58.000Z</updated>
-        <summary type="html"><![CDATA[Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Artistic QR Tasks API 的对接和使用]]></title>
-        <id>https://cuiqingcai.com/3745259.html</id>
-        <link href="https://cuiqingcai.com/3745259.html"/>
-        <updated>2026-07-10T20:47:39.000Z</updated>
-        <summary type="html"><![CDATA[<p>Artistic QR Tasks API 的主要功能是通过输入 Artistic QR Generation API 生成的任务ID来查询该任务的执行情况。</p>
-<p>本文档将详细介绍 Artistic QR Tasks API 的对接说明，帮助您轻松集成并充分利用该]]></summary>
         <author>
             <name>静觅</name>
         </author>

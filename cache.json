@@ -55,18 +55,7 @@
       "title": "卡瓦邦噶！",
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
-      "articles": [
-        {
-          "id": "https://www.kawabangga.com/?p=7336",
-          "author": "laixintao",
-          "description": "Continue reading...",
-          "link": "https://www.kawabangga.com/posts/7336",
-          "publishedOn": "2026-07-11T03:13:58.000Z",
-          "wordCount": 1123,
-          "title": "Hello, World!",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Manjusaka",
@@ -132,6 +121,26 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3986719.html",
+          "author": null,
+          "description": "<blockquote>\n  <p>📘 <strong>Overview</strong>：<a href=\"https://platform.acedata.cloud/documents/opencode-mcp-all\" target=\"_blank\" rel=\"noop",
+          "link": "https://cuiqingcai.com/3986719.html",
+          "publishedOn": "2026-07-25T05:38:39.000Z",
+          "wordCount": 1537,
+          "title": "OpenCode 对接 Luma MCP",
+          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
+        },
+        {
+          "id": "https://cuiqingcai.com/3954354.html",
+          "author": null,
+          "description": "<p>本文将介绍一种 Wan Videos Generation API 对接说明，它是可以通过输入自定义参数来生成通义万相官方的视频。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title=\"申请流程\"></a>申",
+          "link": "https://cuiqingcai.com/3954354.html",
+          "publishedOn": "2026-07-24T20:39:14.000Z",
+          "wordCount": 1529,
+          "title": "Wan Videos Generation API 对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
+        },
         {
           "id": "https://cuiqingcai.com/3866644.html",
           "author": null,
@@ -311,26 +320,6 @@
           "wordCount": 1365,
           "title": "自带密钥（BYOK）使用教程",
           "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3779989.html",
-          "author": null,
-          "description": "<p>Grok Tasks API 的主要功能是通过输入 Grok Videos Generation API 生成的任务 ID 来查询该任务的执行情况。</p>\n<p>本文档将详细介绍 Grok Tasks API 的对接说明，帮助您轻松集成并查询 Grok Videos Ge",
-          "link": "https://cuiqingcai.com/3779989.html",
-          "publishedOn": "2026-07-11T06:26:29.000Z",
-          "wordCount": 1341,
-          "title": "Grok Tasks API 的对接和使用",
-          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3745259.html",
-          "author": null,
-          "description": "<p>Artistic QR Tasks API 的主要功能是通过输入 Artistic QR Generation API 生成的任务ID来查询该任务的执行情况。</p>\n<p>本文档将详细介绍 Artistic QR Tasks API 的对接说明，帮助您轻松集成并充分利用该",
-          "link": "https://cuiqingcai.com/3745259.html",
-          "publishedOn": "2026-07-10T20:47:39.000Z",
-          "wordCount": 1710,
-          "title": "Artistic QR Tasks API 的对接和使用",
-          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
         }
       ]
     },

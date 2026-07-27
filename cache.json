@@ -122,6 +122,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3042392.html",
+          "author": null,
+          "description": "<p>TypeScript 是接入 Ace Data Cloud X402 最推荐的方式之一。官方 SDK 负责普通 API 调用、任务轮询、错误处理和自动重试；<code>@acedatacloud/x402-client</code> 负责在遇到 <code>402 Paym",
+          "link": "https://cuiqingcai.com/3042392.html",
+          "publishedOn": "2026-07-25T21:06:32.000Z",
+          "wordCount": 1671,
+          "title": "X402 TypeScript SDK 接入教程",
+          "imageUrl": null
+        },
+        {
           "id": "https://cuiqingcai.com/3986719.html",
           "author": null,
           "description": "<blockquote>\n  <p>📘 <strong>Overview</strong>：<a href=\"https://platform.acedata.cloud/documents/opencode-mcp-all\" target=\"_blank\" rel=\"noop",
@@ -310,16 +320,6 @@
           "wordCount": 1534,
           "title": "OpenCode 对接 Seedance MCP",
           "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3830689.html",
-          "author": null,
-          "description": "<p>BYOK（Bring Your Own Key）让你在 Nexior / Studio 的对话界面里，直接使用自己已有的上游服务商 API Key，<strong>完全绕开平台的账号池和积分计费</strong>。配置后该模型的对话请求会用你的 Key 直接打到 OpenA",
-          "link": "https://cuiqingcai.com/3830689.html",
-          "publishedOn": "2026-07-11T20:31:29.000Z",
-          "wordCount": 1365,
-          "title": "自带密钥（BYOK）使用教程",
-          "imageUrl": null
         }
       ]
     },

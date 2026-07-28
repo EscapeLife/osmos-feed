@@ -122,6 +122,26 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3160560.html",
+          "author": null,
+          "description": "<p><a href=\"https://modelcontextprotocol.io\" target=\"_blank\" rel=\"noopener\">MCP（Model Context Protocol）</a> 是由 Anthropic 推出的模型上下文协议，允许 AI 模型",
+          "link": "https://cuiqingcai.com/3160560.html",
+          "publishedOn": "2026-07-27T05:56:00.000Z",
+          "wordCount": 1570,
+          "title": "Veo MCP 对接指南",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cuiqingcai.com/3128191.html",
+          "author": null,
+          "description": "<p>为 <code>Pending</code> 状态的订单获取支付链接 / 二维码 / 链上扣款指令，并发起实际扣款。</p>\n<p>不同支付方式的行为：</p>\n<div class=\"table-container\">\n  <table>\n    <thead>",
+          "link": "https://cuiqingcai.com/3128191.html",
+          "publishedOn": "2026-07-26T20:56:31.000Z",
+          "wordCount": 1499,
+          "title": "支付 AceDataCloud 平台订单",
+          "imageUrl": null
+        },
+        {
           "id": "https://cuiqingcai.com/3042392.html",
           "author": null,
           "description": "<p>TypeScript 是接入 Ace Data Cloud X402 最推荐的方式之一。官方 SDK 负责普通 API 调用、任务轮询、错误处理和自动重试；<code>@acedatacloud/x402-client</code> 负责在遇到 <code>402 Paym",
@@ -310,16 +330,6 @@
           "wordCount": 1688,
           "title": "OpenCode MCP Overview",
           "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3916744.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>📘 <strong>Overview</strong>：<a href=\"https://platform.acedata.cloud/documents/opencode-mcp-all\" target=\"_blank\" rel=\"noop",
-          "link": "https://cuiqingcai.com/3916744.html",
-          "publishedOn": "2026-07-12T20:25:44.000Z",
-          "wordCount": 1534,
-          "title": "OpenCode 对接 Seedance MCP",
-          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
         }
       ]
     },

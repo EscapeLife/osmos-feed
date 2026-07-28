@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-07-27T02:10:39.469Z</updated>
+    <updated>2026-07-28T01:51:13.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Veo MCP 对接指南]]></title>
+        <id>https://cuiqingcai.com/3160560.html</id>
+        <link href="https://cuiqingcai.com/3160560.html"/>
+        <updated>2026-07-27T05:56:00.000Z</updated>
+        <summary type="html"><![CDATA[<p><a href="https://modelcontextprotocol.io" target="_blank" rel="noopener">MCP（Model Context Protocol）</a> 是由 Anthropic 推出的模型上下文协议，允许 AI 模型]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[支付 AceDataCloud 平台订单]]></title>
+        <id>https://cuiqingcai.com/3128191.html</id>
+        <link href="https://cuiqingcai.com/3128191.html"/>
+        <updated>2026-07-26T20:56:31.000Z</updated>
+        <summary type="html"><![CDATA[<p>为 <code>Pending</code> 状态的订单获取支付链接 / 二维码 / 链上扣款指令，并发起实际扣款。</p>
+<p>不同支付方式的行为：</p>
+<div class="table-container">
+  <table>
+    <thead>]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[X402 TypeScript SDK 接入教程]]></title>
         <id>https://cuiqingcai.com/3042392.html</id>
@@ -232,17 +256,6 @@
         <link href="https://cuiqingcai.com/3003251.html"/>
         <updated>2026-07-13T20:27:31.000Z</updated>
         <summary type="html"><![CDATA[<p>OpenCode 本身擅长读代码、改文件、跑命令、解释报错；MCP 则让它在同一个终端会话里继续调用外部工具。AceData Cloud 把音乐、图片、视频、搜索、短链这些能力做成托管式远程 MCP Server，你不需要本地启动服务，也不需要为每个工具维护不同账号。</p]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenCode 对接 Seedance MCP]]></title>
-        <id>https://cuiqingcai.com/3916744.html</id>
-        <link href="https://cuiqingcai.com/3916744.html"/>
-        <updated>2026-07-12T20:25:44.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-  <p>📘 <strong>Overview</strong>：<a href="https://platform.acedata.cloud/documents/opencode-mcp-all" target="_blank" rel="noop]]></summary>
         <author>
             <name>静觅</name>
         </author>

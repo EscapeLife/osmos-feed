@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-07-28T01:51:13.996Z</updated>
+    <updated>2026-07-29T01:54:34.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Producer 上传参考音频 API 对接说明]]></title>
+        <id>https://cuiqingcai.com/3246759.html</id>
+        <link href="https://cuiqingcai.com/3246759.html"/>
+        <updated>2026-07-28T05:52:39.000Z</updated>
+        <summary type="html"><![CDATA[<p>Producer 允许我们上传参考音频进行二次创作，本文档讲解相关 API 的对接方法。</p>
+<p>该 API 只有一个输入参数，就是 <code>audio_url</code>，它是一个可以公开访问的 CDN 地址，支持 mp3 后缀。</p>
+<p>这里我们输入的]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Veo MCP 对接指南]]></title>
         <id>https://cuiqingcai.com/3160560.html</id>
@@ -235,27 +247,6 @@
         <link href="https://cuiqingcai.com/3090172.html"/>
         <updated>2026-07-14T20:36:12.000Z</updated>
         <summary type="html"><![CDATA[<p>无论你在做舆情监测、价格比价、内容采集、站点巡检还是多地域可用性测试，IP 都是第一道门槛。频繁、集中、异常的请求，极易被系统识别并封禁。Ace Data Cloud 的 ADSL 轮换代理服务，提供来自移动/联通/电信等真实拨号线路的海量出口 IP，天然更接近真实用户画像]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suno Vox API 对接说明]]></title>
-        <id>https://cuiqingcai.com/3039069.html</id>
-        <link href="https://cuiqingcai.com/3039069.html"/>
-        <updated>2026-07-14T06:24:29.000Z</updated>
-        <summary type="html"><![CDATA[<p>SUNO 允许我们创建新版的Persona-v2-vox 版:歌手风格，与旧版本不同的需要先获取<code>vox_audio_id</code>。本文档讲解创建新版Persona-v2-vox的 对接方法。</p>
-<p>首选需要该 API获取<code>vox_audi]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenCode MCP Overview]]></title>
-        <id>https://cuiqingcai.com/3003251.html</id>
-        <link href="https://cuiqingcai.com/3003251.html"/>
-        <updated>2026-07-13T20:27:31.000Z</updated>
-        <summary type="html"><![CDATA[<p>OpenCode 本身擅长读代码、改文件、跑命令、解释报错；MCP 则让它在同一个终端会话里继续调用外部工具。AceData Cloud 把音乐、图片、视频、搜索、短链这些能力做成托管式远程 MCP Server，你不需要本地启动服务，也不需要为每个工具维护不同账号。</p]]></summary>
         <author>
             <name>静觅</name>
         </author>

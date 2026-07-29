@@ -122,6 +122,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3246759.html",
+          "author": null,
+          "description": "<p>Producer 允许我们上传参考音频进行二次创作，本文档讲解相关 API 的对接方法。</p>\n<p>该 API 只有一个输入参数，就是 <code>audio_url</code>，它是一个可以公开访问的 CDN 地址，支持 mp3 后缀。</p>\n<p>这里我们输入的",
+          "link": "https://cuiqingcai.com/3246759.html",
+          "publishedOn": "2026-07-28T05:52:39.000Z",
+          "wordCount": 1201,
+          "title": "Producer 上传参考音频 API 对接说明",
+          "imageUrl": null
+        },
+        {
           "id": "https://cuiqingcai.com/3160560.html",
           "author": null,
           "description": "<p><a href=\"https://modelcontextprotocol.io\" target=\"_blank\" rel=\"noopener\">MCP（Model Context Protocol）</a> 是由 Anthropic 推出的模型上下文协议，允许 AI 模型",
@@ -310,26 +320,6 @@
           "wordCount": 1278,
           "title": "数据增长的隐形助推器：ADSL 轮换代理，把被风控变成被允许（含实战示例）",
           "imageUrl": "https://cdn.acedata.cloud/a2inin.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/3039069.html",
-          "author": null,
-          "description": "<p>SUNO 允许我们创建新版的Persona-v2-vox 版:歌手风格，与旧版本不同的需要先获取<code>vox_audio_id</code>。本文档讲解创建新版Persona-v2-vox的 对接方法。</p>\n<p>首选需要该 API获取<code>vox_audi",
-          "link": "https://cuiqingcai.com/3039069.html",
-          "publishedOn": "2026-07-14T06:24:29.000Z",
-          "wordCount": 1295,
-          "title": "Suno Vox API 对接说明",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3003251.html",
-          "author": null,
-          "description": "<p>OpenCode 本身擅长读代码、改文件、跑命令、解释报错；MCP 则让它在同一个终端会话里继续调用外部工具。AceData Cloud 把音乐、图片、视频、搜索、短链这些能力做成托管式远程 MCP Server，你不需要本地启动服务，也不需要为每个工具维护不同账号。</p",
-          "link": "https://cuiqingcai.com/3003251.html",
-          "publishedOn": "2026-07-13T20:27:31.000Z",
-          "wordCount": 1688,
-          "title": "OpenCode MCP Overview",
-          "imageUrl": null
         }
       ]
     },

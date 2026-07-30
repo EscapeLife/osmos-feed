@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-07-29T01:54:34.757Z</updated>
+    <updated>2026-07-30T01:46:53.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[在 LibreChat 中使用 Ace Data Cloud]]></title>
+        <id>https://cuiqingcai.com/3333273.html</id>
+        <link href="https://cuiqingcai.com/3333273.html"/>
+        <updated>2026-07-29T05:54:33.000Z</updated>
+        <summary type="html"><![CDATA[<p><a href="https://www.librechat.ai/" target="_blank" rel="noopener">LibreChat</a> 是一个高度可配置的开源 AI 客户端，在一个界面里复刻 ChatGPT 的完整体验，并加上多服务商支持与企业级配]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Riffusion 上传参考音频 API 对接说明]]></title>
+        <id>https://cuiqingcai.com/3301287.html</id>
+        <link href="https://cuiqingcai.com/3301287.html"/>
+        <updated>2026-07-28T21:01:27.000Z</updated>
+        <summary type="html"><![CDATA[<p>Riffusion 允许我们上传参考音频进行二次创作，本文档讲解相关 API 的对接方法。</p>
+<p>该 API 只有一个输入参数，就是 <code>audio_url</code>，它是一个可以公开访问的 CDN 地址，支持 mp3 后缀。</p>
+<p>这里我们输入]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Producer 上传参考音频 API 对接说明]]></title>
         <id>https://cuiqingcai.com/3246759.html</id>
@@ -226,27 +248,6 @@
         <summary type="html"><![CDATA[<h2 id="Safety-defaults"><a href="#Safety-defaults" class="headerlink" title="Safety defaults"></a>Safety defaults</h2>
 <ul>
   <li><code>Ema]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Veo Upsample API 对接说明]]></title>
-        <id>https://cuiqingcai.com/3122845.html</id>
-        <link href="https://cuiqingcai.com/3122845.html"/>
-        <updated>2026-07-15T05:40:45.000Z</updated>
-        <summary type="html"><![CDATA[<p>本文将介绍 Veo Upsample API 的对接说明。该接口用于对一段已经生成的 Veo 视频进行升采样或者输出动图预览。</p>
-<h2 id="申请流程"><a href="#申请流程" class="headerlink" title="申请流程"></a>申请流]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据增长的隐形助推器：ADSL 轮换代理，把被风控变成被允许（含实战示例）]]></title>
-        <id>https://cuiqingcai.com/3090172.html</id>
-        <link href="https://cuiqingcai.com/3090172.html"/>
-        <updated>2026-07-14T20:36:12.000Z</updated>
-        <summary type="html"><![CDATA[<p>无论你在做舆情监测、价格比价、内容采集、站点巡检还是多地域可用性测试，IP 都是第一道门槛。频繁、集中、异常的请求，极易被系统识别并封禁。Ace Data Cloud 的 ADSL 轮换代理服务，提供来自移动/联通/电信等真实拨号线路的海量出口 IP，天然更接近真实用户画像]]></summary>
         <author>
             <name>静觅</name>
         </author>

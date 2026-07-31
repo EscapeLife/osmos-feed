@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-07-30T01:46:53.090Z</updated>
+    <updated>2026-07-31T02:04:16.658Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 406 期）：道可，道非，常道]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html"/>
+        <updated>2026-07-31T00:08:55.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全球代理对接说明]]></title>
+        <id>https://cuiqingcai.com/3385951.html</id>
+        <link href="https://cuiqingcai.com/3385951.html"/>
+        <updated>2026-07-29T20:32:31.000Z</updated>
+        <summary type="html"><![CDATA[<p>本文档主要介绍 Ace Data Cloud 全球代理的对接说明，包括申请方法、实用方法等具体内容。</p>
+<h2 id="申请方法"><a href="#申请方法" class="headerlink" title="申请方法"></a>申请方法</h2>
+<p>要使用]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在 LibreChat 中使用 Ace Data Cloud]]></title>
         <id>https://cuiqingcai.com/3333273.html</id>
@@ -225,29 +247,6 @@
         <link href="https://cuiqingcai.com/3263331.html"/>
         <updated>2026-07-16T20:42:11.000Z</updated>
         <summary type="html"><![CDATA[<p><a href="https://modelcontextprotocol.io" target="_blank" rel="noopener">MCP（Model Context Protocol）</a> 是由 Anthropic 推出的模型上下文协议，允许 AI 模型]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[获取 AceDataCloud 平台 API 凭证列表]]></title>
-        <id>https://cuiqingcai.com/3211506.html</id>
-        <link href="https://cuiqingcai.com/3211506.html"/>
-        <updated>2026-07-16T06:18:26.000Z</updated>
-        <summary type="html"><![CDATA[<p>列出当前账户已签发的全部 <strong>API 凭证（Credential）</strong>——也就是调用 <code>https://api.acedata.cloud/**</code> 业务接口时用的 32 位 Token。</p>
-<blockquote>]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Email marketing operations]]></title>
-        <id>https://cuiqingcai.com/3175908.html</id>
-        <link href="https://cuiqingcai.com/3175908.html"/>
-        <updated>2026-07-15T20:25:08.000Z</updated>
-        <summary type="html"><![CDATA[<h2 id="Safety-defaults"><a href="#Safety-defaults" class="headerlink" title="Safety defaults"></a>Safety defaults</h2>
-<ul>
-  <li><code>Ema]]></summary>
         <author>
             <name>静觅</name>
         </author>

@@ -18,6 +18,16 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html",
+          "publishedOn": "2026-07-31T00:08:55.000Z",
+          "wordCount": null,
+          "title": "科技爱好者周刊（第 406 期）：道可，道非，常道",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
@@ -121,6 +131,16 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3385951.html",
+          "author": null,
+          "description": "<p>本文档主要介绍 Ace Data Cloud 全球代理的对接说明，包括申请方法、实用方法等具体内容。</p>\n<h2 id=\"申请方法\"><a href=\"#申请方法\" class=\"headerlink\" title=\"申请方法\"></a>申请方法</h2>\n<p>要使用",
+          "link": "https://cuiqingcai.com/3385951.html",
+          "publishedOn": "2026-07-29T20:32:31.000Z",
+          "wordCount": 2017,
+          "title": "全球代理对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/cyzvmz.png"
+        },
         {
           "id": "https://cuiqingcai.com/3333273.html",
           "author": null,
@@ -299,26 +319,6 @@
           "publishedOn": "2026-07-16T20:42:11.000Z",
           "wordCount": 1564,
           "title": "Flux MCP 对接指南",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3211506.html",
-          "author": null,
-          "description": "<p>列出当前账户已签发的全部 <strong>API 凭证（Credential）</strong>——也就是调用 <code>https://api.acedata.cloud/**</code> 业务接口时用的 32 位 Token。</p>\n<blockquote>",
-          "link": "https://cuiqingcai.com/3211506.html",
-          "publishedOn": "2026-07-16T06:18:26.000Z",
-          "wordCount": 1565,
-          "title": "获取 AceDataCloud 平台 API 凭证列表",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3175908.html",
-          "author": null,
-          "description": "<h2 id=\"Safety-defaults\"><a href=\"#Safety-defaults\" class=\"headerlink\" title=\"Safety defaults\"></a>Safety defaults</h2>\n<ul>\n  <li><code>Ema",
-          "link": "https://cuiqingcai.com/3175908.html",
-          "publishedOn": "2026-07-15T20:25:08.000Z",
-          "wordCount": 1533,
-          "title": "Email marketing operations",
           "imageUrl": null
         }
       ]

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-07-31T02:04:16.658Z</updated>
+    <updated>2026-08-01T02:05:38.846Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -14,6 +14,17 @@
         <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VS Code + Veo MCP]]></title>
+        <id>https://cuiqingcai.com/3471659.html</id>
+        <link href="https://cuiqingcai.com/3471659.html"/>
+        <updated>2026-07-30T20:20:59.000Z</updated>
+        <summary type="html"><![CDATA[<p>做前端需要演示视频？写文档需要动态效果展示？现在你可以在 VS Code 里，用一句话让 GitHub Copilot 调用 Google Veo 生成高质量视频。不用切换窗口，不用学剪辑软件，聊天就能出片。</p>
+<h2 id="第-1-步：在-VS-Code-中搜索并]]></summary>
+        <author>
+            <name>静觅</name>
         </author>
     </entry>
     <entry>
@@ -227,26 +238,6 @@
         <updated>2026-07-17T20:12:38.000Z</updated>
         <summary type="html"><![CDATA[<p>本文将介绍一种 Pika Videos Generation API 对接说明，它是可以通过输入自定义参数来生成Pika官方的视频。</p>
 <h2 id="申请流程"><a href="#申请流程" class="headerlink" title="申请流程"></a>]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html"/>
-        <updated>2026-07-16T23:51:19.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flux MCP 对接指南]]></title>
-        <id>https://cuiqingcai.com/3263331.html</id>
-        <link href="https://cuiqingcai.com/3263331.html"/>
-        <updated>2026-07-16T20:42:11.000Z</updated>
-        <summary type="html"><![CDATA[<p><a href="https://modelcontextprotocol.io" target="_blank" rel="noopener">MCP（Model Context Protocol）</a> 是由 Anthropic 推出的模型上下文协议，允许 AI 模型]]></summary>
         <author>
             <name>静觅</name>
         </author>

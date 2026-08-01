@@ -36,16 +36,6 @@
           "wordCount": null,
           "title": "科技爱好者周刊（第 405 期）：资源，社会公平与算力",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html",
-          "publishedOn": "2026-07-16T23:51:19.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识",
-          "imageUrl": null
         }
       ]
     },
@@ -131,6 +121,16 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3471659.html",
+          "author": null,
+          "description": "<p>做前端需要演示视频？写文档需要动态效果展示？现在你可以在 VS Code 里，用一句话让 GitHub Copilot 调用 Google Veo 生成高质量视频。不用切换窗口，不用学剪辑软件，聊天就能出片。</p>\n<h2 id=\"第-1-步：在-VS-Code-中搜索并",
+          "link": "https://cuiqingcai.com/3471659.html",
+          "publishedOn": "2026-07-30T20:20:59.000Z",
+          "wordCount": 1480,
+          "title": "VS Code + Veo MCP",
+          "imageUrl": null
+        },
         {
           "id": "https://cuiqingcai.com/3385951.html",
           "author": null,
@@ -310,16 +310,6 @@
           "wordCount": 1620,
           "title": "Pika Videos Generation API 对接说明",
           "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3263331.html",
-          "author": null,
-          "description": "<p><a href=\"https://modelcontextprotocol.io\" target=\"_blank\" rel=\"noopener\">MCP（Model Context Protocol）</a> 是由 Anthropic 推出的模型上下文协议，允许 AI 模型",
-          "link": "https://cuiqingcai.com/3263331.html",
-          "publishedOn": "2026-07-16T20:42:11.000Z",
-          "wordCount": 1564,
-          "title": "Flux MCP 对接指南",
-          "imageUrl": null
         }
       ]
     },

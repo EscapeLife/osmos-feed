@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-08-01T02:05:38.846Z</updated>
+    <updated>2026-08-02T02:02:09.712Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Suno Style API 对接说明]]></title>
+        <id>https://cuiqingcai.com/3558281.html</id>
+        <link href="https://cuiqingcai.com/3558281.html"/>
+        <updated>2026-07-31T20:24:41.000Z</updated>
+        <summary type="html"><![CDATA[<p>SUNO 允许我们输入提示词来生成增强歌曲的风格。本文档讲解相关 API 的对接方法。</p>
+<p>该 API 只有一个输入参数，就是 <code>prompt</code>，它是需要优化的风格提示词。</p>
+<p>这里我们输入的 <code>prompt</code>]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 406 期）：道可，道非，常道]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html</id>
@@ -227,17 +239,6 @@
         <updated>2026-07-18T20:58:35.000Z</updated>
         <summary type="html"><![CDATA[<p>Flux Tasks API 的主要功能是通过输入 Flux Images Generation API 生成的任务ID来查询该任务的执行情况。</p>
 <p>本文档将详细介绍 Flux Tasks API 的对接说明，帮助您轻松集成并充分利用该 API 的强大功能。通过]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pika Videos Generation API 对接说明]]></title>
-        <id>https://cuiqingcai.com/3347958.html</id>
-        <link href="https://cuiqingcai.com/3347958.html"/>
-        <updated>2026-07-17T20:12:38.000Z</updated>
-        <summary type="html"><![CDATA[<p>本文将介绍一种 Pika Videos Generation API 对接说明，它是可以通过输入自定义参数来生成Pika官方的视频。</p>
-<h2 id="申请流程"><a href="#申请流程" class="headerlink" title="申请流程"></a>]]></summary>
         <author>
             <name>静觅</name>
         </author>

@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-08-02T02:02:09.712Z</updated>
+    <updated>2026-08-03T02:04:31.253Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Flux Images Generation API 对接说明]]></title>
+        <id>https://cuiqingcai.com/3679589.html</id>
+        <link href="https://cuiqingcai.com/3679589.html"/>
+        <updated>2026-08-02T06:06:29.000Z</updated>
+        <summary type="html"><![CDATA[<p>本文将介绍一种 Flux Images Generation API 对接说明，它是可以通过输入自定义参数来生成 Flux 官方的图片。</p>
+<h2 id="申请流程"><a href="#申请流程" class="headerlink" title="申请流程"></]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[接入「使用 Ace Data Cloud 登录」（OAuth 2.0）]]></title>
+        <id>https://cuiqingcai.com/3644224.html</id>
+        <link href="https://cuiqingcai.com/3644224.html"/>
+        <updated>2026-08-01T20:17:04.000Z</updated>
+        <summary type="html"><![CDATA[<p>让你自己的产品支持「使用 Ace Data Cloud 登录」，并在用户授权后，<strong>代表用户</strong>读写其 Ace Data Cloud 资源（个人资料、API Token、订阅、用量、订单等）。底层是标准的 <strong>OAuth 2.0 授权码]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Suno Style API 对接说明]]></title>
         <id>https://cuiqingcai.com/3558281.html</id>
@@ -228,17 +249,6 @@
         <link href="https://cuiqingcai.com/3522673.html"/>
         <updated>2026-07-19T20:44:33.000Z</updated>
         <summary type="html"><![CDATA[<p><a href="https://anythingllm.com/" target="_blank" rel="noopener">AnythingLLM</a> 是一款定位「文档 → 私有 ChatGPT」的开源客户端，核心概念是 <strong>Workspace</s]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flux Tasks API 的对接和使用]]></title>
-        <id>https://cuiqingcai.com/3437115.html</id>
-        <link href="https://cuiqingcai.com/3437115.html"/>
-        <updated>2026-07-18T20:58:35.000Z</updated>
-        <summary type="html"><![CDATA[<p>Flux Tasks API 的主要功能是通过输入 Flux Images Generation API 生成的任务ID来查询该任务的执行情况。</p>
-<p>本文档将详细介绍 Flux Tasks API 的对接说明，帮助您轻松集成并充分利用该 API 的强大功能。通过]]></summary>
         <author>
             <name>静觅</name>
         </author>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-08-03T02:04:31.253Z</updated>
+    <updated>2026-08-04T01:50:31.869Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Grok Chat Completion API 申请及使用]]></title>
+        <id>https://cuiqingcai.com/3765269.html</id>
+        <link href="https://cuiqingcai.com/3765269.html"/>
+        <updated>2026-08-03T05:54:29.000Z</updated>
+        <summary type="html"><![CDATA[<p>xAI Grok 是一款非常强大的 AI 对话系统，只要输入提示词，就能在短短几秒内生成流畅自然的回复。Grok 以其独特的幽默风格和实时网络信息获取能力在业界独树一帜，如今，Grok 已在多个创新领域崭露头角，其影响力正快速扩大。无论是日常对话、创意写作，还是技术分析、代]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flux Images Generation API 对接说明]]></title>
         <id>https://cuiqingcai.com/3679589.html</id>
@@ -239,16 +249,6 @@
         <link href="https://cuiqingcai.com/3608900.html"/>
         <updated>2026-07-20T20:41:40.000Z</updated>
         <summary type="html"><![CDATA[<p><a href="https://github.com/ChatGPTNextWeb/NextChat" target="_blank" rel="noopener">NextChat</a>（前身 ChatGPT-Next-Web）是中文社区广为人知的开源 AI 客户端，]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在 AnythingLLM 中使用 Ace Data Cloud]]></title>
-        <id>https://cuiqingcai.com/3522673.html</id>
-        <link href="https://cuiqingcai.com/3522673.html"/>
-        <updated>2026-07-19T20:44:33.000Z</updated>
-        <summary type="html"><![CDATA[<p><a href="https://anythingllm.com/" target="_blank" rel="noopener">AnythingLLM</a> 是一款定位「文档 → 私有 ChatGPT」的开源客户端，核心概念是 <strong>Workspace</s]]></summary>
         <author>
             <name>静觅</name>
         </author>

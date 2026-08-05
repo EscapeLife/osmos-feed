@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-08-04T01:50:31.869Z</updated>
+    <updated>2026-08-05T01:51:05.053Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Go SDK 接入教程]]></title>
+        <id>https://cuiqingcai.com/3852127.html</id>
+        <link href="https://cuiqingcai.com/3852127.html"/>
+        <updated>2026-08-04T06:02:07.000Z</updated>
+        <summary type="html"><![CDATA[<p><a href="https://pkg.go.dev/github.com/AceDataCloud/SDK/go" target="_blank" rel="noopener"><code>github.com/AceDataCloud/SDK/go</code></a]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X402 集成指南]]></title>
+        <id>https://cuiqingcai.com/3817301.html</id>
+        <link href="https://cuiqingcai.com/3817301.html"/>
+        <updated>2026-08-03T20:21:41.000Z</updated>
+        <summary type="html"><![CDATA[<p>X402 是基于 HTTP <code>402 Payment Required</code> 的链上支付协议。通过 Ace Data Cloud 的 X402 能力，调用方可以不创建 API Token、不预充值账户余额，而是在每一次 API 请求中直接用 USDC 完成]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Grok Chat Completion API 申请及使用]]></title>
         <id>https://cuiqingcai.com/3765269.html</id>
@@ -239,16 +259,6 @@
         <link href="https://cuiqingcai.com/3694875.html"/>
         <updated>2026-07-21T20:34:35.000Z</updated>
         <summary type="html"><![CDATA[<p>为某个 Application 签发一枚 <strong>API 凭证（Credential）</strong>——即调用 <code>https://api.acedata.cloud/**</code> 业务接口（OpenAI、Midjourney、Suno、Veo 等]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在 NextChat 中使用 Ace Data Cloud]]></title>
-        <id>https://cuiqingcai.com/3608900.html</id>
-        <link href="https://cuiqingcai.com/3608900.html"/>
-        <updated>2026-07-20T20:41:40.000Z</updated>
-        <summary type="html"><![CDATA[<p><a href="https://github.com/ChatGPTNextWeb/NextChat" target="_blank" rel="noopener">NextChat</a>（前身 ChatGPT-Next-Web）是中文社区广为人知的开源 AI 客户端，]]></summary>
         <author>
             <name>静觅</name>
         </author>

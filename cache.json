@@ -82,9 +82,9 @@
       "articles": []
     },
     {
-      "title": "Home on codedump notes",
+      "title": "codedump notes",
       "feedUrl": "https://www.codedump.info/index.xml",
-      "siteUrl": "http://localhost:1313/",
+      "siteUrl": "https://www.codedump.info/en/index.xml",
       "articles": []
     },
     {
@@ -121,6 +121,26 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3852127.html",
+          "author": null,
+          "description": "<p><a href=\"https://pkg.go.dev/github.com/AceDataCloud/SDK/go\" target=\"_blank\" rel=\"noopener\"><code>github.com/AceDataCloud/SDK/go</code></a",
+          "link": "https://cuiqingcai.com/3852127.html",
+          "publishedOn": "2026-08-04T06:02:07.000Z",
+          "wordCount": 1856,
+          "title": "Go SDK 接入教程",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cuiqingcai.com/3817301.html",
+          "author": null,
+          "description": "<p>X402 是基于 HTTP <code>402 Payment Required</code> 的链上支付协议。通过 Ace Data Cloud 的 X402 能力，调用方可以不创建 API Token、不预充值账户余额，而是在每一次 API 请求中直接用 USDC 完成",
+          "link": "https://cuiqingcai.com/3817301.html",
+          "publishedOn": "2026-08-03T20:21:41.000Z",
+          "wordCount": 1593,
+          "title": "X402 集成指南",
+          "imageUrl": null
+        },
         {
           "id": "https://cuiqingcai.com/3765269.html",
           "author": null,
@@ -310,16 +330,6 @@
           "wordCount": 1534,
           "title": "创建 AceDataCloud 平台 API 凭证",
           "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3608900.html",
-          "author": null,
-          "description": "<p><a href=\"https://github.com/ChatGPTNextWeb/NextChat\" target=\"_blank\" rel=\"noopener\">NextChat</a>（前身 ChatGPT-Next-Web）是中文社区广为人知的开源 AI 客户端，",
-          "link": "https://cuiqingcai.com/3608900.html",
-          "publishedOn": "2026-07-20T20:41:40.000Z",
-          "wordCount": 1496,
-          "title": "在 NextChat 中使用 Ace Data Cloud",
-          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
         }
       ]
     },

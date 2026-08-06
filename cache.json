@@ -122,6 +122,26 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3939750.html",
+          "author": null,
+          "description": "<p>Maestro 是一个 <strong>Agent 原生</strong>的视频生产接口：你用一句自然语言 <code>prompt</code> 描述想要的视频（可选地用 <code>file_urls</code> 附上参考图片 / 视频 / 音频），一个无头的「AI",
+          "link": "https://cuiqingcai.com/3939750.html",
+          "publishedOn": "2026-08-05T06:22:30.000Z",
+          "wordCount": 1847,
+          "title": "Maestro 视频生成 API 对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
+        },
+        {
+          "id": "https://cuiqingcai.com/3904908.html",
+          "author": null,
+          "description": "<blockquote>\n  <p>📘 <strong>Overview</strong>：<a href=\"https://platform.acedata.cloud/documents/opencode-mcp-all\" target=\"_blank\" rel=\"noop",
+          "link": "https://cuiqingcai.com/3904908.html",
+          "publishedOn": "2026-08-04T20:41:48.000Z",
+          "wordCount": 1553,
+          "title": "OpenCode 对接 Flux MCP",
+          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
+        },
+        {
           "id": "https://cuiqingcai.com/3852127.html",
           "author": null,
           "description": "<p><a href=\"https://pkg.go.dev/github.com/AceDataCloud/SDK/go\" target=\"_blank\" rel=\"noopener\"><code>github.com/AceDataCloud/SDK/go</code></a",
@@ -309,26 +329,6 @@
           "publishedOn": "2026-07-22T21:00:45.000Z",
           "wordCount": 1481,
           "title": "AI Chat 定时任务说明",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3727401.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/codex-mcp-all\" target=\"_blank\" rel=\"noopener\">在",
-          "link": "https://cuiqingcai.com/3727401.html",
-          "publishedOn": "2026-07-22T05:36:41.000Z",
-          "wordCount": 1266,
-          "title": "Codex CLI 对接 Face Transform 面部转换 MCP",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3694875.html",
-          "author": null,
-          "description": "<p>为某个 Application 签发一枚 <strong>API 凭证（Credential）</strong>——即调用 <code>https://api.acedata.cloud/**</code> 业务接口（OpenAI、Midjourney、Suno、Veo 等",
-          "link": "https://cuiqingcai.com/3694875.html",
-          "publishedOn": "2026-07-21T20:34:35.000Z",
-          "wordCount": 1534,
-          "title": "创建 AceDataCloud 平台 API 凭证",
           "imageUrl": null
         }
       ]

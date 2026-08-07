@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-08-06T01:52:52.329Z</updated>
+    <updated>2026-08-07T02:14:26.156Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 407 期）：国家为什么需要开源软件？]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html"/>
+        <updated>2026-08-07T00:08:27.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nano Banana MCP 对接指南]]></title>
+        <id>https://cuiqingcai.com/3024869.html</id>
+        <link href="https://cuiqingcai.com/3024869.html"/>
+        <updated>2026-08-06T06:01:09.000Z</updated>
+        <summary type="html"><![CDATA[<p><a href="https://modelcontextprotocol.io" target="_blank" rel="noopener">MCP（Model Context Protocol）</a> 是由 Anthropic 推出的模型上下文协议，允许 AI 模型]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人脸美颜 API 对接说明]]></title>
+        <id>https://cuiqingcai.com/3991030.html</id>
+        <link href="https://cuiqingcai.com/3991030.html"/>
+        <updated>2026-08-05T20:37:10.000Z</updated>
+        <summary type="html"><![CDATA[<p>本文将介绍一种 人脸美颜 API 对接说明，它可以通过用户上传一张人脸图片（最多能处理一张图片中最大的五张人脸信息），精准定位五官，实现美肤、亮肤、祛痘等美颜功能。</p>
+<h2 id="申请流程"><a href="#申请流程" class="headerlink" t]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maestro 视频生成 API 对接说明]]></title>
         <id>https://cuiqingcai.com/3939750.html</id>
@@ -239,26 +270,6 @@
         <link href="https://cuiqingcai.com/3866644.html"/>
         <updated>2026-07-23T20:17:24.000Z</updated>
         <summary type="html"><![CDATA[<p>通过订单 ID 获取单个订单的完整信息——比列表多出 <code>application</code>、<code>service</code>、<code>package</code> 等关联对象的完整字段，以及当前可用的 <code>payment_url</code>]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在 Jan 中使用 Ace Data Cloud]]></title>
-        <id>https://cuiqingcai.com/3814506.html</id>
-        <link href="https://cuiqingcai.com/3814506.html"/>
-        <updated>2026-07-23T05:48:26.000Z</updated>
-        <summary type="html"><![CDATA[<p><a href="https://jan.ai/" target="_blank" rel="noopener">Jan</a> 是一款主打「离线优先 + 隐私保护」的开源 AI 桌面客户端。它自带本地推理引擎（基于 llama.cpp，Apple Silicon 上可用]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Chat 定时任务说明]]></title>
-        <id>https://cuiqingcai.com/3782845.html</id>
-        <link href="https://cuiqingcai.com/3782845.html"/>
-        <updated>2026-07-22T21:00:45.000Z</updated>
-        <summary type="html"><![CDATA[<p>定时任务（<code>/aichat2/scheduled-tasks</code>）让你的 AI Agent 在无人值守的情况下<strong>按计划自动运行</strong>——每天汇总新闻、每周生成报告、每小时监控数据等任务，全部交给平台在后台自动完成，完成后推送通知]]></summary>
         <author>
             <name>静觅</name>
         </author>

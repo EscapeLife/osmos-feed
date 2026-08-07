@@ -18,6 +18,16 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html",
+          "publishedOn": "2026-08-07T00:08:27.000Z",
+          "wordCount": null,
+          "title": "科技爱好者周刊（第 407 期）：国家为什么需要开源软件？",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
@@ -121,6 +131,26 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3024869.html",
+          "author": null,
+          "description": "<p><a href=\"https://modelcontextprotocol.io\" target=\"_blank\" rel=\"noopener\">MCP（Model Context Protocol）</a> 是由 Anthropic 推出的模型上下文协议，允许 AI 模型",
+          "link": "https://cuiqingcai.com/3024869.html",
+          "publishedOn": "2026-08-06T06:01:09.000Z",
+          "wordCount": 1560,
+          "title": "Nano Banana MCP 对接指南",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cuiqingcai.com/3991030.html",
+          "author": null,
+          "description": "<p>本文将介绍一种 人脸美颜 API 对接说明，它可以通过用户上传一张人脸图片（最多能处理一张图片中最大的五张人脸信息），精准定位五官，实现美肤、亮肤、祛痘等美颜功能。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" t",
+          "link": "https://cuiqingcai.com/3991030.html",
+          "publishedOn": "2026-08-05T20:37:10.000Z",
+          "wordCount": 1331,
+          "title": "人脸美颜 API 对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
+        },
         {
           "id": "https://cuiqingcai.com/3939750.html",
           "author": null,
@@ -309,26 +339,6 @@
           "publishedOn": "2026-07-23T20:17:24.000Z",
           "wordCount": 1388,
           "title": "获取 AceDataCloud 平台订单详情",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3814506.html",
-          "author": null,
-          "description": "<p><a href=\"https://jan.ai/\" target=\"_blank\" rel=\"noopener\">Jan</a> 是一款主打「离线优先 + 隐私保护」的开源 AI 桌面客户端。它自带本地推理引擎（基于 llama.cpp，Apple Silicon 上可用",
-          "link": "https://cuiqingcai.com/3814506.html",
-          "publishedOn": "2026-07-23T05:48:26.000Z",
-          "wordCount": 1485,
-          "title": "在 Jan 中使用 Ace Data Cloud",
-          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3782845.html",
-          "author": null,
-          "description": "<p>定时任务（<code>/aichat2/scheduled-tasks</code>）让你的 AI Agent 在无人值守的情况下<strong>按计划自动运行</strong>——每天汇总新闻、每周生成报告、每小时监控数据等任务，全部交给平台在后台自动完成，完成后推送通知",
-          "link": "https://cuiqingcai.com/3782845.html",
-          "publishedOn": "2026-07-22T21:00:45.000Z",
-          "wordCount": 1481,
-          "title": "AI Chat 定时任务说明",
           "imageUrl": null
         }
       ]

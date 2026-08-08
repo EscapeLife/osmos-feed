@@ -36,16 +36,6 @@
           "wordCount": null,
           "title": "科技爱好者周刊（第 406 期）：道可，道非，常道",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html",
-          "publishedOn": "2026-07-24T00:12:16.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 405 期）：资源，社会公平与算力",
-          "imageUrl": null
         }
       ]
     },
@@ -131,6 +121,16 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3077191.html",
+          "author": null,
+          "description": "<blockquote>\n  <p>📘 <strong>总览指南</strong>：<a href=\"https://platform.acedata.cloud/documents/claude-desktop-mcp-all\" target=\"_blank\" rel=\"no",
+          "link": "https://cuiqingcai.com/3077191.html",
+          "publishedOn": "2026-08-06T20:33:11.000Z",
+          "wordCount": 1574,
+          "title": "Claude 对接 Seedream MCP",
+          "imageUrl": "https://cdn.acedata.cloud/4c05821aab.png"
+        },
         {
           "id": "https://cuiqingcai.com/3024869.html",
           "author": null,
@@ -330,16 +330,6 @@
           "wordCount": 1529,
           "title": "Wan Videos Generation API 对接说明",
           "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3866644.html",
-          "author": null,
-          "description": "<p>通过订单 ID 获取单个订单的完整信息——比列表多出 <code>application</code>、<code>service</code>、<code>package</code> 等关联对象的完整字段，以及当前可用的 <code>payment_url</code>",
-          "link": "https://cuiqingcai.com/3866644.html",
-          "publishedOn": "2026-07-23T20:17:24.000Z",
-          "wordCount": 1388,
-          "title": "获取 AceDataCloud 平台订单详情",
-          "imageUrl": null
         }
       ]
     },

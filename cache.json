@@ -97,18 +97,7 @@
       "title": "云风的 BLOG",
       "feedUrl": "https://blog.codingnow.com/atom.xml",
       "siteUrl": "https://blog.codingnow.com/",
-      "articles": [
-        {
-          "id": "https://blog.codingnow.com/2026/07/deckers.html",
-          "author": null,
-          "description": "最近比较难找到人一起开桌游，所以我玩了不少人对抗系统规则的游戏。 桌游中人和人对抗的比较常见，设计一套规则、让玩家在这套规则下博弈；但需要找到（足够水平的）人一起玩。虽然很多桌游也会设计 solo 模式，但大多是设计一个自动机来模拟对手。这会损失相当的博弈性，要么变成了可预测的系统行为，要么沦为半随机事件。而游戏规则的原始设计中通常都会有相当部分依赖人之间的博弈才有趣。例如，我最喜欢的桌游《银河竞逐》在第一个扩展包中就加入了自动机，允许 solo ，但我觉得远没有和人玩有趣。 也有设计得不错的自动机。例如之前介绍过的《Star Trek : Captain's Chair》在玩家社区中就公认单人模式非常有趣，我也只一个人玩过。还有我前段超喜欢的《deep future》也是一个多人对抗游戏，但很多玩家包括我也喜欢一个人玩。我甚至还制作了 solo 模式的电子版本 。 如果一开始就围绕玩家对抗系统规则去设计，去掉人和人之间的博弈，那么游戏会有不太一样的体验。关于这种 PvE 游戏，去年我在整理卡牌构筑类桌游规则时提过不少：Legendary 系列、Aeon's End 系列（以及后续的 Astro Knights ）、XenoShyft 、Legacy of Yu、Kingdom Legacy，等等。还有今年我玩过的 voidfall 和 spirit island 。 这类游戏一般除了可以单人游戏外，一般还会设计多人合作模式。刚接触这类合作破解系统的游戏时，许多人会自然有一个疑问：如果几个人可以合作完成游戏，那和我自己一个人操作多个角色有什么区别？这其实是合作类游戏中的经典“指挥官问题”。有一类经验丰富的玩家系统称为 alpha player ：指那种控制欲很强，喜欢替合作玩家做决定，主导整个局势。过去很多此类游戏会在机制上加一些限制，最著名的是《瘟疫危机 Pandemic》禁止玩家亮出手牌（但不禁止玩家描述自己的牌），这会加大 Alpha 玩家的决策成本：他无法在制定策略时纵览全局。像...",
-          "link": "https://blog.codingnow.com/2026/07/deckers.html",
-          "publishedOn": "2026-07-24T14:03:34.000Z",
-          "wordCount": 240,
-          "title": "对抗系统的桌游",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "piglei",
@@ -121,6 +110,16 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3162073.html",
+          "author": null,
+          "description": "<p>本文将介绍人脸静态活体检测（高精度版）API 对接说明，它可用于对用户上传的静态图片进行防翻拍活体检测，以判断是否是翻拍图片。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title=\"申请流程\"></a>申请流",
+          "link": "https://cuiqingcai.com/3162073.html",
+          "publishedOn": "2026-08-07T20:07:53.000Z",
+          "wordCount": 1309,
+          "title": "人脸静态活体检测（高精度版） API 对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
+        },
         {
           "id": "https://cuiqingcai.com/3077191.html",
           "author": null,
@@ -310,26 +309,6 @@
           "wordCount": 1671,
           "title": "X402 TypeScript SDK 接入教程",
           "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3986719.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>📘 <strong>Overview</strong>：<a href=\"https://platform.acedata.cloud/documents/opencode-mcp-all\" target=\"_blank\" rel=\"noop",
-          "link": "https://cuiqingcai.com/3986719.html",
-          "publishedOn": "2026-07-25T05:38:39.000Z",
-          "wordCount": 1537,
-          "title": "OpenCode 对接 Luma MCP",
-          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3954354.html",
-          "author": null,
-          "description": "<p>本文将介绍一种 Wan Videos Generation API 对接说明，它是可以通过输入自定义参数来生成通义万相官方的视频。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title=\"申请流程\"></a>申",
-          "link": "https://cuiqingcai.com/3954354.html",
-          "publishedOn": "2026-07-24T20:39:14.000Z",
-          "wordCount": 1529,
-          "title": "Wan Videos Generation API 对接说明",
-          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
         }
       ]
     },

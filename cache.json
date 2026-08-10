@@ -97,7 +97,18 @@
       "title": "云风的 BLOG",
       "feedUrl": "https://blog.codingnow.com/atom.xml",
       "siteUrl": "https://blog.codingnow.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://blog.codingnow.com/2026/08/improved_a_star_heuristics.html",
+          "author": null,
+          "description": "今天读到 redblobgames 写的关于如何改进寻路算法中启发式函数的文章 ，感觉很棒。我们可以用很简单的方法改进 A star 算法中的传统计算欧氏距离的方式实现启发函数的方法。 这意味着，可以直接利用之前写好的寻路模块 改变一下启发函数，就可以大幅提升性能。...",
+          "link": "https://blog.codingnow.com/2026/08/improved_a_star_heuristics.html",
+          "publishedOn": "2026-08-09T01:17:32.000Z",
+          "wordCount": 128,
+          "title": "用地标改进 A star 寻路的启发函数",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "piglei",
@@ -110,6 +121,26 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3284063.html",
+          "author": null,
+          "description": "<h2 id=\"摘要-概览\"><a href=\"#摘要-概览\" class=\"headerlink\" title=\"摘要 / 概览\"></a>摘要 / 概览</h2>\n<p>Ace Data Cloud 是一个以使用为先的 AI 基础设施平台，旨在支持真实的生产级 AI 系统。它",
+          "link": "https://cuiqingcai.com/3284063.html",
+          "publishedOn": "2026-08-09T06:01:03.000Z",
+          "wordCount": 1473,
+          "title": "Ace Data Cloud — 面向真实系统的以使用为先的 AI 基础设施",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cuiqingcai.com/3248555.html",
+          "author": null,
+          "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/codex-mcp-all\" target=\"_blank\" rel=\"noopener\">在",
+          "link": "https://cuiqingcai.com/3248555.html",
+          "publishedOn": "2026-08-08T20:09:15.000Z",
+          "wordCount": 1241,
+          "title": "Codex CLI 对接 Luma MCP",
+          "imageUrl": null
+        },
         {
           "id": "https://cuiqingcai.com/3162073.html",
           "author": null,
@@ -298,16 +329,6 @@
           "publishedOn": "2026-07-26T20:56:31.000Z",
           "wordCount": 1499,
           "title": "支付 AceDataCloud 平台订单",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3042392.html",
-          "author": null,
-          "description": "<p>TypeScript 是接入 Ace Data Cloud X402 最推荐的方式之一。官方 SDK 负责普通 API 调用、任务轮询、错误处理和自动重试；<code>@acedatacloud/x402-client</code> 负责在遇到 <code>402 Paym",
-          "link": "https://cuiqingcai.com/3042392.html",
-          "publishedOn": "2026-07-25T21:06:32.000Z",
-          "wordCount": 1671,
-          "title": "X402 TypeScript SDK 接入教程",
           "imageUrl": null
         }
       ]

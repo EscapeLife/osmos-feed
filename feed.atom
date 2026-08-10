@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-08-09T01:07:34.991Z</updated>
+    <updated>2026-08-10T01:09:17.723Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ace Data Cloud — 面向真实系统的以使用为先的 AI 基础设施]]></title>
+        <id>https://cuiqingcai.com/3284063.html</id>
+        <link href="https://cuiqingcai.com/3284063.html"/>
+        <updated>2026-08-09T06:01:03.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="摘要-概览"><a href="#摘要-概览" class="headerlink" title="摘要 / 概览"></a>摘要 / 概览</h2>
+<p>Ace Data Cloud 是一个以使用为先的 AI 基础设施平台，旨在支持真实的生产级 AI 系统。它]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用地标改进 A star 寻路的启发函数]]></title>
+        <id>https://blog.codingnow.com/2026/08/improved_a_star_heuristics.html</id>
+        <link href="https://blog.codingnow.com/2026/08/improved_a_star_heuristics.html"/>
+        <updated>2026-08-09T01:17:32.000Z</updated>
+        <summary type="html"><![CDATA[今天读到 redblobgames 写的关于如何改进寻路算法中启发式函数的文章 ，感觉很棒。我们可以用很简单的方法改进 A star 算法中的传统计算欧氏距离的方式实现启发函数的方法。 这意味着，可以直接利用之前写好的寻路模块 改变一下启发函数，就可以大幅提升性能。...]]></summary>
+        <author>
+            <name>云风的 BLOG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Codex CLI 对接 Luma MCP]]></title>
+        <id>https://cuiqingcai.com/3248555.html</id>
+        <link href="https://cuiqingcai.com/3248555.html"/>
+        <updated>2026-08-08T20:09:15.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+  <p>📘 <strong>完整指南</strong>：<a href="https://platform.acedata.cloud/documents/codex-mcp-all" target="_blank" rel="noopener">在]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人脸静态活体检测（高精度版） API 对接说明]]></title>
         <id>https://cuiqingcai.com/3162073.html</id>
@@ -230,16 +262,6 @@
 <div class="table-container">
   <table>
     <thead>]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X402 TypeScript SDK 接入教程]]></title>
-        <id>https://cuiqingcai.com/3042392.html</id>
-        <link href="https://cuiqingcai.com/3042392.html"/>
-        <updated>2026-07-25T21:06:32.000Z</updated>
-        <summary type="html"><![CDATA[<p>TypeScript 是接入 Ace Data Cloud X402 最推荐的方式之一。官方 SDK 负责普通 API 调用、任务轮询、错误处理和自动重试；<code>@acedatacloud/x402-client</code> 负责在遇到 <code>402 Paym]]></summary>
         <author>
             <name>静觅</name>
         </author>

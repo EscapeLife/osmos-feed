@@ -122,6 +122,26 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3370258.html",
+          "author": null,
+          "description": "<p><a href=\"https://lobehub.com/\" target=\"_blank\" rel=\"noopener\">LobeChat</a> 是一款开源 AI 客户端，主打「现代化 UI + 插件生态 + 知识库 + 一键自部署」。你可以使用官方在线版（PWA），也",
+          "link": "https://cuiqingcai.com/3370258.html",
+          "publishedOn": "2026-08-10T05:57:38.000Z",
+          "wordCount": 1490,
+          "title": "在 LobeChat 中使用 Ace Data Cloud",
+          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
+        },
+        {
+          "id": "https://cuiqingcai.com/3334341.html",
+          "author": null,
+          "description": "<p>Ace Data Cloud 提供 TypeScript / Python / Go 三种语言的官方客户端 SDK，把 <code>api.acedata.cloud</code> 上的 chat completions、images、video、music、search、",
+          "link": "https://cuiqingcai.com/3334341.html",
+          "publishedOn": "2026-08-09T19:59:01.000Z",
+          "wordCount": 1729,
+          "title": "Ace Data Cloud SDK 总览",
+          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
+        },
+        {
           "id": "https://cuiqingcai.com/3284063.html",
           "author": null,
           "description": "<h2 id=\"摘要-概览\"><a href=\"#摘要-概览\" class=\"headerlink\" title=\"摘要 / 概览\"></a>摘要 / 概览</h2>\n<p>Ace Data Cloud 是一个以使用为先的 AI 基础设施平台，旨在支持真实的生产级 AI 系统。它",
@@ -309,26 +329,6 @@
           "publishedOn": "2026-07-28T05:52:39.000Z",
           "wordCount": 1201,
           "title": "Producer 上传参考音频 API 对接说明",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3160560.html",
-          "author": null,
-          "description": "<p><a href=\"https://modelcontextprotocol.io\" target=\"_blank\" rel=\"noopener\">MCP（Model Context Protocol）</a> 是由 Anthropic 推出的模型上下文协议，允许 AI 模型",
-          "link": "https://cuiqingcai.com/3160560.html",
-          "publishedOn": "2026-07-27T05:56:00.000Z",
-          "wordCount": 1570,
-          "title": "Veo MCP 对接指南",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3128191.html",
-          "author": null,
-          "description": "<p>为 <code>Pending</code> 状态的订单获取支付链接 / 二维码 / 链上扣款指令，并发起实际扣款。</p>\n<p>不同支付方式的行为：</p>\n<div class=\"table-container\">\n  <table>\n    <thead>",
-          "link": "https://cuiqingcai.com/3128191.html",
-          "publishedOn": "2026-07-26T20:56:31.000Z",
-          "wordCount": 1499,
-          "title": "支付 AceDataCloud 平台订单",
           "imageUrl": null
         }
       ]

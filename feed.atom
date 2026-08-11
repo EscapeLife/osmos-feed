@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-08-10T01:09:17.723Z</updated>
+    <updated>2026-08-11T01:07:36.830Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[在 LobeChat 中使用 Ace Data Cloud]]></title>
+        <id>https://cuiqingcai.com/3370258.html</id>
+        <link href="https://cuiqingcai.com/3370258.html"/>
+        <updated>2026-08-10T05:57:38.000Z</updated>
+        <summary type="html"><![CDATA[<p><a href="https://lobehub.com/" target="_blank" rel="noopener">LobeChat</a> 是一款开源 AI 客户端，主打「现代化 UI + 插件生态 + 知识库 + 一键自部署」。你可以使用官方在线版（PWA），也]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ace Data Cloud SDK 总览]]></title>
+        <id>https://cuiqingcai.com/3334341.html</id>
+        <link href="https://cuiqingcai.com/3334341.html"/>
+        <updated>2026-08-09T19:59:01.000Z</updated>
+        <summary type="html"><![CDATA[<p>Ace Data Cloud 提供 TypeScript / Python / Go 三种语言的官方客户端 SDK，把 <code>api.acedata.cloud</code> 上的 chat completions、images、video、music、search、]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ace Data Cloud — 面向真实系统的以使用为先的 AI 基础设施]]></title>
         <id>https://cuiqingcai.com/3284063.html</id>
@@ -238,30 +258,6 @@
         <summary type="html"><![CDATA[<p>Producer 允许我们上传参考音频进行二次创作，本文档讲解相关 API 的对接方法。</p>
 <p>该 API 只有一个输入参数，就是 <code>audio_url</code>，它是一个可以公开访问的 CDN 地址，支持 mp3 后缀。</p>
 <p>这里我们输入的]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Veo MCP 对接指南]]></title>
-        <id>https://cuiqingcai.com/3160560.html</id>
-        <link href="https://cuiqingcai.com/3160560.html"/>
-        <updated>2026-07-27T05:56:00.000Z</updated>
-        <summary type="html"><![CDATA[<p><a href="https://modelcontextprotocol.io" target="_blank" rel="noopener">MCP（Model Context Protocol）</a> 是由 Anthropic 推出的模型上下文协议，允许 AI 模型]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[支付 AceDataCloud 平台订单]]></title>
-        <id>https://cuiqingcai.com/3128191.html</id>
-        <link href="https://cuiqingcai.com/3128191.html"/>
-        <updated>2026-07-26T20:56:31.000Z</updated>
-        <summary type="html"><![CDATA[<p>为 <code>Pending</code> 状态的订单获取支付链接 / 二维码 / 链上扣款指令，并发起实际扣款。</p>
-<p>不同支付方式的行为：</p>
-<div class="table-container">
-  <table>
-    <thead>]]></summary>
         <author>
             <name>静觅</name>
         </author>

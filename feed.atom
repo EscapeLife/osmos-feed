@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-08-11T01:07:36.830Z</updated>
+    <updated>2026-08-12T01:15:22.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Producer Audios Generation API 对接说明]]></title>
+        <id>https://cuiqingcai.com/3455383.html</id>
+        <link href="https://cuiqingcai.com/3455383.html"/>
+        <updated>2026-08-11T05:36:23.000Z</updated>
+        <summary type="html"><![CDATA[<p>本文将介绍一种 Producer Audios Generation API 对接说明，它是可以通过输入自定义参数来生成 Producer 官方的音乐。</p>
+<h2 id="申请流程"><a href="#申请流程" class="headerlink" title="]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude 接入 AceData Cloud MCP 总览]]></title>
+        <id>https://cuiqingcai.com/3421713.html</id>
+        <link href="https://cuiqingcai.com/3421713.html"/>
+        <updated>2026-08-10T20:15:13.000Z</updated>
+        <summary type="html"><![CDATA[<p>你是不是也想在 Claude 里直接完成更多创作任务：一句话生成一首歌，让 Claude 根据歌词继续做封面图；让它把产品图变成短视频；边聊天边搜索网页资料；最后把分享链接压成短链。</p>
+<p>Claude 本身擅长理解需求、拆解任务和组织上下文，但音乐、图片、视频、搜]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在 LobeChat 中使用 Ace Data Cloud]]></title>
         <id>https://cuiqingcai.com/3370258.html</id>
@@ -246,18 +268,6 @@
         <summary type="html"><![CDATA[<p>Riffusion 允许我们上传参考音频进行二次创作，本文档讲解相关 API 的对接方法。</p>
 <p>该 API 只有一个输入参数，就是 <code>audio_url</code>，它是一个可以公开访问的 CDN 地址，支持 mp3 后缀。</p>
 <p>这里我们输入]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Producer 上传参考音频 API 对接说明]]></title>
-        <id>https://cuiqingcai.com/3246759.html</id>
-        <link href="https://cuiqingcai.com/3246759.html"/>
-        <updated>2026-07-28T05:52:39.000Z</updated>
-        <summary type="html"><![CDATA[<p>Producer 允许我们上传参考音频进行二次创作，本文档讲解相关 API 的对接方法。</p>
-<p>该 API 只有一个输入参数，就是 <code>audio_url</code>，它是一个可以公开访问的 CDN 地址，支持 mp3 后缀。</p>
-<p>这里我们输入的]]></summary>
         <author>
             <name>静觅</name>
         </author>

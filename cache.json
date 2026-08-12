@@ -122,6 +122,26 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3455383.html",
+          "author": null,
+          "description": "<p>本文将介绍一种 Producer Audios Generation API 对接说明，它是可以通过输入自定义参数来生成 Producer 官方的音乐。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title=\"",
+          "link": "https://cuiqingcai.com/3455383.html",
+          "publishedOn": "2026-08-11T05:36:23.000Z",
+          "wordCount": 4165,
+          "title": "Producer Audios Generation API 对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
+        },
+        {
+          "id": "https://cuiqingcai.com/3421713.html",
+          "author": null,
+          "description": "<p>你是不是也想在 Claude 里直接完成更多创作任务：一句话生成一首歌，让 Claude 根据歌词继续做封面图；让它把产品图变成短视频；边聊天边搜索网页资料；最后把分享链接压成短链。</p>\n<p>Claude 本身擅长理解需求、拆解任务和组织上下文，但音乐、图片、视频、搜",
+          "link": "https://cuiqingcai.com/3421713.html",
+          "publishedOn": "2026-08-10T20:15:13.000Z",
+          "wordCount": 1622,
+          "title": "Claude 接入 AceData Cloud MCP 总览",
+          "imageUrl": "https://cdn.acedata.cloud/753f0a4d86.png"
+        },
+        {
           "id": "https://cuiqingcai.com/3370258.html",
           "author": null,
           "description": "<p><a href=\"https://lobehub.com/\" target=\"_blank\" rel=\"noopener\">LobeChat</a> 是一款开源 AI 客户端，主打「现代化 UI + 插件生态 + 知识库 + 一键自部署」。你可以使用官方在线版（PWA），也",
@@ -319,16 +339,6 @@
           "publishedOn": "2026-07-28T21:01:27.000Z",
           "wordCount": 1195,
           "title": "Riffusion 上传参考音频 API 对接说明",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3246759.html",
-          "author": null,
-          "description": "<p>Producer 允许我们上传参考音频进行二次创作，本文档讲解相关 API 的对接方法。</p>\n<p>该 API 只有一个输入参数，就是 <code>audio_url</code>，它是一个可以公开访问的 CDN 地址，支持 mp3 后缀。</p>\n<p>这里我们输入的",
-          "link": "https://cuiqingcai.com/3246759.html",
-          "publishedOn": "2026-07-28T05:52:39.000Z",
-          "wordCount": 1201,
-          "title": "Producer 上传参考音频 API 对接说明",
           "imageUrl": null
         }
       ]

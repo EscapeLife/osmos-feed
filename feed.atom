@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-08-12T01:15:22.046Z</updated>
+    <updated>2026-08-13T01:17:05.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Discord Agent Proxy 使用文档]]></title>
+        <id>https://cuiqingcai.com/3506460.html</id>
+        <link href="https://cuiqingcai.com/3506460.html"/>
+        <updated>2026-08-11T19:47:40.000Z</updated>
+        <summary type="html"><![CDATA[<p>Discord Agent Proxy 是一个<strong>独立部署</strong>的服务：它保管你自己的 Discord 账号凭据，与 Discord 保持一条常驻连接，并把这个账号的能力通过 <strong>MCP</strong> 和 <strong>REST A]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Producer Audios Generation API 对接说明]]></title>
         <id>https://cuiqingcai.com/3455383.html</id>
@@ -246,28 +256,6 @@
         <summary type="html"><![CDATA[<p>本文档主要介绍 Ace Data Cloud 全球代理的对接说明，包括申请方法、实用方法等具体内容。</p>
 <h2 id="申请方法"><a href="#申请方法" class="headerlink" title="申请方法"></a>申请方法</h2>
 <p>要使用]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在 LibreChat 中使用 Ace Data Cloud]]></title>
-        <id>https://cuiqingcai.com/3333273.html</id>
-        <link href="https://cuiqingcai.com/3333273.html"/>
-        <updated>2026-07-29T05:54:33.000Z</updated>
-        <summary type="html"><![CDATA[<p><a href="https://www.librechat.ai/" target="_blank" rel="noopener">LibreChat</a> 是一个高度可配置的开源 AI 客户端，在一个界面里复刻 ChatGPT 的完整体验，并加上多服务商支持与企业级配]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Riffusion 上传参考音频 API 对接说明]]></title>
-        <id>https://cuiqingcai.com/3301287.html</id>
-        <link href="https://cuiqingcai.com/3301287.html"/>
-        <updated>2026-07-28T21:01:27.000Z</updated>
-        <summary type="html"><![CDATA[<p>Riffusion 允许我们上传参考音频进行二次创作，本文档讲解相关 API 的对接方法。</p>
-<p>该 API 只有一个输入参数，就是 <code>audio_url</code>，它是一个可以公开访问的 CDN 地址，支持 mp3 后缀。</p>
-<p>这里我们输入]]></summary>
         <author>
             <name>静觅</name>
         </author>

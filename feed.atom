@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-08-13T01:17:05.916Z</updated>
+    <updated>2026-08-14T01:16:25.274Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html"/>
+        <updated>2026-08-13T23:54:49.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini Chat Completion API 申请及使用]]></title>
+        <id>https://cuiqingcai.com/3629341.html</id>
+        <link href="https://cuiqingcai.com/3629341.html"/>
+        <updated>2026-08-13T05:55:41.000Z</updated>
+        <summary type="html"><![CDATA[<p>Google Gemini 是一款非常强大的 AI 对话系统，只要输入提示词，就能在短短几秒内生成流畅自然的回复。Gemini 都能提供令人惊叹的智能协助，极大地提高了人类的工作效率和创造力。</p>
+<p>本文档主要介绍 Gemini Chat Completion AP]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用 Gemini + Nano Banana + Veo 搭一条内容生产线：从文案到图片再到视频]]></title>
+        <id>https://cuiqingcai.com/3595120.html</id>
+        <link href="https://cuiqingcai.com/3595120.html"/>
+        <updated>2026-08-12T20:25:20.000Z</updated>
+        <summary type="html"><![CDATA[<p>做内容的人都清楚，真正费时间的不是某一步，而是”串起来”这件事：想选题、写文案、配图、再剪一段视频，往往要在四五个工具之间来回搬运。</p>
+<p>这篇文章讲一件具体的事——用 Ace Data Cloud（<a href="https://api.acedata.clou]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Discord Agent Proxy 使用文档]]></title>
         <id>https://cuiqingcai.com/3506460.html</id>
@@ -244,18 +276,6 @@
         <updated>2026-07-30T20:20:59.000Z</updated>
         <summary type="html"><![CDATA[<p>做前端需要演示视频？写文档需要动态效果展示？现在你可以在 VS Code 里，用一句话让 GitHub Copilot 调用 Google Veo 生成高质量视频。不用切换窗口，不用学剪辑软件，聊天就能出片。</p>
 <h2 id="第-1-步：在-VS-Code-中搜索并]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球代理对接说明]]></title>
-        <id>https://cuiqingcai.com/3385951.html</id>
-        <link href="https://cuiqingcai.com/3385951.html"/>
-        <updated>2026-07-29T20:32:31.000Z</updated>
-        <summary type="html"><![CDATA[<p>本文档主要介绍 Ace Data Cloud 全球代理的对接说明，包括申请方法、实用方法等具体内容。</p>
-<h2 id="申请方法"><a href="#申请方法" class="headerlink" title="申请方法"></a>申请方法</h2>
-<p>要使用]]></summary>
         <author>
             <name>静觅</name>
         </author>

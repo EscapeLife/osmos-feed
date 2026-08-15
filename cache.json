@@ -36,16 +36,6 @@
           "wordCount": null,
           "title": "科技爱好者周刊（第 407 期）：国家为什么需要开源软件？",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html",
-          "publishedOn": "2026-07-31T00:08:55.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 406 期）：道可，道非，常道",
-          "imageUrl": null
         }
       ]
     },
@@ -131,6 +121,26 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3715700.html",
+          "author": null,
+          "description": "<blockquote>\n  <p>📘 <strong>Overview</strong>：<a href=\"https://platform.acedata.cloud/documents/cursor-mcp-all\" target=\"_blank\" rel=\"noopen",
+          "link": "https://cuiqingcai.com/3715700.html",
+          "publishedOn": "2026-08-14T05:55:00.000Z",
+          "wordCount": 1275,
+          "title": "Cursor 对接 Kling MCP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cuiqingcai.com/3680708.html",
+          "author": null,
+          "description": "<p>本文将介绍一种 Short URL API 对接说明 对接说明，它可将较长的URL转换为短的URL。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title=\"申请流程\"></a>申请流程</h2>\n<p>要使用",
+          "link": "https://cuiqingcai.com/3680708.html",
+          "publishedOn": "2026-08-13T20:11:48.000Z",
+          "wordCount": 1323,
+          "title": "Short URL API 对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
+        },
         {
           "id": "https://cuiqingcai.com/3629341.html",
           "author": null,
@@ -339,16 +349,6 @@
           "publishedOn": "2026-07-31T20:24:41.000Z",
           "wordCount": 1226,
           "title": "Suno Style API 对接说明",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3471659.html",
-          "author": null,
-          "description": "<p>做前端需要演示视频？写文档需要动态效果展示？现在你可以在 VS Code 里，用一句话让 GitHub Copilot 调用 Google Veo 生成高质量视频。不用切换窗口，不用学剪辑软件，聊天就能出片。</p>\n<h2 id=\"第-1-步：在-VS-Code-中搜索并",
-          "link": "https://cuiqingcai.com/3471659.html",
-          "publishedOn": "2026-07-30T20:20:59.000Z",
-          "wordCount": 1480,
-          "title": "VS Code + Veo MCP",
           "imageUrl": null
         }
       ]

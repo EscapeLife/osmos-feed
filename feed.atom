@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-08-14T01:16:25.274Z</updated>
+    <updated>2026-08-15T00:48:20.686Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cursor 对接 Kling MCP]]></title>
+        <id>https://cuiqingcai.com/3715700.html</id>
+        <link href="https://cuiqingcai.com/3715700.html"/>
+        <updated>2026-08-14T05:55:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+  <p>📘 <strong>Overview</strong>：<a href="https://platform.acedata.cloud/documents/cursor-mcp-all" target="_blank" rel="noopen]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html</id>
@@ -14,6 +25,18 @@
         <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Short URL API 对接说明]]></title>
+        <id>https://cuiqingcai.com/3680708.html</id>
+        <link href="https://cuiqingcai.com/3680708.html"/>
+        <updated>2026-08-13T20:11:48.000Z</updated>
+        <summary type="html"><![CDATA[<p>本文将介绍一种 Short URL API 对接说明 对接说明，它可将较长的URL转换为短的URL。</p>
+<h2 id="申请流程"><a href="#申请流程" class="headerlink" title="申请流程"></a>申请流程</h2>
+<p>要使用]]></summary>
+        <author>
+            <name>静觅</name>
         </author>
     </entry>
     <entry>
@@ -255,27 +278,6 @@
         <summary type="html"><![CDATA[<p>SUNO 允许我们输入提示词来生成增强歌曲的风格。本文档讲解相关 API 的对接方法。</p>
 <p>该 API 只有一个输入参数，就是 <code>prompt</code>，它是需要优化的风格提示词。</p>
 <p>这里我们输入的 <code>prompt</code>]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 406 期）：道可，道非，常道]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html"/>
-        <updated>2026-07-31T00:08:55.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VS Code + Veo MCP]]></title>
-        <id>https://cuiqingcai.com/3471659.html</id>
-        <link href="https://cuiqingcai.com/3471659.html"/>
-        <updated>2026-07-30T20:20:59.000Z</updated>
-        <summary type="html"><![CDATA[<p>做前端需要演示视频？写文档需要动态效果展示？现在你可以在 VS Code 里，用一句话让 GitHub Copilot 调用 Google Veo 生成高质量视频。不用切换窗口，不用学剪辑软件，聊天就能出片。</p>
-<h2 id="第-1-步：在-VS-Code-中搜索并]]></summary>
         <author>
             <name>静觅</name>
         </author>

@@ -122,6 +122,26 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3802744.html",
+          "author": null,
+          "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/gemini-cli-mcp-all\" target=\"_blank\" rel=\"noopen",
+          "link": "https://cuiqingcai.com/3802744.html",
+          "publishedOn": "2026-08-15T06:05:44.000Z",
+          "wordCount": 1255,
+          "title": "Gemini CLI 对接 Luma MCP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cuiqingcai.com/3765747.html",
+          "author": null,
+          "description": "<blockquote>\n  <p>📘 <strong>Overview</strong>：<a href=\"https://platform.acedata.cloud/documents/cursor-mcp-all\" target=\"_blank\" rel=\"noopen",
+          "link": "https://cuiqingcai.com/3765747.html",
+          "publishedOn": "2026-08-14T19:49:07.000Z",
+          "wordCount": 1280,
+          "title": "Cursor 对接 通义万相 Wan MCP",
+          "imageUrl": null
+        },
+        {
           "id": "https://cuiqingcai.com/3715700.html",
           "author": null,
           "description": "<blockquote>\n  <p>📘 <strong>Overview</strong>：<a href=\"https://platform.acedata.cloud/documents/cursor-mcp-all\" target=\"_blank\" rel=\"noopen",
@@ -339,16 +359,6 @@
           "publishedOn": "2026-08-01T20:17:04.000Z",
           "wordCount": 1693,
           "title": "接入「使用 Ace Data Cloud 登录」（OAuth 2.0）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3558281.html",
-          "author": null,
-          "description": "<p>SUNO 允许我们输入提示词来生成增强歌曲的风格。本文档讲解相关 API 的对接方法。</p>\n<p>该 API 只有一个输入参数，就是 <code>prompt</code>，它是需要优化的风格提示词。</p>\n<p>这里我们输入的 <code>prompt</code>",
-          "link": "https://cuiqingcai.com/3558281.html",
-          "publishedOn": "2026-07-31T20:24:41.000Z",
-          "wordCount": 1226,
-          "title": "Suno Style API 对接说明",
           "imageUrl": null
         }
       ]

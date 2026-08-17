@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-08-16T00:51:11.608Z</updated>
+    <updated>2026-08-17T00:49:28.998Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fish Model Query API 对接说明]]></title>
+        <id>https://cuiqingcai.com/3886290.html</id>
+        <link href="https://cuiqingcai.com/3886290.html"/>
+        <updated>2026-08-16T05:18:10.000Z</updated>
+        <summary type="html"><![CDATA[<p>本接口基于 <a href="https://docs.fish.audio/resources/api-reference/model" target="_blank" rel="noopener">Fish Audio 官方 Model API</a>，用于<stron]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google SERP API：用一次请求拿到结构化的搜索结果]]></title>
+        <id>https://cuiqingcai.com/3852769.html</id>
+        <link href="https://cuiqingcai.com/3852769.html"/>
+        <updated>2026-08-15T19:59:29.000Z</updated>
+        <summary type="html"><![CDATA[<p>很多需求的第一步其实是”搜一下”：做行业调研、监控关键词排名、给 AI Agent 喂实时资料、批量核实信息……但直接爬 Google 又麻烦又不稳定——要处理反爬、验证码、页面结构变化。</p>
+<p>Google SERP API 就是把这件事变简单：你传一个关键词，它]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gemini CLI 对接 Luma MCP]]></title>
         <id>https://cuiqingcai.com/3802744.html</id>
@@ -267,27 +288,6 @@
         <link href="https://cuiqingcai.com/3765269.html"/>
         <updated>2026-08-03T05:54:29.000Z</updated>
         <summary type="html"><![CDATA[<p>xAI Grok 是一款非常强大的 AI 对话系统，只要输入提示词，就能在短短几秒内生成流畅自然的回复。Grok 以其独特的幽默风格和实时网络信息获取能力在业界独树一帜，如今，Grok 已在多个创新领域崭露头角，其影响力正快速扩大。无论是日常对话、创意写作，还是技术分析、代]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flux Images Generation API 对接说明]]></title>
-        <id>https://cuiqingcai.com/3679589.html</id>
-        <link href="https://cuiqingcai.com/3679589.html"/>
-        <updated>2026-08-02T06:06:29.000Z</updated>
-        <summary type="html"><![CDATA[<p>本文将介绍一种 Flux Images Generation API 对接说明，它是可以通过输入自定义参数来生成 Flux 官方的图片。</p>
-<h2 id="申请流程"><a href="#申请流程" class="headerlink" title="申请流程"></]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[接入「使用 Ace Data Cloud 登录」（OAuth 2.0）]]></title>
-        <id>https://cuiqingcai.com/3644224.html</id>
-        <link href="https://cuiqingcai.com/3644224.html"/>
-        <updated>2026-08-01T20:17:04.000Z</updated>
-        <summary type="html"><![CDATA[<p>让你自己的产品支持「使用 Ace Data Cloud 登录」，并在用户授权后，<strong>代表用户</strong>读写其 Ace Data Cloud 资源（个人资料、API Token、订阅、用量、订单等）。底层是标准的 <strong>OAuth 2.0 授权码]]></summary>
         <author>
             <name>静觅</name>
         </author>

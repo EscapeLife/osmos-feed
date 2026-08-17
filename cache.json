@@ -122,6 +122,26 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3886290.html",
+          "author": null,
+          "description": "<p>本接口基于 <a href=\"https://docs.fish.audio/resources/api-reference/model\" target=\"_blank\" rel=\"noopener\">Fish Audio 官方 Model API</a>，用于<stron",
+          "link": "https://cuiqingcai.com/3886290.html",
+          "publishedOn": "2026-08-16T05:18:10.000Z",
+          "wordCount": 1674,
+          "title": "Fish Model Query API 对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
+        },
+        {
+          "id": "https://cuiqingcai.com/3852769.html",
+          "author": null,
+          "description": "<p>很多需求的第一步其实是”搜一下”：做行业调研、监控关键词排名、给 AI Agent 喂实时资料、批量核实信息……但直接爬 Google 又麻烦又不稳定——要处理反爬、验证码、页面结构变化。</p>\n<p>Google SERP API 就是把这件事变简单：你传一个关键词，它",
+          "link": "https://cuiqingcai.com/3852769.html",
+          "publishedOn": "2026-08-15T19:59:29.000Z",
+          "wordCount": 1350,
+          "title": "Google SERP API：用一次请求拿到结构化的搜索结果",
+          "imageUrl": null
+        },
+        {
           "id": "https://cuiqingcai.com/3802744.html",
           "author": null,
           "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/gemini-cli-mcp-all\" target=\"_blank\" rel=\"noopen",
@@ -340,26 +360,6 @@
           "wordCount": 2179,
           "title": "Grok Chat Completion API 申请及使用",
           "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3679589.html",
-          "author": null,
-          "description": "<p>本文将介绍一种 Flux Images Generation API 对接说明，它是可以通过输入自定义参数来生成 Flux 官方的图片。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title=\"申请流程\"></",
-          "link": "https://cuiqingcai.com/3679589.html",
-          "publishedOn": "2026-08-02T06:06:29.000Z",
-          "wordCount": 1574,
-          "title": "Flux Images Generation API 对接说明",
-          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3644224.html",
-          "author": null,
-          "description": "<p>让你自己的产品支持「使用 Ace Data Cloud 登录」，并在用户授权后，<strong>代表用户</strong>读写其 Ace Data Cloud 资源（个人资料、API Token、订阅、用量、订单等）。底层是标准的 <strong>OAuth 2.0 授权码",
-          "link": "https://cuiqingcai.com/3644224.html",
-          "publishedOn": "2026-08-01T20:17:04.000Z",
-          "wordCount": 1693,
-          "title": "接入「使用 Ace Data Cloud 登录」（OAuth 2.0）",
-          "imageUrl": null
         }
       ]
     },

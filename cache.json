@@ -122,6 +122,26 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3972929.html",
+          "author": null,
+          "description": "<p><a href=\"https://www.codebuddy.cn/workbuddy\" target=\"_blank\" rel=\"noopener\">WorkBuddy</a>（腾讯 CodeBuddy 家族的桌面 AI 工作台，别名「腾讯龙虾」）是一款面向办公场景的 A",
+          "link": "https://cuiqingcai.com/3972929.html",
+          "publishedOn": "2026-08-17T05:22:09.000Z",
+          "wordCount": 1423,
+          "title": "在 WorkBuddy 中使用 Ace Data Cloud",
+          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
+        },
+        {
+          "id": "https://cuiqingcai.com/3937034.html",
+          "author": null,
+          "description": "<p>Midjourney Describe API 的主要功能是通过上传图片，获取对图片的描述。使用该 API，只需要传递图片文件地址，API 会返回图片的详细描述。无需繁琐的参数设置，即可获得高质量的图片描述。</p>\n<p>支持多种图片格式：无论是 JPEG、PNG 还是",
+          "link": "https://cuiqingcai.com/3937034.html",
+          "publishedOn": "2026-08-16T19:23:54.000Z",
+          "wordCount": 1655,
+          "title": "Midjourney Describe API 的对接和使用",
+          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
+        },
+        {
           "id": "https://cuiqingcai.com/3886290.html",
           "author": null,
           "description": "<p>本接口基于 <a href=\"https://docs.fish.audio/resources/api-reference/model\" target=\"_blank\" rel=\"noopener\">Fish Audio 官方 Model API</a>，用于<stron",
@@ -350,16 +370,6 @@
           "wordCount": 1593,
           "title": "X402 集成指南",
           "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3765269.html",
-          "author": null,
-          "description": "<p>xAI Grok 是一款非常强大的 AI 对话系统，只要输入提示词，就能在短短几秒内生成流畅自然的回复。Grok 以其独特的幽默风格和实时网络信息获取能力在业界独树一帜，如今，Grok 已在多个创新领域崭露头角，其影响力正快速扩大。无论是日常对话、创意写作，还是技术分析、代",
-          "link": "https://cuiqingcai.com/3765269.html",
-          "publishedOn": "2026-08-03T05:54:29.000Z",
-          "wordCount": 2179,
-          "title": "Grok Chat Completion API 申请及使用",
-          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
         }
       ]
     },

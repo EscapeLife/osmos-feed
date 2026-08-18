@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-08-17T00:49:28.998Z</updated>
+    <updated>2026-08-18T00:47:15.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[在 WorkBuddy 中使用 Ace Data Cloud]]></title>
+        <id>https://cuiqingcai.com/3972929.html</id>
+        <link href="https://cuiqingcai.com/3972929.html"/>
+        <updated>2026-08-17T05:22:09.000Z</updated>
+        <summary type="html"><![CDATA[<p><a href="https://www.codebuddy.cn/workbuddy" target="_blank" rel="noopener">WorkBuddy</a>（腾讯 CodeBuddy 家族的桌面 AI 工作台，别名「腾讯龙虾」）是一款面向办公场景的 A]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Midjourney Describe API 的对接和使用]]></title>
+        <id>https://cuiqingcai.com/3937034.html</id>
+        <link href="https://cuiqingcai.com/3937034.html"/>
+        <updated>2026-08-16T19:23:54.000Z</updated>
+        <summary type="html"><![CDATA[<p>Midjourney Describe API 的主要功能是通过上传图片，获取对图片的描述。使用该 API，只需要传递图片文件地址，API 会返回图片的详细描述。无需繁琐的参数设置，即可获得高质量的图片描述。</p>
+<p>支持多种图片格式：无论是 JPEG、PNG 还是]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fish Model Query API 对接说明]]></title>
         <id>https://cuiqingcai.com/3886290.html</id>
@@ -278,16 +299,6 @@
         <link href="https://cuiqingcai.com/3817301.html"/>
         <updated>2026-08-03T20:21:41.000Z</updated>
         <summary type="html"><![CDATA[<p>X402 是基于 HTTP <code>402 Payment Required</code> 的链上支付协议。通过 Ace Data Cloud 的 X402 能力，调用方可以不创建 API Token、不预充值账户余额，而是在每一次 API 请求中直接用 USDC 完成]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grok Chat Completion API 申请及使用]]></title>
-        <id>https://cuiqingcai.com/3765269.html</id>
-        <link href="https://cuiqingcai.com/3765269.html"/>
-        <updated>2026-08-03T05:54:29.000Z</updated>
-        <summary type="html"><![CDATA[<p>xAI Grok 是一款非常强大的 AI 对话系统，只要输入提示词，就能在短短几秒内生成流畅自然的回复。Grok 以其独特的幽默风格和实时网络信息获取能力在业界独树一帜，如今，Grok 已在多个创新领域崭露头角，其影响力正快速扩大。无论是日常对话、创意写作，还是技术分析、代]]></summary>
         <author>
             <name>静觅</name>
         </author>

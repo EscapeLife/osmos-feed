@@ -122,6 +122,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3024567.html",
+          "author": null,
+          "description": "<p><img src=\"https://cdn.acedata.cloud/6c213cb0a2.png\" alt=\"在决策者面前，用专业内容把品牌立起来\"></p>\n<p>LinkedIn 是全球最大的职业社交平台。它的用户画像和小红书、B 站完全不同——这里是<strong",
+          "link": "https://cuiqingcai.com/3024567.html",
+          "publishedOn": "2026-08-17T19:42:47.000Z",
+          "wordCount": 1299,
+          "title": "在 LinkedIn 发动态：面向专业人群和 B 端的内容营销",
+          "imageUrl": "https://cdn.acedata.cloud/6c213cb0a2.png"
+        },
+        {
           "id": "https://cuiqingcai.com/3972929.html",
           "author": null,
           "description": "<p><a href=\"https://www.codebuddy.cn/workbuddy\" target=\"_blank\" rel=\"noopener\">WorkBuddy</a>（腾讯 CodeBuddy 家族的桌面 AI 工作台，别名「腾讯龙虾」）是一款面向办公场景的 A",
@@ -350,26 +360,6 @@
           "wordCount": 1553,
           "title": "OpenCode 对接 Flux MCP",
           "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3852127.html",
-          "author": null,
-          "description": "<p><a href=\"https://pkg.go.dev/github.com/AceDataCloud/SDK/go\" target=\"_blank\" rel=\"noopener\"><code>github.com/AceDataCloud/SDK/go</code></a",
-          "link": "https://cuiqingcai.com/3852127.html",
-          "publishedOn": "2026-08-04T06:02:07.000Z",
-          "wordCount": 1856,
-          "title": "Go SDK 接入教程",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3817301.html",
-          "author": null,
-          "description": "<p>X402 是基于 HTTP <code>402 Payment Required</code> 的链上支付协议。通过 Ace Data Cloud 的 X402 能力，调用方可以不创建 API Token、不预充值账户余额，而是在每一次 API 请求中直接用 USDC 完成",
-          "link": "https://cuiqingcai.com/3817301.html",
-          "publishedOn": "2026-08-03T20:21:41.000Z",
-          "wordCount": 1593,
-          "title": "X402 集成指南",
-          "imageUrl": null
         }
       ]
     },

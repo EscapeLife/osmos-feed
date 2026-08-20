@@ -55,7 +55,18 @@
       "title": "卡瓦邦噶！",
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.kawabangga.com/?p=7276",
+          "author": "laixintao",
+          "description": "ICMP 一直是我最喜欢的协议，在没有机器/设备的登录权限的时候，ICMP (ping) 可以让我在 debu […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/7276",
+          "publishedOn": "2026-08-19T14:27:00.000Z",
+          "wordCount": 1871,
+          "title": "Traceroute the World",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Manjusaka",
@@ -121,6 +132,16 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3110402.html",
+          "author": null,
+          "description": "<p>Aider 通过 LiteLLM 的 <code>openai/</code> 模型前缀连接 OpenAI-compatible API。</p>\n<h2 id=\"配置\"><a href=\"#配置\" class=\"headerlink\" title=\"配置\"></a>配置<",
+          "link": "https://cuiqingcai.com/3110402.html",
+          "publishedOn": "2026-08-18T19:33:22.000Z",
+          "wordCount": 1179,
+          "title": "Aider CLI 自定义模型配置",
+          "imageUrl": null
+        },
         {
           "id": "https://cuiqingcai.com/3024567.html",
           "author": null,
@@ -339,26 +360,6 @@
           "publishedOn": "2026-08-05T20:37:10.000Z",
           "wordCount": 1331,
           "title": "人脸美颜 API 对接说明",
-          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3939750.html",
-          "author": null,
-          "description": "<p>Maestro 是一个 <strong>Agent 原生</strong>的视频生产接口：你用一句自然语言 <code>prompt</code> 描述想要的视频（可选地用 <code>file_urls</code> 附上参考图片 / 视频 / 音频），一个无头的「AI",
-          "link": "https://cuiqingcai.com/3939750.html",
-          "publishedOn": "2026-08-05T06:22:30.000Z",
-          "wordCount": 1847,
-          "title": "Maestro 视频生成 API 对接说明",
-          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3904908.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>📘 <strong>Overview</strong>：<a href=\"https://platform.acedata.cloud/documents/opencode-mcp-all\" target=\"_blank\" rel=\"noop",
-          "link": "https://cuiqingcai.com/3904908.html",
-          "publishedOn": "2026-08-04T20:41:48.000Z",
-          "wordCount": 1553,
-          "title": "OpenCode 对接 Flux MCP",
           "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
         }
       ]

@@ -18,6 +18,16 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html",
+          "publishedOn": "2026-08-20T23:53:54.000Z",
+          "wordCount": null,
+          "title": "科技爱好者周刊（第 409 期）：程序员的职业未来",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
@@ -110,6 +120,16 @@
       "siteUrl": "https://blog.codingnow.com/",
       "articles": [
         {
+          "id": "https://blog.codingnow.com/2026/08/rftg_strategy.html",
+          "author": null,
+          "description": "银河竞逐是我最喜欢的桌游之一。我曾经为它写过两篇 blog ：银河竞逐的设计 及 如何教人玩银河竞逐 。 最近我教会了小孩玩这个游戏，我自己也在电脑上玩了 200 多盘。主要是在 BGA 上和人对战，以及在官方授权的电子版 中挑战最高难度的 AI 。和过去喜欢多人混战不同，这段时间我主要玩双人规则。虽然在线下，我玩这个游戏的水平超过一般桌游玩家，但在线上，我只有略高于 40% 的胜率。说明这个游戏的策略还有很高的天花板我没能摸到。和最高难度的 AI 相比，我的胜率超过了 50% 。 这是为数不多有着极深的策略，却又超快节奏的桌游。在 BGA 上默认只给两个选手各 3 分钟的总时间，通常在 5~6 分钟就可以完成一局游戏。应了它名字里的 Race ，玩起来颇有竞速的感觉。我在游戏过程中总是觉得思考时间不够，如果纯凭借经验（感觉）打牌，很容易输掉。特别在最后两个回合，往往需要精算自己和对手的各种可能性，找到取胜的可能。胜负比分通常差距非常小，运气成分虽然存在，但总有希望通过计算挽回。而判断上的一个小的失误却会迅速落下对手一大截。 这个游戏核心目标就是：在触碰结束条件的那一刻，比对手拿到更多的 VP 。新手则往往理解成单一的如何更高效的获取 VP 。这两者是有区别的。因为比拼获取 VP 的效率往往会减少 PvP 游戏的对抗性，变成埋头干自己的事情。初玩 RFTG 的时候，我也一度觉得这是个对抗性不强的游戏。但在实战中却发现，必须时刻关注对手在做什么。首先是通过判断对手的行动，帮助自己更高效的获取...",
+          "link": "https://blog.codingnow.com/2026/08/rftg_strategy.html",
+          "publishedOn": "2026-08-20T12:01:10.000Z",
+          "wordCount": 148,
+          "title": "银河竞逐的乐趣和策略",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.codingnow.com/2026/08/improved_a_star_heuristics.html",
           "author": null,
           "description": "今天读到 redblobgames 写的关于如何改进寻路算法中启发式函数的文章 ，感觉很棒。我们可以用很简单的方法改进 A star 算法中的传统计算欧氏距离的方式实现启发函数的方法。 这意味着，可以直接利用之前写好的寻路模块 改变一下启发函数，就可以大幅提升性能。...",
@@ -132,6 +152,16 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3199374.html",
+          "author": null,
+          "description": "<p><img src=\"https://cdn.acedata.cloud/9a16560455.png\" alt=\"公众号是你在中文世界唯一真正「拥有」的流量池\"></p>\n<p>在中文世界，微信公众号有个别的平台都替代不了的价值——<strong>它是「私域」。</stro",
+          "link": "https://cuiqingcai.com/3199374.html",
+          "publishedOn": "2026-08-19T20:16:14.000Z",
+          "wordCount": 1274,
+          "title": "在微信公众号发图文：经营你自己的私域流量池",
+          "imageUrl": "https://cdn.acedata.cloud/9a16560455.png"
+        },
         {
           "id": "https://cuiqingcai.com/3110402.html",
           "author": null,
@@ -341,26 +371,6 @@
           "wordCount": 1574,
           "title": "Claude 对接 Seedream MCP",
           "imageUrl": "https://cdn.acedata.cloud/4c05821aab.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/3024869.html",
-          "author": null,
-          "description": "<p><a href=\"https://modelcontextprotocol.io\" target=\"_blank\" rel=\"noopener\">MCP（Model Context Protocol）</a> 是由 Anthropic 推出的模型上下文协议，允许 AI 模型",
-          "link": "https://cuiqingcai.com/3024869.html",
-          "publishedOn": "2026-08-06T06:01:09.000Z",
-          "wordCount": 1560,
-          "title": "Nano Banana MCP 对接指南",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3991030.html",
-          "author": null,
-          "description": "<p>本文将介绍一种 人脸美颜 API 对接说明，它可以通过用户上传一张人脸图片（最多能处理一张图片中最大的五张人脸信息），精准定位五官，实现美肤、亮肤、祛痘等美颜功能。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" t",
-          "link": "https://cuiqingcai.com/3991030.html",
-          "publishedOn": "2026-08-05T20:37:10.000Z",
-          "wordCount": 1331,
-          "title": "人脸美颜 API 对接说明",
-          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
         }
       ]
     },

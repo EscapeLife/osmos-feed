@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-08-21T00:52:26.157Z</updated>
+    <updated>2026-08-22T00:48:02.117Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在 Open WebUI 中使用 Ace Data Cloud]]></title>
+        <id>https://cuiqingcai.com/3285238.html</id>
+        <link href="https://cuiqingcai.com/3285238.html"/>
+        <updated>2026-08-20T20:07:18.000Z</updated>
+        <summary type="html"><![CDATA[<p><a href="https://openwebui.com/" target="_blank" rel="noopener">Open WebUI</a>（原 Ollama WebUI）是一个面向团队 / 企业场景的开源 AI 客户端，原生支持多用户与 RBAC、知识库与]]></summary>
+        <author>
+            <name>静觅</name>
         </author>
     </entry>
     <entry>
@@ -280,27 +290,6 @@ Continue reading...]]></summary>
         <updated>2026-08-07T20:07:53.000Z</updated>
         <summary type="html"><![CDATA[<p>本文将介绍人脸静态活体检测（高精度版）API 对接说明，它可用于对用户上传的静态图片进行防翻拍活体检测，以判断是否是翻拍图片。</p>
 <h2 id="申请流程"><a href="#申请流程" class="headerlink" title="申请流程"></a>申请流]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 407 期）：国家为什么需要开源软件？]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html"/>
-        <updated>2026-08-07T00:08:27.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude 对接 Seedream MCP]]></title>
-        <id>https://cuiqingcai.com/3077191.html</id>
-        <link href="https://cuiqingcai.com/3077191.html"/>
-        <updated>2026-08-06T20:33:11.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-  <p>📘 <strong>总览指南</strong>：<a href="https://platform.acedata.cloud/documents/claude-desktop-mcp-all" target="_blank" rel="no]]></summary>
         <author>
             <name>静觅</name>
         </author>

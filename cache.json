@@ -36,16 +36,6 @@
           "wordCount": null,
           "title": "科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html",
-          "publishedOn": "2026-08-07T00:08:27.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 407 期）：国家为什么需要开源软件？",
-          "imageUrl": null
         }
       ]
     },
@@ -152,6 +142,16 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3285238.html",
+          "author": null,
+          "description": "<p><a href=\"https://openwebui.com/\" target=\"_blank\" rel=\"noopener\">Open WebUI</a>（原 Ollama WebUI）是一个面向团队 / 企业场景的开源 AI 客户端，原生支持多用户与 RBAC、知识库与",
+          "link": "https://cuiqingcai.com/3285238.html",
+          "publishedOn": "2026-08-20T20:07:18.000Z",
+          "wordCount": 1502,
+          "title": "在 Open WebUI 中使用 Ace Data Cloud",
+          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
+        },
         {
           "id": "https://cuiqingcai.com/3199374.html",
           "author": null,
@@ -361,16 +361,6 @@
           "wordCount": 1309,
           "title": "人脸静态活体检测（高精度版） API 对接说明",
           "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3077191.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>📘 <strong>总览指南</strong>：<a href=\"https://platform.acedata.cloud/documents/claude-desktop-mcp-all\" target=\"_blank\" rel=\"no",
-          "link": "https://cuiqingcai.com/3077191.html",
-          "publishedOn": "2026-08-06T20:33:11.000Z",
-          "wordCount": 1574,
-          "title": "Claude 对接 Seedream MCP",
-          "imageUrl": "https://cdn.acedata.cloud/4c05821aab.png"
         }
       ]
     },

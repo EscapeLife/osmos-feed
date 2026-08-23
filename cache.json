@@ -143,6 +143,26 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3406608.html",
+          "author": null,
+          "description": "<p>Kilo Code 的 JetBrains 插件使用同一套 <code>kilo.jsonc</code> Provider 格式。配置必须位于实际运行插件的用户环境；Remote Development 时通常是远程 backend 主机。</p>\n<h2 id=\"Pro",
+          "link": "https://cuiqingcai.com/3406608.html",
+          "publishedOn": "2026-08-22T05:50:08.000Z",
+          "wordCount": 1203,
+          "title": "Kilo Code for JetBrains 自定义模型配置",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cuiqingcai.com/3371394.html",
+          "author": null,
+          "description": "<blockquote>\n  <p>📘 <strong>Overview</strong>：<a href=\"https://platform.acedata.cloud/documents/claude-code-mcp-all\" target=\"_blank\" rel=\"n",
+          "link": "https://cuiqingcai.com/3371394.html",
+          "publishedOn": "2026-08-21T20:03:14.000Z",
+          "wordCount": 1482,
+          "title": "Claude Code 对接 Suno MCP",
+          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
+        },
+        {
           "id": "https://cuiqingcai.com/3285238.html",
           "author": null,
           "description": "<p><a href=\"https://openwebui.com/\" target=\"_blank\" rel=\"noopener\">Open WebUI</a>（原 Ollama WebUI）是一个面向团队 / 企业场景的开源 AI 客户端，原生支持多用户与 RBAC、知识库与",
@@ -351,16 +371,6 @@
           "wordCount": 1241,
           "title": "Codex CLI 对接 Luma MCP",
           "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3162073.html",
-          "author": null,
-          "description": "<p>本文将介绍人脸静态活体检测（高精度版）API 对接说明，它可用于对用户上传的静态图片进行防翻拍活体检测，以判断是否是翻拍图片。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title=\"申请流程\"></a>申请流",
-          "link": "https://cuiqingcai.com/3162073.html",
-          "publishedOn": "2026-08-07T20:07:53.000Z",
-          "wordCount": 1309,
-          "title": "人脸静态活体检测（高精度版） API 对接说明",
-          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
         }
       ]
     },

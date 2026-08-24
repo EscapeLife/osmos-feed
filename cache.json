@@ -118,16 +118,6 @@
           "wordCount": 148,
           "title": "银河竞逐的乐趣和策略",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.codingnow.com/2026/08/improved_a_star_heuristics.html",
-          "author": null,
-          "description": "今天读到 redblobgames 写的关于如何改进寻路算法中启发式函数的文章 ，感觉很棒。我们可以用很简单的方法改进 A star 算法中的传统计算欧氏距离的方式实现启发函数的方法。 这意味着，可以直接利用之前写好的寻路模块 改变一下启发函数，就可以大幅提升性能。...",
-          "link": "https://blog.codingnow.com/2026/08/improved_a_star_heuristics.html",
-          "publishedOn": "2026-08-09T01:17:32.000Z",
-          "wordCount": 128,
-          "title": "用地标改进 A star 寻路的启发函数",
-          "imageUrl": null
         }
       ]
     },
@@ -142,6 +132,16 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3456720.html",
+          "author": null,
+          "description": "<p>Producer 允许我们下载歌曲相关的视频，本文档讲解相关 API 的对接方法。</p>\n<p>该 API 只有一个输入参数，就是 <code>audio_id</code>，它是歌曲唯一的ID。</p>\n<p>这里我们输入的 <code>audio_id</code>",
+          "link": "https://cuiqingcai.com/3456720.html",
+          "publishedOn": "2026-08-22T19:45:20.000Z",
+          "wordCount": 1171,
+          "title": "Producer 下载视频 API 对接说明",
+          "imageUrl": null
+        },
         {
           "id": "https://cuiqingcai.com/3406608.html",
           "author": null,
@@ -351,26 +351,6 @@
           "wordCount": 1729,
           "title": "Ace Data Cloud SDK 总览",
           "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3284063.html",
-          "author": null,
-          "description": "<h2 id=\"摘要-概览\"><a href=\"#摘要-概览\" class=\"headerlink\" title=\"摘要 / 概览\"></a>摘要 / 概览</h2>\n<p>Ace Data Cloud 是一个以使用为先的 AI 基础设施平台，旨在支持真实的生产级 AI 系统。它",
-          "link": "https://cuiqingcai.com/3284063.html",
-          "publishedOn": "2026-08-09T06:01:03.000Z",
-          "wordCount": 1473,
-          "title": "Ace Data Cloud — 面向真实系统的以使用为先的 AI 基础设施",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3248555.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/codex-mcp-all\" target=\"_blank\" rel=\"noopener\">在",
-          "link": "https://cuiqingcai.com/3248555.html",
-          "publishedOn": "2026-08-08T20:09:15.000Z",
-          "wordCount": 1241,
-          "title": "Codex CLI 对接 Luma MCP",
-          "imageUrl": null
         }
       ]
     },

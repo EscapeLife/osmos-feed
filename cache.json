@@ -133,6 +133,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3579460.html",
+          "author": null,
+          "description": "<p>本文将介绍一种 Kling Motion Generation API 对接说明，它是可以通过输入自定义参数来生成Kling官方的视频。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title=\"申请流程\"></",
+          "link": "https://cuiqingcai.com/3579460.html",
+          "publishedOn": "2026-08-24T05:51:00.000Z",
+          "wordCount": 1435,
+          "title": "Kling Motion Generation API 对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/dvc3cg.jpg"
+        },
+        {
           "id": "https://cuiqingcai.com/3456720.html",
           "author": null,
           "description": "<p>Producer 允许我们下载歌曲相关的视频，本文档讲解相关 API 的对接方法。</p>\n<p>该 API 只有一个输入参数，就是 <code>audio_id</code>，它是歌曲唯一的ID。</p>\n<p>这里我们输入的 <code>audio_id</code>",
@@ -331,26 +341,6 @@
           "wordCount": 1622,
           "title": "Claude 接入 AceData Cloud MCP 总览",
           "imageUrl": "https://cdn.acedata.cloud/753f0a4d86.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/3370258.html",
-          "author": null,
-          "description": "<p><a href=\"https://lobehub.com/\" target=\"_blank\" rel=\"noopener\">LobeChat</a> 是一款开源 AI 客户端，主打「现代化 UI + 插件生态 + 知识库 + 一键自部署」。你可以使用官方在线版（PWA），也",
-          "link": "https://cuiqingcai.com/3370258.html",
-          "publishedOn": "2026-08-10T05:57:38.000Z",
-          "wordCount": 1490,
-          "title": "在 LobeChat 中使用 Ace Data Cloud",
-          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3334341.html",
-          "author": null,
-          "description": "<p>Ace Data Cloud 提供 TypeScript / Python / Go 三种语言的官方客户端 SDK，把 <code>api.acedata.cloud</code> 上的 chat completions、images、video、music、search、",
-          "link": "https://cuiqingcai.com/3334341.html",
-          "publishedOn": "2026-08-09T19:59:01.000Z",
-          "wordCount": 1729,
-          "title": "Ace Data Cloud SDK 总览",
-          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
         }
       ]
     },

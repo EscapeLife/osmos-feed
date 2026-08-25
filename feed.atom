@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-08-24T00:50:43.793Z</updated>
+    <updated>2026-08-25T00:50:51.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kling Motion Generation API 对接说明]]></title>
+        <id>https://cuiqingcai.com/3579460.html</id>
+        <link href="https://cuiqingcai.com/3579460.html"/>
+        <updated>2026-08-24T05:51:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>本文将介绍一种 Kling Motion Generation API 对接说明，它是可以通过输入自定义参数来生成Kling官方的视频。</p>
+<h2 id="申请流程"><a href="#申请流程" class="headerlink" title="申请流程"></]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Producer 下载视频 API 对接说明]]></title>
         <id>https://cuiqingcai.com/3456720.html</id>
@@ -261,26 +272,6 @@ Continue reading...]]></summary>
         <updated>2026-08-10T20:15:13.000Z</updated>
         <summary type="html"><![CDATA[<p>你是不是也想在 Claude 里直接完成更多创作任务：一句话生成一首歌，让 Claude 根据歌词继续做封面图；让它把产品图变成短视频；边聊天边搜索网页资料；最后把分享链接压成短链。</p>
 <p>Claude 本身擅长理解需求、拆解任务和组织上下文，但音乐、图片、视频、搜]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在 LobeChat 中使用 Ace Data Cloud]]></title>
-        <id>https://cuiqingcai.com/3370258.html</id>
-        <link href="https://cuiqingcai.com/3370258.html"/>
-        <updated>2026-08-10T05:57:38.000Z</updated>
-        <summary type="html"><![CDATA[<p><a href="https://lobehub.com/" target="_blank" rel="noopener">LobeChat</a> 是一款开源 AI 客户端，主打「现代化 UI + 插件生态 + 知识库 + 一键自部署」。你可以使用官方在线版（PWA），也]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ace Data Cloud SDK 总览]]></title>
-        <id>https://cuiqingcai.com/3334341.html</id>
-        <link href="https://cuiqingcai.com/3334341.html"/>
-        <updated>2026-08-09T19:59:01.000Z</updated>
-        <summary type="html"><![CDATA[<p>Ace Data Cloud 提供 TypeScript / Python / Go 三种语言的官方客户端 SDK，把 <code>api.acedata.cloud</code> 上的 chat completions、images、video、music、search、]]></summary>
         <author>
             <name>静觅</name>
         </author>

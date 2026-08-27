@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-08-26T00:51:47.426Z</updated>
+    <updated>2026-08-27T06:29:59.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Veo Tasks API 的对接和使用]]></title>
+        <id>https://cuiqingcai.com/3806919.html</id>
+        <link href="https://cuiqingcai.com/3806919.html"/>
+        <updated>2026-08-26T21:01:59.000Z</updated>
+        <summary type="html"><![CDATA[<p>Veo Tasks API 的主要功能是通过输入 Veo Videos Generation API 生成的任务ID来查询该任务的执行情况。</p>
+<p>本文档将详细介绍 Veo Tasks API 的对接说明，帮助您轻松集成并充分利用该 API 的强大功能。通过 Veo]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Localization Translate API 的对接和使用]]></title>
+        <id>https://cuiqingcai.com/3751258.html</id>
+        <link href="https://cuiqingcai.com/3751258.html"/>
+        <updated>2026-08-26T05:34:18.000Z</updated>
+        <summary type="html"><![CDATA[<p>Localization Translate API 的主要功能是通过输入需要翻译的文本来获取翻译后的文本，同时翻译后的语言可以自定义，并且翻译结果可以采用 <code>json</code> ， <code>markdown</code> 俩种主流的方法来输出。</p>]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Studio 建站旧入口]]></title>
+        <id>https://cuiqingcai.com/3716054.html</id>
+        <link href="https://cuiqingcai.com/3716054.html"/>
+        <updated>2026-08-25T19:47:34.000Z</updated>
+        <summary type="html"><![CDATA[<p>本页已合并到新版分步教程，请从 <a href="https://platform.acedata.cloud/documents/earning-whitelabel-studio" target="_blank" rel="noopener">Studio 白牌从 0]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ingress 流量整形]]></title>
         <id>https://www.kawabangga.com/?p=7376</id>
@@ -283,16 +314,6 @@ Continue reading...]]></summary>
         <updated>2026-08-12T20:25:20.000Z</updated>
         <summary type="html"><![CDATA[<p>做内容的人都清楚，真正费时间的不是某一步，而是”串起来”这件事：想选题、写文案、配图、再剪一段视频，往往要在四五个工具之间来回搬运。</p>
 <p>这篇文章讲一件具体的事——用 Ace Data Cloud（<a href="https://api.acedata.clou]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discord Agent Proxy 使用文档]]></title>
-        <id>https://cuiqingcai.com/3506460.html</id>
-        <link href="https://cuiqingcai.com/3506460.html"/>
-        <updated>2026-08-11T19:47:40.000Z</updated>
-        <summary type="html"><![CDATA[<p>Discord Agent Proxy 是一个<strong>独立部署</strong>的服务：它保管你自己的 Discord 账号凭据，与 Discord 保持一条常驻连接，并把这个账号的能力通过 <strong>MCP</strong> 和 <strong>REST A]]></summary>
         <author>
             <name>静觅</name>
         </author>

@@ -18,6 +18,16 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html",
+          "publishedOn": "2026-08-27T23:56:43.000Z",
+          "wordCount": null,
+          "title": "科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
@@ -153,6 +163,26 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3897210.html",
+          "author": null,
+          "description": "<blockquote>\n  <p>📘 <strong>Overview</strong>：<a href=\"https://platform.acedata.cloud/documents/claude-desktop-mcp-all\" target=\"_blank\" rel",
+          "link": "https://cuiqingcai.com/3897210.html",
+          "publishedOn": "2026-08-27T22:06:50.000Z",
+          "wordCount": 1257,
+          "title": "Claude Desktop 对接 Kling MCP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cuiqingcai.com/3851110.html",
+          "author": null,
+          "description": "<p><a href=\"https://cherry-ai.com/\" target=\"_blank\" rel=\"noopener\">Cherry Studio</a> 是一款开源的多模型 AI 桌面客户端，支持 Windows、macOS、Linux。它「自定义服务商 + 自定",
+          "link": "https://cuiqingcai.com/3851110.html",
+          "publishedOn": "2026-08-27T09:18:30.000Z",
+          "wordCount": 2033,
+          "title": "在 Cherry Studio 中使用 Ace Data Cloud",
+          "imageUrl": "https://cdn.acedata.cloud/dvc3cg.jpg"
+        },
         {
           "id": "https://cuiqingcai.com/3806919.html",
           "author": null,
@@ -352,36 +382,6 @@
           "wordCount": 1275,
           "title": "Cursor 对接 Kling MCP",
           "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3680708.html",
-          "author": null,
-          "description": "<p>本文将介绍一种 Short URL API 对接说明 对接说明，它可将较长的URL转换为短的URL。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title=\"申请流程\"></a>申请流程</h2>\n<p>要使用",
-          "link": "https://cuiqingcai.com/3680708.html",
-          "publishedOn": "2026-08-13T20:11:48.000Z",
-          "wordCount": 1323,
-          "title": "Short URL API 对接说明",
-          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3629341.html",
-          "author": null,
-          "description": "<p>Google Gemini 是一款非常强大的 AI 对话系统，只要输入提示词，就能在短短几秒内生成流畅自然的回复。Gemini 都能提供令人惊叹的智能协助，极大地提高了人类的工作效率和创造力。</p>\n<p>本文档主要介绍 Gemini Chat Completion AP",
-          "link": "https://cuiqingcai.com/3629341.html",
-          "publishedOn": "2026-08-13T05:55:41.000Z",
-          "wordCount": 3037,
-          "title": "Gemini Chat Completion API 申请及使用",
-          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3595120.html",
-          "author": null,
-          "description": "<p>做内容的人都清楚，真正费时间的不是某一步，而是”串起来”这件事：想选题、写文案、配图、再剪一段视频，往往要在四五个工具之间来回搬运。</p>\n<p>这篇文章讲一件具体的事——用 Ace Data Cloud（<a href=\"https://api.acedata.clou",
-          "link": "https://cuiqingcai.com/3595120.html",
-          "publishedOn": "2026-08-12T20:25:20.000Z",
-          "wordCount": 1556,
-          "title": "用 Gemini + Nano Banana + Veo 搭一条内容生产线：从文案到图片再到视频",
-          "imageUrl": "https://cdn.acedata.cloud/b2f8d2c012.png"
         }
       ]
     },

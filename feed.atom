@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-08-28T08:21:03.298Z</updated>
+    <updated>2026-08-29T05:01:41.010Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[把 AI 站变成你自己的生意：5 分钟开一个带你品牌的 AI 站，不用写代码]]></title>
+        <id>https://cuiqingcai.com/3975361.html</id>
+        <link href="https://cuiqingcai.com/3975361.html"/>
+        <updated>2026-08-28T19:49:21.000Z</updated>
+        <summary type="html"><![CDATA[<p><img src="https://cdn.acedata.cloud/7b60deac4c.png" alt="一个完全挂着你自己品牌的 AI 站——聊天、绘图、音乐、视频都在里面"></p>
+<p>先说结论：你现在就能拥有一个和 <a href="https://stu]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html</id>
@@ -292,27 +303,6 @@ Continue reading...]]></summary>
   <p>📘 <strong>Overview</strong>：<a href="https://platform.acedata.cloud/documents/cursor-mcp-all" target="_blank" rel="noopen]]></summary>
         <author>
             <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cursor 对接 Kling MCP]]></title>
-        <id>https://cuiqingcai.com/3715700.html</id>
-        <link href="https://cuiqingcai.com/3715700.html"/>
-        <updated>2026-08-14T05:55:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-  <p>📘 <strong>Overview</strong>：<a href="https://platform.acedata.cloud/documents/cursor-mcp-all" target="_blank" rel="noopen]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html"/>
-        <updated>2026-08-13T23:54:49.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
         </author>
     </entry>
 </feed>

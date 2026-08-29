@@ -36,16 +36,6 @@
           "wordCount": null,
           "title": "科技爱好者周刊（第 409 期）：程序员的职业未来",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html",
-          "publishedOn": "2026-08-13T23:54:49.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识",
-          "imageUrl": null
         }
       ]
     },
@@ -163,6 +153,16 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3975361.html",
+          "author": null,
+          "description": "<p><img src=\"https://cdn.acedata.cloud/7b60deac4c.png\" alt=\"一个完全挂着你自己品牌的 AI 站——聊天、绘图、音乐、视频都在里面\"></p>\n<p>先说结论：你现在就能拥有一个和 <a href=\"https://stu",
+          "link": "https://cuiqingcai.com/3975361.html",
+          "publishedOn": "2026-08-28T19:49:21.000Z",
+          "wordCount": 1533,
+          "title": "把 AI 站变成你自己的生意：5 分钟开一个带你品牌的 AI 站，不用写代码",
+          "imageUrl": "https://cdn.acedata.cloud/7b60deac4c.png"
+        },
         {
           "id": "https://cuiqingcai.com/3897210.html",
           "author": null,
@@ -371,16 +371,6 @@
           "publishedOn": "2026-08-14T19:49:07.000Z",
           "wordCount": 1280,
           "title": "Cursor 对接 通义万相 Wan MCP",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3715700.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>📘 <strong>Overview</strong>：<a href=\"https://platform.acedata.cloud/documents/cursor-mcp-all\" target=\"_blank\" rel=\"noopen",
-          "link": "https://cuiqingcai.com/3715700.html",
-          "publishedOn": "2026-08-14T05:55:00.000Z",
-          "wordCount": 1275,
-          "title": "Cursor 对接 Kling MCP",
           "imageUrl": null
         }
       ]

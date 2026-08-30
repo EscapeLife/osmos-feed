@@ -352,26 +352,6 @@
           "wordCount": 1350,
           "title": "Google SERP API：用一次请求拿到结构化的搜索结果",
           "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3802744.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/gemini-cli-mcp-all\" target=\"_blank\" rel=\"noopen",
-          "link": "https://cuiqingcai.com/3802744.html",
-          "publishedOn": "2026-08-15T06:05:44.000Z",
-          "wordCount": 1255,
-          "title": "Gemini CLI 对接 Luma MCP",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3765747.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>📘 <strong>Overview</strong>：<a href=\"https://platform.acedata.cloud/documents/cursor-mcp-all\" target=\"_blank\" rel=\"noopen",
-          "link": "https://cuiqingcai.com/3765747.html",
-          "publishedOn": "2026-08-14T19:49:07.000Z",
-          "wordCount": 1280,
-          "title": "Cursor 对接 通义万相 Wan MCP",
-          "imageUrl": null
         }
       ]
     },

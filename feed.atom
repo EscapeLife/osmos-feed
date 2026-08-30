@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-08-29T05:01:41.010Z</updated>
+    <updated>2026-08-30T02:51:08.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -279,28 +279,6 @@ Continue reading...]]></summary>
         <updated>2026-08-15T19:59:29.000Z</updated>
         <summary type="html"><![CDATA[<p>很多需求的第一步其实是”搜一下”：做行业调研、监控关键词排名、给 AI Agent 喂实时资料、批量核实信息……但直接爬 Google 又麻烦又不稳定——要处理反爬、验证码、页面结构变化。</p>
 <p>Google SERP API 就是把这件事变简单：你传一个关键词，它]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini CLI 对接 Luma MCP]]></title>
-        <id>https://cuiqingcai.com/3802744.html</id>
-        <link href="https://cuiqingcai.com/3802744.html"/>
-        <updated>2026-08-15T06:05:44.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-  <p>📘 <strong>完整指南</strong>：<a href="https://platform.acedata.cloud/documents/gemini-cli-mcp-all" target="_blank" rel="noopen]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cursor 对接 通义万相 Wan MCP]]></title>
-        <id>https://cuiqingcai.com/3765747.html</id>
-        <link href="https://cuiqingcai.com/3765747.html"/>
-        <updated>2026-08-14T19:49:07.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-  <p>📘 <strong>Overview</strong>：<a href="https://platform.acedata.cloud/documents/cursor-mcp-all" target="_blank" rel="noopen]]></summary>
         <author>
             <name>静觅</name>
         </author>

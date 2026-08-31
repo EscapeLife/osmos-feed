@@ -154,6 +154,26 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3098056.html",
+          "author": null,
+          "description": "<p>本文将介绍一种 Pixverse Videos Generation API 对接说明，它是可以通过输入自定义参数来生成Pixverse官方的视频。</p>\n<h2 id=\"申请和使用\"><a href=\"#申请和使用\" class=\"headerlink\" title=\"",
+          "link": "https://cuiqingcai.com/3098056.html",
+          "publishedOn": "2026-08-30T05:54:16.000Z",
+          "wordCount": 3012,
+          "title": "Pixverse 视频生成 API 对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/dvc3cg.jpg"
+        },
+        {
+          "id": "https://cuiqingcai.com/3061455.html",
+          "author": null,
+          "description": "<blockquote>\n  <p>这是一篇总览文章：<strong>把 AceData Cloud 提供的 10 个 MCP Server 一次性接到 <a href=\"https://github.com/google-gemini/gemini-cli\" target=\"_",
+          "link": "https://cuiqingcai.com/3061455.html",
+          "publishedOn": "2026-08-29T19:44:15.000Z",
+          "wordCount": 1662,
+          "title": "Gemini CLI 对接 Ace Data Cloud MCP",
+          "imageUrl": "https://cdn.acedata.cloud/58te19.jpg"
+        },
+        {
           "id": "https://cuiqingcai.com/3975361.html",
           "author": null,
           "description": "<p><img src=\"https://cdn.acedata.cloud/7b60deac4c.png\" alt=\"一个完全挂着你自己品牌的 AI 站——聊天、绘图、音乐、视频都在里面\"></p>\n<p>先说结论：你现在就能拥有一个和 <a href=\"https://stu",
@@ -332,26 +352,6 @@
           "wordCount": 1655,
           "title": "Midjourney Describe API 的对接和使用",
           "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3886290.html",
-          "author": null,
-          "description": "<p>本接口基于 <a href=\"https://docs.fish.audio/resources/api-reference/model\" target=\"_blank\" rel=\"noopener\">Fish Audio 官方 Model API</a>，用于<stron",
-          "link": "https://cuiqingcai.com/3886290.html",
-          "publishedOn": "2026-08-16T05:18:10.000Z",
-          "wordCount": 1674,
-          "title": "Fish Model Query API 对接说明",
-          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3852769.html",
-          "author": null,
-          "description": "<p>很多需求的第一步其实是”搜一下”：做行业调研、监控关键词排名、给 AI Agent 喂实时资料、批量核实信息……但直接爬 Google 又麻烦又不稳定——要处理反爬、验证码、页面结构变化。</p>\n<p>Google SERP API 就是把这件事变简单：你传一个关键词，它",
-          "link": "https://cuiqingcai.com/3852769.html",
-          "publishedOn": "2026-08-15T19:59:29.000Z",
-          "wordCount": 1350,
-          "title": "Google SERP API：用一次请求拿到结构化的搜索结果",
-          "imageUrl": null
         }
       ]
     },

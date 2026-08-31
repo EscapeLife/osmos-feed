@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-08-30T02:51:08.218Z</updated>
+    <updated>2026-08-31T02:44:16.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pixverse 视频生成 API 对接说明]]></title>
+        <id>https://cuiqingcai.com/3098056.html</id>
+        <link href="https://cuiqingcai.com/3098056.html"/>
+        <updated>2026-08-30T05:54:16.000Z</updated>
+        <summary type="html"><![CDATA[<p>本文将介绍一种 Pixverse Videos Generation API 对接说明，它是可以通过输入自定义参数来生成Pixverse官方的视频。</p>
+<h2 id="申请和使用"><a href="#申请和使用" class="headerlink" title="]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini CLI 对接 Ace Data Cloud MCP]]></title>
+        <id>https://cuiqingcai.com/3061455.html</id>
+        <link href="https://cuiqingcai.com/3061455.html"/>
+        <updated>2026-08-29T19:44:15.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+  <p>这是一篇总览文章：<strong>把 AceData Cloud 提供的 10 个 MCP Server 一次性接到 <a href="https://github.com/google-gemini/gemini-cli" target="_]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[把 AI 站变成你自己的生意：5 分钟开一个带你品牌的 AI 站，不用写代码]]></title>
         <id>https://cuiqingcai.com/3975361.html</id>
@@ -258,27 +280,6 @@ Continue reading...]]></summary>
         <updated>2026-08-16T19:23:54.000Z</updated>
         <summary type="html"><![CDATA[<p>Midjourney Describe API 的主要功能是通过上传图片，获取对图片的描述。使用该 API，只需要传递图片文件地址，API 会返回图片的详细描述。无需繁琐的参数设置，即可获得高质量的图片描述。</p>
 <p>支持多种图片格式：无论是 JPEG、PNG 还是]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fish Model Query API 对接说明]]></title>
-        <id>https://cuiqingcai.com/3886290.html</id>
-        <link href="https://cuiqingcai.com/3886290.html"/>
-        <updated>2026-08-16T05:18:10.000Z</updated>
-        <summary type="html"><![CDATA[<p>本接口基于 <a href="https://docs.fish.audio/resources/api-reference/model" target="_blank" rel="noopener">Fish Audio 官方 Model API</a>，用于<stron]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google SERP API：用一次请求拿到结构化的搜索结果]]></title>
-        <id>https://cuiqingcai.com/3852769.html</id>
-        <link href="https://cuiqingcai.com/3852769.html"/>
-        <updated>2026-08-15T19:59:29.000Z</updated>
-        <summary type="html"><![CDATA[<p>很多需求的第一步其实是”搜一下”：做行业调研、监控关键词排名、给 AI Agent 喂实时资料、批量核实信息……但直接爬 Google 又麻烦又不稳定——要处理反爬、验证码、页面结构变化。</p>
-<p>Google SERP API 就是把这件事变简单：你传一个关键词，它]]></summary>
         <author>
             <name>静觅</name>
         </author>

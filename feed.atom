@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-08-31T02:44:16.761Z</updated>
+    <updated>2026-09-01T02:55:39.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Chat Completion API 申请及使用]]></title>
+        <id>https://cuiqingcai.com/3148158.html</id>
+        <link href="https://cuiqingcai.com/3148158.html"/>
+        <updated>2026-08-30T19:49:18.000Z</updated>
+        <summary type="html"><![CDATA[<p>OpenAI ChatGPT 是一款非常强大的 AI 对话系统，只要输入提示词，就能在短短几秒内生成流畅自然的回复。ChatGPT 以其出色的语言理解和生成能力在业界独树一帜，如今，ChatGPT 早已在各个行业和领域广泛应用，其影响力愈发显著。无论是日常对话、创意写作，还]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pixverse 视频生成 API 对接说明]]></title>
         <id>https://cuiqingcai.com/3098056.html</id>
@@ -259,27 +269,6 @@ Continue reading...]]></summary>
         <updated>2026-08-17T19:42:47.000Z</updated>
         <summary type="html"><![CDATA[<p><img src="https://cdn.acedata.cloud/6c213cb0a2.png" alt="在决策者面前，用专业内容把品牌立起来"></p>
 <p>LinkedIn 是全球最大的职业社交平台。它的用户画像和小红书、B 站完全不同——这里是<strong]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在 WorkBuddy 中使用 Ace Data Cloud]]></title>
-        <id>https://cuiqingcai.com/3972929.html</id>
-        <link href="https://cuiqingcai.com/3972929.html"/>
-        <updated>2026-08-17T05:22:09.000Z</updated>
-        <summary type="html"><![CDATA[<p><a href="https://www.codebuddy.cn/workbuddy" target="_blank" rel="noopener">WorkBuddy</a>（腾讯 CodeBuddy 家族的桌面 AI 工作台，别名「腾讯龙虾」）是一款面向办公场景的 A]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Midjourney Describe API 的对接和使用]]></title>
-        <id>https://cuiqingcai.com/3937034.html</id>
-        <link href="https://cuiqingcai.com/3937034.html"/>
-        <updated>2026-08-16T19:23:54.000Z</updated>
-        <summary type="html"><![CDATA[<p>Midjourney Describe API 的主要功能是通过上传图片，获取对图片的描述。使用该 API，只需要传递图片文件地址，API 会返回图片的详细描述。无需繁琐的参数设置，即可获得高质量的图片描述。</p>
-<p>支持多种图片格式：无论是 JPEG、PNG 还是]]></summary>
         <author>
             <name>静觅</name>
         </author>

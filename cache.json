@@ -154,6 +154,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3148158.html",
+          "author": null,
+          "description": "<p>OpenAI ChatGPT 是一款非常强大的 AI 对话系统，只要输入提示词，就能在短短几秒内生成流畅自然的回复。ChatGPT 以其出色的语言理解和生成能力在业界独树一帜，如今，ChatGPT 早已在各个行业和领域广泛应用，其影响力愈发显著。无论是日常对话、创意写作，还",
+          "link": "https://cuiqingcai.com/3148158.html",
+          "publishedOn": "2026-08-30T19:49:18.000Z",
+          "wordCount": 2478,
+          "title": "OpenAI Chat Completion API 申请及使用",
+          "imageUrl": "https://cdn.acedata.cloud/dvc3cg.jpg"
+        },
+        {
           "id": "https://cuiqingcai.com/3098056.html",
           "author": null,
           "description": "<p>本文将介绍一种 Pixverse Videos Generation API 对接说明，它是可以通过输入自定义参数来生成Pixverse官方的视频。</p>\n<h2 id=\"申请和使用\"><a href=\"#申请和使用\" class=\"headerlink\" title=\"",
@@ -332,26 +342,6 @@
           "wordCount": 1299,
           "title": "在 LinkedIn 发动态：面向专业人群和 B 端的内容营销",
           "imageUrl": "https://cdn.acedata.cloud/6c213cb0a2.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/3972929.html",
-          "author": null,
-          "description": "<p><a href=\"https://www.codebuddy.cn/workbuddy\" target=\"_blank\" rel=\"noopener\">WorkBuddy</a>（腾讯 CodeBuddy 家族的桌面 AI 工作台，别名「腾讯龙虾」）是一款面向办公场景的 A",
-          "link": "https://cuiqingcai.com/3972929.html",
-          "publishedOn": "2026-08-17T05:22:09.000Z",
-          "wordCount": 1423,
-          "title": "在 WorkBuddy 中使用 Ace Data Cloud",
-          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3937034.html",
-          "author": null,
-          "description": "<p>Midjourney Describe API 的主要功能是通过上传图片，获取对图片的描述。使用该 API，只需要传递图片文件地址，API 会返回图片的详细描述。无需繁琐的参数设置，即可获得高质量的图片描述。</p>\n<p>支持多种图片格式：无论是 JPEG、PNG 还是",
-          "link": "https://cuiqingcai.com/3937034.html",
-          "publishedOn": "2026-08-16T19:23:54.000Z",
-          "wordCount": 1655,
-          "title": "Midjourney Describe API 的对接和使用",
-          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
         }
       ]
     },

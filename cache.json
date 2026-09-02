@@ -154,6 +154,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3234894.html",
+          "author": null,
+          "description": "<p>本文将介绍一种 SeeDance Videos Generation API 对接说明，它是可以通过输入自定义参数来生成SeeDance官方的视频。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title=\"申请",
+          "link": "https://cuiqingcai.com/3234894.html",
+          "publishedOn": "2026-08-31T19:54:54.000Z",
+          "wordCount": 2213,
+          "title": "SeeDance Videos Generation API 对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/dvc3cg.jpg"
+        },
+        {
           "id": "https://cuiqingcai.com/3148158.html",
           "author": null,
           "description": "<p>OpenAI ChatGPT 是一款非常强大的 AI 对话系统，只要输入提示词，就能在短短几秒内生成流畅自然的回复。ChatGPT 以其出色的语言理解和生成能力在业界独树一帜，如今，ChatGPT 早已在各个行业和领域广泛应用，其影响力愈发显著。无论是日常对话、创意写作，还",
@@ -332,16 +342,6 @@
           "wordCount": 1179,
           "title": "Aider CLI 自定义模型配置",
           "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3024567.html",
-          "author": null,
-          "description": "<p><img src=\"https://cdn.acedata.cloud/6c213cb0a2.png\" alt=\"在决策者面前，用专业内容把品牌立起来\"></p>\n<p>LinkedIn 是全球最大的职业社交平台。它的用户画像和小红书、B 站完全不同——这里是<strong",
-          "link": "https://cuiqingcai.com/3024567.html",
-          "publishedOn": "2026-08-17T19:42:47.000Z",
-          "wordCount": 1299,
-          "title": "在 LinkedIn 发动态：面向专业人群和 B 端的内容营销",
-          "imageUrl": "https://cdn.acedata.cloud/6c213cb0a2.png"
         }
       ]
     },

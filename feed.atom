@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-09-01T02:55:39.564Z</updated>
+    <updated>2026-09-02T02:15:56.644Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SeeDance Videos Generation API 对接说明]]></title>
+        <id>https://cuiqingcai.com/3234894.html</id>
+        <link href="https://cuiqingcai.com/3234894.html"/>
+        <updated>2026-08-31T19:54:54.000Z</updated>
+        <summary type="html"><![CDATA[<p>本文将介绍一种 SeeDance Videos Generation API 对接说明，它是可以通过输入自定义参数来生成SeeDance官方的视频。</p>
+<h2 id="申请流程"><a href="#申请流程" class="headerlink" title="申请]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI Chat Completion API 申请及使用]]></title>
         <id>https://cuiqingcai.com/3148158.html</id>
@@ -258,17 +269,6 @@ Continue reading...]]></summary>
         <updated>2026-08-18T19:33:22.000Z</updated>
         <summary type="html"><![CDATA[<p>Aider 通过 LiteLLM 的 <code>openai/</code> 模型前缀连接 OpenAI-compatible API。</p>
 <h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置<]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在 LinkedIn 发动态：面向专业人群和 B 端的内容营销]]></title>
-        <id>https://cuiqingcai.com/3024567.html</id>
-        <link href="https://cuiqingcai.com/3024567.html"/>
-        <updated>2026-08-17T19:42:47.000Z</updated>
-        <summary type="html"><![CDATA[<p><img src="https://cdn.acedata.cloud/6c213cb0a2.png" alt="在决策者面前，用专业内容把品牌立起来"></p>
-<p>LinkedIn 是全球最大的职业社交平台。它的用户画像和小红书、B 站完全不同——这里是<strong]]></summary>
         <author>
             <name>静觅</name>
         </author>

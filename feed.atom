@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-09-02T02:15:56.644Z</updated>
+    <updated>2026-09-03T02:23:03.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[出海推广实战：面向海外开发者，用英文内容赚美元佣金]]></title>
+        <id>https://cuiqingcai.com/3320193.html</id>
+        <link href="https://cuiqingcai.com/3320193.html"/>
+        <updated>2026-09-01T19:36:33.000Z</updated>
+        <summary type="html"><![CDATA[<p><img src="https://cdn.acedata.cloud/5c95d25eb3.png" alt="出海全球"></p>
+<p>很多人做 Ace Data Cloud 分销，只盯着国内。但这个平台本身就是全球化的：API 以美元定价、界面中英双语、支持 Str]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SeeDance Videos Generation API 对接说明]]></title>
         <id>https://cuiqingcai.com/3234894.html</id>
@@ -260,17 +271,6 @@ AI时代人人都能做产品，但是独立开发却更难生存了最先出现
 Continue reading...]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aider CLI 自定义模型配置]]></title>
-        <id>https://cuiqingcai.com/3110402.html</id>
-        <link href="https://cuiqingcai.com/3110402.html"/>
-        <updated>2026-08-18T19:33:22.000Z</updated>
-        <summary type="html"><![CDATA[<p>Aider 通过 LiteLLM 的 <code>openai/</code> 模型前缀连接 OpenAI-compatible API。</p>
-<h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置<]]></summary>
-        <author>
-            <name>静觅</name>
         </author>
     </entry>
 </feed>

@@ -154,6 +154,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3320193.html",
+          "author": null,
+          "description": "<p><img src=\"https://cdn.acedata.cloud/5c95d25eb3.png\" alt=\"出海全球\"></p>\n<p>很多人做 Ace Data Cloud 分销，只盯着国内。但这个平台本身就是全球化的：API 以美元定价、界面中英双语、支持 Str",
+          "link": "https://cuiqingcai.com/3320193.html",
+          "publishedOn": "2026-09-01T19:36:33.000Z",
+          "wordCount": 1473,
+          "title": "出海推广实战：面向海外开发者，用英文内容赚美元佣金",
+          "imageUrl": "https://cdn.acedata.cloud/5c95d25eb3.png"
+        },
+        {
           "id": "https://cuiqingcai.com/3234894.html",
           "author": null,
           "description": "<p>本文将介绍一种 SeeDance Videos Generation API 对接说明，它是可以通过输入自定义参数来生成SeeDance官方的视频。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title=\"申请",
@@ -332,16 +342,6 @@
           "wordCount": 1274,
           "title": "在微信公众号发图文：经营你自己的私域流量池",
           "imageUrl": "https://cdn.acedata.cloud/9a16560455.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/3110402.html",
-          "author": null,
-          "description": "<p>Aider 通过 LiteLLM 的 <code>openai/</code> 模型前缀连接 OpenAI-compatible API。</p>\n<h2 id=\"配置\"><a href=\"#配置\" class=\"headerlink\" title=\"配置\"></a>配置<",
-          "link": "https://cuiqingcai.com/3110402.html",
-          "publishedOn": "2026-08-18T19:33:22.000Z",
-          "wordCount": 1179,
-          "title": "Aider CLI 自定义模型配置",
-          "imageUrl": null
         }
       ]
     },

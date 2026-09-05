@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-09-04T02:19:35.062Z</updated>
+    <updated>2026-09-05T02:18:44.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -14,6 +14,17 @@
         <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[创建 AceDataCloud 平台服务申请]]></title>
+        <id>https://cuiqingcai.com/3492869.html</id>
+        <link href="https://cuiqingcai.com/3492869.html"/>
+        <updated>2026-09-03T19:34:29.000Z</updated>
+        <summary type="html"><![CDATA[<p>「申请（Application）」表示当前账户对某个服务的订阅关系——必须先申请，才能再为这个申请创建 API 凭证、调用业务接口。<strong>首次申请一个服务会自动获得该服务设定的免费额度</strong>（如 1 Credit），可立即试用。</p>
+<blockq]]></summary>
+        <author>
+            <name>静觅</name>
         </author>
     </entry>
     <entry>
@@ -237,26 +248,6 @@ AI时代人人都能做产品，但是独立开发却更难生存了最先出现
         <updated>2026-08-21T20:03:14.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
   <p>📘 <strong>Overview</strong>：<a href="https://platform.acedata.cloud/documents/claude-code-mcp-all" target="_blank" rel="n]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 409 期）：程序员的职业未来]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html"/>
-        <updated>2026-08-20T23:53:54.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在 Open WebUI 中使用 Ace Data Cloud]]></title>
-        <id>https://cuiqingcai.com/3285238.html</id>
-        <link href="https://cuiqingcai.com/3285238.html"/>
-        <updated>2026-08-20T20:07:18.000Z</updated>
-        <summary type="html"><![CDATA[<p><a href="https://openwebui.com/" target="_blank" rel="noopener">Open WebUI</a>（原 Ollama WebUI）是一个面向团队 / 企业场景的开源 AI 客户端，原生支持多用户与 RBAC、知识库与]]></summary>
         <author>
             <name>静觅</name>
         </author>

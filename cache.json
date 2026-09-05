@@ -36,16 +36,6 @@
           "wordCount": null,
           "title": "科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html",
-          "publishedOn": "2026-08-20T23:53:54.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 409 期）：程序员的职业未来",
-          "imageUrl": null
         }
       ]
     },
@@ -142,6 +132,16 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3492869.html",
+          "author": null,
+          "description": "<p>「申请（Application）」表示当前账户对某个服务的订阅关系——必须先申请，才能再为这个申请创建 API 凭证、调用业务接口。<strong>首次申请一个服务会自动获得该服务设定的免费额度</strong>（如 1 Credit），可立即试用。</p>\n<blockq",
+          "link": "https://cuiqingcai.com/3492869.html",
+          "publishedOn": "2026-09-03T19:34:29.000Z",
+          "wordCount": 1542,
+          "title": "创建 AceDataCloud 平台服务申请",
+          "imageUrl": null
+        },
         {
           "id": "https://cuiqingcai.com/3410411.html",
           "author": null,
@@ -320,16 +320,6 @@
           "publishedOn": "2026-08-21T20:03:14.000Z",
           "wordCount": 1482,
           "title": "Claude Code 对接 Suno MCP",
-          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3285238.html",
-          "author": null,
-          "description": "<p><a href=\"https://openwebui.com/\" target=\"_blank\" rel=\"noopener\">Open WebUI</a>（原 Ollama WebUI）是一个面向团队 / 企业场景的开源 AI 客户端，原生支持多用户与 RBAC、知识库与",
-          "link": "https://cuiqingcai.com/3285238.html",
-          "publishedOn": "2026-08-20T20:07:18.000Z",
-          "wordCount": 1502,
-          "title": "在 Open WebUI 中使用 Ace Data Cloud",
           "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
         }
       ]

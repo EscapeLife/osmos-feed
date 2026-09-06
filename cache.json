@@ -125,13 +125,44 @@
       "title": "piglei",
       "feedUrl": "https://www.piglei.com/feeds/latest",
       "siteUrl": "https://www.piglei.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.piglei.com/articles/software-dev-as-dungeon-building/",
+          "author": null,
+          "description": "前段时间，我通关了一个三十多年前的老游戏：《塞尔达传说：织梦岛》。\n《织梦岛》是久负盛名的塞尔达传说系列的第四部作品，发售于 1993 年，平台为 Game Boy——任天堂在 1989 年推出的风靡全世界的游戏掌机。\n用今天的眼光看，《织梦岛》的游戏画面简陋得吓人。举个例子，游戏的分辨率极低，仅为 160×144，换算下来像素面积不到 iPhone 17 屏幕的 1%。不过，技术过时并未过多损害游戏的可玩性。这部诞生于上世纪的作品，用极具想象力的道具和迷宫，打造出了一个引人入胜的小岛，玩起来依然妙趣横生。\n正因如此，在发售后的第 26 年，《织梦岛》在任天堂最新的游戏主机 Switch 上迎来了一次重制。\n为了迎合现代玩家，新版《织梦岛》完全重做了游戏画面，不再是 2D “大果粒”，而是全高清的卡通风 3D 建模。游戏操作也得到现代化升级，道具切换变得更为便捷。最重要的一点，在于新版几乎 1:1 复刻了原版的大地图和迷宫，也就是说，在游戏性方面（迷宫、道具及探索），重制版几乎原汁原味继承了几十年前的配方。\n你肯定想问：对于这样一部已三十岁高龄的换皮老游戏，玩家会买单吗？答案是肯定的。Switch 上的《织梦岛》一经推出，销量超过六百万份，直接跻身“塞尔达传说”史上销量最高的作品之一。\n我相信，作为史上最成功的电子游戏之一，《织梦岛》一定可以给游戏从业者许多启发。但就像你所知道的，我并不开发游戏，我所从事的是更为无趣的那一类稀松平常的软件开发。即便如此，我仍然从《织梦岛》的故事中获得了一些启示。\n大约 40 年前，弗雷德里克.布鲁克斯（Frederick P.Brooks, Jr.）发表了一篇名为《没有银弹》的论文，如巨石投入湖面，这篇论文在软件行业里引起了轩然大波。文章中，布鲁克斯把软件开发中的问题分为两大类：根本问题和次要问题，复杂度的来源也可按这两个维度来划分。\n什么…",
+          "link": "https://www.piglei.com/articles/software-dev-as-dungeon-building/",
+          "publishedOn": "2026-09-05T07:55:14.000Z",
+          "wordCount": 207,
+          "title": "开发软件，或建造迷宫",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "静觅",
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3616645.html",
+          "author": null,
+          "description": "<p>如果你想自定义生成歌曲，但又不太想自己编写歌词，可以使用 AceDataCloud 提供的歌词生成 API 来通过 prompt 生成歌词，API 是 <a href=\"https://platform.acedata.cloud/documents/suno-lyrics",
+          "link": "https://cuiqingcai.com/3616645.html",
+          "publishedOn": "2026-09-05T05:57:25.000Z",
+          "wordCount": 1281,
+          "title": "Suno 歌词生成 API 对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/p53wtj.png"
+        },
+        {
+          "id": "https://cuiqingcai.com/3579740.html",
+          "author": null,
+          "description": "<p><img src=\"https://cdn.acedata.cloud/82d055f2c9.png\" alt=\"一篇好文持续带搜索和推荐流量好几个月\"></p>\n<p>Medium 是英文世界最主流的「深度长文」平台之一——读者愿意读、内容有长尾，一篇好的 Medium",
+          "link": "https://cuiqingcai.com/3579740.html",
+          "publishedOn": "2026-09-04T19:42:20.000Z",
+          "wordCount": 1289,
+          "title": "在 Medium 发文章：用 AI 做高质量的英文内容营销",
+          "imageUrl": "https://cdn.acedata.cloud/82d055f2c9.png"
+        },
         {
           "id": "https://cuiqingcai.com/3492869.html",
           "author": null,
@@ -301,26 +332,6 @@
           "wordCount": 1171,
           "title": "Producer 下载视频 API 对接说明",
           "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3406608.html",
-          "author": null,
-          "description": "<p>Kilo Code 的 JetBrains 插件使用同一套 <code>kilo.jsonc</code> Provider 格式。配置必须位于实际运行插件的用户环境；Remote Development 时通常是远程 backend 主机。</p>\n<h2 id=\"Pro",
-          "link": "https://cuiqingcai.com/3406608.html",
-          "publishedOn": "2026-08-22T05:50:08.000Z",
-          "wordCount": 1203,
-          "title": "Kilo Code for JetBrains 自定义模型配置",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3371394.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>📘 <strong>Overview</strong>：<a href=\"https://platform.acedata.cloud/documents/claude-code-mcp-all\" target=\"_blank\" rel=\"n",
-          "link": "https://cuiqingcai.com/3371394.html",
-          "publishedOn": "2026-08-21T20:03:14.000Z",
-          "wordCount": 1482,
-          "title": "Claude Code 对接 Suno MCP",
-          "imageUrl": "https://cdn.acedata.cloud/5hmkdg.jpg"
         }
       ]
     },

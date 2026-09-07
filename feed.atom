@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-09-06T02:14:36.865Z</updated>
+    <updated>2026-09-07T02:11:48.855Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BPG 连接建立失败问题]]></title>
+        <id>https://www.kawabangga.com/?p=7397</id>
+        <link href="https://www.kawabangga.com/posts/7397"/>
+        <updated>2026-09-06T07:01:09.000Z</updated>
+        <summary type="html"><![CDATA[好久没有更新「抓包破案」系列了，最近遇到的一个 case 适合拿出来考一考读者，需要一点点的 BGP 前置知识 […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[定时任务内容工作流：按计划生成、复核与发布]]></title>
+        <id>https://cuiqingcai.com/3666579.html</id>
+        <link href="https://cuiqingcai.com/3666579.html"/>
+        <updated>2026-09-05T19:49:39.000Z</updated>
+        <summary type="html"><![CDATA[<p><img src="https://cdn.acedata.cloud/9a16560455.png" alt="定时自动发布"></p>
+<p>Studio 定时任务可以按计划尝试生成内容并调用已授权的 Skill。它适合把已经手动跑通的流程定期执行，但不是“设置一次就永]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开发软件，或建造迷宫]]></title>
         <id>https://www.piglei.com/articles/software-dev-as-dungeon-building/</id>
@@ -253,18 +275,6 @@ AI时代人人都能做产品，但是独立开发却更难生存了最先出现
         <updated>2026-08-24T05:51:00.000Z</updated>
         <summary type="html"><![CDATA[<p>本文将介绍一种 Kling Motion Generation API 对接说明，它是可以通过输入自定义参数来生成Kling官方的视频。</p>
 <h2 id="申请流程"><a href="#申请流程" class="headerlink" title="申请流程"></]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Producer 下载视频 API 对接说明]]></title>
-        <id>https://cuiqingcai.com/3456720.html</id>
-        <link href="https://cuiqingcai.com/3456720.html"/>
-        <updated>2026-08-22T19:45:20.000Z</updated>
-        <summary type="html"><![CDATA[<p>Producer 允许我们下载歌曲相关的视频，本文档讲解相关 API 的对接方法。</p>
-<p>该 API 只有一个输入参数，就是 <code>audio_id</code>，它是歌曲唯一的ID。</p>
-<p>这里我们输入的 <code>audio_id</code>]]></summary>
         <author>
             <name>静觅</name>
         </author>

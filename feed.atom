@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-09-07T02:11:48.855Z</updated>
+    <updated>2026-09-08T02:23:56.100Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[身份信息及有效期核验 API 对接说明]]></title>
+        <id>https://cuiqingcai.com/3786678.html</id>
+        <link href="https://cuiqingcai.com/3786678.html"/>
+        <updated>2026-09-07T05:11:18.000Z</updated>
+        <summary type="html"><![CDATA[<p>本文将介绍一种 身份信息及有效期核验 API 对接说明，它可用于校验姓名、身份证号、身份证有效期的真实性和一致性。</p>
+<h2 id="申请流程"><a href="#申请流程" class="headerlink" title="申请流程"></a>申请流程</h2>]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seedance 视频生成 API：文生、图生、首尾帧、真人参考，一个接口都能做]]></title>
+        <id>https://cuiqingcai.com/3751317.html</id>
+        <link href="https://cuiqingcai.com/3751317.html"/>
+        <updated>2026-09-06T19:21:57.000Z</updated>
+        <summary type="html"><![CDATA[<p>Seedance 是字节 Doubao 系的视频生成模型。它在国内内容场景里很实用：中文提示词理解好、图生视频稳、还支持传真人照片做”角色参考”，让同一个人出现在全新场景里。</p>
+<p>这篇讲怎么用 Ace Data Cloud 上的 Seedance API。接口是]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BPG 连接建立失败问题]]></title>
         <id>https://www.kawabangga.com/?p=7397</id>
@@ -264,17 +286,6 @@ AI时代人人都能做产品，但是独立开发却更难生存了最先出现
         <link href="https://cuiqingcai.com/3628843.html"/>
         <updated>2026-08-24T19:34:03.000Z</updated>
         <summary type="html"><![CDATA[<p><a href="https://platform.acedata.cloud/documents/codex-integration" target="_blank" rel="noopener">Codex</a> 是 OpenAI 推出的编程 Agent，通过 <co]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kling Motion Generation API 对接说明]]></title>
-        <id>https://cuiqingcai.com/3579460.html</id>
-        <link href="https://cuiqingcai.com/3579460.html"/>
-        <updated>2026-08-24T05:51:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>本文将介绍一种 Kling Motion Generation API 对接说明，它是可以通过输入自定义参数来生成Kling官方的视频。</p>
-<h2 id="申请流程"><a href="#申请流程" class="headerlink" title="申请流程"></]]></summary>
         <author>
             <name>静觅</name>
         </author>

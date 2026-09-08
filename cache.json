@@ -154,6 +154,26 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3786678.html",
+          "author": null,
+          "description": "<p>本文将介绍一种 身份信息及有效期核验 API 对接说明，它可用于校验姓名、身份证号、身份证有效期的真实性和一致性。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title=\"申请流程\"></a>申请流程</h2>",
+          "link": "https://cuiqingcai.com/3786678.html",
+          "publishedOn": "2026-09-07T05:11:18.000Z",
+          "wordCount": 1341,
+          "title": "身份信息及有效期核验 API 对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/dvc3cg.jpg"
+        },
+        {
+          "id": "https://cuiqingcai.com/3751317.html",
+          "author": null,
+          "description": "<p>Seedance 是字节 Doubao 系的视频生成模型。它在国内内容场景里很实用：中文提示词理解好、图生视频稳、还支持传真人照片做”角色参考”，让同一个人出现在全新场景里。</p>\n<p>这篇讲怎么用 Ace Data Cloud 上的 Seedance API。接口是",
+          "link": "https://cuiqingcai.com/3751317.html",
+          "publishedOn": "2026-09-06T19:21:57.000Z",
+          "wordCount": 1495,
+          "title": "Seedance 视频生成 API：文生、图生、首尾帧、真人参考，一个接口都能做",
+          "imageUrl": null
+        },
+        {
           "id": "https://cuiqingcai.com/3666579.html",
           "author": null,
           "description": "<p><img src=\"https://cdn.acedata.cloud/9a16560455.png\" alt=\"定时自动发布\"></p>\n<p>Studio 定时任务可以按计划尝试生成内容并调用已授权的 Skill。它适合把已经手动跑通的流程定期执行，但不是“设置一次就永",
@@ -332,16 +352,6 @@
           "wordCount": 1727,
           "title": "Codex CC Switch 图形化配置教程",
           "imageUrl": "https://raw.githubusercontent.com/farion1231/cc-switch/main/assets/screenshots/main-en.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/3579460.html",
-          "author": null,
-          "description": "<p>本文将介绍一种 Kling Motion Generation API 对接说明，它是可以通过输入自定义参数来生成Kling官方的视频。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink\" title=\"申请流程\"></",
-          "link": "https://cuiqingcai.com/3579460.html",
-          "publishedOn": "2026-08-24T05:51:00.000Z",
-          "wordCount": 1435,
-          "title": "Kling Motion Generation API 对接说明",
-          "imageUrl": "https://cdn.acedata.cloud/dvc3cg.jpg"
         }
       ]
     },

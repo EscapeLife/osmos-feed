@@ -49,18 +49,7 @@
       "title": "Tinyfool的个人网站",
       "feedUrl": "http://feeds.feedburner.com/Tinyfoolblog",
       "siteUrl": "https://codechina.org/",
-      "articles": [
-        {
-          "id": "https://codechina.org/?p=31302",
-          "author": "tinyfool",
-          "description": "科技发展会带来各种各样的后果，我们人类今天可以吃饱饭，可以有舒适的生活，都来自于科技的发展。 但是每次科技变革 […]\nAI时代人人都能做产品，但是独立开发却更难生存了最先出现在Tinyfool的个人网站。",
-          "link": "https://codechina.org/2026/08/31302/",
-          "publishedOn": "2026-08-25T03:51:26.000Z",
-          "wordCount": 1471,
-          "title": "AI时代人人都能做产品，但是独立开发却更难生存了",
-          "imageUrl": "https://codechina.org/wp-content/uploads/2026/08/ChatGPT-Image-Aug-22-2026-12_19_50-PM.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "卡瓦邦噶！",
@@ -153,6 +142,16 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3837622.html",
+          "author": null,
+          "description": "<p>你刚用 Figma 出了一版 App 的新界面设计，发到群里征求意见。产品经理回了一句：”能不能看看动态效果？”自己写代码实现一遍太费时间，但你有一张 PNG 截图就够了——交给 Seedance MCP Server，它能把静态图变成一段带动效的视频。字节跳动的模型，对中",
+          "link": "https://cuiqingcai.com/3837622.html",
+          "publishedOn": "2026-09-07T19:20:22.000Z",
+          "wordCount": 1475,
+          "title": "VS Code + Seedance MCP",
+          "imageUrl": null
+        },
         {
           "id": "https://cuiqingcai.com/3786678.html",
           "author": null,
@@ -332,26 +331,6 @@
           "wordCount": 1128,
           "title": "Studio 建站旧入口",
           "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3665914.html",
-          "author": null,
-          "description": "<p><img src=\"https://cdn.acedata.cloud/be19a04deb.png\" alt=\"社群运营\"></p>\n<p>微信群、Telegram 群里那些天天聊 AI 的人，有些已经悄悄把社群变成了一份持续收入——不是卖课，不是割韭菜，而是通过运营一个",
-          "link": "https://cuiqingcai.com/3665914.html",
-          "publishedOn": "2026-08-25T05:51:54.000Z",
-          "wordCount": 1458,
-          "title": "社群运营变现：从 AI 兴趣群主，到分销达人的完整路径",
-          "imageUrl": "https://cdn.acedata.cloud/be19a04deb.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/3628843.html",
-          "author": null,
-          "description": "<p><a href=\"https://platform.acedata.cloud/documents/codex-integration\" target=\"_blank\" rel=\"noopener\">Codex</a> 是 OpenAI 推出的编程 Agent，通过 <co",
-          "link": "https://cuiqingcai.com/3628843.html",
-          "publishedOn": "2026-08-24T19:34:03.000Z",
-          "wordCount": 1727,
-          "title": "Codex CC Switch 图形化配置教程",
-          "imageUrl": "https://raw.githubusercontent.com/farion1231/cc-switch/main/assets/screenshots/main-en.png"
         }
       ]
     },

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-09-08T02:23:56.100Z</updated>
+    <updated>2026-09-09T02:26:21.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VS Code + Seedance MCP]]></title>
+        <id>https://cuiqingcai.com/3837622.html</id>
+        <link href="https://cuiqingcai.com/3837622.html"/>
+        <updated>2026-09-07T19:20:22.000Z</updated>
+        <summary type="html"><![CDATA[<p>你刚用 Figma 出了一版 App 的新界面设计，发到群里征求意见。产品经理回了一句：”能不能看看动态效果？”自己写代码实现一遍太费时间，但你有一张 PNG 截图就够了——交给 Seedance MCP Server，它能把静态图变成一段带动效的视频。字节跳动的模型，对中]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[身份信息及有效期核验 API 对接说明]]></title>
         <id>https://cuiqingcai.com/3786678.html</id>
@@ -256,38 +266,6 @@ Continue reading...]]></summary>
 Continue reading...]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社群运营变现：从 AI 兴趣群主，到分销达人的完整路径]]></title>
-        <id>https://cuiqingcai.com/3665914.html</id>
-        <link href="https://cuiqingcai.com/3665914.html"/>
-        <updated>2026-08-25T05:51:54.000Z</updated>
-        <summary type="html"><![CDATA[<p><img src="https://cdn.acedata.cloud/be19a04deb.png" alt="社群运营"></p>
-<p>微信群、Telegram 群里那些天天聊 AI 的人，有些已经悄悄把社群变成了一份持续收入——不是卖课，不是割韭菜，而是通过运营一个]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI时代人人都能做产品，但是独立开发却更难生存了]]></title>
-        <id>https://codechina.org/?p=31302</id>
-        <link href="https://codechina.org/2026/08/31302/"/>
-        <updated>2026-08-25T03:51:26.000Z</updated>
-        <summary type="html"><![CDATA[科技发展会带来各种各样的后果，我们人类今天可以吃饱饭，可以有舒适的生活，都来自于科技的发展。 但是每次科技变革 […]
-AI时代人人都能做产品，但是独立开发却更难生存了最先出现在Tinyfool的个人网站。]]></summary>
-        <author>
-            <name>tinyfool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Codex CC Switch 图形化配置教程]]></title>
-        <id>https://cuiqingcai.com/3628843.html</id>
-        <link href="https://cuiqingcai.com/3628843.html"/>
-        <updated>2026-08-24T19:34:03.000Z</updated>
-        <summary type="html"><![CDATA[<p><a href="https://platform.acedata.cloud/documents/codex-integration" target="_blank" rel="noopener">Codex</a> 是 OpenAI 推出的编程 Agent，通过 <co]]></summary>
-        <author>
-            <name>静觅</name>
         </author>
     </entry>
 </feed>

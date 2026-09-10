@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-09-09T02:26:21.751Z</updated>
+    <updated>2026-09-10T02:26:25.782Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BPG 连接建立失败问题的答案和解析]]></title>
+        <id>https://www.kawabangga.com/?p=7413</id>
+        <link href="https://www.kawabangga.com/posts/7413"/>
+        <updated>2026-09-09T08:39:35.000Z</updated>
+        <summary type="html"><![CDATA[本文是 BPG 连接建立失败问题 一文的答案和解析。 抓包文件中有两处可疑的地方。 第一处是 BGP OPEN […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暑假的英语补习]]></title>
+        <id>https://blog.codingnow.com/2026/09/summer.html</id>
+        <link href="https://blog.codingnow.com/2026/09/summer.html"/>
+        <updated>2026-09-09T06:53:21.000Z</updated>
+        <summary type="html"><![CDATA[对云豆来说，这个暑假特别长。 他小学毕业了，6 月中就已放暑假，9 月 1 日方开学进入初中。自然没有学校布置的暑假作业。我不想他整个假期都沉迷在短视频和蛋仔派对中，所以每天给他安排了英语学习。 7 月初，我记录过对孩子之前的英文辅导。先前，我用的《英语在用：剑桥初级英语语法》给他补习基础语法。学习的效果还可以，原本以为可以在暑假过渡到中级本。但读了两天后就发现完全进行不下去。倒不是中级语法难度大了很多，而是他本身的阅读能力跟不上。 阅读不仅仅是 “英文” 语言的问题，换成中文也一样。所以，我换了一套书：《Basic Reading 1200 Key Words》...]]></summary>
+        <author>
+            <name>云风的 BLOG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X402 网络与支付方式]]></title>
+        <id>https://cuiqingcai.com/3924044.html</id>
+        <link href="https://cuiqingcai.com/3924044.html"/>
+        <updated>2026-09-08T19:20:44.000Z</updated>
+        <summary type="html"><![CDATA[<p>Ace Data Cloud X402 当前围绕 USDC 结算，支持 EVM 和 Solana 两类链。不同网络的签名方式、资产地址、gas 行为和适用场景不同，接入前需要先选好网络。</p>
+<h2 id="网络标识使用-CAIP-2"><a href="#网络标识使用]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VS Code + Seedance MCP]]></title>
         <id>https://cuiqingcai.com/3837622.html</id>
@@ -235,37 +267,6 @@ Continue reading...]]></summary>
 <p>本文档将详细介绍 Veo Tasks API 的对接说明，帮助您轻松集成并充分利用该 API 的强大功能。通过 Veo]]></summary>
         <author>
             <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Localization Translate API 的对接和使用]]></title>
-        <id>https://cuiqingcai.com/3751258.html</id>
-        <link href="https://cuiqingcai.com/3751258.html"/>
-        <updated>2026-08-26T05:34:18.000Z</updated>
-        <summary type="html"><![CDATA[<p>Localization Translate API 的主要功能是通过输入需要翻译的文本来获取翻译后的文本，同时翻译后的语言可以自定义，并且翻译结果可以采用 <code>json</code> ， <code>markdown</code> 俩种主流的方法来输出。</p>]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Studio 建站旧入口]]></title>
-        <id>https://cuiqingcai.com/3716054.html</id>
-        <link href="https://cuiqingcai.com/3716054.html"/>
-        <updated>2026-08-25T19:47:34.000Z</updated>
-        <summary type="html"><![CDATA[<p>本页已合并到新版分步教程，请从 <a href="https://platform.acedata.cloud/documents/earning-whitelabel-studio" target="_blank" rel="noopener">Studio 白牌从 0]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ingress 流量整形]]></title>
-        <id>https://www.kawabangga.com/?p=7376</id>
-        <link href="https://www.kawabangga.com/posts/7376"/>
-        <updated>2026-08-25T15:03:00.000Z</updated>
-        <summary type="html"><![CDATA[问题是这样，我们有 2 组服务器，A 组和 B 组，一部分用户从 A 组下载文件，一部分从 B 组下载文件。分 […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
 </feed>

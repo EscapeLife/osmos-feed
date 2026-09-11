@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-09-10T02:26:25.782Z</updated>
+    <updated>2026-09-11T02:21:10.070Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 412 期）：禁止 issue，只用 PR]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html"/>
+        <updated>2026-09-11T00:11:50.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenCode 对接 Google 搜索 MCP]]></title>
+        <id>https://cuiqingcai.com/3045801.html</id>
+        <link href="https://cuiqingcai.com/3045801.html"/>
+        <updated>2026-09-10T05:10:01.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+  <p>📘 <strong>Overview</strong>：<a href="https://platform.acedata.cloud/documents/opencode-mcp-all" target="_blank" rel="noop]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude 对接 Suno MCP]]></title>
+        <id>https://cuiqingcai.com/3010444.html</id>
+        <link href="https://cuiqingcai.com/3010444.html"/>
+        <updated>2026-09-09T19:20:44.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+  <p>📘 <strong>总览指南</strong>：<a href="https://platform.acedata.cloud/documents/claude-desktop-mcp-all" target="_blank" rel="no]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BPG 连接建立失败问题的答案和解析]]></title>
         <id>https://www.kawabangga.com/?p=7413</id>
@@ -244,27 +276,6 @@ Continue reading...]]></summary>
         <updated>2026-08-27T22:06:50.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
   <p>📘 <strong>Overview</strong>：<a href="https://platform.acedata.cloud/documents/claude-desktop-mcp-all" target="_blank" rel]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在 Cherry Studio 中使用 Ace Data Cloud]]></title>
-        <id>https://cuiqingcai.com/3851110.html</id>
-        <link href="https://cuiqingcai.com/3851110.html"/>
-        <updated>2026-08-27T09:18:30.000Z</updated>
-        <summary type="html"><![CDATA[<p><a href="https://cherry-ai.com/" target="_blank" rel="noopener">Cherry Studio</a> 是一款开源的多模型 AI 桌面客户端，支持 Windows、macOS、Linux。它「自定义服务商 + 自定]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Veo Tasks API 的对接和使用]]></title>
-        <id>https://cuiqingcai.com/3806919.html</id>
-        <link href="https://cuiqingcai.com/3806919.html"/>
-        <updated>2026-08-26T21:01:59.000Z</updated>
-        <summary type="html"><![CDATA[<p>Veo Tasks API 的主要功能是通过输入 Veo Videos Generation API 生成的任务ID来查询该任务的执行情况。</p>
-<p>本文档将详细介绍 Veo Tasks API 的对接说明，帮助您轻松集成并充分利用该 API 的强大功能。通过 Veo]]></summary>
         <author>
             <name>静觅</name>
         </author>

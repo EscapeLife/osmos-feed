@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-09-11T02:21:10.070Z</updated>
+    <updated>2026-09-12T02:28:48.606Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -255,27 +255,6 @@ Continue reading...]]></summary>
         <updated>2026-08-28T19:49:21.000Z</updated>
         <summary type="html"><![CDATA[<p><img src="https://cdn.acedata.cloud/7b60deac4c.png" alt="一个完全挂着你自己品牌的 AI 站——聊天、绘图、音乐、视频都在里面"></p>
 <p>先说结论：你现在就能拥有一个和 <a href="https://stu]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html"/>
-        <updated>2026-08-27T23:56:43.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Desktop 对接 Kling MCP]]></title>
-        <id>https://cuiqingcai.com/3897210.html</id>
-        <link href="https://cuiqingcai.com/3897210.html"/>
-        <updated>2026-08-27T22:06:50.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-  <p>📘 <strong>Overview</strong>：<a href="https://platform.acedata.cloud/documents/claude-desktop-mcp-all" target="_blank" rel]]></summary>
         <author>
             <name>静觅</name>
         </author>

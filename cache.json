@@ -36,16 +36,6 @@
           "wordCount": null,
           "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html",
-          "publishedOn": "2026-08-27T23:56:43.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制",
-          "imageUrl": null
         }
       ]
     },
@@ -332,16 +322,6 @@
           "wordCount": 1533,
           "title": "把 AI 站变成你自己的生意：5 分钟开一个带你品牌的 AI 站，不用写代码",
           "imageUrl": "https://cdn.acedata.cloud/7b60deac4c.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/3897210.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>📘 <strong>Overview</strong>：<a href=\"https://platform.acedata.cloud/documents/claude-desktop-mcp-all\" target=\"_blank\" rel",
-          "link": "https://cuiqingcai.com/3897210.html",
-          "publishedOn": "2026-08-27T22:06:50.000Z",
-          "wordCount": 1257,
-          "title": "Claude Desktop 对接 Kling MCP",
-          "imageUrl": null
         }
       ]
     },

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-09-12T02:28:48.606Z</updated>
+    <updated>2026-09-13T02:27:17.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -244,17 +244,6 @@ Continue reading...]]></summary>
         <updated>2026-08-29T19:44:15.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
   <p>这是一篇总览文章：<strong>把 AceData Cloud 提供的 10 个 MCP Server 一次性接到 <a href="https://github.com/google-gemini/gemini-cli" target="_]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[把 AI 站变成你自己的生意：5 分钟开一个带你品牌的 AI 站，不用写代码]]></title>
-        <id>https://cuiqingcai.com/3975361.html</id>
-        <link href="https://cuiqingcai.com/3975361.html"/>
-        <updated>2026-08-28T19:49:21.000Z</updated>
-        <summary type="html"><![CDATA[<p><img src="https://cdn.acedata.cloud/7b60deac4c.png" alt="一个完全挂着你自己品牌的 AI 站——聊天、绘图、音乐、视频都在里面"></p>
-<p>先说结论：你现在就能拥有一个和 <a href="https://stu]]></summary>
         <author>
             <name>静觅</name>
         </author>

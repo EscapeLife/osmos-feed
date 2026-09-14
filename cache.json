@@ -292,26 +292,6 @@
           "wordCount": 2478,
           "title": "OpenAI Chat Completion API 申请及使用",
           "imageUrl": "https://cdn.acedata.cloud/dvc3cg.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3098056.html",
-          "author": null,
-          "description": "<p>本文将介绍一种 Pixverse Videos Generation API 对接说明，它是可以通过输入自定义参数来生成Pixverse官方的视频。</p>\n<h2 id=\"申请和使用\"><a href=\"#申请和使用\" class=\"headerlink\" title=\"",
-          "link": "https://cuiqingcai.com/3098056.html",
-          "publishedOn": "2026-08-30T05:54:16.000Z",
-          "wordCount": 3012,
-          "title": "Pixverse 视频生成 API 对接说明",
-          "imageUrl": "https://cdn.acedata.cloud/dvc3cg.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3061455.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>这是一篇总览文章：<strong>把 AceData Cloud 提供的 10 个 MCP Server 一次性接到 <a href=\"https://github.com/google-gemini/gemini-cli\" target=\"_",
-          "link": "https://cuiqingcai.com/3061455.html",
-          "publishedOn": "2026-08-29T19:44:15.000Z",
-          "wordCount": 1662,
-          "title": "Gemini CLI 对接 Ace Data Cloud MCP",
-          "imageUrl": "https://cdn.acedata.cloud/58te19.jpg"
         }
       ]
     },
@@ -325,7 +305,18 @@
       "title": "离别歌",
       "feedUrl": "https://www.leavesongs.com/feed",
       "siteUrl": "https://www.leavesongs.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.leavesongs.com/THINK/ai-bookkeeping-best-practices.html",
+          "author": "phithon",
+          "description": "我一直有记账的习惯，从国内在北京的时候就开始记了。现在搬到新加坡已有5年，日常涉及的场景越来越多，开销也比较杂，记账就成了一件不得不做的事。\n这几年我的记账方式一路迭代，从最开始的纯手工记录，到后来忍受官方弱智的AI，再到自己尝试写App，直到最近自己搭建了一个轻量的记账Agent，总算摸索出一套顺手、稳定且基本零成本的方案。这篇文章就按时间顺序，分享一下我这几年的折腾经历。\n0x01 手工...",
+          "link": "https://www.leavesongs.com/THINK/ai-bookkeeping-best-practices.html",
+          "publishedOn": "2026-09-13T16:38:00.000Z",
+          "wordCount": 237,
+          "title": "AI记账的最佳实践",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Reimu's blog",

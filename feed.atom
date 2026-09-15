@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-09-14T02:44:08.961Z</updated>
+    <updated>2026-09-15T02:47:05.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -224,16 +224,6 @@ Continue reading...]]></summary>
         <updated>2026-08-31T19:54:54.000Z</updated>
         <summary type="html"><![CDATA[<p>本文将介绍一种 SeeDance Videos Generation API 对接说明，它是可以通过输入自定义参数来生成SeeDance官方的视频。</p>
 <h2 id="申请流程"><a href="#申请流程" class="headerlink" title="申请]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Chat Completion API 申请及使用]]></title>
-        <id>https://cuiqingcai.com/3148158.html</id>
-        <link href="https://cuiqingcai.com/3148158.html"/>
-        <updated>2026-08-30T19:49:18.000Z</updated>
-        <summary type="html"><![CDATA[<p>OpenAI ChatGPT 是一款非常强大的 AI 对话系统，只要输入提示词，就能在短短几秒内生成流畅自然的回复。ChatGPT 以其出色的语言理解和生成能力在业界独树一帜，如今，ChatGPT 早已在各个行业和领域广泛应用，其影响力愈发显著。无论是日常对话、创意写作，还]]></summary>
         <author>
             <name>静觅</name>
         </author>

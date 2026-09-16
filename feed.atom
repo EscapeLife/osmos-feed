@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-09-15T02:47:05.231Z</updated>
+    <updated>2026-09-16T02:42:05.990Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -213,17 +213,6 @@ Continue reading...]]></summary>
         <updated>2026-09-01T19:36:33.000Z</updated>
         <summary type="html"><![CDATA[<p><img src="https://cdn.acedata.cloud/5c95d25eb3.png" alt="出海全球"></p>
 <p>很多人做 Ace Data Cloud 分销，只盯着国内。但这个平台本身就是全球化的：API 以美元定价、界面中英双语、支持 Str]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SeeDance Videos Generation API 对接说明]]></title>
-        <id>https://cuiqingcai.com/3234894.html</id>
-        <link href="https://cuiqingcai.com/3234894.html"/>
-        <updated>2026-08-31T19:54:54.000Z</updated>
-        <summary type="html"><![CDATA[<p>本文将介绍一种 SeeDance Videos Generation API 对接说明，它是可以通过输入自定义参数来生成SeeDance官方的视频。</p>
-<h2 id="申请流程"><a href="#申请流程" class="headerlink" title="申请]]></summary>
         <author>
             <name>静觅</name>
         </author>

@@ -43,7 +43,18 @@
       "title": "MacTalk-池建强的 Blog",
       "feedUrl": "https://macshuo.com/?feed=rss2",
       "siteUrl": "https://macshuo.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://macshuo.com/?p=2078",
+          "author": "MacTalk",
+          "description": "这半年来一直基于 Vibe Coding 做点产品，除了墨问本身的功能，已经发布 … Continue reading →",
+          "link": "https://macshuo.com/?p=2078",
+          "publishedOn": "2026-09-16T06:01:07.000Z",
+          "wordCount": 1031,
+          "title": "墨问发布第一款 Mac App：CatBar，极简 Mac 菜单栏图标管理工具",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Tinyfool的个人网站",
@@ -262,16 +273,6 @@
           "wordCount": 1198,
           "title": "OpenCode 配置总览",
           "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3320193.html",
-          "author": null,
-          "description": "<p><img src=\"https://cdn.acedata.cloud/5c95d25eb3.png\" alt=\"出海全球\"></p>\n<p>很多人做 Ace Data Cloud 分销，只盯着国内。但这个平台本身就是全球化的：API 以美元定价、界面中英双语、支持 Str",
-          "link": "https://cuiqingcai.com/3320193.html",
-          "publishedOn": "2026-09-01T19:36:33.000Z",
-          "wordCount": 1473,
-          "title": "出海推广实战：面向海外开发者，用英文内容赚美元佣金",
-          "imageUrl": "https://cdn.acedata.cloud/5c95d25eb3.png"
         }
       ]
     },

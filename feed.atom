@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-09-16T02:42:05.990Z</updated>
+    <updated>2026-09-17T02:46:05.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[墨问发布第一款 Mac App：CatBar，极简 Mac 菜单栏图标管理工具]]></title>
+        <id>https://macshuo.com/?p=2078</id>
+        <link href="https://macshuo.com/?p=2078"/>
+        <updated>2026-09-16T06:01:07.000Z</updated>
+        <summary type="html"><![CDATA[这半年来一直基于 Vibe Coding 做点产品，除了墨问本身的功能，已经发布 … Continue reading →]]></summary>
+        <author>
+            <name>MacTalk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI记账的最佳实践]]></title>
         <id>https://www.leavesongs.com/THINK/ai-bookkeeping-best-practices.html</id>
@@ -202,17 +212,6 @@ Continue reading...]]></summary>
         <link href="https://cuiqingcai.com/3410411.html"/>
         <updated>2026-09-02T20:40:11.000Z</updated>
         <summary type="html"><![CDATA[<p>OpenCode 的 Coding Plan 模型 Provider、IDE Extension 与 MCP 是三项独立能力。IDE Extension 连接本地 OpenCode runtime，并复用同一份 Provider 配置；它不代表宿主编辑器原生支持 Ace D]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[出海推广实战：面向海外开发者，用英文内容赚美元佣金]]></title>
-        <id>https://cuiqingcai.com/3320193.html</id>
-        <link href="https://cuiqingcai.com/3320193.html"/>
-        <updated>2026-09-01T19:36:33.000Z</updated>
-        <summary type="html"><![CDATA[<p><img src="https://cdn.acedata.cloud/5c95d25eb3.png" alt="出海全球"></p>
-<p>很多人做 Ace Data Cloud 分销，只盯着国内。但这个平台本身就是全球化的：API 以美元定价、界面中英双语、支持 Str]]></summary>
         <author>
             <name>静觅</name>
         </author>

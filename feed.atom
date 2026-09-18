@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-09-17T02:46:05.179Z</updated>
+    <updated>2026-09-18T02:32:57.447Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 413 期）：再见了，React Native]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html"/>
+        <updated>2026-09-18T00:03:02.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。（[通知] 下周五开始的中秋和十一假期，周刊休息。）...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[墨问发布第一款 Mac App：CatBar，极简 Mac 菜单栏图标管理工具]]></title>
         <id>https://macshuo.com/?p=2078</id>
@@ -202,16 +212,6 @@ Continue reading...]]></summary>
         <updated>2026-09-03T19:34:29.000Z</updated>
         <summary type="html"><![CDATA[<p>「申请（Application）」表示当前账户对某个服务的订阅关系——必须先申请，才能再为这个申请创建 API 凭证、调用业务接口。<strong>首次申请一个服务会自动获得该服务设定的免费额度</strong>（如 1 Credit），可立即试用。</p>
 <blockq]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenCode 配置总览]]></title>
-        <id>https://cuiqingcai.com/3410411.html</id>
-        <link href="https://cuiqingcai.com/3410411.html"/>
-        <updated>2026-09-02T20:40:11.000Z</updated>
-        <summary type="html"><![CDATA[<p>OpenCode 的 Coding Plan 模型 Provider、IDE Extension 与 MCP 是三项独立能力。IDE Extension 连接本地 OpenCode runtime，并复用同一份 Provider 配置；它不代表宿主编辑器原生支持 Ace D]]></summary>
         <author>
             <name>静觅</name>
         </author>

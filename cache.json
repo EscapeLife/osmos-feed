@@ -18,6 +18,16 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。（[通知] 下周五开始的中秋和十一假期，周刊休息。）...",
+          "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html",
+          "publishedOn": "2026-09-18T00:03:02.000Z",
+          "wordCount": null,
+          "title": "科技爱好者周刊（第 413 期）：再见了，React Native",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
@@ -262,16 +272,6 @@
           "publishedOn": "2026-09-03T19:34:29.000Z",
           "wordCount": 1542,
           "title": "创建 AceDataCloud 平台服务申请",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3410411.html",
-          "author": null,
-          "description": "<p>OpenCode 的 Coding Plan 模型 Provider、IDE Extension 与 MCP 是三项独立能力。IDE Extension 连接本地 OpenCode runtime，并复用同一份 Provider 配置；它不代表宿主编辑器原生支持 Ace D",
-          "link": "https://cuiqingcai.com/3410411.html",
-          "publishedOn": "2026-09-02T20:40:11.000Z",
-          "wordCount": 1198,
-          "title": "OpenCode 配置总览",
           "imageUrl": null
         }
       ]

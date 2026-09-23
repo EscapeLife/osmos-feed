@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-09-22T02:42:06.291Z</updated>
+    <updated>2026-09-23T02:42:34.523Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -108,16 +108,6 @@ Continue reading...]]></summary>
         <updated>2026-09-08T19:20:44.000Z</updated>
         <summary type="html"><![CDATA[<p>Ace Data Cloud X402 当前围绕 USDC 结算，支持 EVM 和 Solana 两类链。不同网络的签名方式、资产地址、gas 行为和适用场景不同，接入前需要先选好网络。</p>
 <h2 id="网络标识使用-CAIP-2"><a href="#网络标识使用]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VS Code + Seedance MCP]]></title>
-        <id>https://cuiqingcai.com/3837622.html</id>
-        <link href="https://cuiqingcai.com/3837622.html"/>
-        <updated>2026-09-07T19:20:22.000Z</updated>
-        <summary type="html"><![CDATA[<p>你刚用 Figma 出了一版 App 的新界面设计，发到群里征求意见。产品经理回了一句：”能不能看看动态效果？”自己写代码实现一遍太费时间，但你有一张 PNG 截图就够了——交给 Seedance MCP Server，它能把静态图变成一段带动效的视频。字节跳动的模型，对中]]></summary>
         <author>
             <name>静觅</name>
         </author>

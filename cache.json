@@ -182,16 +182,6 @@
           "wordCount": 1571,
           "title": "X402 网络与支付方式",
           "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3837622.html",
-          "author": null,
-          "description": "<p>你刚用 Figma 出了一版 App 的新界面设计，发到群里征求意见。产品经理回了一句：”能不能看看动态效果？”自己写代码实现一遍太费时间，但你有一张 PNG 截图就够了——交给 Seedance MCP Server，它能把静态图变成一段带动效的视频。字节跳动的模型，对中",
-          "link": "https://cuiqingcai.com/3837622.html",
-          "publishedOn": "2026-09-07T19:20:22.000Z",
-          "wordCount": 1475,
-          "title": "VS Code + Seedance MCP",
-          "imageUrl": null
         }
       ]
     },

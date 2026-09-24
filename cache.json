@@ -66,18 +66,7 @@
       "title": "卡瓦邦噶！",
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
-      "articles": [
-        {
-          "id": "https://www.kawabangga.com/?p=7413",
-          "author": "laixintao",
-          "description": "本文是 BPG 连接建立失败问题 一文的答案和解析。 抓包文件中有两处可疑的地方。 第一处是 BGP OPEN […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/7413",
-          "publishedOn": "2026-09-09T08:39:35.000Z",
-          "wordCount": 1515,
-          "title": "BPG 连接建立失败问题的答案和解析",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Manjusaka",
@@ -129,16 +118,6 @@
           "wordCount": 259,
           "title": "Caves of Qud 初体验",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.codingnow.com/2026/09/summer.html",
-          "author": null,
-          "description": "对云豆来说，这个暑假特别长。 他小学毕业了，6 月中就已放暑假，9 月 1 日方开学进入初中。自然没有学校布置的暑假作业。我不想他整个假期都沉迷在短视频和蛋仔派对中，所以每天给他安排了英语学习。 7 月初，我记录过对孩子之前的英文辅导。先前，我用的《英语在用：剑桥初级英语语法》给他补习基础语法。学习的效果还可以，原本以为可以在暑假过渡到中级本。但读了两天后就发现完全进行不下去。倒不是中级语法难度大了很多，而是他本身的阅读能力跟不上。 阅读不仅仅是 “英文” 语言的问题，换成中文也一样。所以，我换了一套书：《Basic Reading 1200 Key Words》...",
-          "link": "https://blog.codingnow.com/2026/09/summer.html",
-          "publishedOn": "2026-09-09T06:53:21.000Z",
-          "wordCount": 116,
-          "title": "暑假的英语补习",
-          "imageUrl": null
         }
       ]
     },
@@ -171,16 +150,6 @@
           "publishedOn": "2026-09-09T19:20:44.000Z",
           "wordCount": 1546,
           "title": "Claude 对接 Suno MCP",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiqingcai.com/3924044.html",
-          "author": null,
-          "description": "<p>Ace Data Cloud X402 当前围绕 USDC 结算，支持 EVM 和 Solana 两类链。不同网络的签名方式、资产地址、gas 行为和适用场景不同，接入前需要先选好网络。</p>\n<h2 id=\"网络标识使用-CAIP-2\"><a href=\"#网络标识使用",
-          "link": "https://cuiqingcai.com/3924044.html",
-          "publishedOn": "2026-09-08T19:20:44.000Z",
-          "wordCount": 1571,
-          "title": "X402 网络与支付方式",
           "imageUrl": null
         }
       ]

@@ -66,7 +66,18 @@
       "title": "卡瓦邦噶！",
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.kawabangga.com/?p=7422",
+          "author": "laixintao",
+          "description": "记录一下最近排查的一个问题：某台机器一上线就有丢包，同 Rack 同规格的其他机器都没有问题，由于负载都是一样 […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/7422",
+          "publishedOn": "2026-09-24T06:09:24.000Z",
+          "wordCount": 1677,
+          "title": "一次内存引起的网络丢包问题排查",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Manjusaka",
@@ -131,28 +142,7 @@
       "title": "静觅",
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
-      "articles": [
-        {
-          "id": "https://cuiqingcai.com/3045801.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>📘 <strong>Overview</strong>：<a href=\"https://platform.acedata.cloud/documents/opencode-mcp-all\" target=\"_blank\" rel=\"noop",
-          "link": "https://cuiqingcai.com/3045801.html",
-          "publishedOn": "2026-09-10T05:10:01.000Z",
-          "wordCount": 1511,
-          "title": "OpenCode 对接 Google 搜索 MCP",
-          "imageUrl": "https://cdn.acedata.cloud/dvc3cg.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/3010444.html",
-          "author": null,
-          "description": "<blockquote>\n  <p>📘 <strong>总览指南</strong>：<a href=\"https://platform.acedata.cloud/documents/claude-desktop-mcp-all\" target=\"_blank\" rel=\"no",
-          "link": "https://cuiqingcai.com/3010444.html",
-          "publishedOn": "2026-09-09T19:20:44.000Z",
-          "wordCount": 1546,
-          "title": "Claude 对接 Suno MCP",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "咸糖 - 自律者自由",

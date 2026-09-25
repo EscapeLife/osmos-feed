@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-09-24T02:31:51.088Z</updated>
+    <updated>2026-09-25T02:49:11.443Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[一次内存引起的网络丢包问题排查]]></title>
+        <id>https://www.kawabangga.com/?p=7422</id>
+        <link href="https://www.kawabangga.com/posts/7422"/>
+        <updated>2026-09-24T06:09:24.000Z</updated>
+        <summary type="html"><![CDATA[记录一下最近排查的一个问题：某台机器一上线就有丢包，同 Rack 同规格的其他机器都没有问题，由于负载都是一样 […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Caves of Qud 初体验]]></title>
         <id>https://blog.codingnow.com/2026/09/caves_of_qud.html</id>
@@ -56,28 +67,6 @@
         <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenCode 对接 Google 搜索 MCP]]></title>
-        <id>https://cuiqingcai.com/3045801.html</id>
-        <link href="https://cuiqingcai.com/3045801.html"/>
-        <updated>2026-09-10T05:10:01.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-  <p>📘 <strong>Overview</strong>：<a href="https://platform.acedata.cloud/documents/opencode-mcp-all" target="_blank" rel="noop]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude 对接 Suno MCP]]></title>
-        <id>https://cuiqingcai.com/3010444.html</id>
-        <link href="https://cuiqingcai.com/3010444.html"/>
-        <updated>2026-09-09T19:20:44.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-  <p>📘 <strong>总览指南</strong>：<a href="https://platform.acedata.cloud/documents/claude-desktop-mcp-all" target="_blank" rel="no]]></summary>
-        <author>
-            <name>静觅</name>
         </author>
     </entry>
 </feed>

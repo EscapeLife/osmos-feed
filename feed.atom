@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-09-28T02:53:48.802Z</updated>
+    <updated>2026-09-29T03:34:43.601Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -45,18 +45,6 @@ Continue reading...]]></summary>
         <summary type="html"><![CDATA[这半年来一直基于 Vibe Coding 做点产品，除了墨问本身的功能，已经发布 … Continue reading →]]></summary>
         <author>
             <name>MacTalk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI记账的最佳实践]]></title>
-        <id>https://www.leavesongs.com/THINK/ai-bookkeeping-best-practices.html</id>
-        <link href="https://www.leavesongs.com/THINK/ai-bookkeeping-best-practices.html"/>
-        <updated>2026-09-13T16:38:00.000Z</updated>
-        <summary type="html"><![CDATA[我一直有记账的习惯，从国内在北京的时候就开始记了。现在搬到新加坡已有5年，日常涉及的场景越来越多，开销也比较杂，记账就成了一件不得不做的事。
-这几年我的记账方式一路迭代，从最开始的纯手工记录，到后来忍受官方弱智的AI，再到自己尝试写App，直到最近自己搭建了一个轻量的记账Agent，总算摸索出一套顺手、稳定且基本零成本的方案。这篇文章就按时间顺序，分享一下我这几年的折腾经历。
-0x01 手工...]]></summary>
-        <author>
-            <name>phithon</name>
         </author>
     </entry>
 </feed>

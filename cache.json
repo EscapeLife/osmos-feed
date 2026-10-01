@@ -33,18 +33,7 @@
       "title": "MacTalk-池建强的 Blog",
       "feedUrl": "https://macshuo.com/?feed=rss2",
       "siteUrl": "https://macshuo.com",
-      "articles": [
-        {
-          "id": "https://macshuo.com/?p=2078",
-          "author": "MacTalk",
-          "description": "这半年来一直基于 Vibe Coding 做点产品，除了墨问本身的功能，已经发布 … Continue reading →",
-          "link": "https://macshuo.com/?p=2078",
-          "publishedOn": "2026-09-16T06:01:07.000Z",
-          "wordCount": 1031,
-          "title": "墨问发布第一款 Mac App：CatBar，极简 Mac 菜单栏图标管理工具",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Tinyfool的个人网站",

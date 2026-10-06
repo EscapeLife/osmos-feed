@@ -74,7 +74,18 @@
       "title": "Frost's Blog",
       "feedUrl": "https://frostming.com/feed.xml",
       "siteUrl": "https://frostming.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://frostming.com/2026/old-house/",
+          "author": null,
+          "description": "Frost Ming's personal blog",
+          "link": "https://frostming.com/posts/2026/old-house/",
+          "publishedOn": "2026-10-05T00:00:00.000Z",
+          "wordCount": 232,
+          "title": "变与不变",
+          "imageUrl": "https://frostming.com/og/2026/old-house.png"
+        }
+      ]
     },
     {
       "title": "Posts on Jiayuan Thoughts",

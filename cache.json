@@ -45,18 +45,7 @@
       "title": "卡瓦邦噶！",
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
-      "articles": [
-        {
-          "id": "https://www.kawabangga.com/?p=7422",
-          "author": "laixintao",
-          "description": "记录一下最近排查的一个问题：某台机器一上线就有丢包，同 Rack 同规格的其他机器都没有问题，由于负载都是一样 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/7422",
-          "publishedOn": "2026-09-24T06:09:24.000Z",
-          "wordCount": 1677,
-          "title": "一次内存引起的网络丢包问题排查",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Manjusaka",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-10-11T03:14:25.980Z</updated>
+    <updated>2026-10-12T03:37:42.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[点老救世记的深度体验]]></title>
+        <id>https://blog.codingnow.com/2026/10/dotage.html</id>
+        <link href="https://blog.codingnow.com/2026/10/dotage.html"/>
+        <updated>2026-10-11T11:30:36.000Z</updated>
+        <summary type="html"><![CDATA[我最近重新玩了两百小时的《Dotage 点老救世记》，对这个游戏有了很多新的认识。之前是在今年初玩了一百多小时，对这款一个人花了十年以上时间做的游戏相当佩服。经过近 400 小时的游戏时间，我对这个游戏的理解慢慢发生了变化。有不少游戏设计方面的东西值得研究，但却很难说清楚，需要用文字整理一下。 这是一款关于规划和选择的游戏。它固定了回合数（标准模式下，共 310 回合），所以玩家实际上需要规划整个游戏过程，无法通过控制游戏发展节奏来决定是速通（注：实际上有手段更快结束并赢得游戏）还是慢慢发展。但玩家可以选择怎样规划这个游戏过程：是把发展节奏拉长，平缓延续到游戏结束；还是快速发展到一定阶段，停留在某个规模对抗系统直到终末。这会导致非常不一样的游戏体验，并没有最优通解。 本质上，玩家需要积累健康、希望、温度、自然四个维度的点数，对抗终局的天灾点数：即玩家在终局点积累的对应点数需要和系统设定的点数相当。在整个游戏过程中，还会动态设定若干检查点（事件），在检查点处，玩家积累的点数会重置，根据检查点处点数和系统设定的点数比较，来决定获得增益还是惩罚。...]]></summary>
+        <author>
+            <name>云风的 BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[变与不变]]></title>
         <id>https://frostming.com/2026/old-house/</id>

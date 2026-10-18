@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-10-17T02:26:04.578Z</updated>
+    <updated>2026-10-18T02:25:59.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[网络问题排查的思路和技巧]]></title>
+        <id>https://www.kawabangga.com/?p=7431</id>
+        <link href="https://www.kawabangga.com/posts/7431"/>
+        <updated>2026-10-17T09:54:55.000Z</updated>
+        <summary type="html"><![CDATA[这一篇计划很久了还没有写，今天终于开始下笔了。 许久无从下笔的原因是，网络问题排查——哦不，应该说不光网络，基 […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[点老救世记的深度体验]]></title>
         <id>https://blog.codingnow.com/2026/10/dotage.html</id>

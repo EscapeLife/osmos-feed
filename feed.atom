@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-10-20T02:51:56.488Z</updated>
+    <updated>2026-10-21T02:46:04.276Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[QWERTY 键盘布局的发展历史]]></title>
+        <id>https://blog.codingnow.com/2026/10/qwerty.html</id>
+        <link href="https://blog.codingnow.com/2026/10/qwerty.html"/>
+        <updated>2026-10-20T07:20:14.000Z</updated>
+        <summary type="html"><![CDATA[在我最初学习键盘打字时，曾今为看似随机的键盘字母排列困惑不已。当时为找到一个字母就需要看半天键盘，我觉得键盘按字母表次序排列不好吗？当时流行的解释是：机械键盘在输入时，一些常用的字母组合的连杆，在快速连续击打时容易卡在一起。所以，现在的 QWERTY 排列“旨在降低打字速度”。这个说法至今广为流传，而我最近读了一篇 Koichi Yasuoka 和 Motoko Yasuoka 写的论文《 On the Prehistory of QWERTY 》，更清晰的描述了 QWERTY 键盘的发展脉络，我觉得可信度更高。 论文分两个部分，第一部分阐述了先进流行的 QWERTY 键盘是怎样演变到今天的布局的，第二部分驳斥了“旨在降低打字速度”的说法。后者源于 1980 年东京大学 Hisao Yamada 教授发表的论文《 A Historical Study of Typewriters and Typing Methods 》。论文中有这么一段话： ： Hence the original keyboard arrangement...]]></summary>
+        <author>
+            <name>云风的 BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[网络问题排查的思路和技巧]]></title>
         <id>https://www.kawabangga.com/?p=7431</id>

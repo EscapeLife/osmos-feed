@@ -47,6 +47,16 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=7443",
+          "author": "laixintao",
+          "description": "上周在 NUS 做了一个分享，内容是 SRE 的工作内容和成长路线。下面是录制的视频。 涉及的数据和 inci […]\nContinue reading...\n相关文章:\n\nSRE&Devops 每周分享 Issue #1 Opening\nSRE&Devops 每周分享 Issue #4 AWS Layer",
+          "link": "https://www.kawabangga.com/posts/7443",
+          "publishedOn": "2026-10-26T08:09:23.000Z",
+          "wordCount": 1061,
+          "title": "演讲视频：Do you want to be a SRE?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=7431",
           "author": "laixintao",
           "description": "这一篇计划很久了还没有写，今天终于开始下笔了。 许久无从下笔的原因是，网络问题排查——哦不，应该说不光网络，基 […]\nContinue reading...",
@@ -74,7 +84,18 @@
       "title": "Frost's Blog",
       "feedUrl": "https://frostming.com/feed.xml",
       "siteUrl": "https://frostming.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://frostming.com/2026/swordsman/",
+          "author": null,
+          "description": "Frost Ming's personal blog",
+          "link": "https://frostming.com/posts/2026/swordsman/",
+          "publishedOn": "2026-10-26T00:00:00.000Z",
+          "wordCount": 244,
+          "title": "笑傲江湖",
+          "imageUrl": "https://frostming.com/og/2026/swordsman.png"
+        }
+      ]
     },
     {
       "title": "Posts on Jiayuan Thoughts",

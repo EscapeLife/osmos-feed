@@ -47,6 +47,16 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=7446",
+          "author": "laixintao",
+          "description": "一起去上班路上： 欣：你喜欢玩什么游戏？ 我：啥？ 欣：我同事聊起来游戏，他们问我你玩什么游戏。 我：那一定是 […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/7446",
+          "publishedOn": "2026-10-29T10:37:24.000Z",
+          "wordCount": 1010,
+          "title": "游戏",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=7443",
           "author": "laixintao",
           "description": "上周在 NUS 做了一个分享，内容是 SRE 的工作内容和成长路线。下面是录制的视频。 涉及的数据和 inci […]\nContinue reading...\n相关文章:\n\nSRE&Devops 每周分享 Issue #1 Opening\nSRE&Devops 每周分享 Issue #4 AWS Layer",

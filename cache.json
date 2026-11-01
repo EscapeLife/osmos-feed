@@ -18,13 +18,23 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
-          "id": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html",
+          "id": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html",
           "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。（[通知] 下周五开始的中秋和十一假期，周刊休息。）...",
-          "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html",
-          "publishedOn": "2026-09-18T00:03:02.000Z",
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html",
+          "publishedOn": "2026-10-30T00:13:03.000Z",
           "wordCount": null,
-          "title": "科技爱好者周刊（第 413 期）：再见了，React Native",
+          "title": "科技爱好者周刊（第 417 期）：不要让 AI 代表你",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html",
+          "publishedOn": "2026-10-23T00:06:16.000Z",
+          "wordCount": null,
+          "title": "科技爱好者周刊（第 416 期）：编程已经面目全非",
           "imageUrl": null
         }
       ]
@@ -64,16 +74,6 @@
           "publishedOn": "2026-10-26T08:09:23.000Z",
           "wordCount": 1061,
           "title": "演讲视频：Do you want to be a SRE?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=7431",
-          "author": "laixintao",
-          "description": "这一篇计划很久了还没有写，今天终于开始下笔了。 许久无从下笔的原因是，网络问题排查——哦不，应该说不光网络，基 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/7431",
-          "publishedOn": "2026-10-17T09:54:55.000Z",
-          "wordCount": 1333,
-          "title": "网络问题排查的思路和技巧",
           "imageUrl": null
         }
       ]

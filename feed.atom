@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-11-01T03:39:31.281Z</updated>
+    <updated>2026-11-02T03:45:18.956Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今天去把我的牙装上了]]></title>
+        <id>https://macshuo.com/?p=2087</id>
+        <link href="https://macshuo.com/?p=2087"/>
+        <updated>2026-11-01T08:47:24.000Z</updated>
+        <summary type="html"><![CDATA[去年十月拔掉了两颗牙，加上之前拔的另一颗腮牙，我一共掉了三颗牙，左下一颗，右上两 … Continue reading →]]></summary>
+        <author>
+            <name>MacTalk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 417 期）：不要让 AI 代表你]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html</id>

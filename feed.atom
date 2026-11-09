@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-11-08T03:43:45.395Z</updated>
+    <updated>2026-11-09T03:56:36.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[用 Ace Data Cloud Studio，做一套属于自己的微信动态表情包]]></title>
+        <id>https://cuiqingcai.com/4936306.html</id>
+        <link href="https://cuiqingcai.com/4936306.html"/>
+        <updated>2026-11-08T10:36:00.000Z</updated>
+        <summary type="html"><![CDATA[从九宫格角色选稿到 GIF 动画、专辑头像和横幅，本文演示如何使用 Ace Data Cloud Studio 与 GPT Image 2.6，快速完成一套角色统一的微信动态表情包。]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT Image 2.6 GIF 实测：一张图片，怎样变成会动的品牌角色？]]></title>
+        <id>https://cuiqingcai.com/4406787.html</id>
+        <link href="https://cuiqingcai.com/4406787.html"/>
+        <updated>2026-11-07T10:37:00.000Z</updated>
+        <summary type="html"><![CDATA[从传统逐帧制作的痛点出发，实测如何在 Ace Data Studio 中使用 GPT Image 2.6，把一张静态羊角色图片转化为自然循环的 GIF 动画。]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT Image 2.6 正式发布：更快生成、更准编辑，AI 图像进入生产力时代]]></title>
+        <id>https://cuiqingcai.com/4404314.html</id>
+        <link href="https://cuiqingcai.com/4404314.html"/>
+        <updated>2026-11-06T10:44:00.000Z</updated>
+        <summary type="html"><![CDATA[从真实视觉生产中的返工问题出发，介绍 GPT Image 2.6 的生成提速、精准编辑、Flare 与 Sunburst 分工，以及通过 AceDataCloud 接入图像工作流的方式。]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 418 期）：如果科技停止在21世纪初]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html</id>
@@ -17,6 +47,56 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[从博客到视频：我用 Ace Data Cloud Studio 完成了一次完整创作]]></title>
+        <id>https://cuiqingcai.com/4028677.html</id>
+        <link href="https://cuiqingcai.com/4028677.html"/>
+        <updated>2026-11-05T10:47:00.000Z</updated>
+        <summary type="html"><![CDATA[以一篇 SEO 教程博客为例，分享如何在 Ace Data Cloud Studio 中完成脚本拆分、旁白优化、图片与视频生成，并使用 FFmpeg 在本地合成成片。]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不想维护搜索爬虫，怎么每天跟踪关键词排名？用 SERP API 做一个 SEO 监测脚本]]></title>
+        <id>https://cuiqingcai.com/4055938.html</id>
+        <link href="https://cuiqingcai.com/4055938.html"/>
+        <updated>2026-11-04T10:28:00.000Z</updated>
+        <summary type="html"><![CDATA[不用维护搜索页面爬虫，用 AceDataCloud Google SERP API、Python 和 SQLite 建立首屏排名监测。文章重点说明搜索口径、域名匹配、未命中与请求失败的区别，以及定时执行和结果核验。]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从“会回答”到“能执行”：如何用 GLM API 构建生产级 AI Agent]]></title>
+        <id>https://cuiqingcai.com/4733335.html</id>
+        <link href="https://cuiqingcai.com/4733335.html"/>
+        <updated>2026-11-04T10:25:00.000Z</updated>
+        <summary type="html"><![CDATA[大模型正在从生成答案走向执行任务。本文从 GLM 的长程任务与工具调用能力出发，拆解生产级 AI Agent 的架构、业务闭环、安全边界、评估方法和模型升级策略。]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暗场最容易暴露 AI 画质短板：Ace Data Cloud GPT Image 2.5 上线 XHigh 与 Max]]></title>
+        <id>https://cuiqingcai.com/4291788.html</id>
+        <link href="https://cuiqingcai.com/4291788.html"/>
+        <updated>2026-11-01T10:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Ace Data Cloud GPT Image 2.5 新增 XHigh 与 Max 质量档位。我们以复杂科幻灾难暗场为例，对比 Low、Medium、High、XHigh 与 Max，观察高质量输出如何保留阴影中的人物、建筑、机械、烟雾与反射细节。]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从零搭建自己的 AI Studio：建站、品牌、定价和独立域名一次讲清楚]]></title>
+        <id>https://cuiqingcai.com/4643130.html</id>
+        <link href="https://cuiqingcai.com/4643130.html"/>
+        <updated>2026-11-01T10:20:00.000Z</updated>
+        <summary type="html"><![CDATA[从创建 Studio 子站开始，完整讲清品牌设置、登录方式、能力管理、价格配置、自定义域名和上线检查。]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[今天去把我的牙装上了]]></title>
         <id>https://macshuo.com/?p=2087</id>
         <link href="https://macshuo.com/?p=2087"/>
@@ -24,6 +104,16 @@
         <summary type="html"><![CDATA[去年十月拔掉了两颗牙，加上之前拔的另一颗腮牙，我一共掉了三颗牙，左下一颗，右上两 … Continue reading →]]></summary>
         <author>
             <name>MacTalk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[几分钟搭好自己的 AI 工作台：Ace Data Cloud Studio 分站创建与自定义域名指南]]></title>
+        <id>https://cuiqingcai.com/4267826.html</id>
+        <link href="https://cuiqingcai.com/4267826.html"/>
+        <updated>2026-10-30T01:36:00.000Z</updated>
+        <summary type="html"><![CDATA[不用开发页面，也不用单独部署服务。通过 Ace Data Cloud  Studio，你可以快速创建在线 AI 工作台，使用 AI Agent 创建和发布任务，并设置自己的名称、Logo 与自定义域名。]]></summary>
+        <author>
+            <name>静觅</name>
         </author>
     </entry>
     <entry>
@@ -45,6 +135,46 @@
 Continue reading...]]></summary>
         <author>
             <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每天追热点、写文章、做海报太累？我把这套流程交给了自动任务]]></title>
+        <id>https://cuiqingcai.com/4118462.html</id>
+        <link href="https://cuiqingcai.com/4118462.html"/>
+        <updated>2026-10-28T10:32:00.000Z</updated>
+        <summary type="html"><![CDATA[每天查新闻、比热点、写文章、做海报再逐个平台发布，真正累人的往往是重复劳动。本文介绍如何使用 Ace Data Cloud 自动任务，把热点发现、内容创作和海报生成整理成每天自动运行的工作流。]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AceDataCloud 分站搭好以后，怎么把站点设置成自己的样子？]]></title>
+        <id>https://cuiqingcai.com/4888178.html</id>
+        <link href="https://cuiqingcai.com/4888178.html"/>
+        <updated>2026-10-28T01:28:00.000Z</updated>
+        <summary type="html"><![CDATA[分站搭好以后，名称、Logo、登录方式、域名和服务价格该怎么设置？跟着后台页面走一遍，把首页导航、Banner、文档和运营相关配置一起整理好。]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Codex 配置太折腾？用一个 Provider 简化模型接入]]></title>
+        <id>https://cuiqingcai.com/4198485.html</id>
+        <link href="https://cuiqingcai.com/4198485.html"/>
+        <updated>2026-10-27T10:15:00.000Z</updated>
+        <summary type="html"><![CDATA[一篇可直接照做的 Codex 接入教程：从获取 Ace Data Cloud API Key、安装 Codex，到配置 macOS、Linux、Windows 环境变量与 config.toml，再到模型选择、验证和常见故障排查。]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[把 Maestro 接进 WorkBuddy：一句话生成完整视频的 MCP 工作流]]></title>
+        <id>https://cuiqingcai.com/4086461.html</id>
+        <link href="https://cuiqingcai.com/4086461.html"/>
+        <updated>2026-10-27T01:31:00.000Z</updated>
+        <summary type="html"><![CDATA[不用离开 WorkBuddy，也能把一句自然语言需求交给 Maestro 继续完成脚本、素材、配音、剪辑与渲染。本文从实际使用角度讲清接入思路、提示词写法和异步任务处理。]]></summary>
+        <author>
+            <name>静觅</name>
         </author>
     </entry>
     <entry>

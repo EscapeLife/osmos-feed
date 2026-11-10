@@ -76,16 +76,6 @@
           "wordCount": 1010,
           "title": "游戏",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=7443",
-          "author": "laixintao",
-          "description": "上周在 NUS 做了一个分享，内容是 SRE 的工作内容和成长路线。下面是录制的视频。 涉及的数据和 inci […]\nContinue reading...\n相关文章:\n\nSRE&Devops 每周分享 Issue #1 Opening\nSRE&Devops 每周分享 Issue #4 AWS Layer",
-          "link": "https://www.kawabangga.com/posts/7443",
-          "publishedOn": "2026-10-26T08:09:23.000Z",
-          "wordCount": 1061,
-          "title": "演讲视频：Do you want to be a SRE?",
-          "imageUrl": null
         }
       ]
     },
@@ -105,18 +95,7 @@
       "title": "Frost's Blog",
       "feedUrl": "https://frostming.com/feed.xml",
       "siteUrl": "https://frostming.com/",
-      "articles": [
-        {
-          "id": "https://frostming.com/2026/swordsman/",
-          "author": null,
-          "description": "Frost Ming's personal blog",
-          "link": "https://frostming.com/posts/2026/swordsman/",
-          "publishedOn": "2026-10-26T00:00:00.000Z",
-          "wordCount": 244,
-          "title": "笑傲江湖",
-          "imageUrl": "https://frostming.com/og/2026/swordsman.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Posts on Jiayuan Thoughts",
@@ -140,7 +119,18 @@
       "title": "云风的 BLOG",
       "feedUrl": "https://blog.codingnow.com/atom.xml",
       "siteUrl": "https://blog.codingnow.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://blog.codingnow.com/2026/11/abc_mod.html",
+          "author": null,
+          "description": "最近有网友用 AI 逆向了智能 ABC ，把里面的笔划码表导了出来，用 RIME 复刻了一版。 众所周知，我是 ABC 的忠实用户。从 DOS 版天汇 ABC 用到 Windows 上智能 ABC 彻底退役，一直念念不忘。在 10 年前我曾经动过念头自己写一个，后来被 IME 开发的繁杂劝退了。当时用 C 从头写了一个简单的 IME 框架，又给网上不少开源的 IME 框架提过 PR ，最终没坚持下来。有朋友提醒我说 RIME 经过过年的发展已经可以高度定制了，我一直没在意，直到这次、我才正正经经的研究了它。 试用了上面那个智能 ABC 复刻版，和我记忆中的手感还是有不少差距。原本我想先在这个基础上改改的，随之发现改不太动 AI 生成的代码。细想了一下，在 RIME 基础上做开发工作量并不大。而关键的码表已经是现成的了，就自己动手玩了一下，果真一天时间就搭了个雏形。最花时间的倒不是实现，而是搞明白 RIME...",
+          "link": "https://blog.codingnow.com/2026/11/abc_mod.html",
+          "publishedOn": "2026-11-09T09:37:28.000Z",
+          "wordCount": 320,
+          "title": "复活 ABC 输入法",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "piglei",

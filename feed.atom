@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-11-10T05:30:00.520Z</updated>
+    <updated>2026-11-11T04:00:23.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -163,26 +163,6 @@ Continue reading...]]></summary>
         <link href="https://cuiqingcai.com/4888178.html"/>
         <updated>2026-10-28T01:28:00.000Z</updated>
         <summary type="html"><![CDATA[分站搭好以后，名称、Logo、登录方式、域名和服务价格该怎么设置？跟着后台页面走一遍，把首页导航、Banner、文档和运营相关配置一起整理好。]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Codex 配置太折腾？用一个 Provider 简化模型接入]]></title>
-        <id>https://cuiqingcai.com/4198485.html</id>
-        <link href="https://cuiqingcai.com/4198485.html"/>
-        <updated>2026-10-27T10:15:00.000Z</updated>
-        <summary type="html"><![CDATA[一篇可直接照做的 Codex 接入教程：从获取 Ace Data Cloud API Key、安装 Codex，到配置 macOS、Linux、Windows 环境变量与 config.toml，再到模型选择、验证和常见故障排查。]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[把 Maestro 接进 WorkBuddy：一句话生成完整视频的 MCP 工作流]]></title>
-        <id>https://cuiqingcai.com/4086461.html</id>
-        <link href="https://cuiqingcai.com/4086461.html"/>
-        <updated>2026-10-27T01:31:00.000Z</updated>
-        <summary type="html"><![CDATA[不用离开 WorkBuddy，也能把一句自然语言需求交给 Maestro 继续完成脚本、素材、配音、剪辑与渲染。本文从实际使用角度讲清接入思路、提示词写法和异步任务处理。]]></summary>
         <author>
             <name>静觅</name>
         </author>

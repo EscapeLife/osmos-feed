@@ -68,6 +68,16 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=7449",
+          "author": "laixintao",
+          "description": "在一次公司的培训上，一个同事带了一个塑料水瓶，我看见过这种塑料瓶子很多次，我问他是从哪里买的。他说，新加坡人在 […]\nContinue reading...\n相关文章:\n\n生活来在一个包里\n给明年依然年轻的我们",
+          "link": "https://www.kawabangga.com/posts/7449",
+          "publishedOn": "2026-11-11T15:12:22.000Z",
+          "wordCount": 1271,
+          "title": "消费理念",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=7446",
           "author": "laixintao",
           "description": "一起去上班路上： 欣：你喜欢玩什么游戏？ 我：啥？ 欣：我同事聊起来游戏，他们问我你玩什么游戏。 我：那一定是 […]\nContinue reading...",
@@ -232,26 +242,6 @@
           "wordCount": 1361,
           "title": "几分钟搭好自己的 AI 工作台：Ace Data Cloud Studio 分站创建与自定义域名指南",
           "imageUrl": "https://cdn.acedata2.cloud/gpt-image/188af8d69aa1f56c344d2b24bccf32504905cd6bed8b7bd0430459136aff750e.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/4118462.html",
-          "author": null,
-          "description": "每天查新闻、比热点、写文章、做海报再逐个平台发布，真正累人的往往是重复劳动。本文介绍如何使用 Ace Data Cloud 自动任务，把热点发现、内容创作和海报生成整理成每天自动运行的工作流。",
-          "link": "https://cuiqingcai.com/4118462.html",
-          "publishedOn": "2026-10-28T10:32:00.000Z",
-          "wordCount": 1307,
-          "title": "每天追热点、写文章、做海报太累？我把这套流程交给了自动任务",
-          "imageUrl": "https://cdn.acedata2.cloud/gpt-image/0b49083466c03abf731be779eed89c7c5b55b8f6d6cf19eb25aaefae2ca732d8.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/4888178.html",
-          "author": null,
-          "description": "分站搭好以后，名称、Logo、登录方式、域名和服务价格该怎么设置？跟着后台页面走一遍，把首页导航、Banner、文档和运营相关配置一起整理好。",
-          "link": "https://cuiqingcai.com/4888178.html",
-          "publishedOn": "2026-10-28T01:28:00.000Z",
-          "wordCount": 1277,
-          "title": "AceDataCloud 分站搭好以后，怎么把站点设置成自己的样子？",
-          "imageUrl": "https://cdn.acedata2.cloud/nanobanana/e2324427114b2bdd22a7b99935db6b87a2685fbec2a5cdb4236694496ba392c4.jpg"
         }
       ]
     },

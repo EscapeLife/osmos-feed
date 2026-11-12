@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-11-11T04:00:23.724Z</updated>
+    <updated>2026-11-12T05:11:40.230Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[消费理念]]></title>
+        <id>https://www.kawabangga.com/?p=7449</id>
+        <link href="https://www.kawabangga.com/posts/7449"/>
+        <updated>2026-11-11T15:12:22.000Z</updated>
+        <summary type="html"><![CDATA[在一次公司的培训上，一个同事带了一个塑料水瓶，我看见过这种塑料瓶子很多次，我问他是从哪里买的。他说，新加坡人在 […]
+Continue reading...
+相关文章:
+
+生活来在一个包里
+给明年依然年轻的我们]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[复活 ABC 输入法]]></title>
         <id>https://blog.codingnow.com/2026/11/abc_mod.html</id>
@@ -145,26 +160,6 @@
 Continue reading...]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每天追热点、写文章、做海报太累？我把这套流程交给了自动任务]]></title>
-        <id>https://cuiqingcai.com/4118462.html</id>
-        <link href="https://cuiqingcai.com/4118462.html"/>
-        <updated>2026-10-28T10:32:00.000Z</updated>
-        <summary type="html"><![CDATA[每天查新闻、比热点、写文章、做海报再逐个平台发布，真正累人的往往是重复劳动。本文介绍如何使用 Ace Data Cloud 自动任务，把热点发现、内容创作和海报生成整理成每天自动运行的工作流。]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AceDataCloud 分站搭好以后，怎么把站点设置成自己的样子？]]></title>
-        <id>https://cuiqingcai.com/4888178.html</id>
-        <link href="https://cuiqingcai.com/4888178.html"/>
-        <updated>2026-10-28T01:28:00.000Z</updated>
-        <summary type="html"><![CDATA[分站搭好以后，名称、Logo、登录方式、域名和服务价格该怎么设置？跟着后台页面走一遍，把首页导航、Banner、文档和运营相关配置一起整理好。]]></summary>
-        <author>
-            <name>静觅</name>
         </author>
     </entry>
 </feed>

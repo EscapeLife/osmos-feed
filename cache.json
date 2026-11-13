@@ -18,6 +18,16 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html",
+          "publishedOn": "2026-11-13T00:08:29.000Z",
+          "wordCount": null,
+          "title": "科技爱好者周刊（第 419 期）：机房来了，写字楼走了",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
@@ -75,16 +85,6 @@
           "publishedOn": "2026-11-11T15:12:22.000Z",
           "wordCount": 1271,
           "title": "消费理念",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=7446",
-          "author": "laixintao",
-          "description": "一起去上班路上： 欣：你喜欢玩什么游戏？ 我：啥？ 欣：我同事聊起来游戏，他们问我你玩什么游戏。 我：那一定是 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/7446",
-          "publishedOn": "2026-10-29T10:37:24.000Z",
-          "wordCount": 1010,
-          "title": "游戏",
           "imageUrl": null
         }
       ]

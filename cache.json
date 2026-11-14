@@ -36,16 +36,6 @@
           "wordCount": null,
           "title": "科技爱好者周刊（第 418 期）：如果科技停止在21世纪初",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html",
-          "publishedOn": "2026-10-30T00:13:03.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 417 期）：不要让 AI 代表你",
-          "imageUrl": null
         }
       ]
     },
@@ -232,16 +222,6 @@
           "wordCount": 1431,
           "title": "从零搭建自己的 AI Studio：建站、品牌、定价和独立域名一次讲清楚",
           "imageUrl": "https://cdn.acedata2.cloud/gpt-image/07b81199bdc7afd38700b7db44a05300720653d4ed17533a6a7dd8df8ff10fe3.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/4267826.html",
-          "author": null,
-          "description": "不用开发页面，也不用单独部署服务。通过 Ace Data Cloud  Studio，你可以快速创建在线 AI 工作台，使用 AI Agent 创建和发布任务，并设置自己的名称、Logo 与自定义域名。",
-          "link": "https://cuiqingcai.com/4267826.html",
-          "publishedOn": "2026-10-30T01:36:00.000Z",
-          "wordCount": 1361,
-          "title": "几分钟搭好自己的 AI 工作台：Ace Data Cloud Studio 分站创建与自定义域名指南",
-          "imageUrl": "https://cdn.acedata2.cloud/gpt-image/188af8d69aa1f56c344d2b24bccf32504905cd6bed8b7bd0430459136aff750e.png"
         }
       ]
     },

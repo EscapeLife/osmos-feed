@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-11-13T04:27:55.173Z</updated>
+    <updated>2026-11-14T04:23:45.692Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
@@ -139,26 +139,6 @@ Continue reading...
         <summary type="html"><![CDATA[去年十月拔掉了两颗牙，加上之前拔的另一颗腮牙，我一共掉了三颗牙，左下一颗，右上两 … Continue reading →]]></summary>
         <author>
             <name>MacTalk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[几分钟搭好自己的 AI 工作台：Ace Data Cloud Studio 分站创建与自定义域名指南]]></title>
-        <id>https://cuiqingcai.com/4267826.html</id>
-        <link href="https://cuiqingcai.com/4267826.html"/>
-        <updated>2026-10-30T01:36:00.000Z</updated>
-        <summary type="html"><![CDATA[不用开发页面，也不用单独部署服务。通过 Ace Data Cloud  Studio，你可以快速创建在线 AI 工作台，使用 AI Agent 创建和发布任务，并设置自己的名称、Logo 与自定义域名。]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 417 期）：不要让 AI 代表你]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html"/>
-        <updated>2026-10-30T00:13:03.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
         </author>
     </entry>
 </feed>

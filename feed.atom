@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-11-15T04:07:55.674Z</updated>
+    <updated>2026-11-16T04:07:22.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ADSL 代理对接说明]]></title>
+        <id>https://cuiqingcai.com/3798879.html</id>
+        <link href="https://cuiqingcai.com/3798879.html"/>
+        <updated>2026-11-15T19:14:39.000Z</updated>
+        <summary type="html"><![CDATA[<p>在爬虫与反爬虫斗争愈演愈烈的情况下，各大网站和 App 的风控检测越来越强，其中一项就是 IP 封禁。</p>
+<p>为了解决 IP 封禁的困扰，一个有效的方式就是设置代理，设置代理之后，爬虫可以借助代理的 IP 来伪装自己的真实 IP 地址，从而突破反爬虫的限制。</p>]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 419 期）：机房来了，写字楼走了]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html</id>
@@ -109,36 +120,6 @@ Continue reading...
         <summary type="html"><![CDATA[大模型正在从生成答案走向执行任务。本文从 GLM 的长程任务与工具调用能力出发，拆解生产级 AI Agent 的架构、业务闭环、安全边界、评估方法和模型升级策略。]]></summary>
         <author>
             <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗场最容易暴露 AI 画质短板：Ace Data Cloud GPT Image 2.5 上线 XHigh 与 Max]]></title>
-        <id>https://cuiqingcai.com/4291788.html</id>
-        <link href="https://cuiqingcai.com/4291788.html"/>
-        <updated>2026-11-01T10:38:00.000Z</updated>
-        <summary type="html"><![CDATA[Ace Data Cloud GPT Image 2.5 新增 XHigh 与 Max 质量档位。我们以复杂科幻灾难暗场为例，对比 Low、Medium、High、XHigh 与 Max，观察高质量输出如何保留阴影中的人物、建筑、机械、烟雾与反射细节。]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从零搭建自己的 AI Studio：建站、品牌、定价和独立域名一次讲清楚]]></title>
-        <id>https://cuiqingcai.com/4643130.html</id>
-        <link href="https://cuiqingcai.com/4643130.html"/>
-        <updated>2026-11-01T10:20:00.000Z</updated>
-        <summary type="html"><![CDATA[从创建 Studio 子站开始，完整讲清品牌设置、登录方式、能力管理、价格配置、自定义域名和上线检查。]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今天去把我的牙装上了]]></title>
-        <id>https://macshuo.com/?p=2087</id>
-        <link href="https://macshuo.com/?p=2087"/>
-        <updated>2026-11-01T08:47:24.000Z</updated>
-        <summary type="html"><![CDATA[去年十月拔掉了两颗牙，加上之前拔的另一颗腮牙，我一共掉了三颗牙，左下一颗，右上两 … Continue reading →]]></summary>
-        <author>
-            <name>MacTalk</name>
         </author>
     </entry>
 </feed>

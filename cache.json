@@ -43,18 +43,7 @@
       "title": "MacTalk-池建强的 Blog",
       "feedUrl": "https://macshuo.com/?feed=rss2",
       "siteUrl": "https://macshuo.com",
-      "articles": [
-        {
-          "id": "https://macshuo.com/?p=2087",
-          "author": "MacTalk",
-          "description": "去年十月拔掉了两颗牙，加上之前拔的另一颗腮牙，我一共掉了三颗牙，左下一颗，右上两 … Continue reading →",
-          "link": "https://macshuo.com/?p=2087",
-          "publishedOn": "2026-11-01T08:47:24.000Z",
-          "wordCount": 964,
-          "title": "今天去把我的牙装上了",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "CodeChina · Tinyfool",
@@ -144,6 +133,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3798879.html",
+          "author": null,
+          "description": "<p>在爬虫与反爬虫斗争愈演愈烈的情况下，各大网站和 App 的风控检测越来越强，其中一项就是 IP 封禁。</p>\n<p>为了解决 IP 封禁的困扰，一个有效的方式就是设置代理，设置代理之后，爬虫可以借助代理的 IP 来伪装自己的真实 IP 地址，从而突破反爬虫的限制。</p>",
+          "link": "https://cuiqingcai.com/3798879.html",
+          "publishedOn": "2026-11-15T19:14:39.000Z",
+          "wordCount": 1559,
+          "title": "ADSL 代理对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/a2inin.png"
+        },
+        {
           "id": "https://cuiqingcai.com/4936306.html",
           "author": null,
           "description": "从九宫格角色选稿到 GIF 动画、专辑头像和横幅，本文演示如何使用 Ace Data Cloud Studio 与 GPT Image 2.6，快速完成一套角色统一的微信动态表情包。",
@@ -202,26 +201,6 @@
           "wordCount": 1576,
           "title": "从“会回答”到“能执行”：如何用 GLM API 构建生产级 AI Agent",
           "imageUrl": "https://cdn.acedata2.cloud/gpt-image/9427cf34e71555912c56b8f556058c86c802ec23eaa5e16403a56d69abd1fb04.webp"
-        },
-        {
-          "id": "https://cuiqingcai.com/4291788.html",
-          "author": null,
-          "description": "Ace Data Cloud GPT Image 2.5 新增 XHigh 与 Max 质量档位。我们以复杂科幻灾难暗场为例，对比 Low、Medium、High、XHigh 与 Max，观察高质量输出如何保留阴影中的人物、建筑、机械、烟雾与反射细节。",
-          "link": "https://cuiqingcai.com/4291788.html",
-          "publishedOn": "2026-11-01T10:38:00.000Z",
-          "wordCount": 1578,
-          "title": "暗场最容易暴露 AI 画质短板：Ace Data Cloud GPT Image 2.5 上线 XHigh 与 Max",
-          "imageUrl": "https://cdn.acedata2.cloud/gpt-image/18f1be6b8e61e37f91d71d02938328d8925ac809b9e853b28165e003a0b47f1e.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/4643130.html",
-          "author": null,
-          "description": "从创建 Studio 子站开始，完整讲清品牌设置、登录方式、能力管理、价格配置、自定义域名和上线检查。",
-          "link": "https://cuiqingcai.com/4643130.html",
-          "publishedOn": "2026-11-01T10:20:00.000Z",
-          "wordCount": 1431,
-          "title": "从零搭建自己的 AI Studio：建站、品牌、定价和独立域名一次讲清楚",
-          "imageUrl": "https://cdn.acedata2.cloud/gpt-image/07b81199bdc7afd38700b7db44a05300720653d4ed17533a6a7dd8df8ff10fe3.png"
         }
       ]
     },

@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-11-17T05:56:50.741Z</updated>
+    <updated>2026-11-18T05:25:24.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[招聘启事二则]]></title>
+        <id>https://www.kawabangga.com/?p=7461</id>
+        <link href="https://www.kawabangga.com/posts/7461"/>
+        <updated>2026-11-18T05:16:09.000Z</updated>
+        <summary type="html"><![CDATA[我就职的公司东海集团（Shopee 母公司）拓展 AI 云业务（neocloud），现在招聘计算、存储、网络方 […]
+Continue reading...
+相关文章:
+
+Gitops 的一些实践经验
+最近的工作感悟]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VS Code：GitHub Copilot BYOK 接入 Ace Data Cloud]]></title>
+        <id>https://cuiqingcai.com/3972663.html</id>
+        <link href="https://cuiqingcai.com/3972663.html"/>
+        <updated>2026-11-17T19:31:03.000Z</updated>
+        <summary type="html"><![CDATA[<p>GitHub Copilot 官方 BYOK 文档将 VS Code 列为支持的本地客户端，并支持 OpenAI-compatible Provider。VS Code 版本、企业策略和模型可见性会影响最终 endpoint；首次接入请按下文检查实际请求。</p>
+<h2]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACE Music 歌词生成 API]]></title>
+        <id>https://cuiqingcai.com/3971616.html</id>
+        <link href="https://cuiqingcai.com/3971616.html"/>
+        <updated>2026-11-17T19:13:36.000Z</updated>
+        <summary type="html"><![CDATA[<p>根据主题与风格生成标题和歌词，编辑后可用于 <a href="https://platform.acedata.cloud/documents/acemusic-audios-integration" target="_blank" rel="noopener">ACE M]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini CLI 对接 Google 搜索 MCP]]></title>
+        <id>https://cuiqingcai.com/3920828.html</id>
+        <link href="https://cuiqingcai.com/3920828.html"/>
+        <updated>2026-11-17T05:07:08.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+  <p>📘 <strong>完整指南</strong>：<a href="https://platform.acedata.cloud/documents/gemini-cli-mcp-all" target="_blank" rel="noopen]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人像动漫化 API 对接说明]]></title>
+        <id>https://cuiqingcai.com/3885187.html</id>
+        <link href="https://cuiqingcai.com/3885187.html"/>
+        <updated>2026-11-16T19:13:07.000Z</updated>
+        <summary type="html"><![CDATA[<p>本文将介绍一种 人像动漫化 API 对接说明，它可以通过输入一张人脸照片，生成个性化的二次元动漫形象，可用于打造个性头像、趣味活动、特效类应用等场景，提升社交娱乐的体验。</p>
+<h2 id="申请流程"><a href="#申请流程" class="headerlink]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ADSL 代理对接说明]]></title>
         <id>https://cuiqingcai.com/3798879.html</id>

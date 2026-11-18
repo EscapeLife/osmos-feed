@@ -57,6 +57,16 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=7461",
+          "author": "laixintao",
+          "description": "我就职的公司东海集团（Shopee 母公司）拓展 AI 云业务（neocloud），现在招聘计算、存储、网络方 […]\nContinue reading...\n相关文章:\n\nGitops 的一些实践经验\n最近的工作感悟",
+          "link": "https://www.kawabangga.com/posts/7461",
+          "publishedOn": "2026-11-18T05:16:09.000Z",
+          "wordCount": 2323,
+          "title": "招聘启事二则",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=7449",
           "author": "laixintao",
           "description": "在一次公司的培训上，一个同事带了一个塑料水瓶，我看见过这种塑料瓶子很多次，我问他是从哪里买的。他说，新加坡人在 […]\nContinue reading...\n相关文章:\n\n生活来在一个包里\n给明年依然年轻的我们",
@@ -132,6 +142,46 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3972663.html",
+          "author": null,
+          "description": "<p>GitHub Copilot 官方 BYOK 文档将 VS Code 列为支持的本地客户端，并支持 OpenAI-compatible Provider。VS Code 版本、企业策略和模型可见性会影响最终 endpoint；首次接入请按下文检查实际请求。</p>\n<h2",
+          "link": "https://cuiqingcai.com/3972663.html",
+          "publishedOn": "2026-11-17T19:31:03.000Z",
+          "wordCount": 1252,
+          "title": "VS Code：GitHub Copilot BYOK 接入 Ace Data Cloud",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cuiqingcai.com/3971616.html",
+          "author": null,
+          "description": "<p>根据主题与风格生成标题和歌词，编辑后可用于 <a href=\"https://platform.acedata.cloud/documents/acemusic-audios-integration\" target=\"_blank\" rel=\"noopener\">ACE M",
+          "link": "https://cuiqingcai.com/3971616.html",
+          "publishedOn": "2026-11-17T19:13:36.000Z",
+          "wordCount": 1220,
+          "title": "ACE Music 歌词生成 API",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cuiqingcai.com/3920828.html",
+          "author": null,
+          "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/gemini-cli-mcp-all\" target=\"_blank\" rel=\"noopen",
+          "link": "https://cuiqingcai.com/3920828.html",
+          "publishedOn": "2026-11-17T05:07:08.000Z",
+          "wordCount": 1315,
+          "title": "Gemini CLI 对接 Google 搜索 MCP",
+          "imageUrl": "https://cdn.acedata.cloud/dvc3cg.jpg"
+        },
+        {
+          "id": "https://cuiqingcai.com/3885187.html",
+          "author": null,
+          "description": "<p>本文将介绍一种 人像动漫化 API 对接说明，它可以通过输入一张人脸照片，生成个性化的二次元动漫形象，可用于打造个性头像、趣味活动、特效类应用等场景，提升社交娱乐的体验。</p>\n<h2 id=\"申请流程\"><a href=\"#申请流程\" class=\"headerlink",
+          "link": "https://cuiqingcai.com/3885187.html",
+          "publishedOn": "2026-11-16T19:13:07.000Z",
+          "wordCount": 1346,
+          "title": "人像动漫化 API 对接说明",
+          "imageUrl": "https://cdn.acedata.cloud/dvc3cg.jpg"
+        },
         {
           "id": "https://cuiqingcai.com/3798879.html",
           "author": null,

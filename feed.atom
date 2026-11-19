@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-11-18T05:25:24.382Z</updated>
+    <updated>2026-11-19T05:21:49.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Codex CLI 配置指南]]></title>
+        <id>https://cuiqingcai.com/3057998.html</id>
+        <link href="https://cuiqingcai.com/3057998.html"/>
+        <updated>2026-11-18T19:13:18.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="1-获取-API-Key"><a href="#1-获取-API-Key" class="headerlink" title="1. 获取 API Key"></a>1. 获取 API Key</h2>
+<p>打开 <a href="https://platfor]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[招聘启事二则]]></title>
         <id>https://www.kawabangga.com/?p=7461</id>
@@ -19,6 +30,17 @@ Gitops 的一些实践经验
 最近的工作感悟]]></summary>
         <author>
             <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 短视频变现：帮客户做视频收服务费，客户自助用 API 你拿分销]]></title>
+        <id>https://cuiqingcai.com/3007199.html</id>
+        <link href="https://cuiqingcai.com/3007199.html"/>
+        <updated>2026-11-18T05:06:39.000Z</updated>
+        <summary type="html"><![CDATA[<p><img src="https://cdn.acedata.cloud/43970e3f53.png" alt="AI 视频变现"></p>
+<p>短视频依然是流量之王，而 AI 视频生成正在把制作门槛砸到地板：以前做一条产品广告要找专业团队，现在用 AI 视频 API 几]]></summary>
+        <author>
+            <name>静觅</name>
         </author>
     </entry>
     <entry>
@@ -156,26 +178,6 @@ Continue reading...
         <link href="https://cuiqingcai.com/4028677.html"/>
         <updated>2026-11-05T10:47:00.000Z</updated>
         <summary type="html"><![CDATA[以一篇 SEO 教程博客为例，分享如何在 Ace Data Cloud Studio 中完成脚本拆分、旁白优化、图片与视频生成，并使用 FFmpeg 在本地合成成片。]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不想维护搜索爬虫，怎么每天跟踪关键词排名？用 SERP API 做一个 SEO 监测脚本]]></title>
-        <id>https://cuiqingcai.com/4055938.html</id>
-        <link href="https://cuiqingcai.com/4055938.html"/>
-        <updated>2026-11-04T10:28:00.000Z</updated>
-        <summary type="html"><![CDATA[不用维护搜索页面爬虫，用 AceDataCloud Google SERP API、Python 和 SQLite 建立首屏排名监测。文章重点说明搜索口径、域名匹配、未命中与请求失败的区别，以及定时执行和结果核验。]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从“会回答”到“能执行”：如何用 GLM API 构建生产级 AI Agent]]></title>
-        <id>https://cuiqingcai.com/4733335.html</id>
-        <link href="https://cuiqingcai.com/4733335.html"/>
-        <updated>2026-11-04T10:25:00.000Z</updated>
-        <summary type="html"><![CDATA[大模型正在从生成答案走向执行任务。本文从 GLM 的长程任务与工具调用能力出发，拆解生产级 AI Agent 的架构、业务闭环、安全边界、评估方法和模型升级策略。]]></summary>
         <author>
             <name>静觅</name>
         </author>

@@ -143,6 +143,26 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3057998.html",
+          "author": null,
+          "description": "<h2 id=\"1-获取-API-Key\"><a href=\"#1-获取-API-Key\" class=\"headerlink\" title=\"1. 获取 API Key\"></a>1. 获取 API Key</h2>\n<p>打开 <a href=\"https://platfor",
+          "link": "https://cuiqingcai.com/3057998.html",
+          "publishedOn": "2026-11-18T19:13:18.000Z",
+          "wordCount": 1279,
+          "title": "Codex CLI 配置指南",
+          "imageUrl": "https://cdn.acedata.cloud/dvc3cg.jpg"
+        },
+        {
+          "id": "https://cuiqingcai.com/3007199.html",
+          "author": null,
+          "description": "<p><img src=\"https://cdn.acedata.cloud/43970e3f53.png\" alt=\"AI 视频变现\"></p>\n<p>短视频依然是流量之王，而 AI 视频生成正在把制作门槛砸到地板：以前做一条产品广告要找专业团队，现在用 AI 视频 API 几",
+          "link": "https://cuiqingcai.com/3007199.html",
+          "publishedOn": "2026-11-18T05:06:39.000Z",
+          "wordCount": 1436,
+          "title": "AI 短视频变现：帮客户做视频收服务费，客户自助用 API 你拿分销",
+          "imageUrl": "https://cdn.acedata.cloud/43970e3f53.png"
+        },
+        {
           "id": "https://cuiqingcai.com/3972663.html",
           "author": null,
           "description": "<p>GitHub Copilot 官方 BYOK 文档将 VS Code 列为支持的本地客户端，并支持 OpenAI-compatible Provider。VS Code 版本、企业策略和模型可见性会影响最终 endpoint；首次接入请按下文检查实际请求。</p>\n<h2",
@@ -231,26 +251,6 @@
           "wordCount": 1508,
           "title": "从博客到视频：我用 Ace Data Cloud Studio 完成了一次完整创作",
           "imageUrl": "https://cdn.acedata2.cloud/gpt-image/6952f4efb43a06cc94e3a4c6e1dee204495e3aba0d0bc348820b7c49aafab83b.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/4055938.html",
-          "author": null,
-          "description": "不用维护搜索页面爬虫，用 AceDataCloud Google SERP API、Python 和 SQLite 建立首屏排名监测。文章重点说明搜索口径、域名匹配、未命中与请求失败的区别，以及定时执行和结果核验。",
-          "link": "https://cuiqingcai.com/4055938.html",
-          "publishedOn": "2026-11-04T10:28:00.000Z",
-          "wordCount": 1673,
-          "title": "不想维护搜索爬虫，怎么每天跟踪关键词排名？用 SERP API 做一个 SEO 监测脚本",
-          "imageUrl": "https://cdn.acedata2.cloud/nanobanana/fda0956324ef440a0d0dada3e9c01b3d1fe04934514ea6aecfefd9c51da680af.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/4733335.html",
-          "author": null,
-          "description": "大模型正在从生成答案走向执行任务。本文从 GLM 的长程任务与工具调用能力出发，拆解生产级 AI Agent 的架构、业务闭环、安全边界、评估方法和模型升级策略。",
-          "link": "https://cuiqingcai.com/4733335.html",
-          "publishedOn": "2026-11-04T10:25:00.000Z",
-          "wordCount": 1576,
-          "title": "从“会回答”到“能执行”：如何用 GLM API 构建生产级 AI Agent",
-          "imageUrl": "https://cdn.acedata2.cloud/gpt-image/9427cf34e71555912c56b8f556058c86c802ec23eaa5e16403a56d69abd1fb04.webp"
         }
       ]
     },

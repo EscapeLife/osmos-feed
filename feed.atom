@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-11-19T05:21:49.162Z</updated>
+    <updated>2026-11-20T05:08:25.818Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[戒烟]]></title>
+        <id>https://www.kawabangga.com/?p=7464</id>
+        <link href="https://www.kawabangga.com/posts/7464"/>
+        <updated>2026-11-20T03:57:11.000Z</updated>
+        <summary type="html"><![CDATA[Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 420 期）：最分心的一年]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html"/>
+        <updated>2026-11-20T00:07:30.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赠送充值卡]]></title>
+        <id>https://cuiqingcai.com/3144393.html</id>
+        <link href="https://cuiqingcai.com/3144393.html"/>
+        <updated>2026-11-19T19:13:13.000Z</updated>
+        <summary type="html"><![CDATA[<p>在「我的应用」选择可赠的 Usage 余额，进入独立创建页，设定每张面额、份数、领取截止时间、卡面样式和可选的指定领取人，即可创建一条分享链接。可按用户 ID、用户名、邮箱或手机号精确查找领取人；不指定领取人则公开领取。新建卡只支持流光丝带、花语、晨曦和庆典彩带四种主题封面]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VS Code + Kling MCP]]></title>
+        <id>https://cuiqingcai.com/3093612.html</id>
+        <link href="https://cuiqingcai.com/3093612.html"/>
+        <updated>2026-11-19T05:06:52.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+  <p>📘 <strong>完整指南</strong>：<a href="https://platform.acedata.cloud/documents/vscode-mcp-all" target="_blank" rel="noopener">]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Codex CLI 配置指南]]></title>
         <id>https://cuiqingcai.com/3057998.html</id>
@@ -170,16 +211,6 @@ Continue reading...
         <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从博客到视频：我用 Ace Data Cloud Studio 完成了一次完整创作]]></title>
-        <id>https://cuiqingcai.com/4028677.html</id>
-        <link href="https://cuiqingcai.com/4028677.html"/>
-        <updated>2026-11-05T10:47:00.000Z</updated>
-        <summary type="html"><![CDATA[以一篇 SEO 教程博客为例，分享如何在 Ace Data Cloud Studio 中完成脚本拆分、旁白优化、图片与视频生成，并使用 FFmpeg 在本地合成成片。]]></summary>
-        <author>
-            <name>静觅</name>
         </author>
     </entry>
 </feed>

@@ -18,6 +18,16 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html",
+          "publishedOn": "2026-11-20T00:07:30.000Z",
+          "wordCount": null,
+          "title": "科技爱好者周刊（第 420 期）：最分心的一年",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
@@ -56,6 +66,16 @@
       "feedUrl": "https://www.kawabangga.com/feed",
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
+        {
+          "id": "https://www.kawabangga.com/?p=7464",
+          "author": "laixintao",
+          "description": "Continue reading...",
+          "link": "https://www.kawabangga.com/posts/7464",
+          "publishedOn": "2026-11-20T03:57:11.000Z",
+          "wordCount": 1173,
+          "title": "戒烟",
+          "imageUrl": null
+        },
         {
           "id": "https://www.kawabangga.com/?p=7461",
           "author": "laixintao",
@@ -142,6 +162,26 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3144393.html",
+          "author": null,
+          "description": "<p>在「我的应用」选择可赠的 Usage 余额，进入独立创建页，设定每张面额、份数、领取截止时间、卡面样式和可选的指定领取人，即可创建一条分享链接。可按用户 ID、用户名、邮箱或手机号精确查找领取人；不指定领取人则公开领取。新建卡只支持流光丝带、花语、晨曦和庆典彩带四种主题封面",
+          "link": "https://cuiqingcai.com/3144393.html",
+          "publishedOn": "2026-11-19T19:13:13.000Z",
+          "wordCount": 1178,
+          "title": "赠送充值卡",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cuiqingcai.com/3093612.html",
+          "author": null,
+          "description": "<blockquote>\n  <p>📘 <strong>完整指南</strong>：<a href=\"https://platform.acedata.cloud/documents/vscode-mcp-all\" target=\"_blank\" rel=\"noopener\">",
+          "link": "https://cuiqingcai.com/3093612.html",
+          "publishedOn": "2026-11-19T05:06:52.000Z",
+          "wordCount": 1439,
+          "title": "VS Code + Kling MCP",
+          "imageUrl": null
+        },
         {
           "id": "https://cuiqingcai.com/3057998.html",
           "author": null,
@@ -241,16 +281,6 @@
           "wordCount": 1337,
           "title": "GPT Image 2.6 正式发布：更快生成、更准编辑，AI 图像进入生产力时代",
           "imageUrl": "https://cdn.acedata2.cloud/gpt-image/1200f1df46e35ba612e21046ff6dc9b0058a976d5d8920f3093fcb168ce23474.jpg"
-        },
-        {
-          "id": "https://cuiqingcai.com/4028677.html",
-          "author": null,
-          "description": "以一篇 SEO 教程博客为例，分享如何在 Ace Data Cloud Studio 中完成脚本拆分、旁白优化、图片与视频生成，并使用 FFmpeg 在本地合成成片。",
-          "link": "https://cuiqingcai.com/4028677.html",
-          "publishedOn": "2026-11-05T10:47:00.000Z",
-          "wordCount": 1508,
-          "title": "从博客到视频：我用 Ace Data Cloud Studio 完成了一次完整创作",
-          "imageUrl": "https://cdn.acedata2.cloud/gpt-image/6952f4efb43a06cc94e3a4c6e1dee204495e3aba0d0bc348820b7c49aafab83b.png"
         }
       ]
     },

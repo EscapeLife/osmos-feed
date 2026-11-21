@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-11-20T05:08:25.818Z</updated>
+    <updated>2026-11-21T05:01:12.381Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[获取 AceDataCloud 平台文档详情]]></title>
+        <id>https://cuiqingcai.com/3230764.html</id>
+        <link href="https://cuiqingcai.com/3230764.html"/>
+        <updated>2026-11-20T19:12:44.000Z</updated>
+        <summary type="html"><![CDATA[<p>通过文档 UUID 或 alias 获取单篇文档的完整内容和导航关系。已知 alias 时可以直接请求，无需先从列表筛选。</p>
+<h2 id="接口概览"><a href="#接口概览" class="headerlink" title="接口概览"></a>接口概览<]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[碎碎念]]></title>
+        <id>https://blog.codingnow.com/2026/11/random_notes.html</id>
+        <link href="https://blog.codingnow.com/2026/11/random_notes.html"/>
+        <updated>2026-11-20T07:55:47.000Z</updated>
+        <summary type="html"><![CDATA[这段时间从写输入法开始恢复写代码了。虽然整个世界似乎都接受了 vibe coding ，但我依旧觉得程序还是自己来写比较快乐。 像给 RIME 写插件这件事上，LLM 对我是即有帮助的。过去我需要更多的死时间先学习一个完全陌生的系统，阅读大量的代码才能开始。现在有 LLM 的帮助，可以更快的上手了。遇到问题也可以更快的找到线索，知道该去哪里读源码。不过代码本身还是我自己写。 自从不工作以后，我对时间的体感发生了巨大的变化。干任何事情都不再设时间线，享受就是了。做项目本身就是享受的过程，一旦不急着做完，无论是找人还是找机器代替我做项目的工作，就变得没有意义。本来实现本身就不是我完成它的瓶颈。...]]></summary>
+        <author>
+            <name>云风的 BLOG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[戒烟]]></title>
         <id>https://www.kawabangga.com/?p=7464</id>
@@ -191,26 +212,6 @@ Continue reading...
         <summary type="html"><![CDATA[从传统逐帧制作的痛点出发，实测如何在 Ace Data Studio 中使用 GPT Image 2.6，把一张静态羊角色图片转化为自然循环的 GIF 动画。]]></summary>
         <author>
             <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT Image 2.6 正式发布：更快生成、更准编辑，AI 图像进入生产力时代]]></title>
-        <id>https://cuiqingcai.com/4404314.html</id>
-        <link href="https://cuiqingcai.com/4404314.html"/>
-        <updated>2026-11-06T10:44:00.000Z</updated>
-        <summary type="html"><![CDATA[从真实视觉生产中的返工问题出发，介绍 GPT Image 2.6 的生成提速、精准编辑、Flare 与 Sunburst 分工，以及通过 AceDataCloud 接入图像工作流的方式。]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 418 期）：如果科技停止在21世纪初]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html"/>
-        <updated>2026-11-05T23:43:55.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
         </author>
     </entry>
 </feed>

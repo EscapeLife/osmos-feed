@@ -36,16 +36,6 @@
           "wordCount": null,
           "title": "科技爱好者周刊（第 419 期）：机房来了，写字楼走了",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html",
-          "publishedOn": "2026-11-05T23:43:55.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 418 期）：如果科技停止在21世纪初",
-          "imageUrl": null
         }
       ]
     },
@@ -140,6 +130,16 @@
       "siteUrl": "https://blog.codingnow.com/",
       "articles": [
         {
+          "id": "https://blog.codingnow.com/2026/11/random_notes.html",
+          "author": null,
+          "description": "这段时间从写输入法开始恢复写代码了。虽然整个世界似乎都接受了 vibe coding ，但我依旧觉得程序还是自己来写比较快乐。 像给 RIME 写插件这件事上，LLM 对我是即有帮助的。过去我需要更多的死时间先学习一个完全陌生的系统，阅读大量的代码才能开始。现在有 LLM 的帮助，可以更快的上手了。遇到问题也可以更快的找到线索，知道该去哪里读源码。不过代码本身还是我自己写。 自从不工作以后，我对时间的体感发生了巨大的变化。干任何事情都不再设时间线，享受就是了。做项目本身就是享受的过程，一旦不急着做完，无论是找人还是找机器代替我做项目的工作，就变得没有意义。本来实现本身就不是我完成它的瓶颈。...",
+          "link": "https://blog.codingnow.com/2026/11/random_notes.html",
+          "publishedOn": "2026-11-20T07:55:47.000Z",
+          "wordCount": 274,
+          "title": "碎碎念",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.codingnow.com/2026/11/abc_mod.html",
           "author": null,
           "description": "最近有网友用 AI 逆向了智能 ABC ，把里面的笔划码表导了出来，用 RIME 复刻了一版。 众所周知，我是 ABC 的忠实用户。从 DOS 版天汇 ABC 用到 Windows 上智能 ABC 彻底退役，一直念念不忘。在 10 年前我曾经动过念头自己写一个，后来被 IME 开发的繁杂劝退了。当时用 C 从头写了一个简单的 IME 框架，又给网上不少开源的 IME 框架提过 PR ，最终没坚持下来。有朋友提醒我说 RIME 经过过年的发展已经可以高度定制了，我一直没在意，直到这次、我才正正经经的研究了它。 试用了上面那个智能 ABC 复刻版，和我记忆中的手感还是有不少差距。原本我想先在这个基础上改改的，随之发现改不太动 AI 生成的代码。细想了一下，在 RIME 基础上做开发工作量并不大。而关键的码表已经是现成的了，就自己动手玩了一下，果真一天时间就搭了个雏形。最花时间的倒不是实现，而是搞明白 RIME...",
@@ -162,6 +162,16 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3230764.html",
+          "author": null,
+          "description": "<p>通过文档 UUID 或 alias 获取单篇文档的完整内容和导航关系。已知 alias 时可以直接请求，无需先从列表筛选。</p>\n<h2 id=\"接口概览\"><a href=\"#接口概览\" class=\"headerlink\" title=\"接口概览\"></a>接口概览<",
+          "link": "https://cuiqingcai.com/3230764.html",
+          "publishedOn": "2026-11-20T19:12:44.000Z",
+          "wordCount": 1237,
+          "title": "获取 AceDataCloud 平台文档详情",
+          "imageUrl": null
+        },
         {
           "id": "https://cuiqingcai.com/3144393.html",
           "author": null,
@@ -271,16 +281,6 @@
           "wordCount": 1404,
           "title": "GPT Image 2.6 GIF 实测：一张图片，怎样变成会动的品牌角色？",
           "imageUrl": "https://cdn.acedata2.cloud/gpt-image/c68d59934f160504e1f1f19efe8369a40b7795986c052cfb2a14d5247e28b19f.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/4404314.html",
-          "author": null,
-          "description": "从真实视觉生产中的返工问题出发，介绍 GPT Image 2.6 的生成提速、精准编辑、Flare 与 Sunburst 分工，以及通过 AceDataCloud 接入图像工作流的方式。",
-          "link": "https://cuiqingcai.com/4404314.html",
-          "publishedOn": "2026-11-06T10:44:00.000Z",
-          "wordCount": 1337,
-          "title": "GPT Image 2.6 正式发布：更快生成、更准编辑，AI 图像进入生产力时代",
-          "imageUrl": "https://cdn.acedata2.cloud/gpt-image/1200f1df46e35ba612e21046ff6dc9b0058a976d5d8920f3093fcb168ce23474.jpg"
         }
       ]
     },

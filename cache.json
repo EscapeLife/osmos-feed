@@ -163,6 +163,26 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://cuiqingcai.com/3317182.html",
+          "author": null,
+          "description": "<p>MiMo 2.6 Pro 和 MiMo 2.6 Flash 是小米 MiMo 系列模型。本接口使用 OpenAI Chat Completions 格式，按输入、输出和缓存命中 token 计费。</p>\n<h2 id=\"模型与接口\"><a href=\"#模型与接口\" cl",
+          "link": "https://cuiqingcai.com/3317182.html",
+          "publishedOn": "2026-11-21T19:13:02.000Z",
+          "wordCount": 1273,
+          "title": "MiMo 对话 API 接入指南",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cuiqingcai.com/3266319.html",
+          "author": null,
+          "description": "<p>Python SDK 适合后端服务、数据任务、自动化 Agent 和批处理脚本。<code>acedatacloud</code> 负责 API 调用，<code>acedatacloud-x402</code> 负责签出 <code>PAYMENT-SIGNATURE</",
+          "link": "https://cuiqingcai.com/3266319.html",
+          "publishedOn": "2026-11-21T05:05:19.000Z",
+          "wordCount": 1524,
+          "title": "X402 Python SDK 接入教程",
+          "imageUrl": null
+        },
+        {
           "id": "https://cuiqingcai.com/3230764.html",
           "author": null,
           "description": "<p>通过文档 UUID 或 alias 获取单篇文档的完整内容和导航关系。已知 alias 时可以直接请求，无需先从列表筛选。</p>\n<h2 id=\"接口概览\"><a href=\"#接口概览\" class=\"headerlink\" title=\"接口概览\"></a>接口概览<",
@@ -271,16 +291,6 @@
           "wordCount": 1333,
           "title": "用 Ace Data Cloud Studio，做一套属于自己的微信动态表情包",
           "imageUrl": "https://cdn.acedata2.cloud/gpt-image/43451a84a3ebd89cdafd3259d07c5295f2ff442b1795aad4174aca14468c2183.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/4406787.html",
-          "author": null,
-          "description": "从传统逐帧制作的痛点出发，实测如何在 Ace Data Studio 中使用 GPT Image 2.6，把一张静态羊角色图片转化为自然循环的 GIF 动画。",
-          "link": "https://cuiqingcai.com/4406787.html",
-          "publishedOn": "2026-11-07T10:37:00.000Z",
-          "wordCount": 1404,
-          "title": "GPT Image 2.6 GIF 实测：一张图片，怎样变成会动的品牌角色？",
-          "imageUrl": "https://cdn.acedata2.cloud/gpt-image/c68d59934f160504e1f1f19efe8369a40b7795986c052cfb2a14d5247e28b19f.png"
         }
       ]
     },

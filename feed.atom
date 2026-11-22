@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-11-21T05:01:12.381Z</updated>
+    <updated>2026-11-22T04:26:07.669Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MiMo 对话 API 接入指南]]></title>
+        <id>https://cuiqingcai.com/3317182.html</id>
+        <link href="https://cuiqingcai.com/3317182.html"/>
+        <updated>2026-11-21T19:13:02.000Z</updated>
+        <summary type="html"><![CDATA[<p>MiMo 2.6 Pro 和 MiMo 2.6 Flash 是小米 MiMo 系列模型。本接口使用 OpenAI Chat Completions 格式，按输入、输出和缓存命中 token 计费。</p>
+<h2 id="模型与接口"><a href="#模型与接口" cl]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X402 Python SDK 接入教程]]></title>
+        <id>https://cuiqingcai.com/3266319.html</id>
+        <link href="https://cuiqingcai.com/3266319.html"/>
+        <updated>2026-11-21T05:05:19.000Z</updated>
+        <summary type="html"><![CDATA[<p>Python SDK 适合后端服务、数据任务、自动化 Agent 和批处理脚本。<code>acedatacloud</code> 负责 API 调用，<code>acedatacloud-x402</code> 负责签出 <code>PAYMENT-SIGNATURE</]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[获取 AceDataCloud 平台文档详情]]></title>
         <id>https://cuiqingcai.com/3230764.html</id>
@@ -200,16 +221,6 @@ Continue reading...
         <link href="https://cuiqingcai.com/4936306.html"/>
         <updated>2026-11-08T10:36:00.000Z</updated>
         <summary type="html"><![CDATA[从九宫格角色选稿到 GIF 动画、专辑头像和横幅，本文演示如何使用 Ace Data Cloud Studio 与 GPT Image 2.6，快速完成一套角色统一的微信动态表情包。]]></summary>
-        <author>
-            <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT Image 2.6 GIF 实测：一张图片，怎样变成会动的品牌角色？]]></title>
-        <id>https://cuiqingcai.com/4406787.html</id>
-        <link href="https://cuiqingcai.com/4406787.html"/>
-        <updated>2026-11-07T10:37:00.000Z</updated>
-        <summary type="html"><![CDATA[从传统逐帧制作的痛点出发，实测如何在 Ace Data Studio 中使用 GPT Image 2.6，把一张静态羊角色图片转化为自然循环的 GIF 动画。]]></summary>
         <author>
             <name>静觅</name>
         </author>

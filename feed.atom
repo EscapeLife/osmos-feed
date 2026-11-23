@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-11-22T04:26:07.669Z</updated>
+    <updated>2026-11-23T05:02:18.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[获取 AceDataCloud 平台 API 调用量聚合统计]]></title>
+        <id>https://cuiqingcai.com/3403690.html</id>
+        <link href="https://cuiqingcai.com/3403690.html"/>
+        <updated>2026-11-22T19:14:50.000Z</updated>
+        <summary type="html"><![CDATA[<p>按日期和 API 汇总当前账户的请求次数与实际扣除额度，适合制作月报、趋势图和成本分析。需要逐条排错时使用<a href="https://platform.acedata.cloud/documents/platform-usage-list" target="_blan]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What AI Is Bad at?]]></title>
+        <id>https://laike9m.com/blog/what-ai-is-bad-at,174/</id>
+        <link href="https://laike9m.com/blog/what-ai-is-bad-at,174/"/>
+        <updated>2026-11-22T06:07:57.000Z</updated>
+        <summary type="html"><![CDATA[为什么 AI 几乎统治了所有智力活动，却还没在投资上打败人类？文章以全美投资大赛（USIC）最新成绩为引子，提出「简单输入→复杂输出」与「复杂输入→简单输出」的四象限框架，解释 AI 为何在围棋、编程、数学上已彻底超越人类，却在面对开放、复杂的真实世界输入时仍显不足。投资只是表象，真正的问题是：当输入不再有限且可离散化时，人类的经验、直觉与对异常的敏感仍具独特优势。
+
+Why hasn’t AI beaten humans at investing, even as it dominates almost every other intellectual domain? Using recent US Investing Championship results as a starting point, this essay introduces a simple 2×2 framework of input/output complexity. It explains why AI has thoroughly surpassed humans in “simple input → complex output” tasks like Go, programming, and math, yet still struggles with open-ended, complex real-world inputs—of which investing is a prime example.]]></summary>
+        <author>
+            <name>laike9m's blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MiniMax H3 任务查询 API 对接指南]]></title>
+        <id>https://cuiqingcai.com/3352721.html</id>
+        <link href="https://cuiqingcai.com/3352721.html"/>
+        <updated>2026-11-22T05:05:21.000Z</updated>
+        <summary type="html"><![CDATA[<p>本文介绍 MiniMax H3 任务查询 API 的对接与使用。该接口用于查询、批量列出或删除 <a href="/documents/minimax-videos-integration">MiniMax H3 视频生成 API</a> 创建的异步任务。</p>
+<h2]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黄仁勋会回来吗？英伟达仍需要有远见的领导者]]></title>
+        <id>https://codechina.org/2026/11/jensen-huang-nvidia-leadership</id>
+        <link href="https://codechina.org/2026/11/jensen-huang-nvidia-leadership"/>
+        <updated>2026-11-22T04:33:41.000Z</updated>
+        <summary type="html"><![CDATA[乔布斯和奥尔特曼的回归，让人想起英伟达今天的处境。要理解这家公司接下来需要怎样的掌舵人，还得回到一次关于游戏显卡的决定。]]></summary>
+        <author>
+            <name>CodeChina · Tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MiMo 对话 API 接入指南]]></title>
         <id>https://cuiqingcai.com/3317182.html</id>
@@ -213,16 +256,6 @@ Continue reading...
         <summary type="html"><![CDATA[最近有网友用 AI 逆向了智能 ABC ，把里面的笔划码表导了出来，用 RIME 复刻了一版。 众所周知，我是 ABC 的忠实用户。从 DOS 版天汇 ABC 用到 Windows 上智能 ABC 彻底退役，一直念念不忘。在 10 年前我曾经动过念头自己写一个，后来被 IME 开发的繁杂劝退了。当时用 C 从头写了一个简单的 IME 框架，又给网上不少开源的 IME 框架提过 PR ，最终没坚持下来。有朋友提醒我说 RIME 经过过年的发展已经可以高度定制了，我一直没在意，直到这次、我才正正经经的研究了它。 试用了上面那个智能 ABC 复刻版，和我记忆中的手感还是有不少差距。原本我想先在这个基础上改改的，随之发现改不太动 AI 生成的代码。细想了一下，在 RIME 基础上做开发工作量并不大。而关键的码表已经是现成的了，就自己动手玩了一下，果真一天时间就搭了个雏形。最花时间的倒不是实现，而是搞明白 RIME...]]></summary>
         <author>
             <name>云风的 BLOG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用 Ace Data Cloud Studio，做一套属于自己的微信动态表情包]]></title>
-        <id>https://cuiqingcai.com/4936306.html</id>
-        <link href="https://cuiqingcai.com/4936306.html"/>
-        <updated>2026-11-08T10:36:00.000Z</updated>
-        <summary type="html"><![CDATA[从九宫格角色选稿到 GIF 动画、专辑头像和横幅，本文演示如何使用 Ace Data Cloud Studio 与 GPT Image 2.6，快速完成一套角色统一的微信动态表情包。]]></summary>
-        <author>
-            <name>静觅</name>
         </author>
     </entry>
 </feed>

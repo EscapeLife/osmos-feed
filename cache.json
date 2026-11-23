@@ -49,7 +49,18 @@
       "title": "CodeChina · Tinyfool",
       "feedUrl": "http://feeds.feedburner.com/Tinyfoolblog",
       "siteUrl": "https://codechina.org",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://codechina.org/2026/11/jensen-huang-nvidia-leadership",
+          "author": null,
+          "description": "乔布斯和奥尔特曼的回归，让人想起英伟达今天的处境。要理解这家公司接下来需要怎样的掌舵人，还得回到一次关于游戏显卡的决定。",
+          "link": "https://codechina.org/2026/11/jensen-huang-nvidia-leadership",
+          "publishedOn": "2026-11-22T04:33:41.000Z",
+          "wordCount": 415,
+          "title": "黄仁勋会回来吗？英伟达仍需要有远见的领导者",
+          "imageUrl": "https://codechina.org/storage/images/c2/c2b438fa7b86d08705039708f7878756d00ef047c94f626aea606217e05e138e.webp"
+        }
+      ]
     },
     {
       "title": "卡瓦邦噶！",
@@ -98,7 +109,18 @@
       "title": "laike9m's blog",
       "feedUrl": "https://laike9m.com/blog/rss",
       "siteUrl": "https://laike9m.com/blog/rss",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://laike9m.com/blog/what-ai-is-bad-at,174/",
+          "author": null,
+          "description": "为什么 AI 几乎统治了所有智力活动，却还没在投资上打败人类？文章以全美投资大赛（USIC）最新成绩为引子，提出「简单输入→复杂输出」与「复杂输入→简单输出」的四象限框架，解释 AI 为何在围棋、编程、数学上已彻底超越人类，却在面对开放、复杂的真实世界输入时仍显不足。投资只是表象，真正的问题是：当输入不再有限且可离散化时，人类的经验、直觉与对异常的敏感仍具独特优势。\r\n\r\nWhy hasn’t AI beaten humans at investing, even as it dominates almost every other intellectual domain? Using recent US Investing Championship results as a starting point, this essay introduces a simple 2×2 framework of input/output complexity. It explains why AI has thoroughly surpassed humans in “simple input → complex output” tasks like Go, programming, and math, yet still struggles with open-ended, complex real-world inputs—of which investing is a prime example.",
+          "link": "https://laike9m.com/blog/what-ai-is-bad-at,174/",
+          "publishedOn": "2026-11-22T06:07:57.000Z",
+          "wordCount": 585,
+          "title": "What AI Is Bad at?",
+          "imageUrl": "https://laike9m.com/static/css3two_blog/images/thumbnail.png"
+        }
+      ]
     },
     {
       "title": "Frost's Blog",
@@ -162,6 +184,26 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3403690.html",
+          "author": null,
+          "description": "<p>按日期和 API 汇总当前账户的请求次数与实际扣除额度，适合制作月报、趋势图和成本分析。需要逐条排错时使用<a href=\"https://platform.acedata.cloud/documents/platform-usage-list\" target=\"_blan",
+          "link": "https://cuiqingcai.com/3403690.html",
+          "publishedOn": "2026-11-22T19:14:50.000Z",
+          "wordCount": 1479,
+          "title": "获取 AceDataCloud 平台 API 调用量聚合统计",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cuiqingcai.com/3352721.html",
+          "author": null,
+          "description": "<p>本文介绍 MiniMax H3 任务查询 API 的对接与使用。该接口用于查询、批量列出或删除 <a href=\"/documents/minimax-videos-integration\">MiniMax H3 视频生成 API</a> 创建的异步任务。</p>\n<h2",
+          "link": "https://cuiqingcai.com/3352721.html",
+          "publishedOn": "2026-11-22T05:05:21.000Z",
+          "wordCount": 1755,
+          "title": "MiniMax H3 任务查询 API 对接指南",
+          "imageUrl": "https://cdn.acedata.cloud/dvc3cg.jpg"
+        },
         {
           "id": "https://cuiqingcai.com/3317182.html",
           "author": null,
@@ -281,16 +323,6 @@
           "wordCount": 1559,
           "title": "ADSL 代理对接说明",
           "imageUrl": "https://cdn.acedata.cloud/a2inin.png"
-        },
-        {
-          "id": "https://cuiqingcai.com/4936306.html",
-          "author": null,
-          "description": "从九宫格角色选稿到 GIF 动画、专辑头像和横幅，本文演示如何使用 Ace Data Cloud Studio 与 GPT Image 2.6，快速完成一套角色统一的微信动态表情包。",
-          "link": "https://cuiqingcai.com/4936306.html",
-          "publishedOn": "2026-11-08T10:36:00.000Z",
-          "wordCount": 1333,
-          "title": "用 Ace Data Cloud Studio，做一套属于自己的微信动态表情包",
-          "imageUrl": "https://cdn.acedata2.cloud/gpt-image/43451a84a3ebd89cdafd3259d07c5295f2ff442b1795aad4174aca14468c2183.png"
         }
       ]
     },

@@ -51,6 +51,16 @@
       "siteUrl": "https://codechina.org",
       "articles": [
         {
+          "id": "https://codechina.org/2026/11/ai-computer-g4",
+          "author": null,
+          "description": "本文整理自《Tinyfool的胡说八道》视频（观看原视频）第三部分核心观点，从“计算机普及史”的底层逻辑重新审视 AI 浪潮。随着头部 AI 公司的估值飙升至万亿级别，...",
+          "link": "https://codechina.org/2026/11/ai-computer-g4",
+          "publishedOn": "2026-11-24T01:07:20.000Z",
+          "wordCount": 248,
+          "title": "算力的“文艺复兴”：为什么说 AI 不是泡沫，而是计算机普及的第四个时代？",
+          "imageUrl": "https://codechina.org/storage/images/ce/ce206fdec8dfad02ac6b93c1b0c50826f2b91e672e9b63e89363b5d4abe73789.webp"
+        },
+        {
           "id": "https://codechina.org/2026/11/jensen-huang-nvidia-leadership",
           "author": null,
           "description": "乔布斯和奥尔特曼的回归，让人想起英伟达今天的处境。要理解这家公司接下来需要怎样的掌舵人，还得回到一次关于游戏显卡的决定。",
@@ -160,16 +170,6 @@
           "wordCount": 274,
           "title": "碎碎念",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.codingnow.com/2026/11/abc_mod.html",
-          "author": null,
-          "description": "最近有网友用 AI 逆向了智能 ABC ，把里面的笔划码表导了出来，用 RIME 复刻了一版。 众所周知，我是 ABC 的忠实用户。从 DOS 版天汇 ABC 用到 Windows 上智能 ABC 彻底退役，一直念念不忘。在 10 年前我曾经动过念头自己写一个，后来被 IME 开发的繁杂劝退了。当时用 C 从头写了一个简单的 IME 框架，又给网上不少开源的 IME 框架提过 PR ，最终没坚持下来。有朋友提醒我说 RIME 经过过年的发展已经可以高度定制了，我一直没在意，直到这次、我才正正经经的研究了它。 试用了上面那个智能 ABC 复刻版，和我记忆中的手感还是有不少差距。原本我想先在这个基础上改改的，随之发现改不太动 AI 生成的代码。细想了一下，在 RIME 基础上做开发工作量并不大。而关键的码表已经是现成的了，就自己动手玩了一下，果真一天时间就搭了个雏形。最花时间的倒不是实现，而是搞明白 RIME...",
-          "link": "https://blog.codingnow.com/2026/11/abc_mod.html",
-          "publishedOn": "2026-11-09T09:37:28.000Z",
-          "wordCount": 320,
-          "title": "复活 ABC 输入法",
-          "imageUrl": null
         }
       ]
     },
@@ -184,6 +184,26 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3490032.html",
+          "author": null,
+          "description": "<p>Hailuo Tasks API 的主要功能是通过输入 Hailuo Videos Generation API 生成的任务ID来查询该任务的执行情况。</p>\n<p>本文档将详细介绍 Hailuo Tasks API 的对接说明，帮助您轻松集成并充分利用该 API 的强大",
+          "link": "https://cuiqingcai.com/3490032.html",
+          "publishedOn": "2026-11-23T19:13:52.000Z",
+          "wordCount": 1678,
+          "title": "Hailuo Tasks API 的对接和使用",
+          "imageUrl": "https://cdn.acedata.cloud/dvc3cg.jpg"
+        },
+        {
+          "id": "https://cuiqingcai.com/3439236.html",
+          "author": null,
+          "description": "<p>Coze 官方支持接入自定义模型，并提供 OpenAI Chat API、OpenAI Responses API 和 Anthropic Messages API 三种协议。三条路线的 Base URL、路径拼接、Header、streaming 和工具调用合同不同，因此",
+          "link": "https://cuiqingcai.com/3439236.html",
+          "publishedOn": "2026-11-23T05:07:16.000Z",
+          "wordCount": 1232,
+          "title": "Coze 自定义模型接入总览",
+          "imageUrl": null
+        },
         {
           "id": "https://cuiqingcai.com/3403690.html",
           "author": null,

@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-11-24T07:51:02.854Z</updated>
+    <updated>2026-11-25T06:22:54.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cursor 对接 Luma MCP]]></title>
+        <id>https://cuiqingcai.com/3525624.html</id>
+        <link href="https://cuiqingcai.com/3525624.html"/>
+        <updated>2026-11-24T05:07:04.000Z</updated>
+        <summary type="html"><![CDATA[<p>你花了两周做了个漂亮的 Landing Page，PM 说”拍个动态效果的演示视频发社交媒体”。你一脸懵——写代码可以，但拍视频？</p>
+<p>不用拍。在 Cursor 里继续你的工作，告诉 AI：</p>
+<figure class="highlight angelsc]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[算力的“文艺复兴”：为什么说 AI 不是泡沫，而是计算机普及的第四个时代？]]></title>
         <id>https://codechina.org/2026/11/ai-computer-g4</id>

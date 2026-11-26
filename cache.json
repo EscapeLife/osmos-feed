@@ -51,6 +51,16 @@
       "siteUrl": "https://codechina.org",
       "articles": [
         {
+          "id": "https://codechina.org/2026/11/1170-7-20-anthropic",
+          "author": null,
+          "description": "此文总结自我的视频《揭秘Anthropic的史诗级上市的背后，是财富神话还是人类的未来》。2026 年 11 月 20 日，全球科技与金融圈见证了历史性的一刻：人工智能巨头...",
+          "link": "https://codechina.org/2026/11/1170-7-20-anthropic",
+          "publishedOn": "2026-11-25T14:06:09.000Z",
+          "wordCount": 180,
+          "title": "净募资 1170 亿、7 位创始人套现近 20 亿：Anthropic 史诗级上市是财富神话，还是超级豪赌？",
+          "imageUrl": "https://codechina.org/storage/images/9b/9b93ff1b5c77991d131b22cb6ddf14ea995befce28bc49faaf95bc7bdecd50bf.webp"
+        },
+        {
           "id": "https://codechina.org/2026/11/ai-computer-g4",
           "author": null,
           "description": "本文整理自《Tinyfool的胡说八道》视频（观看原视频）第三部分核心观点，从“计算机普及史”的底层逻辑重新审视 AI 浪潮。随着头部 AI 公司的估值飙升至万亿级别，...",
@@ -95,16 +105,6 @@
           "publishedOn": "2026-11-18T05:16:09.000Z",
           "wordCount": 2323,
           "title": "招聘启事二则",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=7449",
-          "author": "laixintao",
-          "description": "在一次公司的培训上，一个同事带了一个塑料水瓶，我看见过这种塑料瓶子很多次，我问他是从哪里买的。他说，新加坡人在 […]\nContinue reading...\n相关文章:\n\n生活来在一个包里\n给明年依然年轻的我们",
-          "link": "https://www.kawabangga.com/posts/7449",
-          "publishedOn": "2026-11-11T15:12:22.000Z",
-          "wordCount": 1271,
-          "title": "消费理念",
           "imageUrl": null
         }
       ]
@@ -184,6 +184,26 @@
       "feedUrl": "https://cuiqingcai.com/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "https://cuiqingcai.com/3662786.html",
+          "author": null,
+          "description": "<p>Seedance 是字节跳动推出的 AI 视频生成模型，对中文描述的理解非常准确，生成的视频动态自然、画面精致。通过 Seedance MCP Server，你可以在 Cursor 中用自然语言直接生成视频——描述一个场景，几分钟就能拿到成片，支持文本生成视频和图片生成视频",
+          "link": "https://cuiqingcai.com/3662786.html",
+          "publishedOn": "2026-11-25T19:13:06.000Z",
+          "wordCount": 1319,
+          "title": "Cursor 对接 Seedance MCP",
+          "imageUrl": "https://cdn.acedata.cloud/dvc3cg.jpg"
+        },
+        {
+          "id": "https://cuiqingcai.com/3576414.html",
+          "author": null,
+          "description": "<blockquote>\n  <p>📘 <strong>Overview</strong>：<a href=\"https://platform.acedata.cloud/documents/opencode-mcp-all\" target=\"_blank\" rel=\"noop",
+          "link": "https://cuiqingcai.com/3576414.html",
+          "publishedOn": "2026-11-24T19:13:34.000Z",
+          "wordCount": 1495,
+          "title": "OpenCode 对接 Seedream MCP",
+          "imageUrl": "https://cdn.acedata.cloud/dvc3cg.jpg"
+        },
         {
           "id": "https://cuiqingcai.com/3525624.html",
           "author": null,

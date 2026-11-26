@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-11-25T06:22:54.451Z</updated>
+    <updated>2026-11-26T06:14:38.276Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cursor 对接 Seedance MCP]]></title>
+        <id>https://cuiqingcai.com/3662786.html</id>
+        <link href="https://cuiqingcai.com/3662786.html"/>
+        <updated>2026-11-25T19:13:06.000Z</updated>
+        <summary type="html"><![CDATA[<p>Seedance 是字节跳动推出的 AI 视频生成模型，对中文描述的理解非常准确，生成的视频动态自然、画面精致。通过 Seedance MCP Server，你可以在 Cursor 中用自然语言直接生成视频——描述一个场景，几分钟就能拿到成片，支持文本生成视频和图片生成视频]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[净募资 1170 亿、7 位创始人套现近 20 亿：Anthropic 史诗级上市是财富神话，还是超级豪赌？]]></title>
+        <id>https://codechina.org/2026/11/1170-7-20-anthropic</id>
+        <link href="https://codechina.org/2026/11/1170-7-20-anthropic"/>
+        <updated>2026-11-25T14:06:09.000Z</updated>
+        <summary type="html"><![CDATA[此文总结自我的视频《揭秘Anthropic的史诗级上市的背后，是财富神话还是人类的未来》。2026 年 11 月 20 日，全球科技与金融圈见证了历史性的一刻：人工智能巨头...]]></summary>
+        <author>
+            <name>CodeChina · Tinyfool</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenCode 对接 Seedream MCP]]></title>
+        <id>https://cuiqingcai.com/3576414.html</id>
+        <link href="https://cuiqingcai.com/3576414.html"/>
+        <updated>2026-11-24T19:13:34.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+  <p>📘 <strong>Overview</strong>：<a href="https://platform.acedata.cloud/documents/opencode-mcp-all" target="_blank" rel="noop]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cursor 对接 Luma MCP]]></title>
         <id>https://cuiqingcai.com/3525624.html</id>
@@ -274,21 +305,6 @@ Gitops 的一些实践经验
         <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[消费理念]]></title>
-        <id>https://www.kawabangga.com/?p=7449</id>
-        <link href="https://www.kawabangga.com/posts/7449"/>
-        <updated>2026-11-11T15:12:22.000Z</updated>
-        <summary type="html"><![CDATA[在一次公司的培训上，一个同事带了一个塑料水瓶，我看见过这种塑料瓶子很多次，我问他是从哪里买的。他说，新加坡人在 […]
-Continue reading...
-相关文章:
-
-生活来在一个包里
-给明年依然年轻的我们]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
 </feed>

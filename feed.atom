@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-11-26T06:14:38.276Z</updated>
+    <updated>2026-11-27T06:03:45.658Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 421 期）：AI 的疯狂造富]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/11/weekly-issue-421.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/11/weekly-issue-421.html"/>
+        <updated>2026-11-27T00:10:30.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixverse Tasks API 的对接和使用]]></title>
+        <id>https://cuiqingcai.com/3749201.html</id>
+        <link href="https://cuiqingcai.com/3749201.html"/>
+        <updated>2026-11-26T19:13:21.000Z</updated>
+        <summary type="html"><![CDATA[<p>Pixverse Tasks API 的主要功能是通过输入 Pixverse Videos Generation API 生成的任务ID来查询该任务的执行情况。</p>
+<p>本文档将详细介绍 Pixverse Tasks API 的对接说明，帮助您轻松集成并充分利用该 A]]></summary>
+        <author>
+            <name>静觅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cursor 对接 Seedance MCP]]></title>
         <id>https://cuiqingcai.com/3662786.html</id>

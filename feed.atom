@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escapelife.site/osmos-feed/index.html</id>
     <title>escapelife::feed</title>
-    <updated>2026-11-27T06:03:45.658Z</updated>
+    <updated>2026-11-28T05:45:54.228Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://www.escapelife.site/osmos-feed/index.html"/>
     <link rel="self" href="https://www.escapelife.site/osmos-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[英语口语不流利，我是怎么做 YouTube 英文视频的]]></title>
+        <id>https://codechina.org/2026/11/make-english-youtube-videos</id>
+        <link href="https://codechina.org/2026/11/make-english-youtube-videos"/>
+        <updated>2026-11-28T04:48:05.000Z</updated>
+        <summary type="html"><![CDATA[我只在镜头前讲了不到一分钟的英语，接着用普通话录制 App 操作，再用 Codex 帮忙剪辑、加上英文旁白。我也试了完全不露脸的做法，两种形式适合不同的视频。]]></summary>
+        <author>
+            <name>CodeChina · Tinyfool</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《影之刃零》拾遗]]></title>
+        <id>https://frostming.com/2026/blade-zero/</id>
+        <link href="https://frostming.com/posts/2026/blade-zero/"/>
+        <updated>2026-11-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Frost Ming's personal blog]]></summary>
+        <author>
+            <name>Frost's Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 421 期）：AI 的疯狂造富]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/11/weekly-issue-421.html</id>
@@ -316,16 +336,6 @@ Gitops 的一些实践经验
 <p>为了解决 IP 封禁的困扰，一个有效的方式就是设置代理，设置代理之后，爬虫可以借助代理的 IP 来伪装自己的真实 IP 地址，从而突破反爬虫的限制。</p>]]></summary>
         <author>
             <name>静觅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 419 期）：机房来了，写字楼走了]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html"/>
-        <updated>2026-11-13T00:08:29.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
         </author>
     </entry>
 </feed>

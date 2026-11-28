@@ -36,16 +36,6 @@
           "wordCount": null,
           "title": "科技爱好者周刊（第 420 期）：最分心的一年",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html",
-          "publishedOn": "2026-11-13T00:08:29.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 419 期）：机房来了，写字楼走了",
-          "imageUrl": null
         }
       ]
     },
@@ -60,6 +50,16 @@
       "feedUrl": "http://feeds.feedburner.com/Tinyfoolblog",
       "siteUrl": "https://codechina.org",
       "articles": [
+        {
+          "id": "https://codechina.org/2026/11/make-english-youtube-videos",
+          "author": null,
+          "description": "我只在镜头前讲了不到一分钟的英语，接着用普通话录制 App 操作，再用 Codex 帮忙剪辑、加上英文旁白。我也试了完全不露脸的做法，两种形式适合不同的视频。",
+          "link": "https://codechina.org/2026/11/make-english-youtube-videos",
+          "publishedOn": "2026-11-28T04:48:05.000Z",
+          "wordCount": 220,
+          "title": "英语口语不流利，我是怎么做 YouTube 英文视频的",
+          "imageUrl": "https://codechina.org/storage/images/15/159001e22e3da035fabe222d9ea322c135ebc2ac7944f42e9cc364cb476d37b8.webp"
+        },
         {
           "id": "https://codechina.org/2026/11/1170-7-20-anthropic",
           "author": null,
@@ -146,7 +146,18 @@
       "title": "Frost's Blog",
       "feedUrl": "https://frostming.com/feed.xml",
       "siteUrl": "https://frostming.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://frostming.com/2026/blade-zero/",
+          "author": null,
+          "description": "Frost Ming's personal blog",
+          "link": "https://frostming.com/posts/2026/blade-zero/",
+          "publishedOn": "2026-11-28T00:00:00.000Z",
+          "wordCount": 263,
+          "title": "《影之刃零》拾遗",
+          "imageUrl": "https://frostming.com/og/2026/blade-zero.png"
+        }
+      ]
     },
     {
       "title": "Posts on Jiayuan Thoughts",
